@@ -1,4 +1,41 @@
 ---
-layout: home
+layout: default
 ---
 
+<div class="page-section">
+  <div class="container" aria-label="Content">
+    <div class="row">
+      <div class="col">
+
+        <h2 class="post-list-heading">Featured articles</h2>
+
+        {%- if site.posts.size > 0 -%}
+
+        <div class="post-list">
+          {%- for post in site.posts -%}
+
+          <div class="post-item pt-3 pb-5">
+            {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+            <h3 class="post-title">
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </h3>
+
+            <div class="post-excerpt py-1">
+              {{ post.excerpt }}
+            </div>
+
+          </div>
+          {%- endfor -%}
+        </div>
+
+        {%- endif -%}
+
+
+      </div>
+    </div>
+  </div>
+</div>

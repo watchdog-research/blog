@@ -1,0 +1,49 @@
+
+
+
+.post-list {
+
+  .post-item {
+
+    .post-meta {
+      font-size: $font-size-sm;
+      color: $color2-text;
+    }
+
+    .post-title {
+      font-size: $font-size-lg;
+    }
+
+  }
+}
+
+
+
+
+
+
+
+.post {
+  .post-header {
+
+    .post-title {
+      font-size: $font-size-xl;
+    }
+
+    .post-meta {
+      .dt-published {
+        font-size: $font-size-sm;
+        color: $color2-text;
+      }
+    }
+  }
+
+
+  .post-content {
+    padding-top: $spacer;
+  }
+
+}
+
+
+

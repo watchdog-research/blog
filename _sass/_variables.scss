@@ -1,0 +1,61 @@
+
+
+// CWD variables
+// !!! NOTE: some variable names will intentionally overlap with bootstrap, however
+// define bootstrap specific variables in _bootstrap-variables.scss and
+// KEEP here only variables that are not bootstrap specific
+
+
+
+// color scheme  (primary, secondary)
+//---------------------------------------------
+$color1-links:              #0d51af;
+$color1-text:               #314054;
+
+$color1-success:            #41d67e;
+$color1-warning:            #f8cc21;
+$color1-danger:             #ea020a;
+
+$color2-links:              #4086e5;
+$color2-text:               #798ba0;
+$color2-dividers:           #aec0d4;
+$color2-lines:              #e4eaf1;
+
+$color2-background-light:   #eaf5fd;
+$color2-background-lighter: #f5fafd;
+
+$color2-background-success: #f2fcf6;
+$color2-background-warning: #fdf9e8;
+$color2-background-danger:  #f9e6e5;
+$color2-background-info:    #ecf7ff;
+
+// Flag colors (foreground)
+$color-flag-green-fg:       #41d67e;
+$color-flag-yellow-fg:      #f8cc21;
+$color-flag-red-fg:         #ea020a;
+$color-flag-gray-fg:        #999999;
+// Flag colors (background)
+$color-flag-green-bg:       #f2fcf6;
+$color-flag-yellow-bg:      #fdf9e8;
+$color-flag-red-bg:         #f9e6e5;
+$color-flag-gray-bg:        #cccccc;
+
+
+// Fonts
+$font-family-primary: 'Roboto', sans-serif;
+$font-family-monospace: 'Fira Mono', monospace;  // override bootstrap default
+$font-family-condensed: 'Roboto Condensed', sans-serif;
+
+// Font: weights (overrides bootstrap)
+$font-weight-normal: 400;
+$font-weight-bold: 700;
+$font-weight-light: 300;
+$font-weight-base: $font-weight-normal;
+
+// Font: sizes (overrides bootstrap)
+$font-size-base: 1rem;
+$font-size-lg: ($font-size-base * 1.25);
+$font-size-sm: ($font-size-base * .875);
+$font-size-xs: ($font-size-sm * .875);
+$font-size-xl: ($font-size-lg * 1.25);
+$font-size-xxs: ($font-size-xs * .875);
