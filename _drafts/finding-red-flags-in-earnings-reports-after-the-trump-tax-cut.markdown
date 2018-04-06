@@ -5,8 +5,6 @@ date: 2018-04-06 12:21:00 -04:00
 
 The Tax Cut & Jobs Act law (TCJA) passed in a rush late last year is complicating how companies release their fourth quarter earnings data. The changes to the law will significantly affect earnings for most large companies, and companies took different approaches on reporting the impact.
 
-![ave-maria-northpark-19843304-160920.jpg](/uploads/ave-maria-northpark-19843304-160920.jpg)
-
 Because it affects everyone, a one-time TCJA adjustment is not a red flag in itself, so analysts must distinguish between the effects of the TCJA and other tax-related non-standard adjustments. Apart from the changes to the law, unusual tax gains and losses are often as red flags in financial reporting.
 
 80% of S&P 500 companies adjusted their GAAP EPS for the impact of the TCJA. Of those, 72% present the TCJA adjustment as a separate line item. The other 28% combined the TCJA adjustment with other tax related items.
