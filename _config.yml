@@ -20,7 +20,7 @@ defaults:
     type: pages
   values:
     layout: page
-description: Watchdog Research blog
+description: 'Watchdog Finings from Reports created by Watchdog Research, Inc. '
 encoding: utf-8
 permalink: pretty
 rss: rss
