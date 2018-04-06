@@ -2,9 +2,6 @@
 title: Watchdog Findings
 timezone: America/New_York
 collections:
-  media:
-    title: Media
-    output: true
   posts:
     title: Posts
     output: true
