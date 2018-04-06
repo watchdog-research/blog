@@ -10,7 +10,7 @@ Because it affects everyone, a one-time TCJA adjustment is not a red flag in its
 80% of S&P 500 companies adjusted their GAAP EPS for the impact of the TCJA. Of those, 72% present the TCJA adjustment as a separate line item. The other 28% combined the TCJA adjustment with other tax related items.
 The varying approaches will make it difficult for analysts to separate the one-time impact of the tax cut on earnings versus other unusual adjustments that may affect business operations.
 
-**Effects of the Tax Cut**
+### Effects of the Tax Cut
 
 We can identify two significant impacts from the Tax Cut & Jobs Act.
 
@@ -18,7 +18,7 @@ First, the TCJA implements a transitional tax of 15.5% of reinvested earnings he
 
 Second, the TCJA reduces the corporate tax rate to 21% from 35%. For some companies, the impact of this provision caused multi-billion losses in Q4 of 2017. Unlike the transitional tax, this provision is non-cash in nature. With tax rates now at 21%, deferred tax assets lost value and deferred tax liabilities were reduced. These items will need to be remeasured since these will now be redeemed or paid at the 21% rate.
 
-**Potential Red Flags**
+_Potential Red Flags_
 
 For companies that breakout the impact, here some potential red flags to watch for:
 
