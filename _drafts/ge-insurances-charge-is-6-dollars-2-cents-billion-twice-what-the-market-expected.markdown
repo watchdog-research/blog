@@ -6,17 +6,17 @@ tags:
 - Insurance
 ---
 
-_Corporate Watchdog readers can access the latest copy of the GE Watchdog summary report or full PDF at CWDReports.com.  We’ve also made the interactive GE report available for free to all Watchdog Readers.  Just go to CWDReports.com, scroll down the page and add your email to the blue box to see the full GE report._
+_Corporate Watchdog readers can access the latest copy of the GE Watchdog summary report or full PDF at CWDReports.com.  We've also made the interactive GE report available for free to all Watchdog Readers.  Just go to CWDReports.com, scroll down the page and add your email to the blue box to see the full GE report._
 
 General Electric (GE) stock reached a new low of $16.02 on January 19, 2018, continuing the 2017 downtrend into 2018.
 
-GE’s stock slide followed an announcement that the company has completed a comprehensive review of its insurance portfolio. The review was initiated in mid-2017 and involved re-evaluation of actuarial assumptions behind the long-term care legacy reinsurance business. Following the completion of this review, GE has taken an after-tax charge of $6.2 billion.
+GE's stock slide followed an announcement that the company has completed a comprehensive review of its insurance portfolio. The review was initiated in mid-2017 and involved re-evaluation of actuarial assumptions behind the long-term care legacy reinsurance business. Following the completion of this review, GE has taken an after-tax charge of $6.2 billion.
 
 Here is an excerpt from the conference call transcript:
 
-_[W]e’ve been performing a comprehensive review of our insurance portfolio. We finished that work late last week and reviewed it with our regulator, and we’re going to share those results of that review with you today. We’ve taken an after-tax GAAP charge of $6.2 billion, which is $7.5 billion at a 21% tax rate. And you will see that reflected in our fourth quarter financials. GE Capital will make a $3 billion statutory cash contribution to its insurance subsidiary in the first quarter of 2018 and approximately $2 billion annually from 2019 to 2024, for a total of approximately $15 billion._
+_[W]e've been performing a comprehensive review of our insurance portfolio. We finished that work late last week and reviewed it with our regulator, and we’re going to share those results of that review with you today. We’ve taken an after-tax GAAP charge of $6.2 billion, which is $7.5 billion at a 21% tax rate. And you will see that reflected in our fourth quarter financials. GE Capital will make a $3 billion statutory cash contribution to its insurance subsidiary in the first quarter of 2018 and approximately $2 billion annually from 2019 to 2024, for a total of approximately $15 billion._
 
-Long-term care insurance is a small legacy part of GE’s portfolio, and no new business was originated after the year 2006. Overall, GE holds only 4% of the long-term care reinsurance market.
+Long-term care insurance is a small legacy part of GE's portfolio, and no new business was originated after the year 2006. Overall, GE holds only 4% of the long-term care reinsurance market.
 
 The review of business always carries the risk of unexpected findings, yet the magnitude of the $6.2 billion charge is far more staggering than the $3 billion that the market anticipated.
 
@@ -34,7 +34,7 @@ _As of September 30, 2014, the liability for policy and contract claims, before 
 
 In lay terms, the periodic reviews of claim reserves are common, and charges are expected. Since 2004, Genworth Financial disclosed seven similar changes in estimates, totaling $3.8 billion.
 
-Let’s look at another company, China Life Insurance Co Ltd (LFC):
+Let's look at another company, China Life Insurance Co Ltd (LFC):
 
 _II. Details of the Changes in Accounting Estimates and the Impact on the Company_
 
@@ -47,7 +47,7 @@ In this example, as in the previous one, we see a periodic review of the underly
 
 So why then, did some companies disclose reserve-related changes in estimates over the last decade, and others did not? Changes in actuarial models (such as mortality rates and discount rates) that result in material changes need to be disclosed. For routine, immaterial quarterly updates we may not find any disclosure.
 
-Also, it is worth noting that a company may seem to interpret a change in estimate as the output of an estimating model, e.g., we may see a year over year difference without a change in the model. That could also be material, if say the company’s claims payout increased dramatically after increase in the number of policies sold. And sometimes companies whose financial reporting depends hugely on estimates will make disclosures about just the simple change in the output. We generally don’t view those as legitimate changes in accounting estimates.
-The issue with GE’s charge, of course, is not only the magnitude, but also the need to reserve $15 billion to increase the statutory capital reserves. The contribution may put some liquidity pressure on the company and limit funds available for other purposes.
+Also, it is worth noting that a company may seem to interpret a change in estimate as the output of an estimating model, e.g., we may see a year over year difference without a change in the model. That could also be material, if say the company's claims payout increased dramatically after increase in the number of policies sold. And sometimes companies whose financial reporting depends hugely on estimates will make disclosures about just the simple change in the output. We generally don’t view those as legitimate changes in accounting estimates.
+The issue with GE's charge, of course, is not only the magnitude, but also the need to reserve $15 billion to increase the statutory capital reserves. The contribution may put some liquidity pressure on the company and limit funds available for other purposes.
 
 In a sense, issues with the insurance subsidiary are just another confirmation to our previous argument: if a company needs four distinct EPS to describe its business, the business is too complex to fully understand. Impairments and one time charges rarely go alone. When such a complex conglomerate is breaking up, re-evaluating every segment and every line of business is likely to surface additional surprise findings.
