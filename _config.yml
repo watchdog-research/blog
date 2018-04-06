@@ -1,13 +1,15 @@
 ---
 title: Watchdog Findings
 timezone: America/New_York
+
 collections:
   posts:
     title: Posts
     output: true
-  uploads:
-    title: Uploads
+  media:
+    title: Media
     output: true
+
 defaults:
 - scope:
     path: ''
@@ -20,7 +22,15 @@ defaults:
     type: pages
   values:
     layout: page
+
 encoding: utf-8
+
 permalink: pretty
+
+rss: rss
+
 gems:
 - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
