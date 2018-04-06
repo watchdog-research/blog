@@ -1,0 +1,17 @@
+---
+layout: page
+use-site-title: true
+---
+
+<div class="blog-index">
+  {% for post in site.posts %}
+    {% if post.featured == true %}
+      {% capture count %}{{ count | plus: '1' }}{% endcapture %}
+      {% if count == '3' %}
+
+        {{ post.title }}
+
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>

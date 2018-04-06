@@ -1,0 +1,69 @@
+
+# Ignore bundler config.
+/.bundle
+
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+/yarn-error.log
+db/*.sqlite3
+db/*.sqlite3-journal
+.postcssrc.yml
+.byebug_history
+
+
+# Vendor Cache
+vendor/cache
+
+# Node modules
+/node_modules
+
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# NetBeans
+nbproject
+
+# Eclipse
+.project
+.buildpath
+
+
+# Redcar
+.redcar
+
+# Rubinius
+*.rbc
+
+# Vim
+*.swp
+*.swo
+
+# RubyMine
+.idea
+
+# E-texteditor
+.eprj
+
+# Backup
+*~
+
+# Capybara Bug
+capybara-*html
+
+# sass
+.sass-cache
+.sass-cache/*
+
+
+# vendor/extensions dummy applications.
+vendor/extensions/**/spec/dummy
+
+# Vagrant
+.vagrant
