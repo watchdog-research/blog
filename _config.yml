@@ -20,15 +20,13 @@ defaults:
     type: pages
   values:
     layout: page
-description: 'Watchdog Findings is a publication based on reports created by Watchdog Research, Inc.'
+description: Watchdog Findings is a publication based on reports created by Watchdog
+  Research, Inc.
 encoding: utf-8
 permalink: pretty
-
 rss: rss
 twitter_username: CWD_Research
-
 google_analytics: UA-116841703-3
-
 gems:
 - jekyll-seo-tag
 - jekyll-feed
@@ -36,5 +34,4 @@ markdown: kramdown
 include:
 - 404.html
 exclude:
-- .idea
-
+- ".idea"
