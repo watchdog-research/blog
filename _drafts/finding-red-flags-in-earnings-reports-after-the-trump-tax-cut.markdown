@@ -1,6 +1,11 @@
 ---
 title: Finding Red Flags in Earnings Reports after the Trump Tax Cut
 date: 2018-04-06 12:21:00 -04:00
+categories:
+- Red Flags
+tags:
+- Trump
+- TJCA
 ---
 
 The Tax Cut & Jobs Act law (TCJA) passed in a rush late last year is complicating how companies release their fourth quarter earnings data. The changes to the law will significantly affect earnings for most large companies, and companies took different approaches on reporting the impact.
