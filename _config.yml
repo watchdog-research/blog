@@ -1,7 +1,6 @@
 ---
 title: Watchdog Findings
 timezone: America/New_York
-encoding: utf-8
 collections:
   posts:
     title: Posts
@@ -21,6 +20,7 @@ defaults:
     type: pages
   values:
     layout: page
+encoding: utf-8
 permalink: pretty
 gems:
 - jekyll-feed
