@@ -3,9 +3,8 @@ title: Trends in Financial Restatements and Error Corrections
 date: 2017-12-14 18:15:00 -05:00
 ---
 
-Accounting corrections are arguably one of the most important metrics in understanding trends in financial reporting.
+Accounting corrections are arguably one of the most important metrics in understanding trends in financial reporting. We can identify three distinct types of error corrections:
 
-We can identify three distinct types of error corrections:
 * _**Material errors that undermine reliance on previously filed financial statements.**_ To correct material errors, companies are required to restate previously filed financial statements. The companies are also required to file an 8-K Item 4.02 and warn investors that previously filed financial statements could no longer be relied upon. This type of error correction is also known as a “Big R” restatement.
 * _**Errors that are immaterial to the previously filed financial statements, but that are material in aggregate to the current financial statements.**_ The errors are corrected by revising previously filed financial statements. This type of error correction is also known as a “little r” restatement.
 * _**Errors that are immaterial to either current or previously filed financial statements.**_ The errors are corrected as an aggregate adjustment in the current period, no revision of previously filed financial statements is required. This type of error correction is also known as an out-of-period adjustment.
