@@ -1,8 +1,6 @@
 ---
 title: Watchdog Findings
 timezone: America/New_York
-description: Watchdog Research blog
-
 collections:
   media:
     title: Media
@@ -25,6 +23,7 @@ defaults:
     type: pages
   values:
     layout: page
+description: Watchdog Research blog
 encoding: utf-8
 permalink: pretty
 rss: rss
