@@ -14,7 +14,7 @@ layout: default
         <div class="post-list">
           {%- for post in site.posts -%}
 
-          <div class="post-item pt-3 pb-5">
+          <div class="post-item">
             {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
             <span class="post-meta">{{ post.date | date: date_format }}</span>
 
@@ -24,7 +24,7 @@ layout: default
               </a>
             </h3>
 
-            <div class="post-excerpt py-1">
+            <div class="post-excerpt">
               {{ post.excerpt }}
             </div>
 

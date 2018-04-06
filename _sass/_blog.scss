@@ -2,8 +2,12 @@
 
 
 .post-list {
+  padding-top: $spacer;
+
 
   .post-item {
+    padding-top: $spacer;
+    padding-bottom: $spacer;
 
     .post-meta {
       font-size: $font-size-sm;
@@ -12,6 +16,11 @@
 
     .post-title {
       font-size: $font-size-lg;
+    }
+
+    .post-excerpt {
+      padding-top: $spacer/2;
+      padding-bottom: $spacer;
     }
 
   }
