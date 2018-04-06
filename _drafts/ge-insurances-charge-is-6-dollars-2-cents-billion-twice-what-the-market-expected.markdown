@@ -1,5 +1,5 @@
 ---
-title: GE Insurances Charge is $6.2 Billion, Twice What the Market Expected
+title: GE Insurance Charge is $6.2 Billion, Twice What the Market Expected
 date: 2018-04-06 13:49:00 -04:00
 tags:
 - GE
