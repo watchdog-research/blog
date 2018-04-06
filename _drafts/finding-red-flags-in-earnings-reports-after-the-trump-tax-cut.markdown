@@ -10,7 +10,7 @@ Because it affects everyone, a one-time TCJA adjustment is not a red flag in its
 80% of S&P 500 companies adjusted their GAAP EPS for the impact of the TCJA. Of those, 72% present the TCJA adjustment as a separate line item. The other 28% combined the TCJA adjustment with other tax related items.
 The varying approaches will make it difficult for analysts to separate the one-time impact of the tax cut on earnings versus other unusual adjustments that may affect business operations.
 
-### Effects of the Tax Cut
+**Effects of the Tax Cut**
 
 We can identify two significant impacts from the Tax Cut & Jobs Act.
 
