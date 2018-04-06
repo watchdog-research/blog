@@ -18,7 +18,7 @@ First, the TCJA implements a transitional tax of 15.5% of reinvested earnings he
 
 Second, the TCJA reduces the corporate tax rate to 21% from 35%. For some companies, the impact of this provision caused multi-billion losses in Q4 of 2017. Unlike the transitional tax, this provision is non-cash in nature. With tax rates now at 21%, deferred tax assets lost value and deferred tax liabilities were reduced. These items will need to be remeasured since these will now be redeemed or paid at the 21% rate.
 
-_Potential Red Flags_
+**Potential Red Flags**
 
 For companies that breakout the impact, here some potential red flags to watch for:
 
