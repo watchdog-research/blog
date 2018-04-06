@@ -28,4 +28,5 @@ permalink: pretty
 rss: rss
 gems:
 - jekyll-seo-tag
+- jekyll-feed
 markdown: kramdown
