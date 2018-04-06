@@ -22,3 +22,5 @@ defaults:
     layout: page
 encoding: utf-8
 permalink: pretty
+gems:
+- jekyll-seo-tag
