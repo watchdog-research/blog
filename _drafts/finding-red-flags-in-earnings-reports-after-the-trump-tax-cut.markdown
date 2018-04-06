@@ -1,6 +1,6 @@
 ---
 title: Finding Red Flags in Earnings Reports after the Trump Tax Cut
-date: 2018-04-06 12:21:00 -04:00
+date: 2018-03-21 12:21:00 -04:00
 categories:
 - Red Flags
 tags:
