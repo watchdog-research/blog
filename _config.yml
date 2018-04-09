@@ -36,3 +36,10 @@ include:
 - 404.html
 exclude:
 - ".idea"
+authors:
+  olga_usvyatsky:
+    name: Olga Usvyatsky
+    email: ousvyatsky@ivesinc.com
+  joseph_burke:
+    name: Joseph Burke
+    email: jburke@cwdresearch.com
