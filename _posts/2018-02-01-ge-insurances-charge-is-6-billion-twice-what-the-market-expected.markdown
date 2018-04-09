@@ -8,8 +8,6 @@ tags:
 - Insurance
 ---
 
-_Corporate Watchdog readers can access the latest copy of the GE Watchdog summary report or full PDF at CWDReports.com.  We've also made the interactive GE report available for free to all Watchdog Readers.  Just go to CWDReports.com, scroll down the page and add your email to the blue box to see the full GE report._
-
 General Electric (GE) stock reached a new low of $16.02 on January 19, 2018, continuing the 2017 downtrend into 2018.
 
 GE's stock slide followed an announcement that the company has completed a comprehensive review of its insurance portfolio. The review was initiated in mid-2017 and involved re-evaluation of actuarial assumptions behind the long-term care legacy reinsurance business. Following the completion of this review, GE has taken an after-tax charge of $6.2 billion.
@@ -53,3 +51,5 @@ Also, it is worth noting that a company may seem to interpret a change in estima
 The issue with GE's charge, of course, is not only the magnitude, but also the need to reserve $15 billion to increase the statutory capital reserves. The contribution may put some liquidity pressure on the company and limit funds available for other purposes.
 
 In a sense, issues with the insurance subsidiary are just another confirmation to our previous argument: if a company needs four distinct EPS to describe its business, the business is too complex to fully understand. Impairments and one time charges rarely go alone. When such a complex conglomerate is breaking up, re-evaluating every segment and every line of business is likely to surface additional surprise findings.
+
+_Corporate Watchdog readers can access the latest copy of the GE Watchdog summary report or full PDF at CWDReports.com.  We've also made the interactive GE report available for free to all Watchdog Readers.  Just go to CWDReports.com, scroll down the page and add your email to the blue box to see the full GE report._
