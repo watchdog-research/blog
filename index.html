@@ -9,10 +9,9 @@ layout: default
 
         <h2 class="post-list-heading">Featured articles</h2>
 
-        {%- if site.posts.size > 0 -%}
 
         <div class="post-list">
-          {%- for post in site.posts -%}
+          {%- for post in site.categories.featured -%}
 
           <div class="post-item">
             {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
@@ -31,8 +30,6 @@ layout: default
           </div>
           {%- endfor -%}
         </div>
-
-        {%- endif -%}
 
 
       </div>
