@@ -3,6 +3,9 @@ title: Trends in Financial Restatements and Error Corrections
 date: 2017-12-14 18:15:00 -05:00
 categories:
 - featured
+tags:
+- financial restatements
+- error corrections
 ---
 
 Accounting corrections are arguably one of the most important metrics in understanding trends in financial reporting. We can identify three distinct types of error corrections:
