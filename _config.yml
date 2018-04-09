@@ -27,7 +27,7 @@ permalink: pretty
 rss: rss
 twitter_username: CWD_Research
 google_analytics: UA-116841703-3
-gems:
+plugins:
 - jekyll-seo-tag
 - jekyll-feed
 markdown: kramdown
