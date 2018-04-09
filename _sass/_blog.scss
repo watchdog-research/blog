@@ -40,9 +40,18 @@
     }
 
     .post-meta {
+      color: $color2-text;
+      font-size: $font-size-sm;
+      font-weight: $font-weight-light;
+
       .dt-published {
-        font-size: $font-size-sm;
-        color: $color2-text;
+        font-weight: $font-weight-normal;
+      }
+
+      .post-authors {
+        .author {
+          font-weight: $font-weight-normal;
+        }
       }
     }
   }

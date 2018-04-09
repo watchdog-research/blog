@@ -1,4 +1,39 @@
 ---
 ---
 
-@import "public";
+
+@charset "utf-8";
+
+@import "variables";
+@import "bootstrap-variables";
+
+// public content specific variables (usually overrides default bootstrap variables)
+$navbar-padding-y: $spacer;
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 900px,
+  xl: 920px
+);
+
+
+
+// Reassign color vars to semantic color scheme
+$brand-primary:             $color1-links;
+$brand-success:             $color1-success;
+$brand-info:                $color1-text;
+$brand-warning:             $color1-warning;
+$brand-danger:              $color1-danger;
+
+
+
+// Custom bootstrap variables must be set or imported *before* bootstrap.
+@import "bootstrap";
+
+@import "utilities";
+
+@import "layout";
+
+
+@import "blog";
