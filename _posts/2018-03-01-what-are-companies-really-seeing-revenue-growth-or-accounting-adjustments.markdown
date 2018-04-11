@@ -1,6 +1,10 @@
 ---
 title: What are Companies Really Seeing? Revenue Growth or Accounting Adjustments?
 date: 2018-03-01 18:11:00 -05:00
+editor: joseph_burke
+author:
+- olga_usvyatsky
+- derryck_coleman
 ---
 
 A new accounting rule recently went into effect that is already changing how companies account for and report on revenue. ASC 606 or “Revenue from Contracts with Customers” standardizes and simplifies how companies record revenue in customer contracts and covers how businesses report the nature, amount, and timing regarding contracts with customers. The rule went into effect for fiscal years beginning after December 15th, 2017.
