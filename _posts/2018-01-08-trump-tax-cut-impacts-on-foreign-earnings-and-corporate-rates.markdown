@@ -1,10 +1,10 @@
 ---
 title: Trump Tax Cut Impacts on Foreign Earnings and Corporate Rates
 date: 2018-01-08 18:18:00 -05:00
-editor: joseph_burke
 author:
 - olga_usvyatsky
 - jessica_mckeon
+editor: joseph_burke
 ---
 
 The Tax Cuts and Jobs Act (TCJA), passed into law in December 2017, is going to significantly affect the amount of taxes on income paid by U.S. companies. The major provisions of the TCJA include a drop in corporate tax rate from 35% to 21%, a one-time 8% tax on illiquid assets and 15.5% on cash held overseas, and the establishment of a territorial tax system.
