@@ -2,8 +2,8 @@
 title: Nearly 70% of Affected Public Companies Did Not Report Cybersecurity Breaches
   to the SEC
 date: 2018-02-27 18:01:00 -05:00
-editor: joseph_burke
 author: derryck_coleman
+editor: joseph_burke
 ---
 
 Over 90% of the Russell 3000 companies see cybersecurity as a significant risk and provide the cyber risk disclosure in the Risk Factors section. This should come as no surprise – the number of cyber breaches for companies registered with the SEC more than doubled between 2011 and 2017, increasing from 27 in 2011 to 64 in 2017.
