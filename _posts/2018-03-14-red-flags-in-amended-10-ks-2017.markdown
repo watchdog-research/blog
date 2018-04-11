@@ -1,10 +1,10 @@
 ---
 title: 'Red Flags in Amended 10-Ks: 2017'
 date: 2018-03-14 18:09:00 -04:00
-editor: joseph_burke
 author:
 - jessica_mckeon
 - kristina_pulaski
+editor: joseph_burke
 ---
 
 Annual reports, or 10-Ks, are known for their extensive information relating to all aspects of a company’s business. With that being said, these files leave plenty of room for missed or omitted information, misstatements, or other inadvertent errors. In such cases, the company would file an amended 10-K (more commonly referred to as a 10-K/A) in order to provide or correct the missing or incorrect information.
