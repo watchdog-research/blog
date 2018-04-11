@@ -1,6 +1,8 @@
 ---
 title: Early Indicators Predict an Uptick in Revenue Recognition Accounting Failures
 date: 2018-02-06 13:43:00 -05:00
+editor: joseph_burke
+author: olga_usvyatsky
 ---
 
 We have been asked several times whether or not the adoption of the new revenue recognition standard will cause an increase in the number of restatements and control failures. While it may be early to say, our review of SEC filings provides a strong indication that we will see an uptick in revenue recognition accounting failures.
