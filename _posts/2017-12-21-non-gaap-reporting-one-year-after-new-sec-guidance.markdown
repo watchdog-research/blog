@@ -1,8 +1,8 @@
 ---
 title: Non-GAAP Reporting One Year After New SEC Guidance
 date: 2017-12-21 18:07:00 -05:00
-editor: joseph_burke
 author: mercedes_ericson
+editor: joseph_burke
 ---
 
 The SEC recently provided an update to the Compliance & Disclosure Interpretations (“C&DIs”) regarding Business Combination Transactions (Section 101), which explained the conditions that must be observed to ensure that financial measures included in forecasts given to financial advisors during a business combination transaction would not constitute a non-GAAP measure.
