@@ -7,7 +7,10 @@ categories:
 tags:
 - Trump
 - TJCA
-author: olga_usvyatsky, derryck_coleman, kati_manyak
+author:
+- olga_usvyatsky
+- derryck_coleman
+- kati_manyak
 editor: joseph_burke
 ---
 
