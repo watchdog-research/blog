@@ -18,7 +18,7 @@ layout:
                 <link>{{ site.url }}{{ post.url }}</link>
                 {%- if post.image -%}
                 <enclosure url="{{ site.url }}{{ post.image }}" length="100000" type="image/jpeg" />
-                {%- end -%}
+                {%- endif -%}
                 <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
             </item>
         {% endfor %}
