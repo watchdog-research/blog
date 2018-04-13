@@ -19,7 +19,7 @@ A review of Tesla’s Corporate Watchdog Report reveals an unusual red flag rega
 
 Here is the management turnover from Tesla’s Corporate Watchdog Report:
 
-[TSLA - CFO Turnover.JPG](/uploads/TSLA%20-%20CFO%20Turnover.JPG)
+![TSLA - CFO Turnover.JPG](/uploads/TSLA%20-%20CFO%20Turnover.JPG)
 
 Corporate Watchdog Report reviews each change in the CEO and CFO position and grades it with either a yellow warning sign or a red flag. Changes in these positions will always receive a red flag if the change in position is due to certain reasons, such as disagreement with management or policies, an executive dismissed for cause, or for determined or suspected wrongdoing. Alternatively, a red flag will be assigned if there have been two or more changes in these positions within a three-year window, such as the case here. In this case, there were two changes in CFO within just 18 months.
 
