@@ -3,6 +3,7 @@ title: Tesla’s “Black Swan” Red Flag
 date: 2018-04-13 12:10:00 -04:00
 categories:
 - Red Flags
+- featured
 tags:
 - TSLA
 author: joseph_burke
