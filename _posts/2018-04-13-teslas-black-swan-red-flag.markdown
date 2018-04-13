@@ -15,7 +15,7 @@ Institutional confidence in TSLA seems to be held steady through the end of 2017
 
 Institutional ownership data for 2018 Q1 will soon be available, giving us a better picture of this situation. However, if there has been an erosion in confidence among institutional investors, then it would explain the general weakening of prices in recent months. After recovering somewhat from a downturn last November, prices have been considerably lower on average in the three-month period from December through February as compared to the three-months from last August to October. And March, like November, seems to have brought a kind of reckoning.
 
-A review of Tesla’s Corporate Watchdog Report reveals an unusual red flag regarding management turnover, specifically in the CFO position. Most of their other flags are back in 2013, a tumultuous year in which Tesla had a late filing, a financial restatement, and reported material weakness in their disclosure controls in three quarterly reports. However, the red flag for CFO turnover is very recent and highly unusual.
+A review of Tesla’s Corporate Watchdog Report reveals an unusual red flag regarding management turnover, specifically in the CFO position. Most of their other flags are back in 2013, a tumultuous year in which Tesla had a late filing, a financial restatement, and reported material weakness in their disclosure controls in three quarterly reports. However, the red flag for CFO turnover is recent and highly unusual. Rare, in fact.
 
 Here is the management turnover from Tesla’s Corporate Watchdog Report:
 
@@ -25,7 +25,7 @@ Corporate Watchdog Report reviews each change in the CEO and CFO position and gr
 
 The Corporate Watchdog Report also helpfully reminds us why these two positions are so sensitive: “These two officers are responsible for a company's performance and financial reporting.”
 
-But Tesla’s case is unusual. Not only were there two changes CFO within a year and a half, but the former CFO returned to his former position.
+But Tesla’s case is unusual. Not only were there two changes CFO within a year and a half, but the former CFO returned to his position.
 
 **How unusual is it for the same person to be appointed CFO in the same company after a departure?**
 
