@@ -9,7 +9,7 @@ tags:
 author: joseph_burke
 ---
 
-Even before Elon Musk’s disastrous [April Fool’s joke](https://futurism.com/elon-musks-april-fools-prank-backfired/), TSLA closed at $257.78 on March 28th, finishing off a disastrous losing streak in which the stock lost almost exactly $100 per share in the course of one month. (It had previously closed at $357.42 on Feb. 26.)
+Even before Elon Musk’s disastrous [April Fool’s joke](https://futurism.com/elon-musks-april-fools-prank-backfired/), TSLA closed at $257.78 on March 28th, finishing off a month-long losing streak in which the stock lost almost exactly $100 per share. (It had previously closed at $357.42 on Feb. 26.)
 
 Institutional confidence in TSLA seems to be held steady through the end of 2017, although there some concerns that it may be wavering. Institutional ownership increased by 2.8 million shares in 2017 Q4 98.3 million (+2.9%) while the largest institutional owners--Fidelity and Baillie Gifford & Co.--reduced their holdings by $8.5 billion. However, they continue to remain the largest institutional investors with nearly 30 million shares between them.
 
