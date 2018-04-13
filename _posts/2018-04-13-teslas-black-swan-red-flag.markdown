@@ -52,7 +52,7 @@ Second, we asked how often the same person was appointed to the CFO position in 
 
 Reason | Filings
 --- | ---
-Resigned (Unclear if remained in company) | 34
+Resigned (Unclear if remained in company)  | 34
 Resigned (Remained in Company) | 32
 Position Change within Company | 17
 Personal / Health Reasons | 10
