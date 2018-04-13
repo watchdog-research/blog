@@ -34,7 +34,7 @@ To answer this question, first we asked how often the same person was appointed 
 Here is a table with the results of our analysis.
 
 Reason	| Filings
---- | ---
+--- | :---:
 Interim	| 37
 Merger / Acquisition | 5
 Assuming Additional Position(s) | 4
@@ -51,7 +51,7 @@ When the same person was appointed CFO in the same company occur, it is almost a
 Second, we asked how often the same person was appointed to the CFO position in the same company after departing. Starting with the same population, we looked for appointments following departures.
 
 Reason | Filings
---- | ---
+--- | :---:
 Resigned (Unclear if remained in company)  | 34
 Resigned (Remained in Company) | 32
 Position Change within Company | 17
