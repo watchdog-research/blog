@@ -46,6 +46,7 @@ Corporate Restructuring | 1
 Total | 56
 Population | 12,894
 
+
 When the same person was appointed CFO in the same company occur, it is almost always because an Interim CFO is being retained as the permanent CFO. Other filings can be explained as changes in responsibility or corporate restructurings. Notably, there is no filing that matches the Tesla case.
 
 Second, we asked how often the same person was appointed to the CFO position in the same company after departing. Starting with the same population, we looked for appointments following departures.
@@ -68,6 +69,7 @@ Pursue Other Interests | 1
 Dismissed | 1
 Total | 124
 Population | 12,894
+
 
 “Resigned” is the most common reason given for departure, accounting for about half of the cases (66 out of 124). However, “resigned” here only means that the person resigned from the CFO position, not necessarily that they left the company (as with Tesla). In 32 of the 66 cases, based on the appointment data, we were able to determine that the resigning CFO remained with the company. For the other 32, it is unclear whether the resigning CFO left the company or not.
 
