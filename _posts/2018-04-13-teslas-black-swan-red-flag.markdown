@@ -7,6 +7,7 @@ categories:
 tags:
 - TSLA
 author: joseph_burke
+image: "/uploads/TSLA%20-%20CFO%20Turnover.JPG"
 ---
 
 Even before Elon Musk’s disastrous [April Fool’s joke](https://futurism.com/elon-musks-april-fools-prank-backfired/), TSLA closed at $257.78 on March 28th, finishing off a month-long losing streak in which the stock lost almost exactly $100 per share. (It had previously closed at $357.42 on Feb. 26.)
