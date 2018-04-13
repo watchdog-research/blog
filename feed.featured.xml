@@ -16,6 +16,9 @@ layout:
                 <description>{{ post.excerpt | xml_escape }}</description>
                 <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
                 <link>{{ site.url }}{{ post.url }}</link>
+                {%- if post.image -%}
+                <enclosure url="{{ site.url }}{{ post.image }}" length="100000" type="image/jpeg" />
+                <%- end -%}
                 <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
             </item>
         {% endfor %}
