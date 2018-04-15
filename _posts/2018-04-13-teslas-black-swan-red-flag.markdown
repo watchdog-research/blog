@@ -52,9 +52,9 @@ Except for Tesla.
 
 Tesla is the only case in which, after a suitable replacement had been found, then left, and the former CFO returned to his former position, not as Interim, but as the permanent executive going forward.
 
-The turnover in the CFO position at Tesla is highly unusual and should be something all shareholders know about and consider. Tesla’s current market cap is about $50 billion dollars. That covers a lot of retirement college saving and retirement accounts.
+The turnover in the CFO position at Tesla is highly unusual and very troubling red flag. Tesla's current market cap is about $50 billion dollars. That is a lot of retirement accounts and college savings to be responsible for. Fiduciaries should take care to inform investors of the risks associated with Tesla, and there are legitimate concerns whether Telsa is a suitable investment for many investors risk tolerance.
 
-Fiduciaries or advisers with a suitability obligation should inform clients who hold Tesla of this potentially troubling risk. The odd occurrence of the CFO changes suggests that there is legitimate concern whether Telsa is a suitable investment for many investors with low risk tolerance.
+The turnover in the CFO position at Tesla is highly unusual and should be something all shareholders know about and consider.  Tesla’s current market cap is about $50 billion dollars. That covers a lot of retirement college saving and retirement accounts. Fiduciaries or advisers with a suitability obligation should inform clients who hold Tesla of this potentially troubling risk.   The odd occurrence of the CFO changes suggests that there is legitimate concern whether Telsa is a suitable investment for many investors with low risk tolerance.
 
 Fiduciaries and brokers who subscribe to the Corporate Watchdog Report can download a full-copy of the Tesla Corporate Watchdog Report and distribute up to 500 copies of the report to their current and prospective clients.  If you wish to distribute the report more broadly, please contact us at 855-820-6272.
 
