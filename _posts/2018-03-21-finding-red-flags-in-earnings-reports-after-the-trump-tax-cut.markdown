@@ -12,6 +12,7 @@ author:
 - derryck_coleman
 - kati_manyak
 editor: joseph_burke
+image: "/uploads/tax_cut_s.jpg"
 ---
 
 The Tax Cut & Jobs Act law (TCJA) passed in a rush late last year is complicating how companies release their fourth quarter earnings data. The changes to the law will significantly affect earnings for most large companies, and companies took different approaches on reporting the impact.
