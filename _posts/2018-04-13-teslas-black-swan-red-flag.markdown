@@ -7,6 +7,7 @@ categories:
 tags:
 - TSLA
 author: joseph_burke
+image: "/uploads/cfo_s.jpg"
 ---
 
 A review of Tesla’s Corporate Watchdog Report reveals a striking red flag regarding management turnover, specifically in the CFO position. The Tesla red flag for CFO turnover is recent and highly unusual. Rare, in fact.
