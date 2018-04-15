@@ -4,6 +4,7 @@ date: 2018-04-15 18:21:00 -04:00
 categories:
 - Red Flag
 - Management Turnover
+- featured
 tags:
 - Tesla
 author: joseph_burke
