@@ -8,6 +8,7 @@ tags:
 - Insurance
 author: olga_usvyatsky
 editor: joseph_burke
+image: "/uploads/market_s.jpg"
 ---
 
 General Electric (GE) stock reached a new low of $16.02 on January 19, 2018, continuing the 2017 downtrend into 2018.
