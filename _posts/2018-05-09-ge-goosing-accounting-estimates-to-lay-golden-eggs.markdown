@@ -22,6 +22,7 @@ A change in accounting estimates is a change in a parameter--often a percentage-
 To illustrate, let’s consider a company’s net receivables. The value of a company’s net receivables is the percent of accounts receivable that will actually be paid. Let p be the percent of accounts receivable that will be collected. We can think of the net receivables as a simple formula
 
 NR = p · AR
+
 Net Receivables = p · (Accounts Receivable)
 
 The value of net receivables depends on both the accounts receivable and the percent that will be collected. Net receivables and the accounts receivable are variables in this equation, and the percent that will be collected is a parameter or a constant. The parameter p is an accounting estimate, and a change in p is a change in an accounting estimate.
