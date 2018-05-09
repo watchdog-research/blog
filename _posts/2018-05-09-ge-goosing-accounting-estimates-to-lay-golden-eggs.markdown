@@ -72,7 +72,7 @@ While there are no other companies as large as GE, there are a few companies com
 
 Based on this, it seems evident that the frequency of GE’s changes in accounting estimates is unusual for both its peer group and its industry. No other company of a comparable scale in its industry has reported the number of changes in accounting estimates as GE has.
 
-What about other comparables? Some industries frequently report changes in accounting estimates, sucha as the Aircraft Manufacturing industry. Let’s look at Boeing and Northrup Gruuman as examples of large manufacturers in that industry.
+What about other comparables? Some industries frequently report changes in accounting estimates, such as the Aircraft Manufacturing industry. Let’s look at Boeing and Northrup Gruuman as examples of large manufacturers in that industry.
 
 Boeing has a market cap of $204 billion and annual revenue of $93.4 billion. Boeing reported 21 changes in accounting estimates from 2013 to 2018. Of these, 13 had a positive effect and 8 had a negative effect. Those with a negative effect tended to be less frequent but larger in magnitude than the postive ones.
 
