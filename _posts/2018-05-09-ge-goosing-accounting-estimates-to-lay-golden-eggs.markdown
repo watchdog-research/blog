@@ -78,7 +78,7 @@ Northrop Grumman has a market cap of $58.9 billion and annual revenue of $25.8 b
 
 This table shows the annual impact of changes in accounting estimates on pre-tax income for GE, Boeing, and Northrup Grumman.
 
-#### Table. Impact on Pre-Tax Income
+**Table. Impact on Pre-Tax Income**
 
 This table shows that the impact of GE’s changes in accounting estimates differ from those of Boeing and Northrup Grumman in that GE’s changes had a much larger impact on average and that the impact of GE’s changes steadily increased while the others steadily decreased (Northrup Grumman) or showed no clear trend (Boeing).
 
