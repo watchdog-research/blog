@@ -15,6 +15,7 @@ A careful analysis of GE’s Corporate Watchdog Report shows that in recent year
 
 While these changes may seem insignificant at first for a company with annual revenue of $122 billion, they appear much more substantial when compared to pre-tax income and net income, which has been under $10 billion since 2015.
 
+
 **What is a Change in Accounting Estimates?**
 
 A change in accounting estimates is a change in a parameter--often a percentage--that is often thought of and usually treated as a constant in accounting.
@@ -33,6 +34,7 @@ While a change in the accounts receivable variable (AR) will also change net rec
 
 How do accountants estimate parameters like p? Usually, accounting estimates are based on historical patterns or prevailing economic conditions. A change in accounting estimates signifies a material change in either the company’s performance or in the economic environment. In this example, a change in the accounting estimate of p would indicate a material change in the company’s to collect payments on its accounts receivable.
 
+
 **GE’s Recent Changes in Accounting Estimates**
 
 With this in mind, let’s take a look at GE’s changes in accounting estimates for the past five years.
@@ -45,6 +47,7 @@ In each of the last five years, GE has report a change in accounting estimates a
 The impact of these changes has increased steadily over the last five years, growing from $300 million in 2013 to over $2 billion in both 2016 and 2017. Relative to pre-tax income, these changes in accounting estimate were 17% and 25% of pre-tax income in 2015 and 2016, and 24% of pre-tax income (in absolute value) in 2017.
 
 The impact on GE’s net income from these changes is even larger--the change in 2015 constituted 83% of GE’s net profit for the year.
+
 
 **Peer and Industry Comparisons**
 
