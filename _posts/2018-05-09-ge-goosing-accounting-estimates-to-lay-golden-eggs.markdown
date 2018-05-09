@@ -37,6 +37,8 @@ How do accountants estimate parameters like p? Usually, accounting estimates are
 
 With this in mind, let’s take a look at GE’s changes in accounting estimates for the past five years.
 
+**Table. GE's Changes in Accounting Estimates, 2013-18**
+
 Sources: Pre-Tax Income and Net Income data from MarketWatch.
 
 In each of the last five years, GE has report a change in accounting estimates affecting revenue recognition related to contract accounting including percentage-of-completion.
