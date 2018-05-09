@@ -31,9 +31,9 @@ The value of net receivables depends on both the accounts receivable and the per
 
 In this simple equation, a change in accounting estimates refers to a change in the parameter, p. Any change p will directly affect net receivables, even if accounts receivable did not change.
 
-While a change in the accounts receivable variable (AR) will also change net receivables, this is not considered a change in accounting estimates. The net receivables is ordinarily varies with the accounts receivable from one period to next. A change in accounting estimates refers to a change in the parameters, not a change in the variables.
+While a change in the accounts receivable variable (AR) will also change net receivables, this is not considered a change in accounting estimates. Net receivables ordinarily varies with accounts receivable from one period to next. A change in accounting estimates refers to a change in the parameters, not a change in the variables.
 
-How do accountants estimate parameters like p? Usually, accounting estimates are based on historical patterns or prevailing economic conditions. A change in accounting estimates signifies a material change in either the company’s performance or in the economic environment. In this example, a change in the accounting estimate of p would indicate a material change in the company’s to collect payments on its accounts receivable.
+How do accountants estimate parameters like p? Usually, accounting estimates are based on historical patterns or prevailing economic conditions. A change in accounting estimates signifies a material change in either the company’s performance or in the economic environment. In this example, a change in the accounting estimate of p would indicate a material change in the company’s ability to collect payments on its accounts receivable.
 
 **GE’s Recent Changes in Accounting Estimates**
 
