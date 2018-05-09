@@ -17,8 +17,10 @@ A change in accounting estimates is a change in a parameter--often a percentage-
 
 To illustrate, let’s consider a company’s net receivables. The value of a company’s net receivables is the percent of accounts receivable that will actually be paid. Let p be the percent of accounts receivable that will be collected. We can think of the net receivables as a simple formula
 
+<center>
 NR = p · AR
 Net Receivables = p · (Accounts Receivable)
+</center>
 
 The value of net receivables depends on both the accounts receivable and the percent that will be collected. Net receivables and the accounts receivable are variables in this equation, and the percent that will be collected is a parameter or a constant. The parameter p is an accounting estimate, and a change in p is a change in an accounting estimate.
 
@@ -26,9 +28,9 @@ In this simple equation, a change in accounting estimates refers to a change in 
 
 While a change in the accounts receivable variable (AR) will also change net receivables, this is not considered a change in accounting estimates. The net receivables is ordinarily varies with the accounts receivable from one period to next. A change in accounting estimates refers to a change in the parameters, not a change in the variables.
 
-How do accountants estimate parameters like p? Usually, accounting esimates are based on historical patterns or prevailing economic conditions. A change in accounting estimates signifies a material change in either the company’s performance or in the economic environment. In this example, a change in the accounting estimate of p would indicate a material change in the company’s to collect payments on its accounts receivable.
+How do accountants estimate parameters like p? Usually, accounting estimates are based on historical patterns or prevailing economic conditions. A change in accounting estimates signifies a material change in either the company’s performance or in the economic environment. In this example, a change in the accounting estimate of p would indicate a material change in the company’s to collect payments on its accounts receivable.
 
-GE’s Recent Changes in Accounting Estimates
+### GE’s Recent Changes in Accounting Estimates
 
 With this in mind, let’s take a look at GE’s changes in accounting estimates for the past five years.
 
@@ -39,7 +41,7 @@ The impact of these changes has increased steadily over the last five years, gro
 
 The impact on GE’s net income from these changes is even larger--the change in 2015 constituted 83% of GE’s net profit for the year.
 
-Peer and Industry Comparisons
+### Peer and Industry Comparisons
 
 How common are changes in accounting estimates in GE’s peer group and industry?
 
@@ -48,8 +50,8 @@ This table is a comparison of the number of changes in accounting estimates for 
 GE’s NAICS code is 333414. GE is classified as a memter of the Machinery Manufacturing industry.
 
 This table shows a histogram of companies with one or more changes in accounting estimates from GE’s industry. All companies on the graph are from the following industries:
-NAICS 333 - Machinery Manufacturing
-NAICS 335 - Electical Equipment, Appliance, and Component Manufacturing
+- NAICS 333 - Machinery Manufacturing
+- NAICS 335 - Electical Equipment, Appliance, and Component Manufacturing
 
 Additionally, this histogram is only for companies that reported one or more changes in accounting estimates in the period. In total, 66 companies reported 124 changes in accounting estimates over this period.
 
