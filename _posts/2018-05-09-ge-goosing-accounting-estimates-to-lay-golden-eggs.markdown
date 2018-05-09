@@ -39,6 +39,16 @@ With this in mind, let’s take a look at GE’s changes in accounting estimates
 
 **Table. GE's Changes in Accounting Estimates, 2013-18**
 
+
+| FY | Form | Impact on Pre-Tax Income| Pre-Tax Income | Net Income |
+| ---- | ---- | ------- | -------- | -------- |
+| 2013 | 10-K | $300 | $16,150 | $15,160 |  
+| 2014 | 10-K | $1,000 | $10,260 | $9,520 | 
+| 2015 | 10-K | $1,400 | $8,190 | $1,680 | 
+| 2016 | 10-K | $2,216 | $9,030 | $9,770 |
+| 2017 | 10-K | $2,131 | ($8,790) | ($5,480) |
+
+
 Sources: Pre-Tax Income and Net Income data from MarketWatch.
 
 In each of the last five years, GE has report a change in accounting estimates affecting revenue recognition related to contract accounting including percentage-of-completion.
