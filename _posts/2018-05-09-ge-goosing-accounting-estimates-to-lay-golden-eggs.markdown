@@ -37,7 +37,7 @@ How do accountants estimate parameters like p? Usually, accounting estimates are
 
 With this in mind, let’s take a look at GE’s changes in accounting estimates for the past five years.
 
-**Table. GE's Changes in Accounting Estimates, 2013-18**
+*Table 1. GE's Changes in Accounting Estimates, 2013-18*
 ![GE Table 1.jpg](/uploads/GE%20Table%201.jpg)
 Sources: Pre-Tax Income and Net Income data from MarketWatch.
 
@@ -52,7 +52,7 @@ How common are changes in accounting estimates in GE’s peer group and industry
 
 This table is a comparison of the number of changes in accounting estimates for GE and the companies GE has named as a peer.
 
-*Table. Peer Group Changes in Accounting Estimates, 2013-18*
+*Table 2. Peer Group Changes in Accounting Estimates, 2013-18*
 ![GE Table 2.jpg](/uploads/GE%20Table%202.jpg)
 
 GE’s NAICS code is 333414. GE is classified as a member of the Machinery Manufacturing industry.
@@ -65,25 +65,28 @@ This table shows a histogram of companies with one or more changes in accounting
 
 Additionally, this histogram is only for companies that reported one or more changes in accounting estimates in the period. In total, 66 companies reported 124 changes in accounting estimates over this period.
 
-#### Graph. Histogram of Changes in Accounting Estimates, 2013-18
-
+*Graph 1. Histogram of Changes in Accounting Estimates, 2013-18*
 ![GE Graph.jpg](/uploads/GE%20Graph.jpg)
 
 GE reported 8 changes in accounting estimates from 2013 to 2018. Only two companies in these industries reported more changes than GE in this period-- Babcock & Wilcox Enterprises, Inc. with a market cap of $250m, and Enphase Energy, Inc. with a market cap of $222m.
 
 While there are no other companies as large as GE, there are a few companies comparable in scale in these industries.
 
+*Table 3. Changes in Accounting Estimates for Largest Industrial Comparables, 2013-18*
+![GE Table 3.jpg](/uploads/GE%20Table%203.jpg)
+
 Based on this, it seems evident that the frequency of GE’s changes in accounting estimates is unusual for both its peer group and its industry. No other company of a comparable scale in its industry has reported the number of changes in accounting estimates as GE has.
 
-What about other comparables? Some industries frequently report changes in accounting estimates, such as the Aircraft Manufacturing industry. Let’s look at Boeing and Northrup Gruuman as examples of large manufacturers in that industry.
+What about other comparables? Some industries frequently report changes in accounting estimates, such as the Aircraft Manufacturing industry. Let’s look at Boeing and Northrup Grumman as examples of large manufacturers in that industry.
 
-Boeing has a market cap of $204 billion and annual revenue of $93.4 billion. Boeing reported 21 changes in accounting estimates from 2013 to 2018. Of these, 13 had a positive effect and 8 had a negative effect. Those with a negative effect tended to be less frequent but larger in magnitude than the postive ones.
+Boeing has a market cap of $204 billion and annual revenue of $93.4 billion. Boeing reported 21 changes in accounting estimates from 2013 to 2018. Of these, 13 had a positive effect and 8 had a negative effect. Those with a negative effect tended to be less frequent but larger in magnitude than the positive ones.
 
 Northrop Grumman has a market cap of $58.9 billion and annual revenue of $25.8 billion. From 2013 to 2018, Northrop Grumman reported 22 changes in accounting estimates. Unlike Boeing, these were almost uniformly positive in their effects, although of a similar magnitude to those reported by Boeing. Notably, the impact of Northrup Grumman’s changes in accounting estimates has steadily decreased since 2013, whereas GE’s has increased dramatically.
 
 This table shows the annual impact of changes in accounting estimates on pre-tax income for GE, Boeing, and Northrup Grumman.
 
-**Table. Impact on Pre-Tax Income**
+*Table 4. Impact on Pre-Tax Income*
+![GE Table 4.jpg](/uploads/GE%20Table%204.jpg)
 
 This table shows that the impact of GE’s changes in accounting estimates differ from those of Boeing and Northrup Grumman in that GE’s changes had a much larger impact on average and that the impact of GE’s changes steadily increased while the others steadily decreased (Northrup Grumman) or showed no clear trend (Boeing).
 
