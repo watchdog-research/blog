@@ -1,6 +1,7 @@
 ---
 title: 'GE: Goosing Accounting Estimates to Lay Golden Eggs'
 date: 2018-05-09 14:24:00 -04:00
+published: false
 categories:
 - Changes in Accounting Estimates
 - Warning Signs
@@ -14,7 +15,6 @@ The fall of GE is nothing short of stunning. As the Wall Street Journal reports,
 A careful analysis of GE’s Corporate Watchdog Report shows that in recent years GE has generated an enormous amount of income from an unusual source: changes in accounting estimates. Over $7 billion, in fact, since 2013.
 
 While these changes may seem insignificant at first for a company with annual revenue of $122 billion, they appear much more substantial when compared to pre-tax income and net income, which has been under $10 billion since 2015.
-
 
 **What is a Change in Accounting Estimates?**
 
@@ -34,7 +34,6 @@ While a change in the accounts receivable variable (AR) will also change net rec
 
 How do accountants estimate parameters like p? Usually, accounting estimates are based on historical patterns or prevailing economic conditions. A change in accounting estimates signifies a material change in either the company’s performance or in the economic environment. In this example, a change in the accounting estimate of p would indicate a material change in the company’s to collect payments on its accounts receivable.
 
-
 **GE’s Recent Changes in Accounting Estimates**
 
 With this in mind, let’s take a look at GE’s changes in accounting estimates for the past five years.
@@ -48,7 +47,6 @@ The impact of these changes has increased steadily over the last five years, gro
 
 The impact on GE’s net income from these changes is even larger--the change in 2015 constituted 83% of GE’s net profit for the year.
 
-
 **Peer and Industry Comparisons**
 
 How common are changes in accounting estimates in GE’s peer group and industry?
@@ -61,7 +59,9 @@ This table is a comparison of the number of changes in accounting estimates for 
 GE’s NAICS code is 333414. GE is classified as a member of the Machinery Manufacturing industry.
 
 This table shows a histogram of companies with one or more changes in accounting estimates from GE’s industry. All companies on the graph are from the following industries:
+
 * NAICS 333 - Machinery Manufacturing
+
 * NAICS 335 - Electical Equipment, Appliance, and Component Manufacturing
 
 Additionally, this histogram is only for companies that reported one or more changes in accounting estimates in the period. In total, 66 companies reported 124 changes in accounting estimates over this period.
