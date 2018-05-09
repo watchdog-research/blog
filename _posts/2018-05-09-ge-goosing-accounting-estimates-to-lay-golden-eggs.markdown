@@ -11,16 +11,14 @@ A careful analysis of GE’s Corporate Watchdog Report shows that in recent year
 
 While these changes may seem insignificant at first for a company with annual revenue of $122 billion, they appear much more substantial when compared to pre-tax income and net income, which has been under $10 billion since 2015.
 
-### What is a Change in Accounting Estimates?
+**What is a Change in Accounting Estimates?**
 
 A change in accounting estimates is a change in a parameter--often a percentage--that is often thought of and usually treated as a constant in accounting.
 
 To illustrate, let’s consider a company’s net receivables. The value of a company’s net receivables is the percent of accounts receivable that will actually be paid. Let p be the percent of accounts receivable that will be collected. We can think of the net receivables as a simple formula
 
-<center>
 NR = p · AR
 Net Receivables = p · (Accounts Receivable)
-</center>
 
 The value of net receivables depends on both the accounts receivable and the percent that will be collected. Net receivables and the accounts receivable are variables in this equation, and the percent that will be collected is a parameter or a constant. The parameter p is an accounting estimate, and a change in p is a change in an accounting estimate.
 
@@ -30,7 +28,7 @@ While a change in the accounts receivable variable (AR) will also change net rec
 
 How do accountants estimate parameters like p? Usually, accounting estimates are based on historical patterns or prevailing economic conditions. A change in accounting estimates signifies a material change in either the company’s performance or in the economic environment. In this example, a change in the accounting estimate of p would indicate a material change in the company’s to collect payments on its accounts receivable.
 
-### GE’s Recent Changes in Accounting Estimates
+**GE’s Recent Changes in Accounting Estimates**
 
 With this in mind, let’s take a look at GE’s changes in accounting estimates for the past five years.
 
@@ -41,7 +39,7 @@ The impact of these changes has increased steadily over the last five years, gro
 
 The impact on GE’s net income from these changes is even larger--the change in 2015 constituted 83% of GE’s net profit for the year.
 
-### Peer and Industry Comparisons
+**Peer and Industry Comparisons**
 
 How common are changes in accounting estimates in GE’s peer group and industry?
 
@@ -50,12 +48,15 @@ This table is a comparison of the number of changes in accounting estimates for 
 GE’s NAICS code is 333414. GE is classified as a memter of the Machinery Manufacturing industry.
 
 This table shows a histogram of companies with one or more changes in accounting estimates from GE’s industry. All companies on the graph are from the following industries:
-- NAICS 333 - Machinery Manufacturing
-- NAICS 335 - Electical Equipment, Appliance, and Component Manufacturing
+
+* NAICS 333 - Machinery Manufacturing
+
+* NAICS 335 - Electical Equipment, Appliance, and Component Manufacturing
 
 Additionally, this histogram is only for companies that reported one or more changes in accounting estimates in the period. In total, 66 companies reported 124 changes in accounting estimates over this period.
 
 #### Graph. Histogram of Changes in Accounting Estimates, 2013-18
+
 ![GE Graph.jpg](/uploads/GE%20Graph.jpg)
 
 GE reported 8 changes in accounting estimates from 2013 to 2018. Only two companies in these industries reported more changes than GE in this period-- Babcock & Wilcox Enterprises, Inc. with a market cap of $250m, and Enphase Energy, Inc. with a market cap of $222m.
