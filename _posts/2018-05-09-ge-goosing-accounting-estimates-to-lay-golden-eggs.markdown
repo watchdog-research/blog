@@ -5,6 +5,7 @@ published: false
 categories:
 - Changes in Accounting Estimates
 - Warning Signs
+- featured
 tags:
 - GE
 author: joseph_burke
