@@ -5,13 +5,13 @@ published: false
 author: joseph_burke
 ---
 
-The fall of GE is nothing short of stunning. As the Wall Street Journal reports, “[T]he stock value lost by GE in the past 12 months is twice the amount that vanished when Enron Corp. collapsed in 2001—and more than the combined market capitalization erased by the bankruptcies of Lehman Brothers and General Motors during the financial crisis. Longer term, GE’s market capitalization has fallen more than $460 billion since its 2000 peak.”
+The fall of GE is nothing short of stunning. As the Wall Street Journal reports, “\[T\]he stock value lost by GE in the past 12 months is twice the amount that vanished when Enron Corp. collapsed in 2001—and more than the combined market capitalization erased by the bankruptcies of Lehman Brothers and General Motors during the financial crisis. Longer term, GE’s market capitalization has fallen more than $460 billion since its 2000 peak.”
 
 A careful analysis of GE’s Corporate Watchdog Report shows that in recent years GE has generated an enormous amount of income from an unusual source: changes in accounting estimates. Over $7 billion, in fact, since 2013.
 
 While these changes may seem insignificant at first for a company with annual revenue of $122 billion, they appear much more substantial when compared to pre-tax income and net income, which has been under $10 billion since 2015.
 
-What is a Change in Accounting Estimates?
+### What is a Change in Accounting Estimates?
 
 A change in accounting estimates is a change in a parameter--often a percentage--that is often thought of and usually treated as a constant in accounting.
 
@@ -53,7 +53,10 @@ NAICS 335 - Electical Equipment, Appliance, and Component Manufacturing
 
 Additionally, this histogram is only for companies that reported one or more changes in accounting estimates in the period. In total, 66 companies reported 124 changes in accounting estimates over this period.
 
-GE reported 8 changes in accounting estimates from 2013 to 2018. Only two companies in these industries reported more changes than GE in this period-- Babcock & Wilcox Enterprises, Inc. with a market cap of $250m, and Enphase Energy, Inc. with a market cap of $222m. 
+#### Graph. Histogram of Changes in Accounting Estimates, 2013-18
+![GE Graph.jpg](/uploads/GE%20Graph.jpg)
+
+GE reported 8 changes in accounting estimates from 2013 to 2018. Only two companies in these industries reported more changes than GE in this period-- Babcock & Wilcox Enterprises, Inc. with a market cap of $250m, and Enphase Energy, Inc. with a market cap of $222m.
 
 While there are no other companies as large as GE, there are a few companies comparable in scale in these industries.
 
@@ -67,7 +70,7 @@ Northrop Grumman has a market cap of $58.9 billion and annual revenue of $25.8 b
 
 This table shows the annual impact of changes in accounting estimates on pre-tax income for GE, Boeing, and Northrup Grumman.
 
-Table. Impact on Pre-Tax Income
+#### Table. Impact on Pre-Tax Income
 
 This table shows that the impact of GE’s changes in accounting estimates differ from those of Boeing and Northrup Grumman in that GE’s changes had a much larger impact on average and that the impact of GE’s changes steadily increased while the others steadily decreased (Northrup Grumman) or showed no clear trend (Boeing).
 
