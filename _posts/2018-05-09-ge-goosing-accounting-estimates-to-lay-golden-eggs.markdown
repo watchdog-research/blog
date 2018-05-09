@@ -63,7 +63,7 @@ This table shows a histogram of companies with one or more changes in accounting
 
 * NAICS 333 - Machinery Manufacturing
 
-* NAICS 335 - Electical Equipment, Appliance, and Component Manufacturing
+* NAICS 335 - Electrical Equipment, Appliance, and Component Manufacturing
 
 Additionally, this histogram is only for companies that reported one or more changes in accounting estimates in the period. In total, 66 companies reported 124 changes in accounting estimates over this period.
 
