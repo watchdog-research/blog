@@ -58,9 +58,7 @@ This table is a comparison of the number of changes in accounting estimates for 
 GE’s NAICS code is 333414. GE is classified as a member of the Machinery Manufacturing industry.
 
 This table shows a histogram of companies with one or more changes in accounting estimates from GE’s industry. All companies on the graph are from the following industries:
-
 * NAICS 333 - Machinery Manufacturing
-
 * NAICS 335 - Electical Equipment, Appliance, and Component Manufacturing
 
 Additionally, this histogram is only for companies that reported one or more changes in accounting estimates in the period. In total, 66 companies reported 124 changes in accounting estimates over this period.
