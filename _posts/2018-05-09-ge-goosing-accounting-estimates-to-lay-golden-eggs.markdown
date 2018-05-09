@@ -52,6 +52,9 @@ How common are changes in accounting estimates in GE’s peer group and industry
 
 This table is a comparison of the number of changes in accounting estimates for GE and the companies GE has named as a peer.
 
+**Table. Peer Group Changes in Accounting Estimates, 2013-18**
+![GE Table 2.jpg](/uploads/GE%20Table%202.jpg)
+
 GE’s NAICS code is 333414. GE is classified as a member of the Machinery Manufacturing industry.
 
 This table shows a histogram of companies with one or more changes in accounting estimates from GE’s industry. All companies on the graph are from the following industries:
