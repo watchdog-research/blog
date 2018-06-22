@@ -3,7 +3,7 @@ title: 'J. Alexander’s: Steak or Fishy?'
 date: 2018-06-19 10:02:00 -04:00
 categories:
 - featured
-author: 'Brian Lawe '
+author: brian_lawe
 image: "/uploads/NY-Strip.jpg"
 ---
 
