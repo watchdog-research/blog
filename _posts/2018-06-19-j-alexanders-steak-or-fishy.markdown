@@ -4,7 +4,7 @@ date: 2018-06-19 10:02:00 -04:00
 categories:
 - featured
 author: brian_lawe
-image: "/uploads/NY-Strip.jpg"
+image: "/uploads/NY-Strip_resized.png"
 ---
 
 J. Alexander’s restaurants often ranks at the top of a Yelp or TripAdvisor review page.  And for good reason.  The steaks are excellent.  The service is outstanding, and the atmosphere is relaxed.
