@@ -21,7 +21,7 @@ About two weeks after the Marathon Partner’s letter was filed with the SEC, Ju
 
 The information we uncover in our report and the links to the underlying information is well worth reading for any JAX shareholder, potential holder, equity analyst, board member, auditor, financial advisor or broker/dealer engaged in the sale of JAX stock.  We would go so far as to say knowing this information is vital to the fiduciary or suitability obligation by many of those readers.
 
-We wrap-up the discussion on JAX by highlighting the last yellow flag on JAX’s [Watchdog Report](/uploads/Watchdog%20Report%20for%20J.%20Alexander's%20Holdings,%20Inc.%20-%20JAX%20(20180613).pdf){:target="_blank"}.  That yellow flag shows an unusually low payment by JAX to its accounting auditor KPMG.  The full Watchdog Report for JAX shows the company’s audit fees fall below the 25th percentile for the industry:
+We wrap-up the discussion on JAX by highlighting the last yellow flag on JAX’s [Watchdog Report](/uploads/Watchdog%20Report%20for%20J.%20Alexander's%20Holdings,%20Inc.%20-%20JAX%20(20180613).pdf){target="_blank"}.  That yellow flag shows an unusually low payment by JAX to its accounting auditor KPMG.  The full Watchdog Report for JAX shows the company’s audit fees fall below the 25th percentile for the industry:
 
 ![audit_fees_20180619__1617227.png](/uploads/audit_fees_20180619__1617227.png)
 
