@@ -13,8 +13,6 @@ Key:
 
 How much did Honeywell’s restatement cost investors?
 
-![Honeywell Excel Graph 1.jpg](/uploads/Honeywell%20Excel%20Graph%201.jpg)
-
 The recent drop in share price runs counter to the tone of the Honeywell’s most recent quarterly report. Headlines from [Honeywell’s press release ](https://www.prnewswire.com/news-releases/honeywell-delivers-third-quarter-reported-sales-growth-of-6-operating-cash-flow-growth-of-33-300734108.html)on Oct. 19 read as follows: 
 * Honeywell Delivers Third-Quarter Reported Sales Growth Of 6%, Operating Cash Flow Growth Of 33%
 * Organic Sales up 7% Driven by Aerospace and Safety and Productivity Solutions
@@ -23,6 +21,8 @@ The recent drop in share price runs counter to the tone of the Honeywell’s mos
 * Adjusted Free Cash Flow(2) up 51%, Conversion 119%
 
 “[Honeywell Rises on Earnings, Revenue Beat](https://www.thestreet.com/investing/honeywell-rises-on-earnings-revenue-beat-14750789)” ran one headline at TheStreet.
+
+![Honeywell Excel Graph 1.jpg](/uploads/Honeywell%20Excel%20Graph%201.jpg)
 
 Share prices had closed at $150.38 on Oct. 18, the day before the announcement. Despite the good news, shares fell to $148.71 on Oct 19 and then continued to steadily decline over the next week before bottoming out at $140.83, representing a cumulative loss of over $7 billion.
 The real news, of course, was that Honeywell had to restate its asbestos liabilities by more than $1.1 billion.
