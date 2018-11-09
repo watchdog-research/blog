@@ -24,7 +24,7 @@ The recent drop in share price runs counter to the tone of the Honeywell’s mos
 
 ![Honeywell Excel Graph 1.jpg](/uploads/Honeywell%20Excel%20Graph%201.jpg)
 
-This graph shows Honeywell's share price against the (scaled). Share prices had closed at $150.38 on Oct. 18, the day before the announcement. Despite the good news, shares fell to $148.71 on Oct 19 and then continued to steadily decline over the next week before bottoming out at $140.83, representing a cumulative loss of over $7 billion.
+This graph shows Honeywell's share price against the (scaled) S&P 500. Share prices had closed at $150.38 on Oct. 18, the day before the announcement. Despite the good news, shares fell to $148.71 on Oct 19 and then continued to steadily decline over the next week before bottoming out at $140.83, representing a cumulative loss of over $7 billion.
 
 The real news, of course, was that Honeywell had to restate its asbestos liabilities by more than $1.1 billion. In its [10-Q](https://www.sec.gov/Archives/edgar/data/773840/000093041318003111/c92183_10q.htm) filed on 10/19/18, Honeywell made the following disclosure:
 
