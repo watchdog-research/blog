@@ -11,7 +11,9 @@ tags:
 Key: 
 ---
 
-How much did Honeywell’s restatement cost investors?![Honeywell Excel Graph 1.jpg](/uploads/Honeywell%20Excel%20Graph%201.jpg)
+How much did Honeywell’s restatement cost investors?
+
+![Honeywell Excel Graph 1.jpg](/uploads/Honeywell%20Excel%20Graph%201.jpg)
 
 The recent drop in share price runs counter to the tone of the Honeywell’s most recent quarterly report. Headlines from [Honeywell’s press release ](https://www.prnewswire.com/news-releases/honeywell-delivers-third-quarter-reported-sales-growth-of-6-operating-cash-flow-growth-of-33-300734108.html)on Oct. 19 read as follows: 
 * Honeywell Delivers Third-Quarter Reported Sales Growth Of 6%, Operating Cash Flow Growth Of 33%
