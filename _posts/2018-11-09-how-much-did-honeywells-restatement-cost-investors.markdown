@@ -11,9 +11,9 @@ tags:
 Key: 
 ---
 
-How much did Honeywell’s restatement cost investors?
+October was a hard month for Honeywell investors. After starting out the month trading over $160, Honeywell’s share price closed at $140.83 on Oct. 24.
 
-The recent drop in share price runs counter to the tone of the Honeywell’s most recent quarterly report. Headlines from [Honeywell’s press release ](https://www.prnewswire.com/news-releases/honeywell-delivers-third-quarter-reported-sales-growth-of-6-operating-cash-flow-growth-of-33-300734108.html)on Oct. 19 read as follows: 
+The recent drop in share price runs counter to the tone of the Honeywell’s most recent quarterly report. Headlines from [the press release](https://www.prnewswire.com/news-releases/honeywell-delivers-third-quarter-reported-sales-growth-of-6-operating-cash-flow-growth-of-33-300734108.html) on Oct. 19 read as follows:
 * Honeywell Delivers Third-Quarter Reported Sales Growth Of 6%, Operating Cash Flow Growth Of 33%
 * Organic Sales up 7% Driven by Aerospace and Safety and Productivity Solutions
 * Operating Income Margin up 40 Basis Points, Segment Margin up 70 Basis Points to 19.4%
@@ -25,6 +25,8 @@ The recent drop in share price runs counter to the tone of the Honeywell’s mos
 ![Honeywell Excel Graph 1.jpg](/uploads/Honeywell%20Excel%20Graph%201.jpg)
 
 This graph shows Honeywell's share price against the (scaled) S&P 500. Share prices had closed at $150.38 on Oct. 18, the day before the announcement. Despite the good news, shares fell to $148.71 on Oct 19 and then continued to steadily decline over the next week before bottoming out at $140.83, representing a cumulative loss of over $7 billion.
+
+So what happened?
 
 The real news, of course, was that Honeywell had to restate its asbestos liabilities by more than $1.1 billion. In its [10-Q](https://www.sec.gov/Archives/edgar/data/773840/000093041318003111/c92183_10q.htm) filed on 10/19/18, Honeywell made the following disclosure:
 
