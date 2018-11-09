@@ -5,6 +5,7 @@ categories:
 - Financial Restatements
 - SEC Comment Letters
 - Red Flags
+- featured
 tags:
 - Honeywell
 Key: 
