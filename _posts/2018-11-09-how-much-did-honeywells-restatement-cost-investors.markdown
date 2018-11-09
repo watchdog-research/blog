@@ -45,3 +45,5 @@ _Honeywell determined that we had not appropriately applied the provisions of AS
 This letter was dated Aug. 20 and disseminated on Oct. 10, 2018, a full nine days before the announcement on Oct. 19.
 
 The fact that Honeywell’s stock tracked the market so closely even after the comment letter was disseminated on Oct. 10 suggests that most institutional investors were either unaware of the comment letter or unaware of its implications. Had they known, the larger investors would be expected to reduce their stake in Honeywell prior to the announcement, and the graph would show a greater divergence between the two lines in the period from Oct. 10 to Oct. 19. Instead, the evidence suggests that even the most sophisticated investors still may not do their homework, and that they most likely found out about Honeywell’s asbestos liabilities at the same time everyone else did.
+
+_Joseph Burke, Ph.D. is the Senior Economist and Data Scientist at Corporate Watchdog Reports._
