@@ -17,8 +17,8 @@ The recent drop in share price runs counter to the tone of the Honeywell’s mos
 * Honeywell Delivers Third-Quarter Reported Sales Growth Of 6%, Operating Cash Flow Growth Of 33%
 * Organic Sales up 7% Driven by Aerospace and Safety and Productivity Solutions
 * Operating Income Margin up 40 Basis Points, Segment Margin up 70 Basis Points to 19.4%
-* Reported Earnings per Share of $3.11; Adjusted EPS(1) of $2.03, up 17%
-* Adjusted Free Cash Flow(2) up 51%, Conversion 119%
+* Reported Earnings per Share of $3.11; Adjusted EPS of $2.03, up 17%
+* Adjusted Free Cash Flow up 51%, Conversion 119%
 
 “[Honeywell Rises on Earnings, Revenue Beat](https://www.thestreet.com/investing/honeywell-rises-on-earnings-revenue-beat-14750789)” ran one headline at TheStreet.
 
