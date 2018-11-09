@@ -11,7 +11,7 @@ tags:
 Key: 
 ---
 
-October was a hard month for Honeywell investors. After starting out the month trading over $160, Honeywell’s share price closed at $140.83 on Oct. 24.
+October was a tough month for Honeywell investors. After starting out the month trading over $160, Honeywell’s share price closed at $140.83 on Oct. 24.
 
 The recent drop in share price runs counter to the tone of the Honeywell’s most recent quarterly report. Headlines from [the press release](https://www.prnewswire.com/news-releases/honeywell-delivers-third-quarter-reported-sales-growth-of-6-operating-cash-flow-growth-of-33-300734108.html) on Oct. 19 read as follows:
 * Honeywell Delivers Third-Quarter Reported Sales Growth Of 6%, Operating Cash Flow Growth Of 33%
