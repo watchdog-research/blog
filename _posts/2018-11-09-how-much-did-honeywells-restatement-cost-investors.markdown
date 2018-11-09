@@ -24,10 +24,9 @@ The recent drop in share price runs counter to the tone of the Honeywell’s mos
 
 ![Honeywell Excel Graph 1.jpg](/uploads/Honeywell%20Excel%20Graph%201.jpg)
 
-Share prices had closed at $150.38 on Oct. 18, the day before the announcement. Despite the good news, shares fell to $148.71 on Oct 19 and then continued to steadily decline over the next week before bottoming out at $140.83, representing a cumulative loss of over $7 billion.
-The real news, of course, was that Honeywell had to restate its asbestos liabilities by more than $1.1 billion.
+This graph shows Honeywell's share price against the (scaled). Share prices had closed at $150.38 on Oct. 18, the day before the announcement. Despite the good news, shares fell to $148.71 on Oct 19 and then continued to steadily decline over the next week before bottoming out at $140.83, representing a cumulative loss of over $7 billion.
 
-In its [10-Q](https://www.sec.gov/Archives/edgar/data/773840/000093041318003111/c92183_10q.htm) filed on 10/19/18, Honeywell made the following disclosure:
+The real news, of course, was that Honeywell had to restate its asbestos liabilities by more than $1.1 billion. In its [10-Q](https://www.sec.gov/Archives/edgar/data/773840/000093041318003111/c92183_10q.htm) filed on 10/19/18, Honeywell made the following disclosure:
 
 The Company’s revised estimated asbestos-related liabilities are now _$2,610 million as of December 31, 2017, which is $1,087 million higher than the Company’s prior estimate. The Company’s Insurance recoveries for asbestos-related liabilities are estimated to be $503 million as of December 31, 2017, which is $68 million higher than the Company’s prior estimate. As of December 31, 2017, the net deferred income taxes impact was $245 million, with a decrease to liabilities and increase to assets, and the cumulative impact on Retained earnings was a decrease of $774 million._
 
