@@ -92,3 +92,5 @@ This table shows the annual impact of changes in accounting estimates on pre-tax
 This table shows that the impact of GE’s changes in accounting estimates differ from those of Boeing and Northrup Grumman in that GE’s changes had a much larger impact on average and that the impact of GE’s changes steadily increased while the others steadily decreased (Northrup Grumman) or showed no clear trend (Boeing).
 
 Because of their potential impact on the bottom line, changes in accounting estimates are always marked with a yellow flag in Corporate Watchdog Reports. However, GE gives us cause to ask how many yellow flags should we allow to pile up before we mark it red?
+
+_Joseph Burke, Ph.D. is the Senior Economist and Data Scientist at Corporate Watchdog Reports._
