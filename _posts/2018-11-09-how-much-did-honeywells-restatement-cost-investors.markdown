@@ -38,7 +38,7 @@ Clearly, not all of the decline in Honeywell’s share price can be attributed t
 
 On Oct. 24, Honeywell closed at $140.83 per share. From Oct. 18 to Oct. 24, the S&P 500 dropped by 2.23%. Given Honeywell's beta of 1.19, Honeywell would have been expected to decrease by 2.66% (1.19 * 2.23%). Honeywell's price would have been $146.38. This means the restatement may have cost Honeyewell investors as much as $5.56 per share, or $4.11 billion in market value.
 
-Interestingly, Honeywell’s restatement had been telegraphed in a comment letter from Honewell to the SEC. That [comment letter ](https://www.sec.gov/Archives/edgar/data/773840/000095015718000913/0000950157-18-000913-index.htm)stated the following:
+Interestingly, Honeywell’s restatement had been telegraphed in a [comment letter ](https://www.sec.gov/Archives/edgar/data/773840/000095015718000913/0000950157-18-000913-index.htm)from Honeywell to the SEC. That letter stated the following:
 
 _Honeywell determined that we had not appropriately applied the provisions of ASC 450 when measuring asbestos liabilities related to unasserted Bendix claims.  Specifically, we concluded that the appropriate application of ASC 450-20 with respect to unasserted Bendix-related asbestos claims is to reflect the full term of the epidemiological projections in the measurement of such liability.  The Company intends to revise its historical consolidated financial statements in future filings to reflect the inclusion of the full term of the epidemiological projections (through 2059) in its measurement of liability for unasserted Bendix-related asbestos claims._
 
