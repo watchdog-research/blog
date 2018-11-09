@@ -1,10 +1,16 @@
 ---
 title: How Much Did Honeywell's Restatement Cost Investors?
 date: 2018-11-09 07:37:00 -05:00
-published: false
+categories:
+- Financial Restatements
+- SEC Comment Letters
+- Red Flags
+tags:
+- Honeywell
+Key: 
 ---
 
-How much did Honeywell’s restatement cost investors?
+How much did Honeywell’s restatement cost investors?![Honeywell Excel Graph 1.jpg](/uploads/Honeywell%20Excel%20Graph%201.jpg)
 
 The recent drop in share price runs counter to the tone of the Honeywell’s most recent quarterly report. Headlines from [Honeywell’s press release ](https://www.prnewswire.com/news-releases/honeywell-delivers-third-quarter-reported-sales-growth-of-6-operating-cash-flow-growth-of-33-300734108.html)on Oct. 19 read as follows: 
 * Honeywell Delivers Third-Quarter Reported Sales Growth Of 6%, Operating Cash Flow Growth Of 33%
@@ -20,7 +26,7 @@ The real news, of course, was that Honeywell had to restate its asbestos liabili
 
 In its [10-Q](https://www.sec.gov/Archives/edgar/data/773840/000093041318003111/c92183_10q.htm) filed on 10/19/18, Honeywell made the following disclosure:
 
-The Company’s revised estimated asbestos-related liabilities are now $2,610 million as of December 31, 2017, which is $1,087 million higher than the Company’s prior estimate. The Company’s Insurance recoveries for asbestos-related liabilities are estimated to be $503 million as of December 31, 2017, which is $68 million higher than the Company’s prior estimate. As of December 31, 2017, the net deferred income taxes impact was $245 million, with a decrease to liabilities and increase to assets, and the cumulative impact on Retained earnings was a decrease of $774 million.
+The Company’s revised estimated asbestos-related liabilities are now _$2,610 million as of December 31, 2017, which is $1,087 million higher than the Company’s prior estimate. The Company’s Insurance recoveries for asbestos-related liabilities are estimated to be $503 million as of December 31, 2017, which is $68 million higher than the Company’s prior estimate. As of December 31, 2017, the net deferred income taxes impact was $245 million, with a decrease to liabilities and increase to assets, and the cumulative impact on Retained earnings was a decrease of $774 million._
 
 A steady stream of law firms have since announced class-action lawsuits on behalf of shareholders, and the [SEC has announced an investigation ](https://www.wsj.com/articles/honeywell-cuts-profit-outlook-on-expected-spinoff-impacts-1539948029)into Honeywell’s asbestos accounting.
 
@@ -32,7 +38,7 @@ On Oct. 24, Honeywell closed at $140.83 per share. From Oct. 18 to Oct. 24, the 
 
 Interestingly, Honeywell’s restatement had been telegraphed in a comment letter from Honewell to the SEC. That [comment letter ](https://www.sec.gov/Archives/edgar/data/773840/000095015718000913/0000950157-18-000913-index.htm)stated the following:
 
-Honeywell determined that we had not appropriately applied the provisions of ASC 450 when measuring asbestos liabilities related to unasserted Bendix claims.  Specifically, we concluded that the appropriate application of ASC 450-20 with respect to unasserted Bendix-related asbestos claims is to reflect the full term of the epidemiological projections in the measurement of such liability.  The Company intends to revise its historical consolidated financial statements in future filings to reflect the inclusion of the full term of the epidemiological projections (through 2059) in its measurement of liability for unasserted Bendix-related asbestos claims.
+_Honeywell determined that we had not appropriately applied the provisions of ASC 450 when measuring asbestos liabilities related to unasserted Bendix claims.  Specifically, we concluded that the appropriate application of ASC 450-20 with respect to unasserted Bendix-related asbestos claims is to reflect the full term of the epidemiological projections in the measurement of such liability.  The Company intends to revise its historical consolidated financial statements in future filings to reflect the inclusion of the full term of the epidemiological projections (through 2059) in its measurement of liability for unasserted Bendix-related asbestos claims._
 
 This letter was dated Aug. 20 and disseminated on Oct. 10, 2018, a full nine days before the announcement on Oct. 19.
 
