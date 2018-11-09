@@ -26,7 +26,7 @@ The recent drop in share price runs counter to the tone of the Honeywell’s mos
 
 This graph shows Honeywell's share price against the (scaled) S&P 500. Share prices had closed at $150.38 on Oct. 18, the day before the announcement. Despite the good news, shares fell to $148.71 on Oct 19 and then continued to steadily decline over the next week before bottoming out at $140.83, representing a cumulative loss of over $7 billion.
 
-So what happened?
+What happened?
 
 The real news, of course, was that Honeywell had to restate its asbestos liabilities by more than $1.1 billion. In its [10-Q](https://www.sec.gov/Archives/edgar/data/773840/000093041318003111/c92183_10q.htm) filed on 10/19/18, Honeywell made the following disclosure:
 
@@ -38,7 +38,7 @@ So how much did the restatement cost investors?
 
 Clearly, not all of the decline in Honeywell’s share price can be attributed to the disclosure of the asbestos liabilities and accompanying restatement. As the graph above shows, the share price of Honeywell declined in a large part because of a decline in the market, represented here by the S&P 500. The two lines track closely up until the date of the announcement on Oct. 19, at which point they diverge.
 
-On Oct. 24, Honeywell closed at $140.83 per share. From Oct. 18 to Oct. 24, the S&P 500 dropped by 2.23%. Given Honeywell's beta of 1.19, Honeywell would have been expected to decrease by 2.66% (1.19 * 2.23%). Honeywell's price would have been $146.38. This means the restatement may have cost Honeyewell investors as much as $5.56 per share, or $4.11 billion in market value.
+From Oct. 18 to Oct. 24, the S&P 500 dropped by 2.23%. Given Honeywell's beta of 1.19, Honeywell would have been expected to decrease by 2.66%. If that had that been the case, Honeywell's price would have been $146.38 on Oct. 24. Instead, Honeywell shares closed at $140.83.  This suggests that the restatement may have cost Honeywell investors as much as $5.56 per share, or $4.11 billion in market value.
 
 Interestingly, Honeywell’s restatement had been telegraphed in a [comment letter ](https://www.sec.gov/Archives/edgar/data/773840/000095015718000913/0000950157-18-000913-index.htm)from Honeywell to the SEC. That letter stated the following:
 
