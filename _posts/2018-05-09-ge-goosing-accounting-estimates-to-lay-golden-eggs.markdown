@@ -1,5 +1,5 @@
 ---
-title: 'GE: Goosing Accounting Estimates to Lay Golden Eggs'
+title: Did GE Goose Accounting Estimates to Lay Golden Eggs?
 date: 2018-05-09 14:24:00 -04:00
 categories:
 - Changes in Accounting Estimates
