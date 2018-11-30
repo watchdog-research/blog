@@ -8,6 +8,7 @@ categories:
 tags:
 - GE
 author: joseph_burke
+image: "/uploads/ge-change-in-accounting-estimates-watchdog-report.jpg"
 ---
 
 The fall of GE is nothing short of stunning. As the Wall Street Journal reports, “\[T\]he stock value lost by GE in the past 12 months is twice the amount that vanished when Enron Corp. collapsed in 2001—and more than the combined market capitalization erased by the bankruptcies of Lehman Brothers and General Motors during the financial crisis. Longer term, GE’s market capitalization has fallen more than $460 billion since its 2000 peak.”
