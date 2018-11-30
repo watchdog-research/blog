@@ -9,7 +9,7 @@ categories:
 tags:
 - Honeywell
 author: joseph_burke
-image: "/uploads/honeywell%20restatement%20corporate%20watchdog%20report.jpg"
+image: "/uploads/honeywell-restatement-corporate-watchdog-report.jpg"
 ---
 
 October was a tough month for Honeywell investors. After starting out the month trading over $160, Honeywell’s share price closed at $140.83 on Oct. 24.
