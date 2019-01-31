@@ -3,6 +3,7 @@ title: Insights on Agilent
 date: 2019-01-31 16:03:00 -05:00
 categories:
 - Insights
+- featured
 tags:
 - Agilent
 - Audit Fees
