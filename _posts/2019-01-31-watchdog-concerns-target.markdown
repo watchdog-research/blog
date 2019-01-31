@@ -1,9 +1,12 @@
 ---
 title: Early Retirement for Target's CFO
 date: 2019-01-31 16:21:00 -05:00
+categories:
+- featured
+- Watchdog Concerns
 tags:
 - Target
-- Watchdog Concerns
+- CFO
 ---
 
 On January 10, 2019, Target’s CFO Cathy Smith resigned after serving in her role for less than four years.  We wish her well in her retirement, but with all the turmoil happening in retail we take a skeptical view of any 54 year-old CFO suddenly “retiring.” at one of the world’s top retail corporations.  Is there something else going on?
