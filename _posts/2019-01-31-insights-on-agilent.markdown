@@ -9,10 +9,6 @@ tags:
 - Audit Fees
 ---
 
-**What Happened?**
-
-**New Board Member Announced**
-
 On Jan. 16, 2019, Agilent Technologies announced the addition of SAP executive Mala Anand to its Board of Directors.  Agilent is a well regarded company with a $23 billion market cap on annual revenue of $4.9 billion.  When new members join a company’s board, Watchdog Reports will often review the company to asses the company’s quality of financial disclosures.
 
 **Watchdog's Concerns**
