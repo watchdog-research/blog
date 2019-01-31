@@ -20,11 +20,11 @@ Given their scale and diverse nature, one would have expected some part of these
 
 HAL announced these impairments in the opening of their 2017 10-K along with a 33% decline in revenue and a whopping $6.5 billion loss in 2016, with this “big bath” impairment disclosure:
 
-*“Our results reflected the negative impact of global activity and pricing reductions, combined with $3.4 billion and $2.2 billion of impairments and other charges recorded in 2016 and 2015, respectively.”*
+*Our results reflected the negative impact of global activity and pricing reductions, combined with $3.4 billion and $2.2 billion of impairments and other charges recorded in 2016 and 2015, respectively.*
 
 All told, from 2015 to 1q 2018 Halliburton wrote down $6.5 billion in assets.  Here’s the thing:  Halliburton failed to even remotely signal ANY weaknesses in its internal controls even as they were taking these massive impairments.  In fact, they gave themselves an “effective controls” score:
 
-*“Under the supervision and with the participation of our management, including our chief executive officer and chief financial officer, ...we believe that, as of December 31, 2017, our internal control over financial reporting is effective.*
+*Under the supervision and with the participation of our management, including our chief executive officer and chief financial officer, ...we believe that, as of December 31, 2017, our internal control over financial reporting is effective.*
 
 How is it that HAL can write-off $6.5 billion in assets over three years and also declares their controls to be effective?  It is hard to reasonably reconcile these two opposing views. There are very few companies in the S&P 500 who have done zero restatements or who have not acknowledged some weaknesses in their internal controls for 14 years.
 
