@@ -30,13 +30,13 @@ How is it that HAL can write-off $6.5 billion in assets over three years and als
 
 We wondered how a CFO would have given themselves a clean assessment given the magnitude of these issues.  Turns out Halliburton had 5 CFOs in 3.5 years (see table next page).  Such turnover signals trouble.  Did the CFOs leave because they were overwhelmed and burned out from managing HAL’s complex reporting and business environment?  Or did conflict arise over some areas of financial reporting?
 
-[Watchdog Concerns - Halliburton - CFO Turnover.JPG](/uploads/Watchdog%20Concerns%20-%20Halliburton%20-%20CFO%20Turnover.JPG)
+![Watchdog Concerns - Halliburton - CFO Turnover.JPG](/uploads/Watchdog%20Concerns%20-%20Halliburton%20-%20CFO%20Turnover.JPG)
 
 This table tracks the CFO changes at Halliburton.  There have been five different CFOs at Halliburton since June 30, 2016.
 
 One way to off-set risks from high CFO turnover is   through an increased auditor presence.  Unexpectedly, HAL’s audit spending fell into the low-end of expectations.  According to our peer analysis (see table on the next page), we expected HAL’s audit fees to be twice what they are now.
 
-[Watchdog Concerns - Halliburton - Audit Fees.JPG](/uploads/Watchdog%20Concerns%20-%20Halliburton%20-%20Audit%20Fees.JPG)
+![Watchdog Concerns - Halliburton - Audit Fees.JPG](/uploads/Watchdog%20Concerns%20-%20Halliburton%20-%20Audit%20Fees.JPG)
 
 This table compares the audit fees paid by Halliburton to its auditor KPMG (last line) to benchmark audit fees paid to auditors by related peers of Haliburton.  We benchmarked fees against revenue and calculate the normal/expected fees Halliburton would pay against each benchmark (Expected Fees column).  Net/net:  Halliburton’s $10.7 million in audit fees is significantly below the norms.  Fees this far below the norms suggest that Halliburton’s auditor does not have the resources one would expect for this business size.
 
