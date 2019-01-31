@@ -25,7 +25,7 @@ Target has 1,850 physical stores which now appear vulnerable to a major asset im
 
 How does Target value long-lived assets?  Their 10k released March 14, 2018, Target states:
 
-*Long-lived assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amounts may not be recoverable…Fair value is measured using discounted cash flows or independent opinions of value, as appropriate. We recorded impairments of $91 million, $43 million, and $54 million in 2017, 2016, and 2015, respectively...”*
+*Long-lived assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amounts may not be recoverable…Fair value is measured using discounted cash flows or independent opinions of value, as appropriate. We recorded impairments of $91 million, $43 million, and $54 million in 2017, 2016, and 2015, respectively...*
 
 We note that Target has disclosed an average of only $85 million in impairments a year over the last five years -- on a PPE base of $18 billion in non-land  PPE assets.  That’s about a 0.5% in impairment value.  Looking at TGT’s peers, we note Walmart took a $569m impairment when closing Sam’s stores and Sears took over $1bn in impairments in the last four years.
 
