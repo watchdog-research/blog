@@ -12,9 +12,9 @@ tags:
 
 On January 24, 2019 Alteryx disclosed it was terminating PWC as its outside auditor.  Because of the seriousness of an auditor termination, we are posting the company’s relevant disclosure here:
 
-*“On January 17, 2019, following an internal review by PwC, PwC notified the Company that PwC had increased its use of, and communications and services related to, the Company’s software platform with its clients and prospective clients in 2018 and that this creates the possible appearance of a business relationship contrary to auditor independence standards. Based on its current assessment, PwC communicated to the Company that this concern did not extend to 2017 or any prior year.
+*On January 17, 2019, following an internal review by PwC, PwC notified the Company that PwC had increased its use of, and communications and services related to, the Company’s software platform with its clients and prospective clients in 2018 and that this creates the possible appearance of a business relationship contrary to auditor independence standards. Based on its current assessment, PwC communicated to the Company that this concern did not extend to 2017 or any prior year.*
 
-As a result of the foregoing, the Company and PwC mutually agreed that it was appropriate for the Company to consider retaining a new independent registered public accounting firm and, accordingly, the Company dismissed PwC as the Company’s independent registered public accounting firm, effective January 24, 2019. The decision to dismiss PwC as the Company’s independent registered public accounting firm is not for any reason related to the Company’s financial reporting or accounting operations or policies. The decision to change independent registered public accounting firms was approved by the Audit Committee.”*
+*As a result of the foregoing, the Company and PwC mutually agreed that it was appropriate for the Company to consider retaining a new independent registered public accounting firm and, accordingly, the Company dismissed PwC as the Company’s independent registered public accounting firm, effective January 24, 2019. The decision to dismiss PwC as the Company’s independent registered public accounting firm is not for any reason related to the Company’s financial reporting or accounting operations or policies. The decision to change independent registered public accounting firms was approved by the Audit Committee.*
 
 **Watchdog's Concerns**
 
@@ -22,7 +22,7 @@ When a company fires its auditors, we get nervous and dig into the situation to 
 
 In AYX’s case, we got more nervous when we realized the company has only been public for about 1.5 years and currently has a $4.2 bn market-cap (23x ttm revenue). We moved from nervous to concerned when we realized Alteryx terminated PwC just as it would have to file at the Alteryx’s very first 404(b) statement about the quality of the company’s internal controls. Our nervousness peaked when we learned of a prior  adverse internal controls disclosure, remediated at the end of their first quarter 10q released May of 2018, with this disclosure:
 
-*“In the course of preparing our financial statements as of and for the year ended December 31, 2016, we identified a material weakness in our internal control over financial reporting…our Chief Executive Officer and Chief Financial Officer, concluded that we have remediated the material weakness described above as of March 31, 2018.”*
+*In the course of preparing our financial statements as of and for the year ended December 31, 2016, we identified a material weakness in our internal control over financial reporting…our Chief Executive Officer and Chief Financial Officer, concluded that we have remediated the material weakness described above as of March 31, 2018.*
 
 This internal control weakness was identified by AYX as occurring during the first 3 quarters of 2016, but it took 15 months to be remediated.  
 
@@ -36,11 +36,11 @@ Further regarding timing:  It would be almost inconceivable that PwC was not alr
 
 Another unusual issue caught our eye:  When we read Alteryx’s statement announcing their decision to terminate PwC, we were struck by its concurrent announcement of Alteryx’s preliminary results. This disclosure appear to us to be an attempt by Alteryx’s management to release positive financial news to offset the troubling news of their termination of its outside auditor.
 
-*“Preliminary results for the full year ended December 31, 2018 were as follows:
-- Revenue is expected to be approximately $203 million, representing a year-over-year increase of approximately 54%.
-- Billings is expected to increase approximately 55% year-over-year.
-- As of December 31, 2018, the Company expects to have nearly 4,700 total customers, an increase of approximately 38% over December 31, 2017.
-- The Company expects to report positive cash flows from operations.”*
+*Preliminary results for the full year ended December 31, 2018 were as follows:*
+- *Revenue is expected to be approximately $203 million, representing a year-over-year increase of approximately 54%.*
+- *Billings is expected to increase approximately 55% year-over-year.*
+- *As of December 31, 2018, the Company expects to have nearly 4,700 total customers, an increase of approximately 38% over December 31, 2017.*
+- *The Company expects to report positive cash flows from operations.*
 
 These are certainly impressive results and we tip our hat to the management team.  But as a watchdog, we are suggesting that investors should be asking hard questions to management about the nature and timing and issues not disclosed in the PwC termination announcement on January 24.
 
