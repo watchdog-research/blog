@@ -34,5 +34,3 @@ While Target has consistently identified its disclosure controls “as effective
 Most likely there are serious internal discussions going on at Target about the asset value of stores. The CFO resignation and Auditor (EY-1931) fees might be evidence of a fissure at Target.  From 2017 to 2018 outside audit fees shot up 20.5%.
 
 If our concerns about a possible impairment are valid, one might look at a CFO retirement as a delaying tactic or evidence of accounting disclosure conflicts within management.
-
-
