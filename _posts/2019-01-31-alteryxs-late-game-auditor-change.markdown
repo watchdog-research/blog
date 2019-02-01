@@ -8,6 +8,8 @@ tags:
 - Alteryx
 - Auditor Change
 - Insider Trading
+author: joseph_burke
+image: "/uploads/Alteryx.png"
 ---
 
 On January 24, 2019 Alteryx disclosed it was terminating PWC as its outside auditor.  Because of the seriousness of an auditor termination, we are posting the company’s relevant disclosure here:
