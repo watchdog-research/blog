@@ -8,6 +8,8 @@ tags:
 - Halliburton
 - CFO
 - Audit Fees
+author: joseph_burke
+image: "/uploads/Halliburton.png"
 ---
 
 "Maduro on the Brink" was Drudge’s top headline Jan. 23, 2019. We wondered how companies operating in Venezuela account for risks.
