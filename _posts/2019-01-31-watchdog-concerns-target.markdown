@@ -7,6 +7,8 @@ categories:
 tags:
 - Target
 - CFO
+author: joseph_burke
+image: "/uploads/Target.png"
 ---
 
 On January 10, 2019, Target’s CFO Cathy Smith resigned after serving in her role for less than four years.  We wish her well in her retirement, but with all the turmoil happening in retail we take a skeptical view of any 54 year-old CFO suddenly “retiring.” at one of the world’s top retail corporations.  Is there something else going on?
