@@ -29,9 +29,9 @@ Later in mid-April, 2018 the company provided more information about the disclos
 
 *...requires additional time to complete the disclosure in the 2017 Annual Report related to the investigations into an investment made by its indirect subsidiary UEG Araucária Ltda. in violation of the Company’s investment policies and the recognition of a provision for the impairment of such investment in the Company’s financial statements, which were disclosed in notices furnished to the Commission on Form 6-K on November 14, 2017, November 24, 2017 and April 12, 2018.*
 
-Now this restatement disclosure was much more informative than the earlier one.  The first disclosure was hard to understand.  This one was clear. In particular it raised the specter that somehow senior management was involved in irregular acts- hence resignations at the top.
+Now this restatement disclosure was much more informative than the earlier one.  The first disclosure was hard to understand.  This one was clear. In particular it raised the specter that somehow senior management was involved in irregular acts-hence resignations at the top.
 
-One month later, May 15, 2018 (C), the company released its 20-F (Foreign Filer Annual Report).  The annual report threw two flags on the Watchdog Report for inappropriate Disclosure and Internal Controls.  Our Analysts detailed the Disclosure and Internal Controls failures as:
+One month later, May 15, 2018 (C), the company released its 20-F (Foreign Filer Annual Report).  The annual report threw two flags on the Watchdog Report for inappropriate disclosure controls and internal controls.  Our analysts detailed the disclosure and internal controls failures as:
 
 * Material weakness
 
@@ -47,7 +47,7 @@ One month later, May 15, 2018 (C), the company released its 20-F (Foreign Filer 
 
 * IT, software, security & access issues
 
-This is a healthy list of failures but seemingly these internal control failures pale next to the liability and reserve disclosures in ELP.s commitment and contingencies sections.  The Company has provisioned $407million for probable legal remedies.  This on a market cap of $2.25Billion (18%).  They suggest there may be another roughly $1Bn in liabilities lurking out there tied to legal issues as well.  These other liabilities are likely real but unestimable – a requirement for disclosure.
+This is a healthy list of failures but seemingly these internal control failures pale next to the liability and reserve disclosures in ELP.s commitment and contingencies sections.  The Company has provisioned $407 million for probable legal remedies.  This on a market cap of $2.25 billion (18%).  They suggest there may be another roughly $1 billion in liabilities lurking out there tied to legal issues as well.  These other liabilities are likely real but unestimable–a requirement for disclosure.
 
 ![ELP2.JPG](/uploads/ELP2.JPG)
 
