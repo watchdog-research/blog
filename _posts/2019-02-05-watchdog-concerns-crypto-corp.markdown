@@ -7,6 +7,7 @@ categories:
 tags:
 - financial restatements
 - Crypto
+image: "/uploads/CryptoCorp_cropped.jpg"
 ---
 
 On January 3, 2019, Crypto Corp. filed an 8K indicating a significant restatement.  
