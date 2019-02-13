@@ -7,6 +7,7 @@ categories:
 tags:
 - Insider Trading
 - financial restatements
+image: "/uploads/Watchdog%20Concerns%20ELP.jpg"
 ---
 
 The US-based PG&E is teaching the world that utilities are not boring.  In the midst of the upheaval at PG&E, we noticed a change in CEO at ELP and decided to take a closer look.  The results were unfortunately predictable from a BRIC country.  Insider trading appears rampant and ELP is under pressure from government, judicial and legislatures.  How did we come to that conclusion?
