@@ -5,8 +5,8 @@ categories:
 - featured
 - Watchdog Context
 tags:
-- Insider Trading
-- Financial Restatements
+- insider trading
+- financial restatements
 image: "/uploads/Watchdog%20Concerns%20ELP.jpg"
 ---
 
