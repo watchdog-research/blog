@@ -2,12 +2,11 @@
 title: How Much Did Honeywell's Restatement Cost Investors?
 date: 2018-11-09 07:37:00 -05:00
 categories:
-- Financial Restatements
-- SEC Comment Letters
-- Red Flags
 - featured
 tags:
 - Honeywell
+- Financial Restatements
+- SEC Comment Letters
 author: joseph_burke
 image: "/uploads/honeywell-restatement-corporate-watchdog-report.jpg"
 ---
