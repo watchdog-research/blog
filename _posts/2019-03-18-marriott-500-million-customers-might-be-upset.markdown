@@ -12,7 +12,7 @@ tags:
 
 On November 30, 2018 Marriott International (MAR) publicly disclosed that it had a data security breach.  It became aware of the breach September 8, 2018.  Their internal investigation showed 500 million customer records had been stolen from its Starwood guest reservation system.
 
-\*\* Watchdog's Concerns\*\*
+**Watchdog's Concerns**
 
 Preventing a cyber breach is a fundamental duty of every management team at every public company.  Any breach is troubling, but a breach of this magnitude (500 million customer records!) is a signal of a massive management failure of internal controls.  Moreover, this is the SECOND breach in the same system – an almost unforgivable error.
 
