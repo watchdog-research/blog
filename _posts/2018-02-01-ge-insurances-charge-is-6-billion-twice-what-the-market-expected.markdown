@@ -5,6 +5,7 @@ categories:
 - featured
 tags:
 - GE
+- Insurance
 author: olga_usvyatsky
 editor: joseph_burke
 image: "/uploads/market_s.jpg"
