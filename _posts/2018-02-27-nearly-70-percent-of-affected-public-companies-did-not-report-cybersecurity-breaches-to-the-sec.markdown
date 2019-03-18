@@ -2,6 +2,8 @@
 title: Nearly 70% of Affected Public Companies Did Not Report Cybersecurity Breaches
   to the SEC
 date: 2018-02-27 18:01:00 -05:00
+tags:
+- Cybersecurity
 author: derryck_coleman
 editor: joseph_burke
 ---
