@@ -1,5 +1,5 @@
 ---
-title: 'Marriott: 500 Million Customers Might Be Upset'
+title: 'Marriott: 500 Million Customers Might Not Be Wrong, But They Might Be Upset'
 date: 2019-03-18 12:43:00 -04:00
 categories:
 - Watchdog Context
