@@ -2,8 +2,8 @@
 title: Alteryx's Late Game Auditor Change
 date: 2019-01-31 16:43:00 -05:00
 categories:
-- Watchdog Concerns
 - featured
+- Watchdog Context
 tags:
 - Alteryx
 - Auditor Change
