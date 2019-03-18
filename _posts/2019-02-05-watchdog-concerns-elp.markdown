@@ -7,6 +7,7 @@ categories:
 tags:
 - insider trading
 - financial restatements
+- ELP
 image: "/uploads/Watchdog%20Concerns%20ELP.jpg"
 ---
 
