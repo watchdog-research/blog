@@ -1,6 +1,12 @@
 ---
 title: 'Marriott: 500 Million Customers Might Be Upset'
 date: 2019-03-18 12:43:00 -04:00
+categories:
+- Cybersecurity
+- Internal Controls
+- featured
+tags:
+- Marriott
 ---
 
 On November 30, 2018 Marriott International (MAR) publicly disclosed that it had a data security breach.  It became aware of the breach September 8, 2018.  Their internal investigation showed 500 million customer records had been stolen from its Starwood guest reservation system.
