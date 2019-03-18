@@ -21,6 +21,8 @@ Next notice Arrow C which clearly shows a steep decline in Marriott’s stock pr
 
 84 days after the first signal of the breach, on November 30, 2018, find Arrow D.  On that date, for the first time, Marriott files an 8K with the SEC and releases a press release notifying the public of the data breach.
 
+![Mariott Graph 03 18 19.JPG](/uploads/Mariott%20Graph%2003%2018%2019.JPG)
+
 You will notice Arrow E follows yet another steep decline after the public disclosure, reaching a low price point of $101 on Christmas Day, 2018.
 
 In other words, Marriott’s cyber breach coincided with a collapse in Marriott’s stock price from a high of $132 down to a low of $101 in just 84 days.  That is a 24% loss for investors.
