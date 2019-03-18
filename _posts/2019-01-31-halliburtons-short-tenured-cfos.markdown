@@ -2,8 +2,8 @@
 title: Halliburton's Short-Tenured CFOs
 date: 2019-01-31 16:28:00 -05:00
 categories:
-- Watchdog Concerns
 - featured
+- Watchdog Context
 tags:
 - Halliburton
 - CFO
