@@ -5,8 +5,8 @@ categories:
 - featured
 - Watchdog Context
 tags:
-- financial restatements
 - Crypto
+- Financial Restatements
 image: "/uploads/CryptoCorp_cropped.jpg"
 ---
 
