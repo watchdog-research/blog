@@ -2,11 +2,10 @@
 title: Did GE Goose Accounting Estimates to Lay Golden Eggs?
 date: 2018-05-09 14:24:00 -04:00
 categories:
-- Changes in Accounting Estimates
-- Warning Signs
 - featured
 tags:
 - GE
+- Changes in Accounting Estimates
 author: joseph_burke
 image: "/uploads/ge-change-in-accounting-estimates-watchdog-report.jpg"
 ---
