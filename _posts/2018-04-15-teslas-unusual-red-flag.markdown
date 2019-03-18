@@ -2,11 +2,11 @@
 title: Tesla’s Unusual Red Flag
 date: 2018-04-15 18:21:00 -04:00
 categories:
-- Red Flag
-- Management Turnover
 - featured
 tags:
 - Tesla
+- Managment Turnover
+- Red Flag
 author: joseph_burke
 image: "/uploads/cfo_s.jpg"
 ---
