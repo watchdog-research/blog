@@ -3,10 +3,10 @@ title: 'Watchdog Concerns: ELP'
 date: 2019-02-05 15:56:00 -05:00
 categories:
 - featured
-- Watchdog Concerns
+- Watchdog Context
 tags:
 - Insider Trading
-- financial restatements
+- Financial Restatements
 image: "/uploads/Watchdog%20Concerns%20ELP.jpg"
 ---
 
