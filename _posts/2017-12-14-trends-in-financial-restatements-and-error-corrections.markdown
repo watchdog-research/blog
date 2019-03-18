@@ -4,8 +4,8 @@ date: 2017-12-14 18:15:00 -05:00
 categories:
 - featured
 tags:
-- financial restatements
-- error corrections
+- Error Corrections
+- Financial Restatements
 author: kati_manyak
 editor: joseph_burke
 ---
