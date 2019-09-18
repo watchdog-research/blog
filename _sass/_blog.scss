@@ -60,6 +60,7 @@
   .post-content {
     padding-top: $spacer;
     
+    img,
     .image--full-width {
         @extend .img-fluid;
     }
