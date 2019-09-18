@@ -17,7 +17,10 @@ Every investor makes mistakes when it comes to valuing an acquisition.  However,
 
 **A Giant of Industry in Crisis**
 
-On August 26, David Knopf, who at 29 had ascended to the lofty heights of CFO at KHC in 2017,  departed after a brief two year tenure.  KHC’s CEO, Bernardo Hees, resigned in April.  The company’s two most significant executives  have left the company at a time of great turmoil; a $15 billion impairment in February, more impairments, restatements, internal control failures, late filings, class action litigation, SEC investigations and more have sent share prices tumbling.  Ever Since Warren Buffet resigned from the Board of Directors on February 22, 2018, the share values have fallen from over $90 to a little over $25 in September, 2019.  Yet KHC has not made any substantial changes.  We must wonder whether the only way out for the majority owners Berkshire Hathaway (26.7%) and 3G Capital (22%) to win investor confidence back will be to take the company private and completely change its management philosophy and competency.  But at what cost and risk?
+On August 26, David Knopf, who at 29 had ascended to the lofty heights of CFO at KHC in 2017,  departed after a brief two year tenure.  KHC’s CEO, Bernardo Hees, resigned in April.  The company’s two most significant executives  have left the company at a time of great turmoil; a $15 billion impairment in February, more impairments, restatements, internal control failures, late filings, class action litigation, SEC investigations and more have sent share prices tumbling.  
+
+Ever Since Warren Buffet resigned from the Board of Directors on February 22, 2018, the share values have fallen from over $90 to a little over $25 in September, 2019.  Yet KHC has not made any substantial changes.  We must wonder whether the only way out for the majority owners Berkshire Hathaway (26.7%) and 3G Capital (22%) to win investor confidence back will be to take the company private and completely change its management philosophy and competency.  But at what cost and risk?
+
 A brief look at the Watchdog Report shows just how precipitous KHC’s fall has been:
 
 ![KHC image 1.png](/uploads/KHC%20image%201.png) 
@@ -28,10 +31,10 @@ Kraft Heinz was formed in 2015 when the two of the largest private investment fi
 
 In April of this year, we wrote a report concerning KHC after it issued its $15 billion impairment of intangible assets. What concerned us the most about the impairment was that it raised serious questions about the transparency and reliability of its accounting since the merger:
 
-> **For the fourth quarter of 2018, in connection with the preparation of our year-end financial statements, we assessed the changes in circumstances that occurred during the quarter to determine if it was more likely than not that the fair values of any reporting units or indefinite-lived intangible assets were below their carrying amounts.
-While there was no single determinative event, the consideration in totality of several factors that developed during the fourth quarter of 2018 led us to conclude that it was more likely than not that the fair values of certain reporting units and indefinite-lived intangible assets were below their carrying amounts...**
+*For the fourth quarter of 2018, in connection with the preparation of our year-end financial statements, we assessed the changes in circumstances that occurred during the quarter to determine if it was more likely than not that the fair values of any reporting units or indefinite-lived intangible assets were below their carrying amounts.
+While there was no single determinative event, the consideration in totality of several factors that developed during the fourth quarter of 2018 led us to conclude that it was more likely than not that the fair values of certain reporting units and indefinite-lived intangible assets were below their carrying amounts...*
 
-> **As a result of our interim impairment test, our unaudited results for the fourth quarter of 2018 included non-cash impairment losses of approximately $15.4 billion, including $7.1 billion related to goodwill and $8.3 billion related to indefinite-lived intangible assets.**
+*As a result of our interim impairment test, our unaudited results for the fourth quarter of 2018 included non-cash impairment losses of approximately $15.4 billion, including $7.1 billion related to goodwill and $8.3 billion related to indefinite-lived intangible assets.*
 
 While not a black swan event, this declaration had a strong tinge of gray.  This statement makes it appear as if something catastrophic occurred in the fourth quarter of 2018, or that some latent problem only manifested itself in the fourth quarter of 2018. However, sales for 2017 and 2018 were virtually flat, raising serious questions about the price paid for Kraft.  Even Warren Buffet publicly expressed his belief that they had overpaid.  
 
