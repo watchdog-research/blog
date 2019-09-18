@@ -1,9 +1,4 @@
 
-# ignore the gemfile, since siteleaf is deleting it
-Gemfile
-Gemfile.lock
-
-
 # Ignore bundler config.
 /.bundle
 

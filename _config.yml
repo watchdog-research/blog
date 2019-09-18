@@ -31,6 +31,9 @@ plugins:
 - jekyll-seo-tag
 - jekyll-feed
 markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compact
 include:
 - 404.html
 exclude:
