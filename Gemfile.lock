@@ -65,12 +65,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll
+  jekyll (>= 3.7.4)
   jekyll-feed
   jekyll-seo-tag
-
-RUBY VERSION
-   ruby 2.5.3p105
 
 BUNDLED WITH
    1.17.3
