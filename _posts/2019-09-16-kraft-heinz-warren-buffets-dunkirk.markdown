@@ -2,7 +2,6 @@
 title: 'Kraft Heinz: Warren Buffet''s Dunkirk'
 date: 2019-09-16 16:42:00 -04:00
 categories:
-- Blog
 - featured
 tags:
 - Kraft Heinz
