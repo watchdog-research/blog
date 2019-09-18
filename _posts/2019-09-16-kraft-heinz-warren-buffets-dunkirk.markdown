@@ -45,7 +45,7 @@ On February 22, 2018, less than a week after the disappointing 2017 earnings wer
 
 Buffett’s resignation and 3G Capital’s reduction of its stake were indicators that the company was overvalued, but KHC created the opposite impression with their disclosures. A look at the Watchdog Report shows that KHC filed impairments to intangible assets and goodwill in 2016 and 2017 of $18 million and $49 million, respectively – something akin to accounting virtue signaling.  In 2016, that impairment was 0.8% of their net income, and in 2017 it was .4% of their net income.  These amounts were miniscule in relation to the reported size of intangible assets.  In 2016 and 2017, $100 billion of KHC’s $120 billion in assets were in intangible assets and goodwill.  These impairments were meant to reassure investors that KHC’s assets were well tested, conservative and accurate.  So, when KHC issued its $15 billion impairment to goodwill and intangible assets, it blindsided the public and the market lost confidence in the integrity of the company’s financial reporting.  That lack of confidence in the trustworthiness of the reporting, coupled with a steady stream of bad news, has sent the share value spiraling.
 
-![KHC image 2.png](/uploads/KHC%20image%202.png)
+<img src="/uploads/KHC%20image%202.png" alt="KHC-stock-chart2" class="img-fluid" />
 
 **Watchdog’s Concerns About the Ongoing Lack of Transparency in Current Reporting**
 
@@ -63,7 +63,7 @@ Not only did KHC need to issue another impairment, but it also moved the goal po
 
 Furthermore, in assessing whether Kraft Heinz is being transparent about its current financial condition our analysts also looked at the 2019 quarterly statements of cash flows:
 
-![KHC image 3resize.png](/uploads/KHC%20image%203resize.png)
+<img src="/uploads/KHC%20image%203resize.png" alt="KHC-img3" class="img-fluid" />
 
 What our analysts see in this statement is a lack of income produced by core operating activities.  The $246 million gain on the sale of a business was due to a pre-tax benefit on the sale of Heinz India Private Limited in January 2019.   That sale is not a part of the core business, and the credits from the amortization of post-retirement benefit plans’ prior service costs ($153 million) is not either.  And who knows what the Other Items are at $131 million.  Yet these three items on the statement of cash flows account for approximately 60% of the total Net Income.  These kinds of one-off net income additions do not inspire confidence in the transparency of KHC’s financials.
 
@@ -92,7 +92,7 @@ Bernardo Hees, the former CEO, was brought on after running Burger King and Hein
 
 David Knopf, the former CFO, was appointed at the age of 29 in 2017, and much of his prior experience had consisted of working for 3G Capital.  His replacement is Paulo Basilio, a partner at 3G Capital who helped to organize the Kraft Heinz merger in 2015.
 
-![KHC image 4.png](/uploads/KHC%20image%204.png)
+<img src="/uploads/KHC%20image%204.png" alt"KHC-img4" class="img-fluid" />
 
 Another thing to note about this chart is the fact that all the top executives rely heavily on stock-based compensation for their earnings.  (Note: Bernardo Hees forfeited his stock awards for 2018 when he resigned).
 
@@ -103,7 +103,7 @@ At Watchdog, we have serious doubts that the appointment of Patricio and Basilio
 This year was one of the worst years in the history of Kraft Heinz.  As a result, they have fired their CEO and CFO.  Have they brought in anyone who is both independent and credible?  No, they have brought in more of the same, two executives with direct connections to 3G Capital.  Buffet seems to have stepped back and deferred to 3G Capital, just when KHC needs him to step in and take some control over the management of the company.  His influence would provide the investors with some much-needed confidence and credibility in a company that has thrown away its good name.
 KHC is unlikely to grow their way out of their problems this year; the company is still highly leveraged and net sales and gross profits are down.
 
-![KHC image 5.png](/uploads/KHC%20image%205.png)
+<img src="/uploads/KHC%20image%205.png" alt="KHC img5" class="img-fluid" />
 
 While projected operating results are not positive, it seems that the problems at KHC are primarily about management philosophy and reliability.  That trustworthiness quotient is currently in a spiral that will not be corrected until management embraces transparency and provides much more information about the company’s goodwill and intangible asset value.  From how they have been moving the goalposts with each quarterly report, it seems that management is in denial.
 
