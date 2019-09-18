@@ -22,7 +22,7 @@ Ever Since Warren Buffet resigned from the Board of Directors on February 22, 20
 
 A brief look at the Watchdog Report shows just how precipitous KHC’s fall has been:
 
-![KHCimg1](/uploads/KHC%20image%201.png)
+<img src="/uploads/KHC%20image%201.png" alt="KHCimg1" class="img-fluid" />
 
 **How Did Things Go So Wrong for Kraft Heinz – A Gray Swan event?**
 
