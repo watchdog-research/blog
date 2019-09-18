@@ -59,7 +59,7 @@ Not only did KHC need to issue another impairment, but it also moved the goal po
   
 Furthermore, in assessing whether Kraft Heinz is being transparent about its current financial condition our analysts also looked at the 2019 quarterly statements of cash flows:
  
-![KHC image 3.png](/uploads/KHC%20image%203.png) 
+![KHC image 3resize.png](/uploads/KHC%20image%203resize.png)
 
 What our analysts see in this statement is a lack of income produced by core operating activities.  The $246 million gain on the sale of a business was due to a pre-tax benefit on the sale of Heinz India Private Limited in January 2019.   That sale is not a part of the core business, and the credits from the amortization of post-retirement benefit plans’ prior service costs ($153 million) is not either.  And who knows what the Other Items are at $131 million.  Yet these three items on the statement of cash flows account for approximately 60% of the total Net Income.  These kinds of one-off net income additions do not inspire confidence in the transparency of KHC’s financials.
 
