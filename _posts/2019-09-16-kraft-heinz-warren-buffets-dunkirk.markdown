@@ -27,6 +27,7 @@ A brief look at the Watchdog Report shows just how precipitous KHC’s fall has 
 Kraft Heinz was formed in 2015 when the two of the largest private investment firms, Berkshire Hathaway and 3G Capital, arranged a merger between Kraft and Heinz.  3G Capital is a Brazilian firm known for revitalizing companies by cutting executives and using a zero-based budget approach to boost profitability; their approach helped successfully revitalize AB InBev, Burger King, and Tim Horton’s.  With Berkshire Hathaway providing the capital and 3G Capital providing both capital and the management with a proven track record, how could things have gone so wrong at KHC?
 
 In April of this year, we wrote a report concerning KHC after it issued its $15 billion impairment of intangible assets. What concerned us the most about the impairment was that it raised serious questions about the transparency and reliability of its accounting since the merger:
+
 **For the fourth quarter of 2018, in connection with the preparation of our year-end financial statements, we assessed the changes in circumstances that occurred during the quarter to determine if it was more likely than not that the fair values of any reporting units or indefinite-lived intangible assets were below their carrying amounts.
 While there was no single determinative event, the consideration in totality of several factors that developed during the fourth quarter of 2018 led us to conclude that it was more likely than not that the fair values of certain reporting units and indefinite-lived intangible assets were below their carrying amounts...**
 
@@ -42,7 +43,7 @@ Buffett’s resignation and 3G Capital’s reduction of its stake were indicator
  
 ![KHC image 2.png](/uploads/KHC%20image%202.png)
 
-**Watchdog’s concerns about the ongoing lack of transparency in current reporting**
+**Watchdog’s Concerns About the Ongoing Lack of Transparency in Current Reporting**
 
 Was the $15 billion impairment too high, too low, or, just right?  Should some of this impairment have been a restatement?  KHC got into this problem by trying to make its financial statements look better than they were, and then blindsiding the public with a questionable impairment. So, did they come clean in 2018’s 10-k?  Can investors rest assured that the worst is over? Our analysts looked at the latest 10-Q and what they found was not encouraging.
 
@@ -64,7 +65,7 @@ What our analysts see in this statement is a lack of income produced by core ope
 
 This statement of cash flows is troubling because it seems that KHC is not experiencing the kind of growth it needs but is trying to find ways to mask that deficiency.  However, that is only the beginning of our concerns about the reliability and competency of the management team at KHC.
 
-**An SEC investigation reveals a history of poor management**
+**An SEC Investigation Reveals a History of Poor Management**
 
 On February 21, 2019, KHC disclosed that it had received a subpoena from the SEC concerning their procurement practices. It also stated that its own internal investigation had revealed a $25 million increase to the cost of goods for the fourth quarter of 2018, but that it expected no other significant effects from the investigation:
 
@@ -78,7 +79,7 @@ So, what was this procurement issue the SEC was looking into?  According to the 
  
 Even though no one in senior management was implicated in this fraud, the manipulation of these operational metrics can be laid squarely at their feet.  When 3G Capital’s Bernardo Hees took the helm at KHC, he replaced 11 of the company’s 12 senior executives with younger employees who were heavily compensated with performance-based bonuses. With growth stagnant, one has to wonder whether some of these inexperienced young executives used fraud to meet their objectives, and until the SEC brought it to light, this fraud went (apparently) unnoticed or overlooked by senior management.
   
-**Despite new hires, Kraft Heinz is not changing its management culture**
+**Despite New Hires, Kraft Heinz Is Not Changing Its Management Culture**
 
 What Kraft Heinz needs is to regain the confidence of the market. To that end, the company has replaced both the CEO Bernardo Hees and CFO David Knopf. Yet it seems that they have not addressed their transparency issues. What accounts for this apparent recalcitrance despite the change in leadership?  
 
@@ -93,7 +94,7 @@ Another thing to note about this chart is the fact that all the top executives r
 
 At Watchdog, we have serious doubts that the appointment of Patricio and Basilio will change the culture at KHC, especially since Basilio was not only the CFO when many of these problems were created but also was instrumental in proposing the acquisition in the first place.  The company may have appointed two new bodies, but both of these men have held previous positions with KHC or related entities. Consequently, we do not expect to see any major changes in the culture of management at Kraft Heinz.
 
-**2020 may bring more trouble for Kraft Heinz**
+**2020 May Bring More Trouble for Kraft Heinz**
 
 This year was one of the worst years in the history of Kraft Heinz.  As a result, they have fired their CEO and CFO.  Have they brought in anyone who is both independent and credible?  No, they have brought in more of the same, two executives with direct connections to 3G Capital.  Buffet seems to have stepped back and deferred to 3G Capital, just when KHC needs him to step in and take some control over the management of the company.  His influence would provide the investors with some much-needed confidence and credibility in a company that has thrown away its good name.
 KHC is unlikely to grow their way out of their problems this year; the company is still highly leveraged and net sales and gross profits are down. 
