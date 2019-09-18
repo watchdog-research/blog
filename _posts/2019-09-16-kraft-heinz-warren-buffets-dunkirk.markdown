@@ -106,6 +106,7 @@ While projected operating results are not positive, it seems that the problems a
 **Auditor Involvement**
 
 PWC has been the auditor of KHC since at least 1979 and it will be fascinating to see their Critical Audit Matters for KHC this filing season.  PWC gave KHC an adverse internal control opinion for the year ended 2018.  But PWC did not give KHC an adverse opinion for 2017, and perhaps they should have.  It is notable that audit fees from 2017 to 2018 grew from $9 to $19 million.  It would not be a stretch to expect a further increase in audit fees for 2019.  They clearly have been deeply involved in what has been happening and may have been pushing for more transparency.  But it does beg the question, what has PWC been focusing on?  
+
 It is possible that PWC will resign the account, or that KHC will seek to bring on another auditor.  At a minimum, a continuation of late filings by KHC can be expected and adverse internal control opinions will continue.  
 In short, KHC is in a reputational spiral. And Buffet risks seeing his sterling reputation for good governance tarnished in his twilight years.  Displacing 3G Capital might be the right move. Will he save KHC in its eleventh hour?  Will he get his soldiers off that fated beach?
 
