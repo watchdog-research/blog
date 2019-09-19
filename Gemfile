@@ -11,3 +11,4 @@ gem 'jekyll', '>= 3.7.4'
 
 gem 'jekyll-seo-tag'
 gem 'jekyll-feed'
+gem 'jekyll-paginate'

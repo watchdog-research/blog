@@ -30,6 +30,7 @@ google_analytics: UA-116841703-3
 plugins:
 - jekyll-seo-tag
 - jekyll-feed
+- jekyll-paginate
 markdown: kramdown
 sass:
   sass_dir: _sass
@@ -50,3 +51,5 @@ authors:
   john_cheffers:
     name: John Cheffers
 url: https://blog.cwdresearch.com
+paginate: 7
+paginate_path: "/page:num/"

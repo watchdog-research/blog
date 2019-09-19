@@ -7,15 +7,13 @@ layout: default
     <div class="row">
       <div class="col">
 
-        <h2 class="post-list-heading">Featured articles</h2>
+        <h2 class="post-list-heading">Articles</h2>
 
 
         <div class="post-list">
-          {%- for post in site.categories.featured -%}
+          {%- for post in paginator.posts -%}
 
           <div class="post-item">
-            {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
-            <span class="post-meta">{{ post.date | date: date_format }}</span>
 
             <h3 class="post-title">
               <a class="post-link" href="{{ post.url | relative_url }}">
@@ -23,14 +21,93 @@ layout: default
               </a>
             </h3>
 
-            <div class="post-excerpt">
+            <hr class="mt-0 mb-1">
+
+            {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+            Posted on <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+            <div class="post-excerpt mt-2 ">
               {{ post.excerpt }}
             </div>
 
+            {%- assign first_category = post.categories | first %}
+            {% if  first_category!= nil %}
+            Posted in <span class="post-meta">{{ post.categories | join: ", " | capitalize}}</span>
+            {% endif %}
+
+            <hr class="mt-0 mb-4">
+
           </div>
+
           {%- endfor -%}
         </div>
 
+        <div class="d-flex flex-row align-items-baseline">
+
+          <div class="p-2">
+            <nav aria-label="Posts navigation">
+              <ul class="pagination">
+
+                {% if paginator.previous_page %}
+
+                <li class="page-item">
+                  <a class="page-link" href="{{ paginator.previous_page_path }}">Previous</a>
+                </li>
+
+<!--                <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path }}">{{ paginator.page | minus: 1 }}</a></li>-->
+
+                {% else %}
+
+                <li class="page-item disabled">
+                  <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
+                </li>
+
+                {% endif %}
+
+
+<!--                <li class="page-item disabled"><a class="page-link" tabindex="-1" aria-disabled="true">{{ paginator.page }}</a></li>-->
+
+
+                {% if paginator.next_page %}
+
+<!--                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path }}">{{ paginator.page | plus:  1 }}</a></li>-->
+
+                <li class="page-item">
+                  <a class="page-link" href="{{ paginator.next_page_path }}">Next</a>
+                </li>
+
+                {% else %}
+
+                <li class="page-item disabled">
+                  <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Next</a>
+                </li>
+
+                {% endif %}
+
+              </ul>
+            </nav>
+          </div>
+
+          <div class="p-2 ml-auto">
+            <b>Total articles: {{paginator.total_posts}}</b>(page {{ paginator.page }} of {{ paginator.total_pages }} with {{paginator.per_page}} articles)
+          </div>
+
+        </div>
+
+
+
+
+        <div class="row">
+
+          <div class="col-8">
+
+          </div>
+
+          <div class="col-4">
+
+          </div>
+
+        </div>
 
       </div>
     </div>
