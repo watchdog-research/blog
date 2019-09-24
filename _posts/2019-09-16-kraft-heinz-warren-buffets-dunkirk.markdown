@@ -92,7 +92,7 @@ Bernardo Hees, the former CEO, was brought on after running Burger King and Hein
 
 David Knopf, the former CFO, was appointed at the age of 29 in 2017, and much of his prior experience had consisted of working for 3G Capital.  His replacement is Paulo Basilio, a partner at 3G Capital who helped to organize the Kraft Heinz merger in 2015.
 
-<img src="/uploads/KHC%20image%204.png" alt"KHC-img4" class="img-fluid" />
+<img src="/uploads/KHC%20image%204.png" alt="KHC-img4" class="img-fluid" />
 
 Another thing to note about this chart is the fact that all the top executives rely heavily on stock-based compensation for their earnings.  (Note: Bernardo Hees forfeited his stock awards for 2018 when he resigned).
 
