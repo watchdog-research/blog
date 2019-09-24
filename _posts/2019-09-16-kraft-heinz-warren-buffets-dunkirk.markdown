@@ -53,11 +53,11 @@ Was the $15 billion impairment too high, too low, or, just right?  Should some o
 
 Post-impairment, intangible assets and goodwill form over $85 billion of the $103 billion remaining in company assets, as the company carries a long-term debt of over $30 billion.  The company’s net assets ($103 billion in assets less $50 billion in liabilities) are at $53 billion. As of today, the market cap has fallen to approximately $32 billion, which reflects an overvaluation of approximately $20 billion.  In the Risk Factors section of its latest 10-K annual report (which was released several months late), KHC disclosed:
 
-> **Brands with a heightened risk of future impairments had an aggregate carrying amount of $29.3 billion … Of the $29.3 billion with a heightened risk of future impairments, $24.0 billion is attributable to brands with 0% excess fair value over carrying amount.**
+> *Brands with a heightened risk of future impairments had an aggregate carrying amount of $29.3 billion … Of the $29.3 billion with a heightened risk of future impairments, $24.0 billion is attributable to brands with 0% excess fair value over carrying amount.*
 
 Kraft Heinz has 19 reporting units, and it classified any reporting unit where the fair value was less than 20% over the carrying amount as having a heightened risk for impairment. How confident can you be in KH’s own assessment of its risks? Well, as of the second quarter of 2019 (filed only two months later), Kraft Heinz has recorded an additional $1.218 billion in impairments to intangible assets and goodwill.   And it made this additional disclosure:
 
-> **Reporting units with 10% or less fair value over carrying amount had an aggregate goodwill carrying amount of $33.0 billion as of the 2019 annual impairment test date**
+> *Reporting units with 10% or less fair value over carrying amount had an aggregate goodwill carrying amount of $33.0 billion as of the 2019 annual impairment test date*
 
 Not only did KHC need to issue another impairment, but it also moved the goal posts on what assets are at a heightened risk for impairment in the future.  Our analysts believe that more impairments, perhaps even large ones, are likely.
 
@@ -73,11 +73,11 @@ This statement of cash flows is troubling because it seems that KHC is not exper
 
 On February 21, 2019, KHC disclosed that it had received a subpoena from the SEC concerning their procurement practices. It also stated that its own internal investigation had revealed a $25 million increase to the cost of goods for the fourth quarter of 2018, but that it expected no other significant effects from the investigation:
 
-> **At this time, the Company does not expect the matters subject to the investigation to be material to its current period or any prior period financial statements.**
+> *At this time, the Company does not expect the matters subject to the investigation to be material to its current period or any prior period financial statements.*
 
 However, on May 6, 2019 KHC disclosed that its internal investigation had revealed misconduct on the part of some of its employees, requiring an adjustment of approximately $208 million going back to the merger in 2015.  And even though it did not believe the issue to be material, in the company’s 10-K, (not filed until June 7, 2019) Kraft Heinz issued a restatement because:
 
-> **\[D\]ue to the qualitative nature of the matters identified in our internal investigation, including the number of years over which the misconduct occurred and the number of transactions, suppliers, and procurement employees involved, we determined that it would be appropriate to correct the misstatements in our previously issued consolidated financial statements by restating such financial statements. The restatement also included corrections for additional identified out-of-period and uncorrected misstatements in the impacted periods. Accordingly, we have restated our consolidated financial statements and the impacted amounts within the accompanying footnotes thereto.**
+> *\[D\]ue to the qualitative nature of the matters identified in our internal investigation, including the number of years over which the misconduct occurred and the number of transactions, suppliers, and procurement employees involved, we determined that it would be appropriate to correct the misstatements in our previously issued consolidated financial statements by restating such financial statements. The restatement also included corrections for additional identified out-of-period and uncorrected misstatements in the impacted periods. Accordingly, we have restated our consolidated financial statements and the impacted amounts within the accompanying footnotes thereto.*
 
 So, what was this procurement issue the SEC was looking into?  According to the company’s latest 10-Q, employees were withholding information about supplier rebates, incentives, and pricing arrangements to manipulate the accounting to meet unrealistic benchmarks set by management.
 
