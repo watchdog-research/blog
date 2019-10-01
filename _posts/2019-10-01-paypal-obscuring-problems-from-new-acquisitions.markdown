@@ -1,6 +1,15 @@
 ---
 title: 'PayPal: Obscuring Problems from New Acquisitions'
 date: 2019-10-01 10:56:00 -04:00
+categories:
+- Featured
+- Watchdog Context
+tags:
+- Paypal
+- Goodwill
+- Acquisitions
+- transparency
+- impariment
 ---
 
 **Watchdog Research Transparency Blog** 
@@ -21,8 +30,8 @@ The Watchdog Report also indicates that PayPal has had issues with exercising th
 
 *In response to your comment and further to our discussions with the Staff, we respectfully advise the Staff that the self-reported transactions involved certain countries subject to U.S. economic sanctions at the time of the transactions, including North Korea, Iran, Sudan and Syria (the “Reported Countries”).*
 
-**PayPal “Sold” Their Book of Business to Synchrony to Fuel Their Acquisition Strategy
-**
+**PayPal “Sold” Their Book of Business to Synchrony to Fuel Their Acquisition Strategy**
+
 In 2018 PayPal closed on a deal announced in 2017 whereby they offloaded their credit receivables to their partner, Synchrony Bank, in exchange for the $6.9 billion in cash necessary to fuel their relatively new acquisition strategy, in hopes of higher returns.   This deal, however, is not as straightforward as it looks.  The SEC sent PayPal this letter about it:
 
 *We note your disclosure that you accounted for the sale of your U.S. consumer credit receivables portfolio as a sale. You also disclose at the bottom of page 102 that you concluded your continuing involvement in the revenue share arrangement does not invalidate this determination. Please tell us in reasonable detail the specific nature of your continuing involvement in the transferred assets. Please also tell us how you concluded you met the conditions for sale accounting, and tell us the specific accounting literature you relied upon in reaching your conclusion.*
@@ -31,11 +40,11 @@ PayPal and Synchrony have been partners since 2004, so it raised eyebrows at the
 
 PayPal replied to the SEC that because they no longer had legal control over the assets and because Synchrony could sell or pledge the assets, it was a real sale.  At Watchdog we are not all that interested with the legal question of whether this was a sale.  We are concerned with a pattern we are seeing at PayPal of using legal and accounting rules to disguise their transactions, rather than fully disclosing them.
 
-**A New Acquisition Creates A New Headache for PayPal
-**
+**A New Acquisition Creates A New Headache for PayPal**
+
 If the Xoom acquisition had not gone as planned, it did not alter PayPal’s strategy; PayPal purchased TIO Networks for $230 million in 2017.   Unfortunately for PayPal, it also acquired TIO’s systemic cyber security issues.  Only five months after closing the deal it announced that 1.6 million users had had their data compromised.  According to PayPal’s latest quarterly report,  it had to suspend TIO’s operation because of the data breach, and PayPal has been embroiled in litigation arising from the breach since the announcement.
 
-A quick glance at the Watchdog Report seems that PayPal *may *have signaled that there was an issue with the cyber security over a month before making its announcement.   In the October quarterly report it reported a disclosure control issue with this unintelligible statement:
+A quick glance at the Watchdog Report seems that PayPal *may* have signaled that there was an issue with the cyber security over a month before making its announcement.   In the October quarterly report it reported a disclosure control issue with this unintelligible statement:
 
 *During the third quarter of 2017, we completed the implementation of a customer and transaction sub-ledger within our enterprise resource planning system. As a result of this implementation, we have experienced certain changes to our processes and procedures which, in turn, resulted in changes to our internal control over financial reporting. Management will continue to evaluate and monitor our internal controls as processes and procedures in each of the affected areas evolve. For a discussion of risks related to the implementation of new systems, see Part II, Item 1A—Risk Factors—"Systems failures and resulting interruptions in the availability of our websites, applications, products or services could harm our business" in this Form 10-Q.*
 
@@ -43,7 +52,7 @@ Because of the closeness in time to the announcement of the cyber security breac
 
 Furthermore, PayPal has taken a 30 million dollar impairment on the intangible assets it acquired from TIO, that’s about half of the 66 million in intangible assets that PayPal believed it was gaining in the first place.  When asked by the SEC about the impairment, PayPal explained that the intangible assets included $45 million for the service distribution channels and customer volume, both of which had been ruined by the data breach.  In their estimation, the remaining value was about $15 million, hence the $30 million impairment.
 
-That is not the end of the story, PayPal also had to suspend operations at TIO because of the security breach and decided to wind down operations in the first quarter of 2018.  Considering that the $170 million dollars in goodwill gained from the acquisition of TIO was attributed to TIO’s workforce and synergies, it would seem that PayPal should have writen off the entire $170 million as a loss.
+That is not the end of the story, PayPal also had to suspend operations at TIO because of the security breach and decided to wind down operations in the first quarter of 2018.  Considering that the $170 million dollars in goodwill gained from the acquisition of TIO was attributed to TIO’s workforce and synergies, it would seem that PayPal should have written off the entire $170 million as a loss.
 
 But PayPal has not written off the $170 million, because of a new accounting standard released from the FASB board ASU 2017-04.  The FASB has attempted to simplify the goodwill impairment process by only having a company write down the goodwill of a reporting segment if the carrying value (or book value) of the segment does not exceed the fair value.  This new standard benefits companies with under-appreciated assets like PayPal, whose net assets are $16 billion when the market cap for PayPal is at $135 billion. PayPal put the goodwill from TIO in a reporting segment whose fair value is higher than its carrying value, so it has not had to write down the $170 million in goodwill, even though it is worthless.
 
