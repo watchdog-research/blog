@@ -3,17 +3,17 @@ title: 'PayPal: Obscuring Problems from New Acquisitions'
 date: 2019-10-01 10:56:00 -04:00
 ---
 
-# **Watchdog Research Transparency Blog** 
+**Watchdog Research Transparency Blog** 
 
 *In our Blog we take a critical look at public company disclosure.  We focus on transparency, reliability, and accuracy.  It you are looking for cheerleading, you have come to the wrong place.  We rely on the best evidence available to gain insight into companies and make predictions about what will happen in the future.  Nothing is business is certain, so sometimes we will be wrong, but we will always be an independent voice telling you the truth as we see it.*
 
-## **PayPal: Obscuring Problems from New Acquisitions**
+**PayPal: Obscuring Problems from New Acquisitions**
 
 PayPal has experienced a great deal of success in the last three years since implementing a new acquisition strategy, with their share price increasing from $37 per share on August 30, 2016 all the way to $109.21 as of August 29, 2019.  A quick look at the Watchdog Report shows an increase in share value which has outperformed the S&P 500 steadily since May 2017.  Although their new strategy seems to be working, the Watchdog Report also contains indicators that have us concerned about PayPal’s commitment to transparency and what may lie around the corner for its investors.  
 
 ![Paypal image 1.png](/uploads/Paypal%20image%201.png)
  
-**PayPal’s Initial Acquisition Did Not Go According to Plan**### 
+**PayPal’s Initial Acquisition Did Not Go According to Plan**
 
 PayPal began its acquisition strategy by acquiring Xoom, in July, 2015, and it hired Daniel H.  Schulman as CEO and John Rainey as CFO to implement that strategy.  It seems that PayPal may have overpaid for Xoom considering Xoom’s anemic growth and difficulty keeping up with its competitors in the cross border remittance market.	PayPal shared some directors and core investors, so that may explain why PayPal paid a premium to acquire a company with lackluster performance.
 
@@ -21,7 +21,7 @@ The Watchdog Report also indicates that PayPal has had issues with exercising th
 
 *In response to your comment and further to our discussions with the Staff, we respectfully advise the Staff that the self-reported transactions involved certain countries subject to U.S. economic sanctions at the time of the transactions, including North Korea, Iran, Sudan and Syria (the “Reported Countries”).*
 
-### **PayPal “Sold” Their Book of Business to Synchrony to Fuel Their Acquisition Strategy
+**PayPal “Sold” Their Book of Business to Synchrony to Fuel Their Acquisition Strategy
 **
 In 2018 PayPal closed on a deal announced in 2017 whereby they offloaded their credit receivables to their partner, Synchrony Bank, in exchange for the $6.9 billion in cash necessary to fuel their relatively new acquisition strategy, in hopes of higher returns.   This deal, however, is not as straightforward as it looks.  The SEC sent PayPal this letter about it:
 
@@ -31,7 +31,7 @@ PayPal and Synchrony have been partners since 2004, so it raised eyebrows at the
 
 PayPal replied to the SEC that because they no longer had legal control over the assets and because Synchrony could sell or pledge the assets, it was a real sale.  At Watchdog we are not all that interested with the legal question of whether this was a sale.  We are concerned with a pattern we are seeing at PayPal of using legal and accounting rules to disguise their transactions, rather than fully disclosing them.
 
-### **A New Acquisition Creates A New Headache for PayPal
+**A New Acquisition Creates A New Headache for PayPal
 **
 If the Xoom acquisition had not gone as planned, it did not alter PayPal’s strategy; PayPal purchased TIO Networks for $230 million in 2017.   Unfortunately for PayPal, it also acquired TIO’s systemic cyber security issues.  Only five months after closing the deal it announced that 1.6 million users had had their data compromised.  According to PayPal’s latest quarterly report,  it had to suspend TIO’s operation because of the data breach, and PayPal has been embroiled in litigation arising from the breach since the announcement.
 
@@ -49,13 +49,13 @@ But PayPal has not written off the $170 million, because of a new accounting sta
 
 So, PayPal has taken advantage of this new accounting rule to keep an extra $170 million dollars in assets on its books.  At Watchdog, this is the sort of business practice that draws our attention; transparency is the fundamental principle that animates the accounting rules, which in turn give flesh and blood to the obligations that management owes to investors and the public.  PayPal’s use of the new accounting rule to keep $170 million in worthless assets on the balance sheet is concerning.  It raises questions about their commitment to transparency and makes us concerned that this $170 million is just the tip of the iceberg. 
 
-### **PayPal’s Virtue Signaling Impairment**
+**PayPal’s Virtue Signaling Impairment**
 
 This impairment raises another question. If PayPal can manipulate the accounting rules to keep from writing off the $170 in goodwill from the TIO acquisition, then why would it bother issuing such a small impairment?  The $30 million loss is not material; it represents a mere 1.65% of PayPal’s net income. In fact, PayPal had made a $10 million downward adjustment for the goodwill that it gained in the Xoom acquisition without issuing an impairment.
 
 PayPal seems to have filed the impairment to create the appearance that they are running a tight ship on their acquisitions, which would be a reassuring notion since PayPal has gone all in on acquisitions as a growth strategy.   In 2018, PayPal paid $2.2 billion for iZettle and $400 million for Hyperwallet.  And perhaps those acquisitions are going much better and next year PayPal can put all its troubles with Xoom and TIO Networks in the rearview mirror.  But there are two more indicators on the Watchdog report that have us concerned; the unusual increase in audit fees and the insider sales from the CEO Schulman and CFO Rainey.
 
-### **Concerning Indicators for 2020**
+**Concerning Indicators for 2020**
 
 Over the last three years audit fees have risen substantially, over 23% in the last year.
 
@@ -70,7 +70,7 @@ PayPal seems to have changed its growth strategy over the last few years to focu
 
 At Watchdog we are more concerned by the consistent lack of forthrightness; their disclosures are hard to understand, and they use technical accounting rules and legal definitions to obscure potential problems from their shareholders and regulators.  The market has confidence in PayPal, but when unknown liabilities are lurking on the balance sheet and the executives are divesting their shares, it is hard to share in the enthusiasm.
 
-##**The Watchdog Blog Team**
+**The Watchdog Blog Team**
 
 Note:  Our team is made up of staff who have at one time or another have been Big Four CPAs, Public Company CFOs, Litigation Specialists, Lawyers, Accounting Educators, Ethicists, Regulators,  Entrepreneurs and yes, even a few overly opinionated Harvard MBAs.  Our mission is to write blogs that promote transparency in corporate disclosures.   
 
