@@ -1,0 +1,19 @@
+
+<form action="{{"/search" | relative_url}}" method="get">
+    <input type="text" id="search-box" class="form-control py-2" name="query" placeholder="Search" onkeypress="checkSubmit()">
+</form>
+
+
+<h6 class="pt-5">CATEGORIES</h6>
+
+{% assign categories_list = site.categories %}
+
+<ul class="list-group">
+    {% for category in categories_list %}
+
+        {% assign category_name = category[0] | downcase | downcase | url_escape | strip | replace: ' ', '-' %}
+        {% assign category_url = site.url | append: '/category_' | append : category_name %}
+
+        <li class="list-group-item border-0 pl-0"><a href="{{ category_url }}">{{ category[0] }} </a></li>
+    {% endfor %}
+</ul>

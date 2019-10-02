@@ -1,0 +1,14 @@
+---
+layout: category
+---
+
+{% assign posts = site.categories['Watchdog Context'] %}
+
+<h3 class="post-list-heading">Articles in category: Watchdog Context</h3>
+
+<div class="post-list">
+    {% for post in posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</div>
+
