@@ -68,7 +68,8 @@ Nothing is certain in business.  This deal has the potential to either bring in 
  
 BMS’s biggest institutional investor with [8%](https://www.businesswire.com/news/home/20190227005970/en/Wellington-Management-Support-Bristol-Myers-Squibb%E2%80%99s-Acquisition-Celgene) of ownership, Wellington Management Group PLC, attempted a coup earlier this year to scuttle the deal.  It will be interesting to see what they do if the merger experiences more hiccups before and after consummation.
 
-Want to Read the Watchdog Report yourself? Click here.
+**Want to Read our Watchdog Reports yourself?** 
+Go to https://www.cwdresearch.com/free-trial. All you will need is an email and a password.
 
 **What is Watchdog?**
 
