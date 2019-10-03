@@ -73,6 +73,14 @@ PayPal seems to have changed its growth strategy over the last few years to focu
 
 At Watchdog we are more concerned by the consistent lack of forthrightness; their disclosures are hard to understand, and they use technical accounting rules and legal definitions to obscure potential problems from their shareholders and regulators.  The market has confidence in PayPal, but when unknown liabilities are lurking on the balance sheet and the executives are divesting their shares, it is hard to share in the enthusiasm.
 
+**Want to Read our Watchdog Reports yourself?** 
+
+Go to https://www.cwdresearch.com/free-trial. All you will need is an email and a password.
+
+**What is Watchdog?**
+
+Watchdog Research, Inc. is an independent research provider that publishes Watchdog Reports. Our reports contain warning signs, red flags, material disclosures, and peer analysis for use in valuation, risk analysis, due diligence research, and idea generation. Watchdog Reports are designed to assist investment professionals fulfill their fiduciary obligations and to help investors, executives, board members, regulators and educators learn what they need to know about publicly traded companies. Watchdog Research, Inc. utilizes over 75 specialists and analysts to provide accurate and timely information to our readers.
+
 **The Watchdog Blog Team**
 
 Note:  Our team is made up of staff who have at one time or another have been Big Four CPAs, Public Company CFOs, Litigation Specialists, Lawyers, Accounting Educators, Ethicists, Regulators,  Entrepreneurs and yes, even a few overly opinionated Harvard MBAs.  Our mission is to write blogs that promote transparency in corporate disclosures.   
@@ -81,4 +89,4 @@ Contact us:
 
 If you want to subscribe to Watchdog Reports, call our subscription manager, at 813-670-2060.
 
-If you have questions about this blog, call our content manager John Cheffers at 239-240-9284.  
+If you have questions about this blog, call our content manager John Cheffers at 239-240-9284.
