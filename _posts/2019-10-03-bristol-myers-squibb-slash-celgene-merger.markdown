@@ -35,10 +35,14 @@ Our analysts looked at the amount of litigation by market cap to provide a simpl
 ![Bmy Image 3.png](/uploads/Bmy%20Image%203.png)
  
 Source: Audit Analytics
+
 *Projected for new Company
+
 **AbbVie announced an acquisition of Allergan PLC in July which would dramatically increase its litigation risk. 
 
+
 After adjusting for size, only Amgen and Allergan PLC face more pending litigation than the new BMS company will face.   Most of this litigation comes from Celgene which currently has 25 pending cases.  A brief look at the Watchdog Report shows that most of this pending litigation is in the area of patent law.
+
  
 ![BMY_CELG image 2.png](/uploads/BMY_CELG%20image%202.png)
 
