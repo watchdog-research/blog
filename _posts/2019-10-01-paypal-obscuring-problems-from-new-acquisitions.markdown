@@ -12,8 +12,6 @@ tags:
 - impariment
 ---
 
-**Watchdog Research Transparency Blog** 
-
 PayPal has experienced a great deal of success in the last three years since implementing a new acquisition strategy, with their share price increasing from $37 per share on August 30, 2016 all the way to $109.21 as of August 29, 2019.  A quick look at the Watchdog Report shows an increase in share value which has outperformed the S&P 500 steadily since May 2017.  Although their new strategy seems to be working, the Watchdog Report also contains indicators that have us concerned about PayPal’s commitment to transparency and what may lie around the corner for its investors.  
 
 ![Paypal image 1.png](/uploads/Paypal%20image%201.png)
