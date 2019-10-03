@@ -14,10 +14,6 @@ tags:
 
 **Watchdog Research Transparency Blog** 
 
-*In our Blog we take a critical look at public company disclosure.  We focus on transparency, reliability, and accuracy.  It you are looking for cheerleading, you have come to the wrong place.  We rely on the best evidence available to gain insight into companies and make predictions about what will happen in the future.  Nothing is business is certain, so sometimes we will be wrong, but we will always be an independent voice telling you the truth as we see it.*
-
-**PayPal: Obscuring Problems from New Acquisitions**
-
 PayPal has experienced a great deal of success in the last three years since implementing a new acquisition strategy, with their share price increasing from $37 per share on August 30, 2016 all the way to $109.21 as of August 29, 2019.  A quick look at the Watchdog Report shows an increase in share value which has outperformed the S&P 500 steadily since May 2017.  Although their new strategy seems to be working, the Watchdog Report also contains indicators that have us concerned about PayPal’s commitment to transparency and what may lie around the corner for its investors.  
 
 ![Paypal image 1.png](/uploads/Paypal%20image%201.png)
