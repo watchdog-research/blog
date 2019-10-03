@@ -24,12 +24,13 @@ When Celgene acquire companies, it does so to get a product in that companies’
   
 In October 2017, Celgene announced that it would discontinue the trials for one of its products, and ended up reporting an impairment of $1.6 billion.  This impairment was not accompanied by any reduction in goodwill.  Celgene has made several acquisitions over the years so that it currently has five products in the late stages of it pipeline, recorded as $16 billion in intangible assets, along with $8 billion in goodwill.  Investors know that it is possible that some of those intangible assets will be written down as some products in the pipeline may be aborted, but they may not know that some of the $8 billion in goodwill represents assets which derived from already dead products.  It would seem counter to accounting ethics for a company to purchase a company for its products but then after writing off those products keep the associated goodwill on their balance sheet.  It is hard to conceive that this is what FASB had in mind when it simplified the goodwill reporting rules by removing the requirement to test goodwill with a hypothetical purchase price allocation.  Rules always must be in service of principles, so what principle would this fall under; conservatism, transparency, truthfulness, fairness?
 
-Will the Opioid Crisis be the Straw that Breaks BMS’s Back?
+**Will the Opioid Crisis be the Straw that Breaks BMS’s Back?**
+
 BMS and Celgene already have an aggregate of 35 open cases that the new entity will likely have to deal with after the dust from the merger has settled.  Anyone who has had to deal with corporate litigation knows that it can be incredibly disruptive to management and operations alike.  
 
 Our analysts looked at the amount of litigation by market cap to provide a simplistic way comparing how much litigation risk these biotech companies typically absorb.   Although hardly scientific, this comparison shows that the new company will be taking on more risk than most of its peers.
 
-Litigation
+**Litigation**
 
 ![Bmy Image 3.png](/uploads/Bmy%20Image%203.png)
  
