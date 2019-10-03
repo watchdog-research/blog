@@ -1,6 +1,8 @@
 ---
 title: 'Bristol Myers Squibb/Celgene Merger: Goodwill, Opioids, and Transparency'
 date: 2019-10-03 06:58:00 -04:00
+categories:
+- featured
 ---
 
 
