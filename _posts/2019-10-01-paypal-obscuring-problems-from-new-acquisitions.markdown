@@ -2,8 +2,8 @@
 title: 'PayPal: Obscuring Problems from New Acquisitions'
 date: 2019-10-01 10:56:00 -04:00
 categories:
-- Featured
 - Watchdog Context
+- featured
 tags:
 - Paypal
 - Goodwill
