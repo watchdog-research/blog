@@ -6,10 +6,8 @@
 
 <h6 class="pt-5">CATEGORIES</h6>
 
-{% assign categories_list = site.categories %}
-
 <ul class="list-group">
-    {% for category in categories_list %}
+    {% for category in site.categories %}
 
         {% assign category_name = category[0] | downcase | downcase | url_escape | strip | replace: ' ', '-' %}
         {% assign category_url = site.url | append: '/category_' | append : category_name | append: '/' %}

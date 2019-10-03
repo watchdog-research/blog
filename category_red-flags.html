@@ -6,9 +6,9 @@ layout: category
 
 <h3 class="post-list-heading">Articles in category: Red Flags</h3>
 
-<div class="post-list">
+<ul class="list-group">
     {% for post in posts %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li class="list-group-item border-0 pl-0 pb-0"><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-</div>
+</ul>
 
