@@ -72,7 +72,7 @@ Want to Read the Watchdog Report yourself? Click here.
 
 **What is Watchdog?**
 
-Watchdog is a company that brings you the information  
+Watchdog Research, Inc. is an independent research provider that publishes Watchdog Reports. Our reports contain warning signs, red flags, material disclosures, and peer analysis for use in valuation, risk analysis, due diligence research, and idea generation. Watchdog Reports are designed to assist investment professionals fulfill their fiduciary obligations and to help investors, executives, board members, regulators and educators learn what they need to know about publicly traded companies. Watchdog Research, Inc. utilizes over 75 specialists and analysts to provide accurate and timely information to our readers.
 
 **The Watchdog Blog Team**
 
