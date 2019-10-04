@@ -115,11 +115,11 @@ PWC has been the auditor of KHC since at least 1979 and it will be fascinating t
 It is possible that PWC will resign the account, or that KHC will seek to bring on another auditor.  At a minimum, a continuation of late filings by KHC can be expected and adverse internal control opinions will continue.\
 In short, KHC is in a reputational spiral. And Buffet risks seeing his sterling reputation for good governance tarnished in his twilight years.  Displacing 3G Capital might be the right move. Will he save KHC in its eleventh hour?  Will he get his soldiers off that fated beach?
 
-**Want to Read our Watchdog Reports yourself?**
+**Read the Watchdog Report Yourself**
 
-[Free download of the Watchdog Report for KHC](/uploads/Watchdog%20Report%20for%20Kraft%20Heinz%20Co.%20-%20KHC%20(20190927).pdf)
+[Watchdog Report for KHC](/uploads/Watchdog%20Report%20for%20Kraft%20Heinz%20Co.%20-%20KHC%20(20190927).pdf)
 
-Go to [https://www.cwdresearch.com/free-trial](https://www.cwdresearch.com/free-trial). All you will need is an email and a password.
+Get a free trial to our whole library of reports [here](https://www.cwdresearch.com/free-trial).
 
 **What is Watchdog?**
 
@@ -127,7 +127,7 @@ Watchdog Research, Inc. is an independent research provider that publishes Watch
 
 **The Watchdog Blog Team**
 
-Note:  Our team is made up of staff who have at one time or another have been Big Four CPAs, Public Company CFOs, Litigation Specialists, Lawyers, Accounting Educators, Ethicists, Regulators,  Entrepreneurs and yes, even a few overly opinionated Harvard MBAs.  Our mission is to write blogs that promote transparency in corporate disclosures.
+Note:  Our team is made up of current and former Big Four CPAs, Public Company CFOs, Litigation Specialists, Lawyers, Accounting Educators, Ethicists, Regulators,  Entrepreneurs, and yes, even a few overly opinionated Harvard MBAs.  Our mission is to write blogs that promote transparency in corporate disclosures.
 
 Contact us:
 
