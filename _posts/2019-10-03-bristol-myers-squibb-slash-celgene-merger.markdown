@@ -70,8 +70,9 @@ BMS’s biggest institutional investor with [8%](https://www.businesswire.com/ne
 
 **Read our Watchdog Reports for Yourself?**
 
-Bristol Myers Squibb Watchdog Report
-Celgene Watchdog Report
+[Watchdog Report for Bristol Myers Squibb Co.](/uploads/Watchdog%20Report%20for%20Bristol%20Myers%20Squibb%20Co.%20-%20BMY%20(20190927).pdf)
+
+[Watchdog Report for Celgene Corp.](/uploads/Watchdog%20Report%20for%20Celgene%20Corp.%20-%20CELG%20(20190927).pdf)
 
 Get a free trial to our whole library of reports [here](https://www.cwdresearch.com/free-trial).
 
