@@ -15,3 +15,20 @@
         <li class="list-group-item border-0 pl-0"><a href="{{ category_url }}">{{ category[0] }} </a></li>
     {% endfor %}
 </ul>
+
+<h6 class="pt-5">ARCHIVES</h6>
+
+<ul class="list-group">
+{% for post in site.posts %}
+    {% assign currentdate = post.date | date: "%B %Y" %}
+
+    {% capture current_date_url %}
+    {{site.url}}/archives/{{ post.date | date: "%Y" }}/{{ post.date | date: "%m" }}
+    {% endcapture %}
+
+    {% if currentdate != date %}
+        <li class="list-group-item border-0 pl-0"><a href="{{ current_date_url }}"> {{ currentdate }} </a></li>
+        {% assign date = currentdate %}
+    {% endif %}
+{% endfor %}
+</ul>
