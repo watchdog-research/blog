@@ -33,14 +33,13 @@ plugins:
 - jekyll-paginate
 - jekyll-archives
 jekyll-archives:
-  enabled: [month]
+  enabled:
+  - month
   layout: default
   permalinks:
-    month: '/archives/:year/:month/'
+    month: "/archives/:year/:month/"
   layouts:
     month: month_archive
-
-
 markdown: kramdown
 sass:
   sass_dir: _sass
