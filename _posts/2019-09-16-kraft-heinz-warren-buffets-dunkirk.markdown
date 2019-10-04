@@ -117,7 +117,7 @@ In short, KHC is in a reputational spiral. And Buffet risks seeing his sterling 
 
 **Want to Read our Watchdog Reports yourself?**
 
-[Free download of the Watchdog Report for KHC](/uploads/Watchdog%20Report%20for%20Kraft%20Heinz%20Co.%20-%20KHC%20(20190322).pdf)
+[Free download of the Watchdog Report for KHC](/uploads/Watchdog%20Report%20for%20Kraft%20Heinz%20Co.%20-%20KHC%20(20190927).pdf)
 
 Go to [https://www.cwdresearch.com/free-trial](https://www.cwdresearch.com/free-trial). All you will need is an email and a password.
 
