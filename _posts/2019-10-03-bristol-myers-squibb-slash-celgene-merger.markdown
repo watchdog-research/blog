@@ -1,10 +1,12 @@
 ---
 title: 'Bristol Myers Squibb/Celgene Merger: Goodwill, Opioids, and Transparency'
 date: 2019-10-03 06:58:00 -04:00
+categories:
+- featured
 ---
 
 Bristol Myers Squibb (“BMS”) and Celgene announced in January of 2019 that they had entered into a merger [agreement](https://www.sec.gov/Archives/edgar/data/14272/000114036119000360/s002621x1_8k.htm).  Celgene’s share value had been on a downward trend for over a year, where its share value had dropped from over $146 in October 2017, down to less than $60 by Christmas in 2018.
- 
+
 ![BMY_CELG image 1-a76921.png](/uploads/BMY_CELG%20image%201-a76921.png)
 
 BMS brought some holiday cheer to Celgene’s shareholders with the announcement of a deal, in which Celgene’s shareholders would receive $50 and one share of BMS stock in consideration for each share of Celgene’s stock – making for a purchase price of [$102.43](https://www.sec.gov/Archives/edgar/data/14272/000114036119000175/ex99_3.htm) per share at announcement date.  The BMS shareholders have not shared in the enthusiasm, as evidenced by a fall in the share value after the January 3, 2019 announcement.  Even now, the share price has not fully recovered; perhaps the market believes BMS is [overpaying](https://www.ft.com/content/4986f16c-3ae3-11e9-b856-5404d3811663) for Celgene.  Perhaps, as some [analysts](https://seekingalpha.com/article/4250768-celgenes-shareholders-bristol-myers-squibbs-reject-deal) believe, Celgene is the one taking a bath.
