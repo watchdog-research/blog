@@ -36,10 +36,12 @@ jekyll-archives:
   enabled:
   - month
   - categories
+  - tags
   layout: default
   permalinks:
     month: "/archives/:year/:month/"
     category: "/category/:name/"
+    tag: "/archives/tag/:name/"
   layouts:
     month: month_archive
     category: category
