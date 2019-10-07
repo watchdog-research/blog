@@ -39,7 +39,7 @@ jekyll-archives:
   layout: default
   permalinks:
     month: "/archives/:year/:month/"
-    category: '/category/:name/'
+    category: "/category/:name/"
   layouts:
     month: month_archive
     category: category
