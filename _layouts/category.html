@@ -17,7 +17,13 @@
 
       <div class="col-9">
 
-        {{ content }}
+        <h3 class="post-list-heading">Articles in category: {{ page.title }}</h3>
+
+        <ul class="list-group">
+          {% for post in page.posts %}
+          <li class="list-group-item border-0 pl-0 pb-0"><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endfor %}
+        </ul>
 
       </div>
 

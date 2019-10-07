@@ -10,7 +10,7 @@
     {% for category in site.categories %}
 
         {% assign category_name = category[0] | downcase | downcase | url_escape | strip | replace: ' ', '-' %}
-        {% assign category_url = site.url | append: '/category_' | append : category_name | append: '/' %}
+        {% assign category_url = site.url | append: '/category/' | append : category_name | append: '/' %}
 
         <li class="list-group-item border-0 pl-0"><a href="{{ category_url }}">{{ category[0] }} </a></li>
     {% endfor %}

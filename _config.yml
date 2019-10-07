@@ -35,11 +35,14 @@ plugins:
 jekyll-archives:
   enabled:
   - month
+  - categories
   layout: default
   permalinks:
     month: "/archives/:year/:month/"
+    category: '/category/:name/'
   layouts:
     month: month_archive
+    category: category
 markdown: kramdown
 sass:
   sass_dir: _sass
