@@ -6,7 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 
-gem 'jekyll', '>= 3.7.4'
+gem 'jekyll', '~> 3.8.5'
 
 
 gem 'jekyll-seo-tag'
