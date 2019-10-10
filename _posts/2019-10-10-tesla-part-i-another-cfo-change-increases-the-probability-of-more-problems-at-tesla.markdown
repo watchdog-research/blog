@@ -32,3 +32,23 @@ Will he be an independent voice, an advocate for transparency, and provide stead
 We hope for his sake that Zachary is a complete success, but it is looking like the odds are stacked against him.
 
 We have plenty more to say about Tesla, stay tuned…
+
+**Read the Report for Yourself**
+
+[Watchdog Report for Tesla](/uploads/Watchdog%20Report%20for%20Tesla,%20Inc.%20-%20TSLA.pdf)
+
+Get a free trial to our whole library of reports [here](https://www.cwdresearch.com/free-trial).
+
+**What is Watchdog?**
+
+Watchdog Research, Inc. is an independent research provider that publishes Watchdog Reports. Our reports contain warning signs, red flags, material disclosures, and peer analysis for use in valuation, risk analysis, due diligence research, and idea generation. Watchdog Reports are designed to assist investment professionals fulfill their fiduciary obligations and to help investors, executives, board members, regulators and educators learn what they need to know about publicly traded companies. Watchdog Research, Inc. utilizes over 75 specialists and analysts to provide accurate and timely information to our readers.
+
+**The Watchdog Blog Team**
+
+Note:  Our team is made up of current and former Big Four CPAs, Public Company CFOs, Litigation Specialists, Lawyers, Accounting Educators, Ethicists, Regulators,  Entrepreneurs, and yes, even a few overly opinionated Harvard MBAs.  Our mission is to write blogs that promote transparency in corporate disclosures.
+
+Contact us:
+
+If you want to subscribe to Watchdog Reports, call our subscription manager, at 813-670-2060.
+
+If you have questions about this blog, call our content manager John Cheffers at 239-240-9284.
