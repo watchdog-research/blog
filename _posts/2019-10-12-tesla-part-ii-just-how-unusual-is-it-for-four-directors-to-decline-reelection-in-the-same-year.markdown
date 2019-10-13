@@ -2,6 +2,13 @@
 title: 'Tesla Part II: Just How Unusual Is It For Four Directors To Decline Reelection
   In The Same Year?'
 date: 2019-10-12 07:25:00 -04:00
+categories:
+- Watchdog Context
+- featured
+tags:
+- tesla
+- declined reelection
+- directors
 ---
 
 In Part I of our series on Tesla, we discussed what historical data can tell us about the probability that class action suits, material weaknesses, or even restatements will occur when there is an alarming CFO change.  In this post we will look at some historical data to provide context to the decision by four directors of Tesla to decline to stand for reelection.
