@@ -15,7 +15,7 @@ Image: "/uploads/Teslapt1%20image%202.png"
 
 For the last two years, Tesla has released its third quarter results on November 2, so we can expect to see the third quarter results in just a few weeks.  Our team looked at the Watchdog Report to get some insight on what issues could come up in that report.
 
-One thing that sticks out in the Watchdog Report for Tesla is a red flag for reported CFO changes.  Just last year, we pointed out that Tesla had an [unusual](https://blog.cwdresearch.com/posts/teslas-unusual-red-flag/) red flag; it was the only company that had brought back a CFO on a permanent basis after they their retirement. This event was not only unusual, it was unique, and therefore raised concerns.
+One thing that sticks out in the Watchdog Report for Tesla is a red flag for reported CFO changes.  Just last year, we pointed out that Tesla had an [unusual](https://blog.cwdresearch.com/posts/teslas-unusual-red-flag/) red flag; it was the only company that had brought back a CFO on a permanent basis after their retirement. This event was not only unusual, it was unique, and therefore raised concerns.
 
 Well, Deepak Ahuja’s reinstatement wasn’t permanent, he resigned again two-years later this March and has handed over the reins of the company to Zachary Kirkhorn, a 34-year-old, who has worked at Tesla since 2010 (although he did depart for two years to get a MBA from Harvard).  A brief look at the Watchdog Report show the timeline of all these disruptive changes.
 
