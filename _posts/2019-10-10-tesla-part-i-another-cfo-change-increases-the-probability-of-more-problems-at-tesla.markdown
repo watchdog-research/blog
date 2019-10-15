@@ -3,8 +3,8 @@ title: 'Tesla Part I: Another CFO Change Increases the Probability of More Probl
   at Tesla'
 date: 2019-10-10 13:13:00 -04:00
 categories:
-- Featured
 - Watchdog Context
+- featured
 tags:
 - Tesla
 - CFO Change
