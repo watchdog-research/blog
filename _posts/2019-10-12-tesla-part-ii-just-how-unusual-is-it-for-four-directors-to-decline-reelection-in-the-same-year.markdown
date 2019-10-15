@@ -9,7 +9,7 @@ tags:
 - tesla
 - declined reelection
 - directors
-Image: "/uploads/tesla_2.jpg"
+image: "/uploads/tesla_2.jpg"
 ---
 
 In [Part I](https://blog.cwdresearch.com/posts/tesla-part-i-another-cfo-change-increases-the-probability-of-more-problems-at-tesla/) of our series on Tesla, we discussed what historical data can tell us about the probability that class action suits, material weaknesses, or even restatements will occur when there is an alarming CFO change.  In this post we will look at some historical data to provide context to the decision by four directors of Tesla to [decline](https://www.sec.gov/Archives/edgar/data/1318605/000156459019012122/tsla-8k_20190418.htm) to stand for reelection.
