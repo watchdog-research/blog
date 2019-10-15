@@ -3,6 +3,7 @@ title: 'Bristol Myers Squibb/Celgene Merger: Goodwill, Opioids, and Transparency
 date: 2019-10-03 06:58:00 -04:00
 categories:
 - featured
+image: "/uploads/bristol.jpg"
 ---
 
 Bristol Myers Squibb (“BMS”) and Celgene announced in January of 2019 that they had entered into a merger [agreement](https://www.sec.gov/Archives/edgar/data/14272/000114036119000360/s002621x1_8k.htm).  Celgene’s share value had been on a downward trend for over a year, where its share value had dropped from over $146 in October 2017, down to less than $60 by Christmas in 2018.
