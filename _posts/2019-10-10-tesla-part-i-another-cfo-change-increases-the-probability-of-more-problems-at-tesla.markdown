@@ -10,7 +10,7 @@ tags:
 - CFO Change
 - Red Flag
 - Kirkhorn
-Image: "/uploads/Teslapt1%20image%202.png"
+Image: "/uploads/tesla_1.jpg"
 ---
 
 For the last two years, Tesla has released its third quarter results on November 2, so we can expect to see the third quarter results in just a few weeks.  Our team looked at the Watchdog Report to get some insight on what issues could come up in that report.
