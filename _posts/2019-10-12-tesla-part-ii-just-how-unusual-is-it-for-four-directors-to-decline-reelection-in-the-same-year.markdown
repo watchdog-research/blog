@@ -25,6 +25,7 @@ When four directors refuse to stand for reelection in the same year, common sens
 Our analysts looked back and found that in the last ten years, for all the publicly traded companies on the Nasdaq and the NYSE, only 40 or so companies had four or more directors refuse to stand for reelection in the same year.  We then narrowed our search to only large cap companies, and here were our results:
 
 ![Teslapt2 image 2.png](/uploads/Teslapt2%20image%202.png)
+
 *Our analysts used data from Audit Analytics to create this table.*
 
 **In Bad Company**
