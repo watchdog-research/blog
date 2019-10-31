@@ -45,3 +45,23 @@ Tesla’s third quarter results have come out, and their results have been somet
 If Tesla defied expectations again and delivered a profitable third quarter, although automotive revenues were down from the third quarter of 2018 by $750 million.  There has been a great deal of excitement among some investors as the prices have shot up to over $300 a share.  A wise investor should not be caught up in the excitement.  Those big investors lost confidence in Tesla for a reason.  At Watchdog, we look at a loss of investor confidence as a sign that they may think the company's financial reporting is not reliable.
 
 Investors should look a critical look at Tesla, now that the third quarter has been profitable, it may deliver the perfect opportunity to follow some of the smart money and get out.
+
+**Read the Report for Yourself**
+
+[Watchdog Report for Tesla](/uploads/Watchdog%20Report%20for%20Tesla,%20Inc.%20-%20TSLA.pdf)
+
+Get a free trial to our whole library of reports [here](https://www.cwdresearch.com/free-trial).
+
+**What is Watchdog?**
+
+Watchdog Research, Inc. is an independent research provider that publishes Watchdog Reports. Our reports contain warning signs, red flags, material disclosures, and peer analysis for use in valuation, risk analysis, due diligence research, and idea generation. Watchdog Reports are designed to assist investment professionals fulfill their fiduciary obligations and to help investors, executives, board members, regulators and educators learn what they need to know about publicly traded companies. Watchdog Research, Inc. utilizes over 75 specialists and analysts to provide accurate and timely information to our readers.
+
+**The Watchdog Blog Team**
+
+Note:  Our team is made up of current and former Big Four CPAs, Public Company CFOs, Litigation Specialists, Lawyers, Accounting Educators, Ethicists, Regulators,  Entrepreneurs, and yes, even a few overly opinionated Harvard MBAs.  Our mission is to write blogs that promote transparency in corporate disclosures.
+
+Contact us:
+
+If you want to subscribe to Watchdog Reports, call our subscription manager, at 813-670-2060.
+
+If you have questions about this blog, call our content manager John Cheffers at 239-240-9284 or send an email to jcheffers@cwdresearch.com.
