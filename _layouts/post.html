@@ -1,31 +1,30 @@
 ---
-layout: default
+layout: basic_structure
 ---
 
-<div class="container-fluid" aria-label="Content">
-    <div class="row p-5">
-        <div class="col">
+<div class="row p-5">
+    <div class="col">
 
 
-            <article class="post page-section h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+        <article class="post page-section h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-                <header class="post-header">
-                    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+            <header class="post-header">
+                <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
 
-                    <div class="post-meta">
-                        <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}"
-                              itemprop="datePublished">
-                            {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
-                            {{ page.date | date: date_format }}
-                        </time>
+                <div class="post-meta">
+                    <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}"
+                          itemprop="datePublished">
+                        {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+                        {{ page.date | date: date_format }}
+                    </time>
 
-                        <span class="post-authors">
+                    <span class="post-authors">
                             {%- assign author = site.authors[page.author] -%}
                             {%- if author -%}
                             <span class="text">by </span>
                             <span class="author" itemprop="author" itemscope
-                                                   itemtype="http://schema.org/Person"><span
-                                itemprop="name">{{ author.name }}</span></span>
+                                  itemtype="http://schema.org/Person"><span
+                                    itemprop="name">{{ author.name }}</span></span>
                             {%- endif -%}
                             {%- assign editor = site.authors[page.editor] -%}
                             {%- if editor -%}
@@ -33,19 +32,18 @@ layout: default
                             {%- endif -%}
                         </span>
 
-                    </div>
-                </header>
-
-
-                <div class="post-content e-content" itemprop="articleBody">
-                    {{ content }}
                 </div>
+            </header>
 
 
-                <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-            </article>
+            <div class="post-content e-content" itemprop="articleBody">
+                {{ content }}
+            </div>
 
 
-        </div>
+            <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+        </article>
+
+
     </div>
 </div>

@@ -1,84 +1,13 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+---
+layout: default
+---
 
-{%- include head.html -%}
+<h3 class="post-list-heading">Archive of posts from {{ page.date | date: "%B %Y" }}</h3>
 
-<body>
-
-{%- include header.html -%}
-
-
-<div class="blog-content-container">
-
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-10 offset-1">
-                <div class="blog-hunk-container">
-
-                    <div class="container-fluid" aria-label="Content">
-                        <div class="row pl-5">
-
-                            {%- include blog_header_image.html -%}
-
-                            <div class="col-9">
-
-                                <h3 class="post-list-heading">Archive of posts from {{ page.date | date: "%B %Y" }}</h3>
-
-                                <ul class="list-group">
-                                    {% for post in page.posts %}
-                                    <li class="list-group-item border-0 pl-0 pb-0">
-                                        <a href="{{ post.url | prepend: site.baseurl}}">{{ post.title }}</a>
-                                    </li>
-                                    {% endfor %}
-                                </ul>
-
-                            </div>
-
-                            <div class="col-3">
-                                {%- include right_column.html -%}
-                            </div>
-
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-
-
-
-
-
-
-
-<div class="basement page-section page-section--with-border-top">
-    <div class="container" aria-label="Content">
-        <div class="row">
-            <div class="col">
-
-                <p>
-                    &copy; 2018 Watchdog Research, Inc. All rights reserved.<br>
-                    {{- site.description | escape -}}<br>
-                    Watchdog Research, Inc. is a financial research company providing due diligence information on public companies.
-                </p>
-
-                <p>
-                    {%- if site.twitter_username -%}<a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}">@{{ site.twitter_username| escape }}</a>{%- endif -%}
-                    {%- if site.rss -%}&nbsp; &nbsp; | &nbsp; &nbsp; <a href="{{ 'feed.xml' | relative_url }}"><span>{{ site.rss | escape }}</span></a>{%- endif -%}
-                </p>
-
-            </div>
-        </div>
-    </div>
-</div>
-
-
-</body>
-
-</html>
-
-
+<ul class="list-group">
+    {% for post in page.posts %}
+    <li class="list-group-item border-0 pl-0 pb-0">
+        <a href="{{ post.url | prepend: site.baseurl}}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+</ul>

@@ -1,4 +1,4 @@
-(function() {
+window.onload = function() {
 
     function displaySearchResults(results, store, ) {
         let searchResults = document.getElementById('search-results');
@@ -90,4 +90,4 @@
         return html;
     }
 
-})();
+};

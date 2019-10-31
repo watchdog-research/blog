@@ -2,113 +2,95 @@
 layout: default
 ---
 
-<div class="page-section">
-  <div class="container-fluid" aria-label="Content">
-    <div class="row pl-5">
+<h3 class="post-list-heading">Watchdog Transparency Blog</h3>
 
-      {%- include blog_header_image.html -%}
+<p class="pb-3">
+  In our Blog we take a critical look at public company disclosures and focus on issues surrounding transparency, reliability and accuracy. It you are looking for cheerleading, you have come to the wrong place. We rely on information from the best sources available to gain insight into companies and make predictions about what will happen in the future. Nothing in business is certain, so sometimes we will be wrong, but we will always be an independent voice telling you the truth as we see it.
+</p>
 
-      <div class="col-9">
+<h3 class="post-list-heading">Articles</h3>
 
-        <h3 class="post-list-heading">Watchdog Transparency Blog</h3>
+<div class="post-list">
+  {%- for post in paginator.posts -%}
 
-        <p class="pb-3">
-          In our Blog we take a critical look at public company disclosures and focus on issues surrounding transparency, reliability and accuracy. It you are looking for cheerleading, you have come to the wrong place. We rely on information from the best sources available to gain insight into companies and make predictions about what will happen in the future. Nothing in business is certain, so sometimes we will be wrong, but we will always be an independent voice telling you the truth as we see it.
-        </p>
+  <div class="post-item">
 
-          <h3 class="post-list-heading">Articles</h3>
+    <h3 class="post-title">
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </h3>
 
-          <div class="post-list">
-          {%- for post in paginator.posts -%}
+    <hr class="mt-0 mb-1">
 
-          <div class="post-item">
+    {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+    Posted on <span class="post-meta">{{ post.date | date: date_format }}</span>
 
-            <h3 class="post-title">
-              <a class="post-link" href="{{ post.url | relative_url }}">
-                {{ post.title | escape }}
-              </a>
-            </h3>
-
-            <hr class="mt-0 mb-1">
-
-            {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
-            Posted on <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-            <div class="post-excerpt mt-2 ">
-              {{ post.excerpt }}
-            </div>
-
-            {%- assign first_category = post.categories | first %}
-            {% if  first_category!= nil %}
-            Posted in <span class="post-meta">{{ post.categories | join: ", "}}</span>
-            {% endif %}
-
-            <hr class="mt-0 mb-4">
-
-          </div>
-
-          {%- endfor -%}
-        </div>
-
-        <div class="d-flex flex-row align-items-baseline">
-
-          <div class="p-2">
-            <nav aria-label="Posts navigation">
-              <ul class="pagination">
-
-                {% if paginator.previous_page %}
-
-                <li class="page-item">
-                  <a class="page-link" href="{{ paginator.previous_page_path }}">Previous</a>
-                </li>
-
-<!--                <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path }}">{{ paginator.page | minus: 1 }}</a></li>-->
-
-                {% else %}
-
-                <li class="page-item disabled">
-                  <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
-                </li>
-
-                {% endif %}
-
-
-<!--                <li class="page-item disabled"><a class="page-link" tabindex="-1" aria-disabled="true">{{ paginator.page }}</a></li>-->
-
-
-                {% if paginator.next_page %}
-
-<!--                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path }}">{{ paginator.page | plus:  1 }}</a></li>-->
-
-                <li class="page-item">
-                  <a class="page-link" href="{{ paginator.next_page_path }}">Next</a>
-                </li>
-
-                {% else %}
-
-                <li class="page-item disabled">
-                  <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Next</a>
-                </li>
-
-                {% endif %}
-
-              </ul>
-            </nav>
-          </div>
-
-          <div class="p-2 ml-auto">
-            <b>Total articles: {{paginator.total_posts}}</b>(page {{ paginator.page }} of {{ paginator.total_pages }} with {{paginator.per_page}} articles)
-          </div>
-
-        </div>
-
-      </div>
-
-      <div class="col-3">
-        {%- include right_column.html -%}
-      </div>
-
+    <div class="post-excerpt mt-2 ">
+      {{ post.excerpt }}
     </div>
+
+    {%- assign first_category = post.categories | first %}
+    {% if  first_category!= nil %}
+    Posted in <span class="post-meta">{{ post.categories | join: ", "}}</span>
+    {% endif %}
+
+    <hr class="mt-0 mb-4">
+
   </div>
+
+  {%- endfor -%}
+</div>
+
+<div class="d-flex flex-row align-items-baseline">
+
+  <div class="p-2">
+    <nav aria-label="Posts navigation">
+      <ul class="pagination">
+
+        {% if paginator.previous_page %}
+
+        <li class="page-item">
+          <a class="page-link" href="{{ paginator.previous_page_path }}">Previous</a>
+        </li>
+
+        <!--                <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path }}">{{ paginator.page | minus: 1 }}</a></li>-->
+
+        {% else %}
+
+        <li class="page-item disabled">
+          <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
+        </li>
+
+        {% endif %}
+
+
+        <!--                <li class="page-item disabled"><a class="page-link" tabindex="-1" aria-disabled="true">{{ paginator.page }}</a></li>-->
+
+
+        {% if paginator.next_page %}
+
+        <!--                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path }}">{{ paginator.page | plus:  1 }}</a></li>-->
+
+        <li class="page-item">
+          <a class="page-link" href="{{ paginator.next_page_path }}">Next</a>
+        </li>
+
+        {% else %}
+
+        <li class="page-item disabled">
+          <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Next</a>
+        </li>
+
+        {% endif %}
+
+      </ul>
+    </nav>
+  </div>
+
+  <div class="p-2 ml-auto">
+    <b>Total articles: {{paginator.total_posts}}</b>(page {{ paginator.page }} of {{ paginator.total_pages }} with {{paginator.per_page}} articles)
+  </div>
+
 </div>
 
