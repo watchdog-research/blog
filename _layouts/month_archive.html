@@ -8,34 +8,48 @@
 {%- include header.html -%}
 
 
+<div class="blog-content-container">
 
-<div class="page-section">
-    <div class="container" aria-label="Content">
+    <div class="container-fluid">
         <div class="row">
+            <div class="col-10 offset-1">
+                <div class="blog-hunk-container">
 
-            {%- include blog_header_image.html -%}
+                    <div class="container-fluid" aria-label="Content">
+                        <div class="row pl-5">
 
-            <div class="col-9">
+                            {%- include blog_header_image.html -%}
 
-                <h3 class="post-list-heading">Archive of posts from {{ page.date | date: "%B %Y" }}</h3>
+                            <div class="col-9">
 
-                <ul class="list-group">
-                    {% for post in page.posts %}
-                    <li class="list-group-item border-0 pl-0 pb-0">
-                        <a href="{{ post.url | prepend: site.baseurl}}">{{ post.title }}</a>
-                    </li>
-                    {% endfor %}
-                </ul>
+                                <h3 class="post-list-heading">Archive of posts from {{ page.date | date: "%B %Y" }}</h3>
 
+                                <ul class="list-group">
+                                    {% for post in page.posts %}
+                                    <li class="list-group-item border-0 pl-0 pb-0">
+                                        <a href="{{ post.url | prepend: site.baseurl}}">{{ post.title }}</a>
+                                    </li>
+                                    {% endfor %}
+                                </ul>
+
+                            </div>
+
+                            <div class="col-3">
+                                {%- include right_column.html -%}
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
             </div>
-
-            <div class="col-3">
-                {%- include right_column.html -%}
-            </div>
-
         </div>
     </div>
 </div>
+
+
+
+
 
 
 

@@ -8,26 +8,39 @@
 {%- include header.html -%}
 
 
+<div class="blog-content-container">
 
-<div class="page-section">
-  <div class="container" aria-label="Content">
+  <div class="container-fluid">
     <div class="row">
+      <div class="col-10 offset-1">
+        <div class="blog-hunk-container">
 
-      {%- include blog_header_image.html -%}
 
-      <div class="col-9">
+            <div class="container-fluid">
+              <div class="row pl-5">
 
-        {{ content }}
+                {%- include blog_header_image.html -%}
 
+                <div class="col-9">
+
+                  {{ content }}
+
+                </div>
+
+                <div class="col-3">
+                  {%- include right_column.html -%}
+                </div>
+
+              </div>
+            </div>
+
+        </div>
       </div>
-
-      <div class="col-3">
-        {%- include right_column.html -%}
-      </div>
-
     </div>
   </div>
 </div>
+
+
 
 
 

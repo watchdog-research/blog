@@ -1,5 +1,22 @@
+.blog-content-container {
+  position: relative;
+  padding-top: $spacer;
+  overflow: auto;
+  background: $color2-dividers;
 
-.navbar {
+  .blog-hunk-container {
+    margin-bottom: ($spacer * 3);
+    padding: 0;
+
+    @include material-box-shadow(1);
+    background: #fff;
+
+  }
+
+}
+
+
+  .navbar {
   transition: height 0.5s ease;
 
   .navbar-brand {
