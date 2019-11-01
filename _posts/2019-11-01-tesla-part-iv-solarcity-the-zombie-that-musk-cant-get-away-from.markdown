@@ -87,7 +87,7 @@ But Tesla’s supporters have had their patience rewarded, Musk announced earlie
 
 Since the first announcement of the solar tile seems to have been made to sell the merger with SolarCity and not the tile, we wonder if this announcement is more misdirection for some other issue at Tesla.
 
-\*\*SolarCity’s Enduring Legacy, A Boondoggle in Buffalo \*\*
+**SolarCity’s Enduring Legacy, A Boondoggle in Buffalo **
 
 Before SolarCity was acquired, Musk struck a deal with Governor Cuomo to have the State pay $750 million to SUNY, who would build and furnish a factory according to SolarCity’s specifications, and SolarCity would pay any additional amount required.  This was a part of a scandal ridden government attempt to revitalize the city of Buffalo.  Tesla had promised that this factory would lead the industry in manufacturing solar tiles.
 
