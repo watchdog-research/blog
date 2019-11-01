@@ -1,6 +1,15 @@
 ---
 title: 'Tesla Part IV: SolarCity—The Zombie That Musk Can’t Get Away From'
 date: 2019-11-01 10:34:00 -04:00
+categories:
+- Watchdog Context
+- featured
+tags:
+- Tesla
+- SolarCity
+- Buffalo Billion
+- Conflict of Interest
+- Vertical Integration
 ---
 
 In Parts I, II, and III, we took a deeper look at their recent CFO change, their loss of four Directors, and the loss of the confidence of some of their biggest institutional investors.  In each of these indicators there is a possible inference that insiders at the company know about something rotten in Tesla that is obscured from the ordinary shareholders.  In this post we will take a deep dive into the SolarCity acquisition and look at the reliability of Musk and Tesla’s statements surrounding the acquisition.
