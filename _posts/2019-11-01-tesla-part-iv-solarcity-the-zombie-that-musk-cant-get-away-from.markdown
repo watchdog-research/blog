@@ -78,7 +78,7 @@ But Tesla’s supporters have had their patience rewarded, Musk announced earlie
 
 Since the first announcement of the solar tile seems to have been made to sell the merger with SolarCity and not the tile, we wonder if this announcement is more misdirection for some other issue at Tesla.
 
-**SolarCity’s Enduring Legacy, A Boondoggle in Buffalo **
+\*\*SolarCity’s Enduring Legacy, A Boondoggle in Buffalo \*\*
 
 Before SolarCity was acquired, Musk struck a deal with Governor Cuomo to have the State pay $750 million to SUNY, who would build and furnish a factory according to SolarCity’s specifications, and SolarCity would pay any additional amount required.  This was a part of a scandal ridden government attempt to revitalize the city of Buffalo.  Tesla had promised that this factory would lead the industry in manufacturing solar tiles.
 
@@ -115,3 +115,23 @@ At the time of the merger, there was plenty evidence that SolarCity was not wort
 In the aftermath of the merger, even more evidence has come out supporting the idea that SolarCity was a dog, and that Tesla was aware of this fact when it went through with the deal.  In fact, the “launch” of the solar tile weeks before the shareholder vote seems to be deliberate misdirection.  The simplest explanation for all this evidence is that Musk and his friends had a serious conflict of interest.
 
 Transparency is critical to the long-term health of a company, because the accountability it brings helps management make good decisions, even when they are hard and humiliating.  The ongoing boondoggle in Buffalo is emblematic of the legacy wrought by Tesla’s lack of transparency surrounding the merger.  The question arises, if Musk and his friends aren’t committed to transparency, then what else might they be hiding?
+
+**Read the Report for Yourself**
+
+[Watchdog Report for Tesla](/uploads/Watchdog%20Report%20for%20Tesla,%20Inc.%20-%20TSLA.pdf)
+
+Get a free trial to our whole library of reports [here](https://www.cwdresearch.com/free-trial).
+
+**What is Watchdog?**
+
+Watchdog Research, Inc. is an independent research provider that publishes Watchdog Reports. Our reports contain warning signs, red flags, material disclosures, and peer analysis for use in valuation, risk analysis, due diligence research, and idea generation. Watchdog Reports are designed to assist investment professionals fulfill their fiduciary obligations and to help investors, executives, board members, regulators and educators learn what they need to know about publicly traded companies. Watchdog Research, Inc. utilizes over 75 specialists and analysts to provide accurate and timely information to our readers.
+
+**The Watchdog Blog Team**
+
+Note:  Our team is made up of current and former Big Four CPAs, Public Company CFOs, Litigation Specialists, Lawyers, Accounting Educators, Ethicists, Regulators,  Entrepreneurs, and yes, even a few overly opinionated Harvard MBAs.  Our mission is to write blogs that promote transparency in corporate disclosures.
+
+Contact us:
+
+If you want to subscribe to Watchdog Reports, call our subscription manager, at 813-670-2060.
+
+If you have questions about this blog, call our content manager John Cheffers at 239-240-9284 or send an email to jcheffers@cwdresearch.com.
