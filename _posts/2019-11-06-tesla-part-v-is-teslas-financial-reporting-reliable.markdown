@@ -1,6 +1,15 @@
 ---
 title: 'Tesla Part V: Is Tesla’s Financial Reporting Reliable?'
 date: 2019-11-06 12:45:00 -05:00
+categories:
+- Featured
+- Watchdog Context
+tags:
+- Musk
+- Tesla
+- TSLA
+- Reliablity
+- accounting complexity
 ---
 
 Tesla supporters have been reveling in the third quarter results that showed Tesla turning an operating profit for the first time this year.  Tesla’s stocks have shot up dramatically based on the good news.
