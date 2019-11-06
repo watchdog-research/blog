@@ -59,7 +59,7 @@ Tesla has some of the most complex accounting disclosures in the manufacturing s
 
 **Read the Report for Yourself**
 
-[Watchdog Report for Tesla](/uploads/Watchdog%20Report%20for%20Tesla,%20Inc.%20-%20TSLA%2011.6.19.pdf)\
+[Watchdog Report for Tesla](/uploads/Watchdog%20Report%20for%20Tesla,%20Inc.%20-%20TSLA%2011.6.19.pdf)
 
 Get a free trial to our whole library of reports [here](https://www.cwdresearch.com/free-trial).
 
