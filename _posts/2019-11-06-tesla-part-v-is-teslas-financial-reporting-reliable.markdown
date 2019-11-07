@@ -36,7 +36,7 @@ When a company uses more custom language or formats than its peers, its disclosu
 
 Our graph lets you know in seconds that Tesla’s reporting is difficult to understand because it has unusual terms or formats.  So, if you are going to put money in something you don’t understand, then you need a lot of faith in the management team.  Should you put your faith in Tesla’s management?  We haven’t forgotten about Tesla’s [revolving](https://blog.cwdresearch.com/posts/tesla-part-i-another-cfo-change-increases-the-probability-of-more-problems-at-tesla/) door at CFO, where the current occupant is only 34 years old and has never worked anywhere besides Tesla.
 
-\*\*What Will Tesla’s Critical Audit Matters (CAMs) Tell Us About the Complexity at Tesla? \*\*
+**What Will Tesla’s Critical Audit Matters (CAMs) Tell Us About the Complexity at Tesla?**
 
 We will learn more when their auditors file their [Critical Audit Matters](https://pcaobus.org/Standards/Auditing/Pages/AS3101.aspx) (CAMs) at year-end, and we get a sense of what parts of the business pose difficulties for the auditors.  With accounting complexity ranking this highly, we suspect that the CAM disclosure will name more issues that most of Tesla’s peers.  It will also be interesting to see which [parts](https://blog.auditanalytics.com/progress-of-critical-audit-matters-cams/) of their business pose the most difficulty for auditors.
 
