@@ -11,6 +11,7 @@ tags:
 - Conflict of Interest
 - Vertical Integration
 image: "/uploads/solar.jpg"
+author: John_Cheffers
 ---
 
 In Parts [I](https://blog.cwdresearch.com/posts/tesla-part-i-another-cfo-change-increases-the-probability-of-more-problems-at-tesla/), [II](https://blog.cwdresearch.com/posts/tesla-part-ii-just-how-unusual-is-it-for-four-directors-to-decline-reelection-in-the-same-year/), and [III](https://blog.cwdresearch.com/posts/tesla-part-iii-the-smart-money-is-getting-out-of-tesla/), we took a deeper look at their recent CFO change, their loss of four Directors, and the loss of the confidence of some of their biggest institutional investors.  In each of these indicators there is a possible inference that insiders at the company know about something rotten in Tesla that is obscured from the ordinary shareholders.  In this post we will take a deep dive into the SolarCity acquisition and look at the reliability of Musk and Tesla’s statements surrounding the acquisition.
