@@ -10,6 +10,7 @@ tags:
 - TSLA
 - Reliablity
 - accounting complexity
+image: "/uploads/tesla_V.jpg"
 ---
 
 Tesla supporters have been reveling in the third quarter results that showed Tesla turning an operating profit for the first time this year.  Tesla’s stocks have shot up dramatically based on the good news.
