@@ -12,7 +12,7 @@ tags:
 - Knopf
 - 3G Capital
 image: "/uploads/cwd-KHC-watchdog-chart-2019-09-018.png"
-author: John_Percy
+author: John_Cheffers
 ---
 
 Every investor makes mistakes when it comes to valuing an acquisition.  However, the dramatic decline in market value of Kraft Heinz Co. (“KHC”) is not simply about failing to properly value KHC, or failing to manage the Company to meet growth expectations, it is about a collapse of confidence in the reliability of financial disclosures.  Warren Buffet’s well-earned reputation as a great fundamental analyst cannot be questioned, but he rarely gets caught up with investments that present evidence of ethical and transparency challenges.  And if he does, he is known to fix them quickly.  KHC is the exception to this rule and it is a failure of such magnitude that it could over-shadow Buffet’s long-term reputation as a champion of good governance.
