@@ -2,6 +2,14 @@
 title: 'Tesla Part VI: Is Musk Truskworthy? Or Will Investors be Gored in the Latest
   Running of the Bulls?'
 date: 2019-11-11 11:24:00 -05:00
+categories:
+- Watchdog Context
+- Featured
+tags:
+- Musk
+- Reliablity
+- Tesla
+- tsla
 ---
 
 Tesla’s stock price is notoriously volatile.  When a profit was recorded in the third quarter, the stock jumped from about $250 a share to over $310 a share.  This volatility reflects the volatility of Musk himself, who has gotten himself into so much trouble with his twitter account that he has agreed to have a lawyer act as his twitter [babysitter](https://www.wired.com/story/tesla-ceo-elon-musk-stricter-twitter-babysitter/).
