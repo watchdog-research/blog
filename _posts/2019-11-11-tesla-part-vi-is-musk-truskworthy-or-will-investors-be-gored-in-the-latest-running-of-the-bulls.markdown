@@ -10,6 +10,7 @@ tags:
 - Reliablity
 - Tesla
 - tsla
+image: "/uploads/tesla_IV_risk.jpg"
 ---
 
 Tesla’s stock price is notoriously volatile.  When a profit was recorded in the third quarter, the stock jumped from about $250 a share to over $310 a share.  This volatility reflects the volatility of Musk himself, who has gotten himself into so much trouble with his twitter account that he has agreed to have a lawyer act as his twitter [babysitter](https://www.wired.com/story/tesla-ceo-elon-musk-stricter-twitter-babysitter/).
