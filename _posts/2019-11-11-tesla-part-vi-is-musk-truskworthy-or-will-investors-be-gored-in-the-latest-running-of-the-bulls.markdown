@@ -4,7 +4,7 @@ title: 'Tesla Part VI: Is Musk Truskworthy? Or Will Investors be Gored in the La
 date: 2019-11-11 11:24:00 -05:00
 categories:
 - Watchdog Context
-- Featured
+- featured
 tags:
 - Musk
 - Reliablity
