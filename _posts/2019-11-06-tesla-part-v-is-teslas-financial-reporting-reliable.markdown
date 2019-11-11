@@ -2,8 +2,8 @@
 title: 'Tesla Part V: Is Tesla’s Financial Reporting Reliable?'
 date: 2019-11-06 12:45:00 -05:00
 categories:
-- Featured
 - Watchdog Context
+- featured
 tags:
 - Musk
 - Tesla
