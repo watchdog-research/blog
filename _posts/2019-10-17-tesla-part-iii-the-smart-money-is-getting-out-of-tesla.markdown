@@ -10,6 +10,7 @@ tags:
 - Institutional Investors
 - T. Rowe
 image: "/uploads/dollar.jpg"
+author: John_Cheffers
 ---
 
 In Parts [I](https://blog.cwdresearch.com/posts/tesla-part-i-another-cfo-change-increases-the-probability-of-more-problems-at-tesla/) and [II](https://blog.cwdresearch.com/posts/tesla-part-ii-just-how-unusual-is-it-for-four-directors-to-decline-reelection-in-the-same-year/) we looked at Tesla’s latest CFO change and the decision by four of its Directors to not stand for reelection.  Today we will look some indicators that measure the confidence that institutional investors have in Tesla, and how decreasing confidence by some institutional investors has made it safer, in some sense, to buy Tesla’s stock.
