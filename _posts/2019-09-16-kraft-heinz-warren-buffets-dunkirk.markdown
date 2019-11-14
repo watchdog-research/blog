@@ -11,7 +11,7 @@ tags:
 - Buffet
 - Knopf
 - 3G Capital
-image: "/uploads/cwd-KHC-watchdog-chart-2019-09-018.png"
+image: "/uploads/dundirk.jpg"
 author: John_Cheffers
 ---
 
