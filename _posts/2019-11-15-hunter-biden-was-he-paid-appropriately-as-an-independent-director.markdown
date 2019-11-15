@@ -49,4 +49,22 @@ If Hunter Biden was paid the same amount as an independent director of a large p
 
 Was Hunter Biden overpaid? Yes. If he was an independent director, then certainly. If he received the money for consulting, then it would be hard to argue that he was overpaid, but it would be easy to argue that his claims of being an independent director “focused on governance” are a sham.  
 
-The Joe and Hunter Biden story has many layers.  However, from a corporate governance perspective it highlights the importance of transparency and oversight for good governance.  Having directors who are familiar with the rules but only pay lip service to good governance is a failure.  To stop corruption, directors need deep integrity.  It seems Hunter Biden did not bring that to Burisma. 
+The Joe and Hunter Biden story has many layers.  However, from a corporate governance perspective it highlights the importance of transparency and oversight for good governance.  Having directors who are familiar with the rules but only pay lip service to good governance is a failure.  To stop corruption, directors need deep integrity.  It seems Hunter Biden did not bring that to Burisma.
+ 
+**Interested in our Reports on Public Companies?**
+
+Get a free trial to our whole library of reports [here](https://www.cwdresearch.com/free-trial).
+
+**What is Watchdog?**
+
+Watchdog Research, Inc. is an independent research provider that publishes Watchdog Reports. Our reports contain warning signs, red flags, material disclosures, and peer analysis for use in valuation, risk analysis, due diligence research, and idea generation. Watchdog Reports are designed to assist investment professionals fulfill their fiduciary obligations and to help investors, executives, board members, regulators and educators learn what they need to know about publicly traded companies. Watchdog Research, Inc. utilizes over 75 specialists and analysts to provide accurate and timely information to our readers.
+
+**The Watchdog Blog Team**
+
+Note:  Our team is made up of current and former Big Four CPAs, Public Company CFOs, Litigation Specialists, Lawyers, Accounting Educators, Ethicists, Regulators,  Entrepreneurs, and yes, even a few overly opinionated Harvard MBAs.  Our mission is to write blogs that promote transparency in corporate disclosures.
+
+Contact us:
+
+If you want to subscribe to Watchdog Reports, call our subscription manager, at 813-670-2060.
+
+If you have questions about this blog, call our content manager John Cheffers at 239-240-9284 or send an email to jcheffers@cwdresearch.com.
