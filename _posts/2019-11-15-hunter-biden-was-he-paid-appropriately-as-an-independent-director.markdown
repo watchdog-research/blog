@@ -11,7 +11,7 @@ tags:
 - Corruption
 - Quid Pro Quo
 - overpaid
-author: John_Cheffers
+author: john_cheffers
 image: 
 ---
 
