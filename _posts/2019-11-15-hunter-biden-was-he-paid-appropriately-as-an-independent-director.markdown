@@ -12,7 +12,7 @@ tags:
 - Quid Pro Quo
 - overpaid
 author: john_cheffers
-image: 
+image: "/uploads/hunter_biden.jpg"
 ---
 
 *Burisma is a private company and Reuters [estimates](https://www.reuters.com/article/us-usa-trump-whistleblower-burisma-factb/factbox-burisma-the-obscure-ukrainian-gas-company-at-the-heart-of-u-s-political-row-idUSKBN1W91UG) that it only brings in $400 million a year in revenue.  In our analysis, we would expect an independent director like Hunter Biden to make between $55,000—$83,000 a year at Burisma.  If Hunter made $83,333 a month as reported by Reuters, then he made over 12 times what a typical independent director at a private company would make.* 
