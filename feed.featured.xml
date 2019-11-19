@@ -11,7 +11,7 @@ layout:
         <atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
         <lastBuildDate>{% for post in site.categories.featured limit:1 %}{{ post.date | date_to_rfc822 }}{% endfor %}</lastBuildDate>
         {% for post in site.categories.featured %}
-        {%- if post.url == "/posts/tesla-part-vi-is-musk-truskworthy-or-will-investors-be-gored-in-the-latest-running-of-the-bulls/"
+        {%- if post.url == "/posts/hunter-biden-was-he-paid-appropriately-as-an-independent-director/"
         or post.url == "/posts/kraft-heinz-warren-buffets-dunkirk/"
         or post.url == "/posts/watchdog-concerns-target/" -%}
         <item>
