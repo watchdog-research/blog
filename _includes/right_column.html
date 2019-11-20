@@ -4,7 +4,8 @@
 </form>
 
 
-<h6 class="pt-5">CATEGORIES</h6>
+<div class="pt-3 d-sm-none d-md-none d-lg-none d-xl-none">CATEGORIES</div>
+<h6 class="pt-5 d-none d-sm-block">CATEGORIES</h6>
 
 <ul class="list-group">
     {% for category in site.categories %}
@@ -16,7 +17,8 @@
     {% endfor %}
 </ul>
 
-<h6 class="pt-5">ARCHIVES</h6>
+<div class="pt-3 d-sm-none d-md-none d-lg-none d-xl-none">ARCHIVES</div>
+<h6 class="pt-5 d-none d-sm-block">ARCHIVES</h6>
 
 <ul class="list-group">
 {% for post in site.posts %}

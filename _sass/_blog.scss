@@ -16,6 +16,13 @@
 
     .post-title {
       font-size: $font-size-lg;
+
+      @include media-breakpoint-up(xs) {
+        font-size: $font-size-sm;
+      }
+      @include media-breakpoint-up(sm) {
+        font-size: $font-size-lg;
+      }
     }
 
     .post-excerpt {
@@ -35,7 +42,13 @@
   .post-header {
 
     .post-title {
-      font-size: $font-size-xl;
+      @include media-breakpoint-up(xs) {
+        font-size: $font-size-base;
+        font-weight: $font-weight-bold;
+      }
+      @include media-breakpoint-up(sm) {
+        font-size: $font-size-xl;
+      }
     }
 
     .post-meta {
@@ -58,7 +71,14 @@
 
   .post-content {
     padding-top: $spacer;
-    
+
+    @include media-breakpoint-up(xs) {
+      font-size: $font-size-sm;
+    }
+    @include media-breakpoint-up(sm) {
+      font-size: $font-size-base;
+    }
+
     img,
     .image--full-width {
         @extend .img-fluid;

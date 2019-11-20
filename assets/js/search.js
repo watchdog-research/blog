@@ -1,19 +1,32 @@
 window.onload = function() {
 
     function displaySearchResults(results, store, ) {
-        let searchResults = document.getElementById('search-results');
+        let searchResults = document.getElementsByClassName('search-results');
+        let searchListHeadings = document.getElementsByClassName('search-list-heading');
+
+        let headingText = 'Search results for: ' + searchTerm;
+
+        for (let i = 0; i < searchListHeadings.length; i++) {
+            searchListHeadings[i].innerHTML = headingText;
+        }
 
         if (results.length) { // Are there any results?
-            let appendString = '<h2 class="post-list-heading">Search results for: ' + searchTerm + '</h2>';
+
+            let appendString = '';
 
             for (let i = 0; i < results.length; i++) {  // Iterate over the results
                 let item = store[results[i].ref];
                 appendString += getPostHtml(item);
             }
 
-            searchResults.innerHTML = appendString;
+            for (let i = 0; i < searchResults.length; i++) {
+                searchResults[i].innerHTML = appendString;
+            }
+
         } else {
-            searchResults.innerHTML = '<h2 class="post-list-heading">No results found.</h2>';
+            for (let i = 0; i < searchResults.length; i++) {
+                searchResults[i].innerHTML = '<h2 class="post-list-heading">No results found.</h2>';
+            }
         }
     }
 

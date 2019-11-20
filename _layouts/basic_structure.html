@@ -12,7 +12,8 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-10 offset-1">
+
+            <div class="col-12 d-sm-none d-md-none d-lg-none d-xl-none">
                 <div class="blog-hunk-container">
 
                     <div class="container-fluid" aria-label="Content">
@@ -21,6 +22,17 @@
 
                 </div>
             </div>
+
+            <div class="col-10 offset-1 d-none d-sm-block">
+                <div class="blog-hunk-container">
+
+                    <div class="container-fluid" aria-label="Content">
+                        {{ content }}
+                    </div>
+
+                </div>
+            </div>
+
         </div>
     </div>
 </div>
