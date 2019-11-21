@@ -10,23 +10,51 @@ layout:
         <link>{{ site.url }}</link>
         <atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
         <lastBuildDate>{% for post in site.categories.featured limit:1 %}{{ post.date | date_to_rfc822 }}{% endfor %}</lastBuildDate>
-        {% for post in site.categories.featured %}
-        {%- if post.url == "/posts/hunter-biden-was-he-paid-appropriately-as-an-independent-director/"
-        or post.url == "/posts/kraft-heinz-warren-buffets-dunkirk/"
-        or post.url == "/posts/watchdog-concerns-target/" -%}
-        <item>
-            <title>{{ post.title | xml_escape }}</title>
-            <description>{{ post.excerpt | xml_escape }}</description>
-            <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
-            <link>{{ site.url }}{{ post.url }}</link>
-            {%- if post.image -%}
-            <enclosure url="{{ site.url }}{{ post.image }}" length="100000" type="image/jpeg" />
-            {%- endif -%}
-            <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-        </item>
-        {%- endif -%}
 
-        {% endfor %}
+        <item>
+            <title>
+                Hunter Biden: Was He Paid Appropriately as an Independent Director?
+            </title>
+            <description>
+                <p><em>Burisma is a private company and Reuters <a href="https://www.reuters.com/article/us-usa-trump-whistleblower-burisma-factb/factbox-burisma-the-obscure-ukrainian-gas-company-at-the-heart-of-u-s-political-row-idUSKBN1W91UG">estimates</a> that it only brings in $400 million a year in revenue. In our analysis, we would expect an independent director like Hunter Biden to make between $55,000—$83,000 a year at Burisma. If Hunter made $83,333 a month as reported by Reuters, then he made over 12 times what a typical independent director at a private company would make.</em></p>
+            </description>
+            <pubDate>2019-11-15T05:48:00-05:00</pubDate>
+            <link>
+                https://blog.cwdresearch.com/posts/hunter-biden-was-he-paid-appropriately-as-an-independent-director/
+            </link>
+            <enclosure url="https://blog.cwdresearch.com/uploads/hunter_biden.jpg" length="100000" type="image/jpeg"/>
+            <guid isPermaLink="true">
+                https://blog.cwdresearch.com/posts/hunter-biden-was-he-paid-appropriately-as-an-independent-director/
+            </guid>
+        </item>
+        <item>
+            <title>Kraft Heinz: Warren Buffet's Dunkirk</title>
+            <description>
+                <p>Every investor makes mistakes when it comes to valuing an acquisition. However, the dramatic decline in market value of Kraft Heinz Co. (“KHC”) is not simply about failing to properly value KHC, or failing to manage the Company to meet growth expectations, it is about a collapse of confidence in the reliability of financial disclosures. Warren Buffet’s well-earned reputation as a great fundamental analyst cannot be questioned, but he rarely gets caught up with investments that present evidence of ethical and transparency challenges. And if he does, he is known to fix them quickly. KHC is the exception to this rule and it is a failure of such magnitude that it could over-shadow Buffet’s long-term reputation as a champion of good governance.</p>
+            </description>
+            <pubDate>2019-09-16T16:42:00-04:00</pubDate>
+            <link>
+                https://blog.cwdresearch.com/posts/kraft-heinz-warren-buffets-dunkirk/
+            </link>
+            <enclosure url="https://blog.cwdresearch.com/uploads/dundirk.jpg" length="100000" type="image/jpeg"/>
+            <guid isPermaLink="true">
+                https://blog.cwdresearch.com/posts/kraft-heinz-warren-buffets-dunkirk/
+            </guid>
+        </item>
+        <item>
+            <title>Early Retirement for Target's CFO</title>
+            <description>
+                <p>Updated November 21, 2019: We are updating our original blog on Target. First, we note that Ms. Cathy Smith, stepped-down officially on November 1, 2019 and her replacement was named at the same time. Specifically, her replacement is a Target insider. At a time we believe a new and fresh perspective about Target’s PPE is needed, Target went the other way and appointed Michael J. Fiddelke, 43, as Executive Vice President and Chief Financial Officer. Mr. Fiddelke appears to have originally joined Target as a 29 year-old and has stayed loyal to Target since then.</p>
+            </description>
+            <pubDate>2019-11-21T16:21:00-05:00</pubDate>
+            <link>
+                https://blog.cwdresearch.com/posts/watchdog-concerns-target/
+            </link>
+            <enclosure url="https://blog.cwdresearch.com/uploads/Target.png" length="100000" type="image/jpeg"/>
+            <guid isPermaLink="true">
+                https://blog.cwdresearch.com/posts/watchdog-concerns-target/
+            </guid>
+        </item>
     </channel>
 </rss>
 
