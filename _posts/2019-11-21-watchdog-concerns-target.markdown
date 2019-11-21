@@ -13,10 +13,7 @@ image: "/uploads/Target.png"
 
 Updated November 21, 2019:
 We are updating our original blog on Target.
-
-First, we note that Ms. Cathy Smith, stepped-down officially on November 1, 2019 and her replacement was named at the same time.
-
-Specifically, her replacement is a Target insider.  At a time we believe a new and fresh perspective about Target’s PPE is needed, Target went the other way and appointed Michael J. Fiddelke, 43, as Executive Vice President and Chief Financial Officer.  Mr. Fiddelke appears to have originally joined Target as a 29 year-old and has stayed loyal to Target since then.
+First, we note that Ms. Cathy Smith, stepped-down officially on November 1, 2019 and her replacement was named at the same time. Specifically, her replacement is a Target insider.  At a time we believe a new and fresh perspective about Target’s PPE is needed, Target went the other way and appointed Michael J. Fiddelke, 43, as Executive Vice President and Chief Financial Officer.  Mr. Fiddelke appears to have originally joined Target as a 29 year-old and has stayed loyal to Target since then.
 
 Our view, as we outlined originally, is that Target should be evaluating a serious impairment of its physical retail stores.   Such an action will take courage because any impairment would likely be a very serious hit to Target’s assets. 
 
