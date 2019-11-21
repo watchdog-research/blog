@@ -1,6 +1,6 @@
 ---
 title: Early Retirement for Target's CFO
-date: 2019-01-31 16:21:00 -05:00
+date: 2019-11-21 16:21:00 -05:00
 categories:
 - featured
 - Watchdog Context
