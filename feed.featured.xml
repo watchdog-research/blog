@@ -61,6 +61,35 @@ layout:
                 https://blog.cwdresearch.com/posts/watchdog-concerns-target/
             </guid>
         </item>
+
+        {% for post in site.categories.featured limit:5 %}
+            {%- if post.url != "/posts/hunter-biden-was-he-paid-appropriately-as-an-independent-director/"
+                or post.url != "/posts/kraft-heinz-warren-buffets-dunkirk/"
+                or post.url != "/posts/watchdog-concerns-target/" -%}
+            <item>
+                <title>{{ post.title | xml_escape }}</title>
+
+                {%- assign author = site.authors[post.author] -%}
+                {%- if author -%}
+                    <author>{{author.name}}</author>
+                {%- endif -%}
+
+                {%- assign first_category = post.categories | first %}
+                {% if  first_category!= nil %}
+                    <category>{{first_category}}</category>
+                {% endif %}
+
+                <description>{{ post.excerpt | xml_escape }}</description>
+                <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+                <link>{{ site.url }}{{ post.url }}</link>
+                {%- if post.image -%}
+                    <enclosure url="{{ site.url }}{{ post.image }}" length="100000" type="image/jpeg"/>
+                {%- endif -%}
+                <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+            </item>
+            {%- endif -%}
+        {% endfor %}
+
     </channel>
 </rss>
 
