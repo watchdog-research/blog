@@ -64,8 +64,8 @@ layout:
 
         {% for post in site.categories.featured limit:5 %}
             {%- if post.url != "/posts/hunter-biden-was-he-paid-appropriately-as-an-independent-director/"
-                or post.url != "/posts/kraft-heinz-warren-buffets-dunkirk/"
-                or post.url != "/posts/watchdog-concerns-target/" -%}
+                and post.url != "/posts/kraft-heinz-warren-buffets-dunkirk/"
+                and post.url != "/posts/watchdog-concerns-target/" -%}
             <item>
                 <title>{{ post.title | xml_escape }}</title>
 
