@@ -10,7 +10,7 @@ tags:
 - MAS
 - disclosures
 - red flag
-author: Olga Usvyatsky
+author: olga_usvyatsky
 image: "/uploads/reverse_factoring.jpg"
 ---
 
