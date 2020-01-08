@@ -11,7 +11,7 @@ tags:
 - disclosures
 - red flag
 author: Olga Usvyatsky
-Field name: 
+image: "/uploads/reverse_factoring.jpg"
 ---
 
 *Here at Watchdog, we are firm believers in transparency, and we take a critical look at any accounting procedures which tend to make financial disclosures opaque.  This guest blog on reverse factoring was contributed by Olga Usvyatsky, a former VP of Research at Audit Analytics.  She has a distinguished library of blogs and op-eds on accounting, buy-side research, and data analysis. Ms. Usvyatsky is currently enrolled as a PhD in Accounting student at Boston College, where she earned her MS in Accounting degree.*
