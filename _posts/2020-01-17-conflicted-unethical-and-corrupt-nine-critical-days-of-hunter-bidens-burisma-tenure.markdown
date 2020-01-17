@@ -6,6 +6,7 @@ published: false
 categories:
 - featured
 author: john_cheffers
+image: "/uploads/oligarch.png"
 ---
 
 “But Burisma’s owner, Mykola Zlochevsky, has been under investigation in Britain and in Ukraine. It should be plain to Hunter Biden that any connection with a Ukrainian oligarch damages his father’s efforts to help Ukraine. This is not a board he should be sitting on.” New York Times Op Ed, December 12, 2015
