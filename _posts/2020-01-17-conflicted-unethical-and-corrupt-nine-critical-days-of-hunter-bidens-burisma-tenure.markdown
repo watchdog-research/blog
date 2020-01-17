@@ -5,6 +5,10 @@ date: 2020-01-17 06:18:00 -05:00
 published: false
 categories:
 - featured
+- Watchdog Context
+tags:
+- Hunter Biden
+- Corruption
 author: john_cheffers
 image: "/uploads/oligarch.png"
 ---
