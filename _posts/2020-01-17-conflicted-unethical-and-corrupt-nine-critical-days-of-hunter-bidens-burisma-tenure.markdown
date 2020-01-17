@@ -27,7 +27,7 @@ Here at [Watchdog Research](https://www.cwdresearch.com/), our focus is on trans
 
 _**Day One - The Day the NY Times Demanded Hunter Biden’s Resignation**_
 
-Warren Buffet famously admonishes his operating executives to apply “the newspaper test” to their actions:
+_Warren Buffet_ famously admonishes his operating executives to apply “the newspaper test” to their actions:
 
 “I ask the managers to judge every action they take — not just by legal standards, though obviously that’s the first test — but also by what I call the ‘newspaper test.’ If a manager expresses uncertainty, I ask them how they would feel about any given action if they know it was to be written up the next day in their local newspaper by a smart but pretty unfriendly reporter."
 
