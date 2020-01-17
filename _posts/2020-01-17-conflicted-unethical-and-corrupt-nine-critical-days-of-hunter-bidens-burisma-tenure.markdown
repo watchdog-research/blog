@@ -13,7 +13,7 @@ author: john_cheffers
 image: "/uploads/oligarch.png"
 ---
 
-“*But Burisma’s owner, Mykola Zlochevsky, has been under investigation in Britain and in Ukraine. It should be plain to Hunter Biden that any connection with a Ukrainian oligarch damages his father’s efforts to help Ukraine. This is not a board he should be sitting on.*” **New York Times Op Ed, December 12, 2015**
+> But Burisma’s owner, Mykola Zlochevsky, has been under investigation in Britain and in Ukraine. It should be plain to Hunter Biden that any connection with a Ukrainian oligarch damages his father’s efforts to help Ukraine. This is not a board he should be sitting on.> **New York Times Op Ed, December 12, 2015**
 
 “*… if President Trump honestly believed that there was a corrupt arrangement with Hunter Biden that was not fully investigated by the Obama Administration, the request for an investigation is not corrupt, notwithstanding its inappropriateness. The Hunter Biden contract has been widely criticized as raw influence peddling. I have joined in that criticism. For many years, I have written about the common practice of companies and lobbyists attempting to curry favor with executive branch officials and members of Congress by giving windfall contracts or jobs to their children. This is a classic example of that corrupt practice.*“  **Jonathan Turley, Esq.  Testimony before House Judiciary Committee December 5, 2019**
 
@@ -25,9 +25,9 @@ One reason why it is crucial that the Senate get comprehensive answers from Hunt
 
 Here at [Watchdog Research](https://www.cwdresearch.com/), our focus is on transparency and good governance, and we create reports that help investors understand when companies may be at risk.  One of the reasons why we have taken such a keen interest in Hunter’s time at Burisma is because it gives us the chance to apply principles of good governance to a real-life example (actually Hunter’s story is less like real life and more like a HBO show).   There is much that can be learned from Hunter Biden’s misfortune.  And if you serve on a foreign board and your days start looking as bad as Hunter Biden’s, then we would strongly recommend taking your career in another direction.
 
-_**Day One - The Day the NY Times Demanded Hunter Biden’s Resignation**_
+**Day One - The Day the NY Times Demanded Hunter Biden’s Resignation**
 
---Warren Buffet-- famously admonishes his operating executives to apply “the newspaper test” to their actions:
+Warren Buffet famously admonishes his operating executives to apply “the newspaper test” to their actions:
 
 “I ask the managers to judge every action they take — not just by legal standards, though obviously that’s the first test — but also by what I call the ‘newspaper test.’ If a manager expresses uncertainty, I ask them how they would feel about any given action if they know it was to be written up the next day in their local newspaper by a smart but pretty unfriendly reporter."
 
