@@ -13,7 +13,7 @@ author: john_cheffers
 image: "/uploads/oligarch.png"
 ---
 
-> But Burisma’s owner, Mykola Zlochevsky, has been under investigation in Britain and in Ukraine. It should be plain to Hunter Biden that any connection with a Ukrainian oligarch damages his father’s efforts to help Ukraine. This is not a board he should be sitting on.> **New York Times Op Ed, December 12, 2015**
+> *But Burisma’s owner, Mykola Zlochevsky, has been under investigation in Britain and in Ukraine. It should be plain to Hunter Biden that any connection with a Ukrainian oligarch damages his father’s efforts to help Ukraine. This is not a board he should be sitting on.* **New York Times Op Ed, December 12, 2015**
 
 “*… if President Trump honestly believed that there was a corrupt arrangement with Hunter Biden that was not fully investigated by the Obama Administration, the request for an investigation is not corrupt, notwithstanding its inappropriateness. The Hunter Biden contract has been widely criticized as raw influence peddling. I have joined in that criticism. For many years, I have written about the common practice of companies and lobbyists attempting to curry favor with executive branch officials and members of Congress by giving windfall contracts or jobs to their children. This is a classic example of that corrupt practice.*“  **Jonathan Turley, Esq.  Testimony before House Judiciary Committee December 5, 2019**
 
