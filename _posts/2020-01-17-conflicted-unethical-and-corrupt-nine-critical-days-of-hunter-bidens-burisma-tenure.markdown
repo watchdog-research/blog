@@ -87,7 +87,7 @@ On February 24, 2018, another New York Times story [ran](https://www.nytimes.com
 
 When exactly Hunter knew of the connection between Kwasniewski and Manafort is unclear. But he certainly knew after the NY Times article hit. And when that happened, Hunter would immediately understand the intersection of the Trump campaign, his role on Burisma’s board, his close links with the Polish ex-president, Manafort and the potential impact his role might have on his father’s potential participation in the 2020 campaign. Joe Biden announced his candidacy a year later, April 25, 2019. Here again, our team could find no reasonable alternative for Hunter Biden other than his immediate resignation from Burisma’s board. Yet, he did not resign.
 
-**Day Eight - The Day Hunter Agreed to Serve in April, 2014 – Overlooking a Cauldron of Conflicts:**
+**Day Eight - The Day Hunter Agreed to Serve in April 2014 – Overlooking a Cauldron of Conflicts:**
 
 Before Hunter Biden agreed to serve on the board of Burisma, he was counsel at Boies, Schiller Flexner, LLP, [advising Burisma on board practices](https://medium.com/@george.mesires/a-statement-on-behalf-of-hunter-biden-dated-october-13-2019-d80bc11087ab). This paid professional role demonstrates Hunter Biden presented himself as an expert in proper independent board member actions. As such, Hunter Biden should have been expected to do the following before joining the Burisma board:
 
