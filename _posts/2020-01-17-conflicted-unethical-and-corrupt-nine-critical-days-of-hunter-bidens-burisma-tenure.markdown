@@ -25,6 +25,7 @@ One reason why it is crucial that the Senate get comprehensive answers from Hunt
 
 One of the reasons why we have taken such a keen interest in Hunter’s time at Burisma is because it gives us the chance to apply principles of good governance to a real-life example (actually Hunter’s story is less real life and more HBO movie). There is much that can be learned from Hunter Biden’s misfortune. And if you serve on a foreign board and your days start looking as bad as Hunter Biden’s, we would strongly recommend taking your career in another direction.
 
+
 **Day One - The Day the NY Times Demanded Hunter Biden’s Resignation**
 
 Warren Buffet famously admonishes his operating executives to apply “the newspaper test” to their actions:
