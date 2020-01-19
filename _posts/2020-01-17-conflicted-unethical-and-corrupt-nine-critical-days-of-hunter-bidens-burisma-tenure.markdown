@@ -127,7 +127,7 @@ Burisma is like a Charles Dickens story, written to expose the worst kinds of cr
 
 It is hard to put into words how stunning it has been to review all of the adverse situations that Hunter Biden encountered as a member of the board at Burisma. Undoubtably his tenure will provide the Senate with many avenues for questions.
 
-Since the Russians have hacked Burisma’s records it is crucial that Hunter’s copies of the records be subpoenaed and any problematic transactions be dragged out into the light of day before they are leaked online in a misinformation campaign.
+Since the Russians have hacked Burisma’s records it is crucial that Hunter’s copies of the records are subpoenaed and any problematic transactions are dragged out into the light of day before they are leaked online in a misinformation campaign.
 
 But perhaps the most pressing question is why did Hunter choose to join and then remain on the Burisma board for so long? What obstacles did his exorbitant salary place in the way of advancing both Ukrainian and US national security interests?
 
