@@ -1,5 +1,5 @@
 ---
-title: Nine Critical Days in Hunter Biden’s Time on the Burisma Board
+title: UPDATE Nine Critical Days in Hunter Biden’s Time on the Burisma Board
 date: 2020-01-17 06:18:00 -05:00
 categories:
 - featured
@@ -11,6 +11,21 @@ author: brian_lawe
 editor: john_cheffers
 image: "/uploads/oligarch.png"
 ---
+
+UPDATE: AG Bondi’s Presentation Adds More Facts and Raises More Questions
+
+*If the Trump administration and the US Department of Justice wants to conduct a meaningful inquiry into the circumstances surrounding Burisma, Joe and Hunter Biden and the loss of billions of dollars associated with the failure of Privat Bank and aid to Ukraine, it must subpoena the records of Boise Schiller concerning Hunter Biden, Zlochevsky, and Burisma, and it must subpoena the IMF records concerning Burisma, PrivatBank and Kolomoisky. If the Senate ends up being dragged into this investigation, it will have to do the same as the only real question that exists that matters is whether Trump was correct to be concerned about corruption in Joe and Hunter Biden’s dealings with Burisma and Ukraine.*
+
+This an update to our [lengthy piece](https://blog.cwdresearch.com/posts/conflicted-unethical-and-corrupt-nine-critical-days-of-hunter-bidens-burisma-tenure/) from last week on Hunter Biden’s potential conflicts of interest and ethical/moral issues he faced during his board tenure. In this fast-paced story, more evidence has come to light about the connection between Bursima to Ihor Kolomoisky and his theft of 5.5 billion from PrivatBank, and a conflict of interest for Hunter concerning his employment at Boise Schiller. Let’s jump in:
+
+Donald Trump’s defense lawyer and former Florida Attorney General Pam Bondi made a presentation during the Senate trial where she made the case showing it was reasonable for the President to raise the issue of investigating Hunter Biden’s role at Burisma with the Ukrainian President Zelensky. Ms. Bondi did not address everything our original blog below addressed, but we are adding her new information to our blog to paint a more damning position for Hunter’s role as a board member at Burisma. We have no personal animosity toward Hunter. Our company acts as a watchdog (CWDresearch.com) on proper board governance, transparency, risks and disclosures. Our focus remains on Hunter’s failures in those areas.
+
+We have already argued that Hunter’s role was not really to serve as an independent director. It is far more likely that Zlochevsky brought him on so the Biden name would provide a firewall, preventing the Ukranian government from seizing the energy company either as a wartime measure, or as a way of rewarding those loyal to the new regime. There remains a great deal of [confusion](https://www.businessinsider.com/ukraine-gas-company-burisma-holdings-joe-bidens-son-hunter-explained-2019-9) as to what role he actually played at the company. Burisma [initially](https://www.documentcloud.org/documents/5980032-Burisma-Announces-Hunter-Biden-s-Appointment-to.html) reported on May 12, 2014, that he would be in charge of the legal unit. But as Ms. Bondi’s presentation showed, Hunter told the NY Times that he never served in that capacity and Hunter’s lawyer issued a [statement](https://medium.com/@george.mesires/a-statement-on-behalf-of-hunter-biden-dated-october-13-2019-d80bc11087ab) denying it. Hunter undoubtedly denied this claim because serving as an executive head of the “legal unit” would be antithetical to his supposed position as an independent board member.
+
+The Senate Ought to Subpoena Records From the IMF
+
+In our last piece we pointed out that Hunter Biden was on the Board when Ihor Kolomoisky, one of Ukraine’s most powerful Oligarchs, [purchased 45%](https://www.kyivpost.com/article/content/reform-watch/prosecutors-put-zlochevsky-multimillionaire-ex-ecology-minister-on-wanted-list-377719.html) of a company believed to be Burisma’s subsidiary. Kolomoisky was the owner of PrivatBank, the largest private banks in Ukraine at the time. According to the [OCCRP](https://www.occrp.org/en/), Kolomoisky also stole [$5.5 billion](https://www.occrp.org/en/investigations/oligarchs-weaponized-cyprus-eranch-of-ukraines-largest-bank-to-send-5-billion-abroad) (5% of the Ukraine’s GDP) out of PrivatBank in 2016, which lead to the IMF to bail the bank out, and creating an urgent need for loan guarantees from the U.S.  Make no mistake, U.S. taxpayers paid for this bailout. Kolomoisky allegedly stashed and laundered this money through other entities that he owned at the time. It is possible that some of this money went through his newly owned interest in Burisma or its subsidiaries.
+
 
 “*But Burisma’s owner, Mykola Zlochevsky, has been under investigation in Britain and in Ukraine. It should be plain to Hunter Biden that any connection with a Ukrainian oligarch damages his father’s efforts to help Ukraine. This is not a board he should be sitting on.*“ **New York Times Op Ed, December 12, 2015**
 
