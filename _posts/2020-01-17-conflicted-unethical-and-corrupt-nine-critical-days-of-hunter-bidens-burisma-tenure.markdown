@@ -26,6 +26,11 @@ The Senate Ought to Subpoena Records From the IMF
 
 In our last piece we pointed out that Hunter Biden was on the Board when Ihor Kolomoisky, one of Ukraine’s most powerful Oligarchs, [purchased 45%](https://www.kyivpost.com/article/content/reform-watch/prosecutors-put-zlochevsky-multimillionaire-ex-ecology-minister-on-wanted-list-377719.html) of a company believed to be Burisma’s subsidiary. Kolomoisky was the owner of PrivatBank, the largest private banks in Ukraine at the time. According to the [OCCRP](https://www.occrp.org/en/), Kolomoisky also stole [$5.5 billion](https://www.occrp.org/en/investigations/oligarchs-weaponized-cyprus-eranch-of-ukraines-largest-bank-to-send-5-billion-abroad) (5% of the Ukraine’s GDP) out of PrivatBank in 2016, which lead to the IMF to bail the bank out, and creating an urgent need for loan guarantees from the U.S.  Make no mistake, U.S. taxpayers paid for this bailout. Kolomoisky allegedly stashed and laundered this money through other entities that he owned at the time. It is possible that some of this money went through his newly owned interest in Burisma or its subsidiaries.
 
+PrivatBank was implicated in a money laundering scheme in 2014 where it allegedly laundered over $2 billion from Russia and brought it into Europe. PrivatBank’s reported purchase of a subsidiary of Burisma has all the hallmarks of a money laundering scheme, especially considering Zlochevsky had just had $23 million [frozen](https://johnsolomonreports.com/the-ukraine-scandal-timeline-democrats-and-their-media-allies-dont-want-america-to-see/) by the British fraud office.
+
+We have previously discussed how Hunter was paid 12X the typical salary for an independent board member at a small private company.  But Ms. Bondi helped us see which bank was handling Burisma’s payments:
+
+
 
 “*But Burisma’s owner, Mykola Zlochevsky, has been under investigation in Britain and in Ukraine. It should be plain to Hunter Biden that any connection with a Ukrainian oligarch damages his father’s efforts to help Ukraine. This is not a board he should be sitting on.*“ **New York Times Op Ed, December 12, 2015**
 
