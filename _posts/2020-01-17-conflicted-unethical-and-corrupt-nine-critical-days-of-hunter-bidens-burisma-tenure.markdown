@@ -30,6 +30,18 @@ PrivatBank was implicated in a money laundering scheme in 2014 where it allegedl
 
 We have previously discussed how Hunter was paid 12X the typical salary for an independent board member at a small private company.  But Ms. Bondi helped us see which bank was handling Burisma’s payments:
 
+![update_9_days_burisma.png](/uploads/update_9_days_burisma.png)
+
+It is clear that Burisma held its accounts at PrivatBank, showing another link between the two companies and the two Oligarchs, Zlochevsky and Kolomoisky. Why is this connection relevant to impeachment? It has been widely reported Joe Biden insistence that Shokin be fired had nothing to do with Burisma and that he was fired because of his failure to investigate the massive theft of IMF money by Kolomoisky. That version of the story doesn’t hold much water when Kolomoisky is potentially closely affiliated with Burisma and may have used it as a vehicle to launder money.
+
+One more point about Kolomoisky. He is [closely](https://www.nytimes.com/2019/11/13/world/europe/ukraine-ihor-kolomoisky-russia.html) tied to President Zelensky. Although Kolomoisky seems more like his patron, Zelensky said in an interview “He is my business partner, not my boss.”  Zelensky’s statement is not very reassuring.  Is it so surprising that Trump was hesitant to send more money to the Ukraine? In that interview, Zelensky was all but admitting that he was receiving money from Kolomoisky, and if you read the [article](https://www.occrp.org/en/investigations/oligarchs-weaponized-cyprus-eranch-of-ukraines-largest-bank-to-send-5-billion-abroad) it is clear that he received significant assistance in the form of free advertising and promotion from Kolomoisky’s television station.  Wasn’t it reasonable for Trump to be hesitant about sending US aid to an administration potentially beholden to an Oligarch accused by the IMF of massive fraud, one who already have been implicated in laundering Russian money through its Lativian subsidiary of PrivatBank?
+
+The case for impeachment relies on the idea that no reasonable person could have believed that there was corruption going on with Burisma and the Bidens. The Democrats have called the notion “absurd.” In reality, the case that there was corruption at Burisma is unassailable, and it is also indisputable that Hunter Biden’s position on the board may implicate him in attempts to hide potential corruption.
+
+Money is fungible, and it is difficult to know exactly where all the money flowed.  But it is certainly worth investigating, and if the Senate wants to quickly get to the bottom of it, it needs to subpoena every IMF record on Kolomoisky, Zlochevsky, PrivatBank, and Burisma and its subsidiaries. Those records will show whether there was a legitimate reason to investigate Burisma.
+
+*The Senate Ought to Subpoena Records from Boise Schiller*
+
 
 
 “*But Burisma’s owner, Mykola Zlochevsky, has been under investigation in Britain and in Ukraine. It should be plain to Hunter Biden that any connection with a Ukrainian oligarch damages his father’s efforts to help Ukraine. This is not a board he should be sitting on.*“ **New York Times Op Ed, December 12, 2015**
