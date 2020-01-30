@@ -42,7 +42,7 @@ Money is fungible, and it is difficult to know exactly where all the money flowe
 
 *The Senate Ought to Subpoena Records from Boise Schiller*
 
-
+Bosie Schiller has been associated with the Biden family for at least a decade, and [represented](https://www.bsfllp.com/news-events/bsf-achieves-dismissal-of-claims-against-family-members-of-vice.html) them before Hunter worked for Boise.  In our [last piece](https://blog.cwdresearch.com/posts/conflicted-unethical-and-corrupt-nine-critical-days-of-hunter-bidens-burisma-tenure/), we discussed the potential for a conflict of interest between Hunter Biden active role on the board of Burisma and his continued role at Boise. The [reporting](https://johnsolomonreports.com/the-ukraine-scandal-timeline-democrats-and-their-media-allies-dont-want-america-to-see/) of John Solomon has demonstrated that this conflict was not simply potential, but that it happened. Hunter was announced as a board member in May of 2014 after being asked to join in April. Prior to that, Hunter had been working for Burisma on behalf of his firm Boise Schiller Flexner.
 
 “*But Burisma’s owner, Mykola Zlochevsky, has been under investigation in Britain and in Ukraine. It should be plain to Hunter Biden that any connection with a Ukrainian oligarch damages his father’s efforts to help Ukraine. This is not a board he should be sitting on.*“ **New York Times Op Ed, December 12, 2015**
 
