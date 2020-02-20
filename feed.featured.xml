@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Watchdog Findings - Most recent 5 featured articles</title>
+        <title>Watchdog Transparency Blog - Most recent 5 featured articles</title>
         <description>Most recent 5 articles categorized as 'Featured'</description>
-        <link>https://blog.cwdresearch.com</link>
-        <atom:link href="https://blog.cwdresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
+        <link>https://blog.watchdogresearch.com</link>
+        <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
         <lastBuildDate>Fri, 17 Jan 2020 06:18:00 -0500</lastBuildDate>
 
         <item>
@@ -68,7 +68,7 @@
 
 </description>
                 <pubDate>2020-01-17T06:18:00-05:00</pubDate>
-                <link>https://blog.cwdresearch.com/posts/conflicted-unethical-and-corrupt-nine-critical-days-of-hunter-bidens-burisma-tenure/</link><enclosure url="https://blog.cwdresearch.com/uploads/oligarch.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.cwdresearch.com/posts/conflicted-unethical-and-corrupt-nine-critical-days-of-hunter-bidens-burisma-tenure/</guid>
+                <link>https://blog.watchdogresearch.com/posts/conflicted-unethical-and-corrupt-nine-critical-days-of-hunter-bidens-burisma-tenure/</link><enclosure url="https://blog.watchdogresearch.com/uploads/oligarch.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/conflicted-unethical-and-corrupt-nine-critical-days-of-hunter-bidens-burisma-tenure/</guid>
             </item><item>
                 <title>The Practice of Reverse Factoring Raises Transparency Concerns</title><author>Olga Usvyatsky</author>
                 
@@ -79,7 +79,7 @@
 
 </description>
                 <pubDate>2020-01-07T12:37:00-05:00</pubDate>
-                <link>https://blog.cwdresearch.com/posts/the-practice-of-reverse-factoring-raises-transparency-concerns/</link><enclosure url="https://blog.cwdresearch.com/uploads/reverse_factoring.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.cwdresearch.com/posts/the-practice-of-reverse-factoring-raises-transparency-concerns/</guid>
+                <link>https://blog.watchdogresearch.com/posts/the-practice-of-reverse-factoring-raises-transparency-concerns/</link><enclosure url="https://blog.watchdogresearch.com/uploads/reverse_factoring.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/the-practice-of-reverse-factoring-raises-transparency-concerns/</guid>
             </item><item>
                 <title>Tesla Part VI: Is Musk Truskworthy? Or Will Investors be Gored in the Latest Running of the Bulls?</title><author>John Cheffers</author>
                 
@@ -90,7 +90,7 @@
 
 </description>
                 <pubDate>2019-11-11T11:24:00-05:00</pubDate>
-                <link>https://blog.cwdresearch.com/posts/tesla-part-vi-is-musk-truskworthy-or-will-investors-be-gored-in-the-latest-running-of-the-bulls/</link><enclosure url="https://blog.cwdresearch.com/uploads/tesla_IV_risk.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.cwdresearch.com/posts/tesla-part-vi-is-musk-truskworthy-or-will-investors-be-gored-in-the-latest-running-of-the-bulls/</guid>
+                <link>https://blog.watchdogresearch.com/posts/tesla-part-vi-is-musk-truskworthy-or-will-investors-be-gored-in-the-latest-running-of-the-bulls/</link><enclosure url="https://blog.watchdogresearch.com/uploads/tesla_IV_risk.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/tesla-part-vi-is-musk-truskworthy-or-will-investors-be-gored-in-the-latest-running-of-the-bulls/</guid>
             </item>
 
     </channel>
