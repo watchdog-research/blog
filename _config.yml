@@ -1,5 +1,5 @@
 ---
-title: Watchdog Findings
+title: Watchdog Transparency Blog
 timezone: America/New_York
 collections:
   posts:
@@ -20,7 +20,7 @@ defaults:
     type: pages
   values:
     layout: page
-description: Watchdog Findings is a publication based on reports created by Watchdog
+description: Watchdog Transparency is a publication based on reports created by Watchdog
   Research, Inc.
 encoding: utf-8
 permalink: pretty
@@ -54,11 +54,11 @@ authors:
     email: ousvyatsky@ivesinc.com
   joseph_burke:
     name: Joseph Burke
-    email: jburke@cwdresearch.com
+    email: jburke@watchdogresearch.com
   brian_lawe:
     name: Brian Lawe
   john_cheffers:
     name: John Cheffers
-url: https://blog.cwdresearch.com
+url: https://blog.watchdogresearch.com
 paginate: 7
 paginate_path: "/page:num/"
