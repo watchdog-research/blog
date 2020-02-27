@@ -16,7 +16,7 @@ author: john_cheffers
 
 For the last two years, Tesla has released its third quarter results on November 2, so we can expect to see the third quarter results in just a few weeks.  Our team looked at the Watchdog Report to get some insight on what issues could come up in that report.
 
-One thing that sticks out in the Watchdog Report for Tesla is a red flag for reported CFO changes.  Just last year, we pointed out that Tesla had an [unusual](https://blog.cwdresearch.com/posts/teslas-unusual-red-flag/) red flag; it was the only company that had brought back a CFO on a permanent basis after their retirement. This event was not only unusual, it was unique, and therefore raised concerns.
+One thing that sticks out in the Watchdog Report for Tesla is a red flag for reported CFO changes.  Just last year, we pointed out that Tesla had an [unusual](https://blog.watchdogresearch.com/posts/teslas-unusual-red-flag/) red flag; it was the only company that had brought back a CFO on a permanent basis after their retirement. This event was not only unusual, it was unique, and therefore raised concerns.
 
 Well, Deepak Ahuja’s reinstatement wasn’t permanent, he resigned again two-years later this March and has handed over the reins of the company to Zachary Kirkhorn, a 34-year-old, who has worked at Tesla since 2010 (although he did depart for two years to get a MBA from Harvard).  A brief look at the Watchdog Report show the timeline of all these disruptive changes.
 
@@ -37,7 +37,7 @@ As we can see in all instances, a red flag CFO change makes it more probable tha
 
 These statistics are helpful, but they do not really capture the whole story either.  Normally a red flag is raised when there are two CFO changes in a short period of time, here Tesla has changed their CFO three times in the last four years.  The other important fact to remember is that Zachary Kirkhorn is only 34 years old and has worked for Tesla since he was 25, except for two years he spent getting his MBA.
 
-Will he be an independent voice, an advocate for transparency, and provide steady leadership?  Or will he be a yes-man, who ends up being a scapegoat for litigation, material weaknesses, or even a financial restatement like [David Knopf](https://blog.cwdresearch.com/posts/kraft-heinz-warren-buffets-dunkirk/) at Kraft Heinz?
+Will he be an independent voice, an advocate for transparency, and provide steady leadership?  Or will he be a yes-man, who ends up being a scapegoat for litigation, material weaknesses, or even a financial restatement like [David Knopf](https://blog.watchdogresearch.com/posts/kraft-heinz-warren-buffets-dunkirk/) at Kraft Heinz?
 
 We hope for his sake that Zachary is a complete success, but it is looking like the odds are stacked against him.
 
@@ -47,7 +47,7 @@ We have plenty more to say about Tesla, stay tuned…
 
 [Watchdog Report for Tesla](/uploads/Watchdog%20Report%20for%20Tesla,%20Inc.%20-%20TSLA.pdf)
 
-Get a free trial to our whole library of reports [here](https://www.cwdresearch.com/free-trial).
+Get a free trial to our whole library of reports [here](https://www.watchdogresearch.com/free-trial).
 
 **What is Watchdog?**
 

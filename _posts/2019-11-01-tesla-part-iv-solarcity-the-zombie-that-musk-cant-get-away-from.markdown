@@ -14,7 +14,7 @@ image: "/uploads/solar.jpg"
 author: john_cheffers
 ---
 
-In Parts [I](https://blog.cwdresearch.com/posts/tesla-part-i-another-cfo-change-increases-the-probability-of-more-problems-at-tesla/), [II](https://blog.cwdresearch.com/posts/tesla-part-ii-just-how-unusual-is-it-for-four-directors-to-decline-reelection-in-the-same-year/), and [III](https://blog.cwdresearch.com/posts/tesla-part-iii-the-smart-money-is-getting-out-of-tesla/), we took a deeper look at their recent CFO change, their loss of four Directors, and the loss of the confidence of some of their biggest institutional investors.  In each of these indicators there is a possible inference that insiders at the company know about something rotten in Tesla that is obscured from the ordinary shareholders.  In this post we will take a deep dive into the SolarCity acquisition and look at the reliability of Musk and Tesla’s statements surrounding the acquisition.
+In Parts [I](https://blog.watchdogresearch.com/posts/tesla-part-i-another-cfo-change-increases-the-probability-of-more-problems-at-tesla/), [II](https://blog.watchdogresearch.com/posts/tesla-part-ii-just-how-unusual-is-it-for-four-directors-to-decline-reelection-in-the-same-year/), and [III](https://blog.watchdogresearch.com/posts/tesla-part-iii-the-smart-money-is-getting-out-of-tesla/), we took a deeper look at their recent CFO change, their loss of four Directors, and the loss of the confidence of some of their biggest institutional investors.  In each of these indicators there is a possible inference that insiders at the company know about something rotten in Tesla that is obscured from the ordinary shareholders.  In this post we will take a deep dive into the SolarCity acquisition and look at the reliability of Musk and Tesla’s statements surrounding the acquisition.
 
 A company’s commitment to transparency is important for the long-term health of any company, but it is particularly important during an acquisition because of the complexity of the accounting and the need for judgement calls from management concerning the value of control and synergies.  It is no surprise that [17%](https://blog.auditanalytics.com/progress-of-critical-audit-matters-cams/) of the Critical Audit Matters (CAMs) disclosed by auditors so far have concerned business combinations.
 
@@ -131,7 +131,7 @@ Transparency is critical to the long-term health of a company, because the accou
 
 [Watchdog Report for Tesla](/uploads/Watchdog%20Report%20for%20Tesla,%20Inc.%20-%20TSLA.pdf)
 
-Get a free trial to our whole library of reports [here](https://www.cwdresearch.com/free-trial).
+Get a free trial to our whole library of reports [here](https://www.watchdogresearch.com/free-trial).
 
 **What is Watchdog?**
 
@@ -145,4 +145,4 @@ Contact us:
 
 If you want to subscribe to Watchdog Reports, call our subscription manager, at 813-670-2060.
 
-If you have questions about this blog, call our content manager John Cheffers at 239-240-9284 or send an email to jcheffers@cwdresearch.com.
+If you have questions about this blog, call our content manager John Cheffers at 239-240-9284 or send an email to jcheffers@watchdogresearch.com.

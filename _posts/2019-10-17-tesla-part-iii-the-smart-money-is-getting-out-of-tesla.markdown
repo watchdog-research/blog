@@ -13,7 +13,7 @@ image: "/uploads/dollar.jpg"
 author: john_cheffers
 ---
 
-In Parts [I](https://blog.cwdresearch.com/posts/tesla-part-i-another-cfo-change-increases-the-probability-of-more-problems-at-tesla/) and [II](https://blog.cwdresearch.com/posts/tesla-part-ii-just-how-unusual-is-it-for-four-directors-to-decline-reelection-in-the-same-year/) we looked at Tesla’s latest CFO change and the decision by four of its Directors to not stand for reelection.  Today we will look some indicators that measure the confidence that institutional investors have in Tesla, and how decreasing confidence by some institutional investors has made it safer, in some sense, to buy Tesla’s stock.
+In Parts [I](https://blog.watchdogresearch.com/posts/tesla-part-i-another-cfo-change-increases-the-probability-of-more-problems-at-tesla/) and [II](https://blog.watchdogresearch.com/posts/tesla-part-ii-just-how-unusual-is-it-for-four-directors-to-decline-reelection-in-the-same-year/) we looked at Tesla’s latest CFO change and the decision by four of its Directors to not stand for reelection.  Today we will look some indicators that measure the confidence that institutional investors have in Tesla, and how decreasing confidence by some institutional investors has made it safer, in some sense, to buy Tesla’s stock.
 
 To understand this juxtaposition, you need to understand that having a [high concentration](http://clsbluesky.law.columbia.edu/2017/09/22/how-institutional-investors-ownership-concentration-affects-corporate-governance/) of stock in the hands of only a few owners creates risk.  If there are only a few major stockholders and one of them decides to get rid of their shares, it can create a panic that lowers the price of the stock and makes it very difficult to divest the shares at a reasonable value.  If the ownership is spread more evenly amongst many investors, then it is less destabilizing when one of those institutional owners decides to dump the stock.
 
@@ -51,7 +51,7 @@ Investors should look a critical look at Tesla, now that the third quarter has b
 
 [Watchdog Report for Tesla](/uploads/Watchdog%20Report%20for%20Tesla,%20Inc.%20-%20TSLA.pdf)
 
-Get a free trial to our whole library of reports [here](https://www.cwdresearch.com/free-trial).
+Get a free trial to our whole library of reports [here](https://www.watchdogresearch.com/free-trial).
 
 **What is Watchdog?**
 
@@ -65,4 +65,4 @@ Contact us:
 
 If you want to subscribe to Watchdog Reports, call our subscription manager, at 813-670-2060.
 
-If you have questions about this blog, call our content manager John Cheffers at 239-240-9284 or send an email to jcheffers@cwdresearch.com.
+If you have questions about this blog, call our content manager John Cheffers at 239-240-9284 or send an email to jcheffers@watchdogresearch.com.

@@ -34,7 +34,7 @@ The punishments meted out by the SEC are little more than slaps on the wrist for
 
 A company’s financial reports are nothing more than statements by the management of the company, expressing their opinion about the company.  Standardized formats, technical language, and spreadsheets do not magically transform these statements into objective facts.  Those statements are only facts if they are true.  So, has Tesla’s management done a good job of telling the truth, or have they followed Musk’s lead and made allegedly exaggerated, misleading, or false statements?
 
-In Part [IV](https://blog.cwdresearch.com/posts/tesla-part-iv-solarcity-the-zombie-that-musk-cant-get-away-from/) of our series on Tesla we looked at Tesla’s statement that the acquisition of SolarCity would benefit both companies, when SolarCity was in a liquidity crisis in retrospect has been little more than dead weight.   Tesla also may have misdirected shareholders by unveiling a new solar roof technology and promising to start production soon to get approval for the SolarCity acquisition.  Three years later, Tesla is yet to deliver on the promise of the solar roof.  In Part [V](https://blog.cwdresearch.com/posts/tesla-part-v-is-teslas-financial-reporting-reliable/) we looked at Tesla’s statement to the SEC that the loss of its electric vehicle tax credit would have no material impact on sales.  That statement has been proven demonstrably false.
+In Part [IV](https://blog.watchdogresearch.com/posts/tesla-part-iv-solarcity-the-zombie-that-musk-cant-get-away-from/) of our series on Tesla we looked at Tesla’s statement that the acquisition of SolarCity would benefit both companies, when SolarCity was in a liquidity crisis in retrospect has been little more than dead weight.   Tesla also may have misdirected shareholders by unveiling a new solar roof technology and promising to start production soon to get approval for the SolarCity acquisition.  Three years later, Tesla is yet to deliver on the promise of the solar roof.  In Part [V](https://blog.watchdogresearch.com/posts/tesla-part-v-is-teslas-financial-reporting-reliable/) we looked at Tesla’s statement to the SEC that the loss of its electric vehicle tax credit would have no material impact on sales.  That statement has been proven demonstrably false.
 
 Not only does Tesla’s management have a history of unreliable statements, but they also have some of the most complex accounting disclosures in the manufacturing industry.  The combination of complexity and unreliability is a volatile combination, almost as volatile as Musk himself.
 
@@ -48,7 +48,7 @@ For investors to make informed decisions, they need to look beyond the last quar
 
 [Watchdog Report for Tesla](/uploads/Watchdog%20Report%20for%20Tesla,%20Inc.%20-%20TSLA%2011.6.19.pdf)
 
-Get a free trial to our whole library of reports [here](https://www.cwdresearch.com/free-trial).
+Get a free trial to our whole library of reports [here](https://www.watchdogresearch.com/free-trial).
 
 **What is Watchdog?**
 
@@ -62,4 +62,4 @@ Contact us:
 
 If you want to subscribe to Watchdog Reports, call our subscription manager, at 813-670-2060.
 
-If you have questions about this blog, call our content manager John Cheffers at 239-240-9284 or send an email to jcheffers@cwdresearch.com.
+If you have questions about this blog, call our content manager John Cheffers at 239-240-9284 or send an email to jcheffers@watchdogresearch.com.

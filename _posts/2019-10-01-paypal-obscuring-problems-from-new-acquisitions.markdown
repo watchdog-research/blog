@@ -79,7 +79,7 @@ At Watchdog we are more concerned by the consistent lack of forthrightness; thei
 
 [PayPal Watchdog Report](/uploads/Watchdog%20Report%20for%20Paypal%20Holdings,%20Inc.%20-%20PYPL%20(20190927).pdf)
 
-Get a free trial to our whole library of reports [here](https://www.cwdresearch.com/free-trial).
+Get a free trial to our whole library of reports [here](https://www.watchdogresearch.com/free-trial).
 
 **What is Watchdog?**
 

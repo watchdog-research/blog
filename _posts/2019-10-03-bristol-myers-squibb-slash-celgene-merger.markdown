@@ -76,7 +76,7 @@ BMS’s biggest institutional investor with [8%](https://www.businesswire.com/ne
 
 [Watchdog Report for Celgene Corp.](/uploads/Watchdog%20Report%20for%20Celgene%20Corp.%20-%20CELG%20(20190927).pdf)
 
-Get a free trial to our whole library of reports [here](https://www.cwdresearch.com/free-trial).
+Get a free trial to our whole library of reports [here](https://www.watchdogresearch.com/free-trial).
 
 **What is Watchdog?**
 

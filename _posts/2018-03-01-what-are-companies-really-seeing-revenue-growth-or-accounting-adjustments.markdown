@@ -21,7 +21,7 @@ In subsequent earnings reports we will start to see the impact of ASC 606 in fin
 
 Importantly, the rule may improve earnings results for companies that sell subscriptions or licenses or other recurring services. 
 
-Take Activision Blizzard [ATVI] as an example (get a free summary Watchdog Report at CWDResearch.com). Under the previous law, if Activision Blizzard sold a 12-month software product license in June 2016, it could only apply six months of revenue to its books. It would not be able to count on the next six months of revenue until 2017. Under ASC 606, it can count all the revenue at once, improving the 2018 results going forward.
+Take Activision Blizzard [ATVI] as an example (get a free summary Watchdog Report at WatchdogResearch.com). Under the previous law, if Activision Blizzard sold a 12-month software product license in June 2016, it could only apply six months of revenue to its books. It would not be able to count on the next six months of revenue until 2017. Under ASC 606, it can count all the revenue at once, improving the 2018 results going forward.
 
 > We will be required to recognize as revenue a portion of the sales price upon delivery of the software, as compared to the current requirement of recognizing the entire sales price ratably over an estimated service period.
 
@@ -31,11 +31,11 @@ Not all companies noted the new revenue recognition rule in their 2018 guidance 
 
 As an example, let’s look at two companies in the telecommunications industry that have already provided references to how they are reporting the impact of the rules.
 
-Verizon Communications Inc [VZ] (free summary Watchdog Report available on CWDResearch.com) is showing earnings-per-share guidance before the impact of the new revenue recognition standard. For 2018, Verizon expects the following:
+Verizon Communications Inc [VZ] (free summary Watchdog Report available on WatchdogResearch.com) is showing earnings-per-share guidance before the impact of the new revenue recognition standard. For 2018, Verizon expects the following:
 
 > Low single-digit percentage growth in adjusted EPS, which includes the dilutive impacts from a full year of depreciation and amortization costs from 2017 acquisitions, the Straight Path acquisition expected to close later in the first quarter, and the ongoing impact of last year’s data center divestitures. This is before the impact of tax reform and the revenue recognition standard.
 
-Meanwhile, the guidance provided by AT&T Inc [T] (free summary Watchdog Report available on CWDResearch.com) explains how the new standard affects EPS, but not by how much.
+Meanwhile, the guidance provided by AT&T Inc [T] (free summary Watchdog Report available on WatchdogResearch.com) explains how the new standard affects EPS, but not by how much.
 
 > On a standalone basis, including the impact of tax reform and the new ASC 606 revenue recognition standard, we expect in 2018:  Adjusted earnings per share in the $3.50 range.
 

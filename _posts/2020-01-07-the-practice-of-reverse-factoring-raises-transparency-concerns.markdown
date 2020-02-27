@@ -52,4 +52,4 @@ Contact us:
 
 We offer free report to retail investors and the press on our home page.  If you want our reports for a commercial purpose, call our subscription manager, at 813-670-2060.
 
-If you have questions about this blog, call our content manager John Cheffers at 239-240-9284 or send an email to jcheffers@cwdresearch.com.
+If you have questions about this blog, call our content manager John Cheffers at 239-240-9284 or send an email to jcheffers@watchdogresearch.com.

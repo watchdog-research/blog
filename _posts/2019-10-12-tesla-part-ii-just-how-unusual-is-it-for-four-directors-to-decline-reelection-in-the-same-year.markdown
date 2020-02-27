@@ -13,7 +13,7 @@ image: "/uploads/tesla_2.jpg"
 author: john_cheffers
 ---
 
-In [Part I](https://blog.cwdresearch.com/posts/tesla-part-i-another-cfo-change-increases-the-probability-of-more-problems-at-tesla/) of our series on Tesla, we discussed what historical data can tell us about the probability that class action suits, material weaknesses, or even restatements will occur when there is an alarming CFO change.  In this post we will look at some historical data to provide context to the decision by four directors of Tesla to [decline](https://www.sec.gov/Archives/edgar/data/1318605/000156459019012122/tsla-8k_20190418.htm) to stand for reelection.
+In [Part I](https://blog.watchdogresearch.com/posts/tesla-part-i-another-cfo-change-increases-the-probability-of-more-problems-at-tesla/) of our series on Tesla, we discussed what historical data can tell us about the probability that class action suits, material weaknesses, or even restatements will occur when there is an alarming CFO change.  In this post we will look at some historical data to provide context to the decision by four directors of Tesla to [decline](https://www.sec.gov/Archives/edgar/data/1318605/000156459019012122/tsla-8k_20190418.htm) to stand for reelection.
 
 There have been other signs of trouble at Tesla in this past year: T. Rowe Price and FMR LLC, two of its biggest institutional investors, have dumped a great deal of stock after Tesla’s profitable third quarter in 2018, and have continued [dumping](https://wccftech.com/institutional-investors-dump-tesla-amid-cash-burn-and-cost-controls/) this year.  Operating losses have been over a billion dollars for the first two quarters, and the share price fell as low as $178.97 on June 3, from a high of $347 in early January.
 
@@ -43,7 +43,7 @@ We aren’t done with Tesla yet, stay tuned…
 
 [Watchdog Report for Tesla](/uploads/Watchdog%20Report%20for%20Tesla,%20Inc.%20-%20TSLA.pdf)
 
-Get a free trial to our whole library of reports [here](https://www.cwdresearch.com/free-trial).
+Get a free trial to our whole library of reports [here](https://www.watchdogresearch.com/free-trial).
 
 **What is Watchdog?**
 
@@ -57,4 +57,4 @@ Contact us:
 
 If you want to subscribe to Watchdog Reports, call our subscription manager, at 813-670-2060.
 
-If you have questions about this blog, call our content manager John Cheffers at 239-240-9284 or send an email to jcheffers@cwdresearch.com.
+If you have questions about this blog, call our content manager John Cheffers at 239-240-9284 or send an email to jcheffers@watchdogresearch.com.

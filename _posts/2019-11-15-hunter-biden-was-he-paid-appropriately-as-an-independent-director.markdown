@@ -52,7 +52,7 @@ The Joe and Hunter Biden story has many layers.  However, from a corporate gover
  
 **Interested in our Reports on Public Companies?**
 
-Get a free trial to our whole library of reports [here](https://www.cwdresearch.com/free-trial).
+Get a free trial to our whole library of reports [here](https://www.watchdogresearch.com/free-trial).
 
 **What is Watchdog?**
 
@@ -66,4 +66,4 @@ Contact us:
 
 If you want to subscribe to Watchdog Reports, call our subscription manager, at 813-670-2060.
 
-If you have questions about this blog, call our content manager John Cheffers at 239-240-9284 or send an email to jcheffers@cwdresearch.com.
+If you have questions about this blog, call our content manager John Cheffers at 239-240-9284 or send an email to jcheffers@watchdogresearch.com.

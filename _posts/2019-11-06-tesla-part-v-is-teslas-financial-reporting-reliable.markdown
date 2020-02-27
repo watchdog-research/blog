@@ -20,7 +20,7 @@ Tesla supporters have been reveling in the third quarter results that showed Tes
 
 This wave of enthusiasm started when Tesla released their financial statements for the third quarter.  Implicit in this enthusiasm is a trust in the integrity of the financial reporting, and a trust of the management team that has issued the report.  But should investors place their trust in Tesla’s financial reporting?
 
-Our previous posts on Tesla suggest that the answer is no. Specifically in Part [IV](https://blog.cwdresearch.com/posts/tesla-part-iv-solarcity-the-zombie-that-musk-cant-get-away-from/) we looked at the unreliability of Tesla’s statements concerning their acquisition of SolarCity, where management’s conflicts of interest seemed to supersede valid business interests.  Parts [I](https://blog.cwdresearch.com/posts/tesla-part-i-another-cfo-change-increases-the-probability-of-more-problems-at-tesla/), [II](https://blog.cwdresearch.com/posts/tesla-part-ii-just-how-unusual-is-it-for-four-directors-to-decline-reelection-in-the-same-year/), and [III](https://blog.cwdresearch.com/posts/tesla-part-iii-the-smart-money-is-getting-out-of-tesla/) looked at things that would provide an inference that insiders and institutional investors have lost confidence in the reliability of Tesla’s reporting.  But we are going to go further, by looking at Tesla’s reliability light of the complexity of their accounting, their virtue signaling impairment, and their statements to the SEC.
+Our previous posts on Tesla suggest that the answer is no. Specifically in Part [IV](https://blog.watchdogresearch.com/posts/tesla-part-iv-solarcity-the-zombie-that-musk-cant-get-away-from/) we looked at the unreliability of Tesla’s statements concerning their acquisition of SolarCity, where management’s conflicts of interest seemed to supersede valid business interests.  Parts [I](https://blog.watchdogresearch.com/posts/tesla-part-i-another-cfo-change-increases-the-probability-of-more-problems-at-tesla/), [II](https://blog.watchdogresearch.com/posts/tesla-part-ii-just-how-unusual-is-it-for-four-directors-to-decline-reelection-in-the-same-year/), and [III](https://blog.watchdogresearch.com/posts/tesla-part-iii-the-smart-money-is-getting-out-of-tesla/) looked at things that would provide an inference that insiders and institutional investors have lost confidence in the reliability of Tesla’s reporting.  But we are going to go further, by looking at Tesla’s reliability light of the complexity of their accounting, their virtue signaling impairment, and their statements to the SEC.
 
 **Accounting Complexity Leaves Investors in the Dark**
 
@@ -36,7 +36,7 @@ As a practical matter, when a company makes a filing, they mark it with a set of
 
 When a company uses more custom language or formats than its peers, its disclosures are more complex, unusual, and hard to understand.  When the financial statements are hard to understand, then you must pin your hopes on the honesty and competency of the management team making the disclosures.  That is inherently risky, because management collects bigger checks when they report that all is well.
 
-Our graph lets you know in seconds that Tesla’s reporting is difficult to understand because it has unusual terms or formats.  So, if you are going to put money in something you don’t understand, then you need a lot of faith in the management team.  Should you put your faith in Tesla’s management?  We haven’t forgotten about Tesla’s [revolving](https://blog.cwdresearch.com/posts/tesla-part-i-another-cfo-change-increases-the-probability-of-more-problems-at-tesla/) door at CFO, where the current occupant is only 34 years old and has never worked anywhere besides Tesla.
+Our graph lets you know in seconds that Tesla’s reporting is difficult to understand because it has unusual terms or formats.  So, if you are going to put money in something you don’t understand, then you need a lot of faith in the management team.  Should you put your faith in Tesla’s management?  We haven’t forgotten about Tesla’s [revolving](https://blog.watchdogresearch.com/posts/tesla-part-i-another-cfo-change-increases-the-probability-of-more-problems-at-tesla/) door at CFO, where the current occupant is only 34 years old and has never worked anywhere besides Tesla.
 
 **What Will Tesla’s Critical Audit Matters (CAMs) Tell Us About the Complexity at Tesla?**
 
@@ -44,7 +44,7 @@ We will learn more when their auditors file their [Critical Audit Matters](https
 
 **Tesla’s Virtue Signaling Impairment**
 
-We have noted this phenomenon before, at [Kraft Heinz](https://blog.cwdresearch.com/posts/kraft-heinz-warren-buffets-dunkirk/) and [PayPal](https://blog.cwdresearch.com/posts/paypal-obscuring-problems-from-new-acquisitions/).  When a company issues an impairment on a loss that is immaterial, it concerns us because it is a sign that management wants to reassure investors that their internal controls and accounting methods are rigorous.  Such reassurances tend to make our team wary.
+We have noted this phenomenon before, at [Kraft Heinz](https://blog.watchdogresearch.com/posts/kraft-heinz-warren-buffets-dunkirk/) and [PayPal](https://blog.watchdogresearch.com/posts/paypal-obscuring-problems-from-new-acquisitions/).  When a company issues an impairment on a loss that is immaterial, it concerns us because it is a sign that management wants to reassure investors that their internal controls and accounting methods are rigorous.  Such reassurances tend to make our team wary.
 
 In 2018, Tesla reported a $[13.3](https://www.sec.gov/Archives/edgar/data/1318605/000156459019003165/tsla-10k_20181231.htm) million impairment for a commercially infeasible product.  Keep in mind that Tesla valued SolarCity at $2.6 billion dollars in value, but was winding [down](https://www.fool.com/investing/2017/10/18/solarcity-teslas-solar-boondoggle.aspx) its operations within a year.   Tesla unveiled the solar roof tile in 2016 and promised to [start](https://www.sec.gov/Archives/edgar/data/1318605/000156459017009968/tsla-10q_20170331.htm) production in 2017, a promise that they did not keep, but a promise that they made yet [again](https://www.sec.gov/ix?doc=/Archives/edgar/data/1318605/000156459019038256/tsla-10q_20190930.htm) this quarter.  And what about the $5.8 billion in solar systems that SolarCity had leased to customers that made up the bulk of their assets, what happened to those?
 
@@ -66,13 +66,13 @@ Clearly, the loss of the tax credit has really hurt Tesla’s domestic sales thi
 
 **Conclusion**
 
-Tesla has some of the most complex accounting disclosures in the manufacturing sector, and that leaves investors in the hands of management.  But has management proven that it is committed to transparency?  If you look at their statements to the SEC and their acquisition of [SolarCity](https://blog.cwdresearch.com/posts/tesla-part-iv-solarcity-the-zombie-that-musk-cant-get-away-from/), it seems the answer is no.
+Tesla has some of the most complex accounting disclosures in the manufacturing sector, and that leaves investors in the hands of management.  But has management proven that it is committed to transparency?  If you look at their statements to the SEC and their acquisition of [SolarCity](https://blog.watchdogresearch.com/posts/tesla-part-iv-solarcity-the-zombie-that-musk-cant-get-away-from/), it seems the answer is no.
 
 **Read the Report for Yourself**
 
 [Watchdog Report for Tesla](/uploads/Watchdog%20Report%20for%20Tesla,%20Inc.%20-%20TSLA%2011.6.19.pdf)
 
-Get a free trial to our whole library of reports [here](https://www.cwdresearch.com/free-trial).
+Get a free trial to our whole library of reports [here](https://www.watchdogresearch.com/free-trial).
 
 **What is Watchdog?**
 
@@ -86,4 +86,4 @@ Contact us:
 
 If you want to subscribe to Watchdog Reports, call our subscription manager, at 813-670-2060.
 
-If you have questions about this blog, call our content manager John Cheffers at 239-240-9284 or send an email to jcheffers@cwdresearch.com.
+If you have questions about this blog, call our content manager John Cheffers at 239-240-9284 or send an email to jcheffers@watchdogresearch.com.
