@@ -25,7 +25,7 @@ description: Watchdog Transparency is a publication based on reports created by 
 encoding: utf-8
 permalink: pretty
 rss: rss
-twitter_username: CWD_Research
+twitter_username: WatchdogRsrch
 google_analytics: UA-116841703-3
 plugins:
 - jekyll-seo-tag
