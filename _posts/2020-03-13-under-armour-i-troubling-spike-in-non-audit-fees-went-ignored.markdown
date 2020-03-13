@@ -23,7 +23,7 @@ It was reported that Under Armour has allegedly been [shifting](https://www.nyti
 
 For it's part, Under Armour has said it did nothing wrong.  However, a court found these troubling allegations substantial enough to [revive ](https://www.sec.gov/ix?doc=/Archives/edgar/data/1336917/000133691720000010/ua-20191231.htm)a securities lawsuit that it previously had dismissed with prejudice because of the new evidence presented.  Now Under Armour is facing three suits over the matter, and the one certainty of this litigation is that it will be expensive for Under Armour (and their D+O underwriter).
 
-*Non-Audit Fees Increased Dramatically at Under Armour *
+*Non-Audit Fees Increased Dramatically at Under Armour*
 
 Whenever a story like this gets broken, people always want to look back and see if there were any leading indicators or warning signs. In our opinion a lack of transparency is the most important sign that a company could be in trouble. When a company like Under Armour is going through a lot of turmoil and they attempt to paper over and obscure the problem instead of hitting it straight on, then we get concerned that there are deeper problems festering. 
 
