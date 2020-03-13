@@ -1,6 +1,18 @@
 ---
 title: 'Under Armour I: Troubling Spike in Non-Audit Fees Went Ignored'
 date: 2020-03-13 11:00:00 -04:00
+categories:
+- Leading Indicators
+- Non-Audit Fees
+- Red Flag
+tags:
+- Under Armour
+- Fraud
+- Non-Audit Fees
+- SEC
+- Leading Indicators
+- Red Flag
+Author: John_Cheffers
 ---
 
 *Under Armour Under Suspicion*
