@@ -15,8 +15,6 @@ tags:
 Author: John_Cheffers
 ---
 
-*Under Armour Under Suspicion*
-
 Under Armour still has not recovered from a serious blow it suffered in early November 2019 when the Wall Street Journal reported that the company had been under investigation by the SEC for its accounting practices.  One element of the story that rattled investors was that the investigation had been going on since July *of 2017*, yet it had not been addressed in a transparent way by management.
 
 It was reported that Under Armour has allegedly been [shifting](https://www.nytimes.com/2019/11/03/business/under-armour-sec-justice-dept.html) its sales in between quarters to appear healthier.  Companies with seasonal sales often try unconventional and even counter-productive methods to boost traditionally slow quarters and smooth out their numbers, but the ongoing SEC investigation indicates that something more sinister is at play here. 
