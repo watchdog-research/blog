@@ -14,7 +14,7 @@ tags:
 - Leading Indicators
 - Red Flag
 Author: John_Cheffers
-image: "/uploads/under_armour_fees.png"
+image: "/uploads/under_armour_non_audit_fees.png"
 ---
 
 Under Armour still has not recovered from a serious blow it suffered in early November 2019 when the Wall Street Journal reported that the company had been under investigation by the SEC for its accounting practices.  One element of the story that rattled investors was that the investigation had been going on since July *of 2017*, yet it had not been addressed in a transparent way by management.
