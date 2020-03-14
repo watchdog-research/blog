@@ -5,7 +5,7 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 17 Jan 2020 06:18:00 -0500</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2020 11:00:00 -0400</lastBuildDate>
 
         <item>
             <title>
@@ -59,6 +59,16 @@
         </item>
 
         <item>
+                <title>Under Armour I: Troubling Spike in Non-Audit Fees Went Ignored</title>
+                
+                    <category>Leading Indicators</category>
+                
+
+                <description>&lt;p&gt;Under Armour still has not recovered from a serious blow it suffered in early November 2019 when the Wall Street Journal reported that the company had been under investigation by the SEC for its accounting practices.  One element of the story that rattled investors was that the investigation had been going on since July &lt;em&gt;of 2017&lt;/em&gt;, yet it had not been addressed in a transparent way by management.&lt;/p&gt;
+</description>
+                <pubDate>2020-03-13T11:00:00-04:00</pubDate>
+                <link>https://blog.watchdogresearch.com/posts/under-armour-i-troubling-spike-in-non-audit-fees-went-ignored/</link><enclosure url="https://blog.watchdogresearch.com/uploads/under_armour_fees.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/under-armour-i-troubling-spike-in-non-audit-fees-went-ignored/</guid>
+            </item><item>
                 <title>UPDATE Nine Critical Days in Hunter Biden’s Time on the Burisma Board</title><author>Brian Lawe</author>
                 
                     <category>featured</category>
@@ -78,16 +88,6 @@
 </description>
                 <pubDate>2020-01-07T12:37:00-05:00</pubDate>
                 <link>https://blog.watchdogresearch.com/posts/the-practice-of-reverse-factoring-raises-transparency-concerns/</link><enclosure url="https://blog.watchdogresearch.com/uploads/reverse_factoring.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/the-practice-of-reverse-factoring-raises-transparency-concerns/</guid>
-            </item><item>
-                <title>Tesla Part VI: Is Musk Truskworthy? Or Will Investors be Gored in the Latest Running of the Bulls?</title><author>John Cheffers</author>
-                
-                    <category>Watchdog Context</category>
-                
-
-                <description>&lt;p&gt;Tesla’s stock price is notoriously volatile.  When a profit was recorded in the third quarter, the stock jumped from about $250 a share to over $310 a share.  This volatility reflects the volatility of Musk himself, who has gotten himself into so much trouble with his twitter account that he has agreed to have a lawyer act as his twitter &lt;a href=&quot;https://www.wired.com/story/tesla-ceo-elon-musk-stricter-twitter-babysitter/&quot;&gt;babysitter&lt;/a&gt;.&lt;/p&gt;
-</description>
-                <pubDate>2019-11-11T11:24:00-05:00</pubDate>
-                <link>https://blog.watchdogresearch.com/posts/tesla-part-vi-is-musk-truskworthy-or-will-investors-be-gored-in-the-latest-running-of-the-bulls/</link><enclosure url="https://blog.watchdogresearch.com/uploads/tesla_IV_risk.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/tesla-part-vi-is-musk-truskworthy-or-will-investors-be-gored-in-the-latest-running-of-the-bulls/</guid>
             </item>
 
     </channel>
