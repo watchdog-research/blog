@@ -1,6 +1,18 @@
 ---
 title: 'Under Armour Part II: CAM Raises the Specter of “Channel Stuffing”'
 date: 2020-03-17 14:48:00 -04:00
+categories:
+- Red Flags
+- featured
+- CAMs
+- Investigations
+tags:
+- Under Armour
+- Channel Stuffing
+- Red Flag
+- SEC Comment Letters
+- Critical Audit Matters
+Author: John_Cheffers
 ---
 
 In our [first](https://blog.watchdogresearch.com/posts/under-armour-i-troubling-spike-in-non-audit-fees-went-ignored/) piece on Under Armour (UA) we looked at how a dramatic increase in non-audit fees by PriceWaterhouseCoopers (PWC) was a sign of financial problems and a leading indicator of litigation. We also briefly examined UA’s SEC investigation, which was first reported on by the Wall Street Journal.  This investigation has remained somewhat mysterious and UA has [denied](https://www.marketwatch.com/story/under-armour-says-its-accounting-practices-have-been-entirely-appropriate-after-wsj-story-2019-11-15) any wrongdoing.  Thanks to the newly required disclosures of Critical Audit Matters (CAMs), we are getting some clarity.
