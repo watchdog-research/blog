@@ -29,7 +29,7 @@ Molloy, an outsider, was appointed the CFO in January 2016.  In January 2017, he
 
 One interesting detail from the Wall Street Journal story is that this investigation by the SEC has been ongoing since July of 2017.  Right around that time, our report flagged the release of an SEC comment letter correspondence.  
  
-![Under Armour Chart.png](/uploads/Under%20Armour%20Chart.png)
+![UA Chart.png](/uploads/UA%20Chart.png)
 
 When we looked at the letter itself, we found that the SEC first [contacted](https://www.auditanalytics.com/app/view-comment-letter.php?cl_fkey=edgar/data/1336917/0000000000-17-015141.txt) UA on May 1st, 2017 with questions about the factors that had led to material increases in revenue: 
 
