@@ -12,7 +12,7 @@ tags:
 - Red Flag
 - SEC Comment Letters
 - Critical Audit Matters
-Author: John_Cheffers
+Author: john_cheffers
 image: "/uploads/clothes_stack.jpg"
 ---
 
