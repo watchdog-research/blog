@@ -1,5 +1,5 @@
 ---
-title: 'Under Armour Part II: CAM Raises the Specter of “Channel Stuffing”'
+title: 'Under Armour II: CAM Raises the Specter of “Channel Stuffing”'
 date: 2020-03-17 14:48:00 -04:00
 categories:
 - Red Flags
