@@ -1,5 +1,5 @@
 ---
-title: 'Under Armour III: Major CFO Change a Warning Sign of Litigation'
+title: 'Under Armour III: Major CFO Change Was a Warning Sign of Litigation'
 date: 2020-03-25 09:26:00 -04:00
 categories:
 - featured
