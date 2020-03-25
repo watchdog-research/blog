@@ -13,7 +13,7 @@ tags:
 - SEC
 - Leading Indicators
 - Red Flag
-Author: john_cheffers
+author: john_cheffers
 image: "/uploads/under_armour_non_audit_fees.png"
 ---
 
