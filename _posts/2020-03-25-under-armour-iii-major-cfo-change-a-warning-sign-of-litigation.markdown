@@ -3,6 +3,13 @@ title: 'Under Armour III: Major CFO Change a Warning Sign of Litigation'
 date: 2020-03-25 09:26:00 -04:00
 categories:
 - featured
+- Leading Indicators
+- CFO Change
+tags:
+- CFO Change
+- Red Flag
+- Under Armour
+- Leading Indicators
 author: john_cheffers
 ---
 
