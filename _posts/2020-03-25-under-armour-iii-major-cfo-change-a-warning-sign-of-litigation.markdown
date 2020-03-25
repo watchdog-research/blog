@@ -11,6 +11,7 @@ tags:
 - Under Armour
 - Leading Indicators
 author: john_cheffers
+image: "/uploads/litigation_ua-3.jpg"
 ---
 
 CFOs play an outsized role in the financial health of a company.  When a CFO leaves abruptly or under bad circumstances, that event can have far reaching implications.  Lawrence “Chip” Molloy’s departure from Under Armour was as damaging as it was sudden and mysterious.  Within a year after being brought in from as an outsider, he had [resigned](https://www.sec.gov/Archives/edgar/data/1336917/000133691717000008/january312017form8-k.htm) for “personal reasons.”  In his wake there was litigation, an SEC investigation only recently brought to light, and—of course—more litigation.
