@@ -1,6 +1,21 @@
 ---
 title: 'Birds of A Feather: How to Tell a “Gray Swan” from a “Black Swan.”'
 date: 2020-04-01 13:14:00 -04:00
+categories:
+- featured
+- coronavirus
+- black swan event
+- gray swan event
+tags:
+- impairment
+- goodwill
+- Kraft Heinz
+- Under Armour
+- coronavirus
+- transparency
+- black swan event
+- gray swan event
+author: John_Cheffers
 ---
 
 The coronavirus has shocked and stress tested institutions all over the world.  The emergence of the pandemic, and the global panic it has caused, is a true black swan event.
