@@ -15,7 +15,7 @@ tags:
 - transparency
 - black swan event
 - gray swan event
-author: John_Cheffers
+author: john_cheffers
 ---
 
 The coronavirus has shocked and stress tested institutions all over the world.  The emergence of the pandemic, and the global panic it has caused, is a true black swan event.
