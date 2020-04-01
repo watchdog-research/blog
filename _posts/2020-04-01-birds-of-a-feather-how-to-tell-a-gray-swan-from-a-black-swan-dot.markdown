@@ -46,7 +46,7 @@ However, another factor possibly inflating the amount of goodwill is FASB’s ne
 
 The most logical reason that so much goodwill is being held on company books is because the market was on the longest bull run in history.  A healthy market increased the market value of companies, which prevented their book values from looking inflated, even when loaded up with goodwill or other intangible assets.  Now there is a pandemic. The market at one point lost a third of its value.
 
-The FASB accounting standards require that companies test goodwill annually, but they also require a special test if an event triggers a concern that the market value of the company is lower than the book value.  Well … it seems like *every company* is going to need a special test because of the pandemic.  We can expect many companies will write down goodwill and other assets after those tests.
+The FASB [accounting standards](https://asc.fasb.org/imageRoot/79/49129379.pdf) require that companies test goodwill annually, but they also require a special test if an event triggers a concern that the market value of the company is lower than the book value.  Well … it seems like *every company* is going to need a special test because of the pandemic.  We can expect many companies will write down goodwill and other assets after those tests.
 
 *Newest Data on CAMs Indicate Goodwill Accounting is Particularly Squishy*
 
