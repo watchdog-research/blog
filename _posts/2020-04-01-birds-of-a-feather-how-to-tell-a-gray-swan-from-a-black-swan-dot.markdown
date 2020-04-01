@@ -71,3 +71,9 @@ If you aren’t persuaded by our opinion, then perhaps you should look at PWC’
 *The principal considerations for our determination that performing procedures relating to the goodwill impairment assessment of the Latin America reporting unit is a critical audit matter are there was significant judgment by management when developing the fair value measurement of the reporting unit, **which in turn led to a high degree of auditor judgment, effort, and subjectivity** in performing procedures and evaluating significant assumptions, including the Company’s long-term rate of growth and profitability.*
 
 So, if UA writes down the goodwill associated with its Latin American unit, will it be due to coronavirus or because they should have done it already?
+
+Contact us:
+
+If you want to subscribe to Watchdog Reports, call our subscription manager, at 239-240-9284.
+
+If you have questions about this blog, send our content manager John Cheffers an email at jcheffers@watchdogresearch.com.
