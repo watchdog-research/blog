@@ -34,7 +34,7 @@ Could KHC be in danger of further impairments, even if the economy had remained 
 
 So, if KHC writes off another huge chunk in assets and blame it on the coronavirus, will you believe them?
 
-We expect many companies will blame the “black swan” for accounting issues this quarter, but how can you be sure it was coronavirus and not due to problems in their accounting?  How do you tell a black swan disclosure from a gray swan one?  Do the hard homework or leave it to the experts (like us!).
+We expect many companies will blame the “black swan” for accounting issues this quarter, but how can you be sure it was coronavirus and not due to problems in their accounting?  How do you tell a black swan disclosure from a gray swan one?  Do the hard homework or leave it to the experts ([like us!](https://www.watchdogresearch.com/#products)).
 
 Here is how we think of sniffing-out a company’s own gray swan event from disclosures amid a black swan event.  We’ll use potential impairments to goodwill and other intangible assets as a case in point.
 
