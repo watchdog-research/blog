@@ -16,7 +16,7 @@ tags:
 - black swan event
 - gray swan event
 author: john_cheffers
-image: "/uploads/logo-icon-bground-square64-gray_swan.png"
+image: "/uploads/black-swan-122983_640.jpg"
 ---
 
 The coronavirus has shocked and stress tested institutions all over the world.  The emergence of the pandemic, and the global panic it has caused, is a true black swan event.
