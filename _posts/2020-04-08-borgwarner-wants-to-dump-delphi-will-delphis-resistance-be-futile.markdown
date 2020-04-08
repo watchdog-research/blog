@@ -63,3 +63,5 @@ What is important in an economic downturn like this is a company’s fundamental
 Welcome to a new market, where fundamental analysis matters and cash is king.
 
 
+
+
