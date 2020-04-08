@@ -42,7 +42,7 @@ This chart from the Institute of Mergers, Acquisitions and Alliances (IMAA) show
  
 Mergers fell during these prior periods of uncertainty because almost all the benefits from a merger are long term.  Our research shows that mergers generally produce negative returns for at least two years:
 
-![BorgWarner table.png](/uploads/BorgWarner%20table.png)
+![BorgWarner table-591d34.png](/uploads/BorgWarner%20table-591d34.png)
   
 What accounts for these terrible numbers?  Oftentimes the acquiring company must provide a large amount of cash to consummate the merger, which can leave the survivor strapped for cash or highly leveraged.  In addition, there are often personnel issues, as established norms at one or both companies are upended, and egos are bruised.  Additionally, the survivor usually inherits hidden accounting problems, and this can lead to write-offs, revisions, disclosure controls, or other gray swan events that damage the value and integrity of the company.  This is why a recent merger will significantly increase a company's [gray swan event factor](https://www.watchdogresearch.com/#products).
 
