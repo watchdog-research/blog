@@ -11,6 +11,7 @@ tags:
 - Acquisitions
 - coronavirus
 author: john_cheffers
+image: "/uploads/borger.jpg"
 ---
 
 With the coronavirus shutting down entire industries and raising the possibility of an extended recession, pending mergers are in peril, and mergers overall will become disfavored as companies lose their appetite for risk.
