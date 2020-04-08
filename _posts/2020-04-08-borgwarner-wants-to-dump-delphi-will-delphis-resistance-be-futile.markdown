@@ -62,6 +62,8 @@ What is important in an economic downturn like this is a company’s fundamental
 
 Welcome to a new market, where fundamental analysis matters and cash is king.
 
+Contact us:
 
+If you want to subscribe to Watchdog Reports, call our subscription manager, at 239-240-9284.
 
-
+If you have questions about this blog, send our content manager John Cheffers an email at jcheffers@watchdogresearch.com.
