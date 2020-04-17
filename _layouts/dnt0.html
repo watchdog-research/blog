@@ -62,7 +62,6 @@ layout: default
     }
 
     $('.btn_dnd_true').click(function(){
-      console.log('test');
       Cookies.set(cookieName, '1', { expires: 36500 });
       if (typeof(Storage) !== "undefined") {
         localStorage.dnt_flag = true;
