@@ -61,7 +61,7 @@ layout: default
       window['ga-disable-UA-116841703-3'] = false;
     }
 
-    $('.btn_dnd_true').on('click', function(){
+    $('#btn_dnd_true').on('click', function(){
       Cookies.set(cookieName, '1', { expires: 36500 });
       if (typeof(Storage) !== "undefined") {
         localStorage.dnt_flag = true;
@@ -69,7 +69,7 @@ layout: default
       setTimeout(function() { location.reload(true); }, 10);
     })
 
-    $('.btn_dnd_false').on('click', function(){
+    $('#btn_dnd_false').on('click', function(){
       Cookies.remove(cookieName);
       if (typeof(Storage) !== "undefined") {
         localStorage.removeItem('dnt_flag');
