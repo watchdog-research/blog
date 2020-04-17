@@ -34,7 +34,19 @@
 
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
-  <script src="https://unpkg.com/lunr/lunr.js"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+  <script src="https://unpkg.com/lunr/lunr.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+  <script>
+    var cookieName = 'dnt_flag';
+  </script><script>
+    if(typeof Cookies.get(cookieName) !== 'undefined') {
+      window['ga-disable-UA-116841703-3'] = true;
+    } else {
+      window['ga-disable-UA-116841703-3'] = false;
+    }
+  </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116841703-3"></script>
   <script>
       window.dataLayer = window.dataLayer || [];
@@ -146,17 +158,11 @@
       </div>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
-
     <script>
-    var cookieName = 'dnt_flag';
-
     if(typeof Cookies.get(cookieName) !== 'undefined') {
       $('#label_dntflag, #label_dnl_cookie_dntflag, #label_dnl_localstorage_dntflag').text('NOT Tracking');
-      window['ga-disable-UA-116841703-3'] = true;
     } else {
       $('#label_dntflag, #label_dnl_cookie_dntflag, #label_dnl_localstorage_dntflag').text('Tracking');
-      window['ga-disable-UA-116841703-3'] = false;
     }
 
     $('.btn_dnd_true').click(function(){
@@ -646,17 +652,11 @@
       </div>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
-
     <script>
-    var cookieName = 'dnt_flag';
-
     if(typeof Cookies.get(cookieName) !== 'undefined') {
       $('#label_dntflag, #label_dnl_cookie_dntflag, #label_dnl_localstorage_dntflag').text('NOT Tracking');
-      window['ga-disable-UA-116841703-3'] = true;
     } else {
       $('#label_dntflag, #label_dnl_cookie_dntflag, #label_dnl_localstorage_dntflag').text('Tracking');
-      window['ga-disable-UA-116841703-3'] = false;
     }
 
     $('.btn_dnd_true').click(function(){
@@ -1161,17 +1161,11 @@
       </div>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
-
     <script>
-    var cookieName = 'dnt_flag';
-
     if(typeof Cookies.get(cookieName) !== 'undefined') {
       $('#label_dntflag, #label_dnl_cookie_dntflag, #label_dnl_localstorage_dntflag').text('NOT Tracking');
-      window['ga-disable-UA-116841703-3'] = true;
     } else {
       $('#label_dntflag, #label_dnl_cookie_dntflag, #label_dnl_localstorage_dntflag').text('Tracking');
-      window['ga-disable-UA-116841703-3'] = false;
     }
 
     $('.btn_dnd_true').click(function(){
@@ -1661,17 +1655,11 @@
       </div>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
-
     <script>
-    var cookieName = 'dnt_flag';
-
     if(typeof Cookies.get(cookieName) !== 'undefined') {
       $('#label_dntflag, #label_dnl_cookie_dntflag, #label_dnl_localstorage_dntflag').text('NOT Tracking');
-      window['ga-disable-UA-116841703-3'] = true;
     } else {
       $('#label_dntflag, #label_dnl_cookie_dntflag, #label_dnl_localstorage_dntflag').text('Tracking');
-      window['ga-disable-UA-116841703-3'] = false;
     }
 
     $('.btn_dnd_true').click(function(){
