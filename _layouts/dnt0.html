@@ -54,8 +54,10 @@ layout: default
     var cookieName = 'dnt_flag';
 
     if(typeof Cookies.get(cookieName) !== 'undefined') {
+      $('#label_dntflag, #label_dnl_cookie_dntflag, #label_dnl_localstorage_dntflag').text('NOT Tracking');
       window['ga-disable-UA-116841703-3'] = true;
     } else {
+      $('#label_dntflag, #label_dnl_cookie_dntflag, #label_dnl_localstorage_dntflag').text('Tracking');
       window['ga-disable-UA-116841703-3'] = false;
     }
 
