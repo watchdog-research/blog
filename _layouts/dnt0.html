@@ -29,11 +29,11 @@ layout: default
 
       <div class="row no-gutters">
         <div class="col-sm-2 mb-3">
-          <button id="btn_dnd_true" type="button" class="btn btn-danger">STOP TRACKING</button>
+          <button type="button" class="btn btn-danger btn_dnd_true">STOP TRACKING</button>
         </div>
 
         <div class="col-sm-3 mb-3">
-          <button id="btn_dnd_false" type="button" class="btn btn-success">ENABLE TRACKING</button>
+          <button type="button" class="btn btn-success btn_dnd_false">ENABLE TRACKING</button>
         </div>
       </div>
 
@@ -61,7 +61,8 @@ layout: default
       window['ga-disable-UA-116841703-3'] = false;
     }
 
-    $('#btn_dnd_true').on('click', function(){
+    $('.btn_dnd_true').click(function(){
+      console.log('test');
       Cookies.set(cookieName, '1', { expires: 36500 });
       if (typeof(Storage) !== "undefined") {
         localStorage.dnt_flag = true;
@@ -69,7 +70,7 @@ layout: default
       setTimeout(function() { location.reload(true); }, 10);
     })
 
-    $('#btn_dnd_false').on('click', function(){
+    $('.btn_dnd_false').on('click', function(){
       Cookies.remove(cookieName);
       if (typeof(Storage) !== "undefined") {
         localStorage.removeItem('dnt_flag');
