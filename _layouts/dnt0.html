@@ -1,0 +1,81 @@
+---
+layout: default
+---
+
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+
+    {{ content }}
+
+    <div class="col d-sm-block d-lg-block d-xl-block">
+
+
+      <p>Do Not Track status: <strong id="label_dntflag">...</strong></p>
+
+      <p>
+        cookie: <span id="label_dnl_cookie_dntflag"></span>
+        <br>
+        localStorage: <span id="label_dnl_localstorage_dntflag"></span>
+      </p>
+
+      <hr>
+      <br>
+
+
+      <div class="row no-gutters">
+        <div class="col-sm-2 mb-3">
+          <button id="btn_dnd_true" type="button" class="btn btn-danger">STOP TRACKING</button>
+        </div>
+
+        <div class="col-sm-3 mb-3">
+          <button id="btn_dnd_false" type="button" class="btn btn-success">ENABLE TRACKING</button>
+        </div>
+      </div>
+
+      <br>
+      <hr>
+      <br>
+
+      <div class="row no-gutters">
+        <div class="col-sm-2">
+          <a href="/" class="btn btn-primary">EXIT</a>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+
+    <script>
+    var cookieName = 'dnt_flag';
+
+    if(typeof Cookies.get(cookieName) !== 'undefined') {
+      window['ga-disable-UA-116841703-3'] = true;
+    } else {
+      window['ga-disable-UA-116841703-3'] = false;
+    }
+
+    $('.btn_dnd_true').on('click', function(){
+      Cookies.set(cookieName, '1', { expires: 36500 });
+      if (typeof(Storage) !== "undefined") {
+        localStorage.dnt_flag = true;
+      }
+      setTimeout(function() { location.reload(true); }, 10);
+    })
+
+    $('.btn_dnd_false').on('click', function(){
+      Cookies.remove(cookieName);
+      if (typeof(Storage) !== "undefined") {
+        localStorage.removeItem('dnt_flag');
+      }
+
+      setTimeout(function() { location.reload(true); }, 10);
+    })
+    </script>
+  </div>
+
+</article>
