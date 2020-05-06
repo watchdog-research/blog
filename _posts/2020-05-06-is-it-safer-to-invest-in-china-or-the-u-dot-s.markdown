@@ -28,8 +28,8 @@ In fact, the SEC and the PCAOB (a quasi-private entity that provides oversight f
 
 Our comparison of GSEF by country proves that fewer gray swan events are *reported* in China than in the U.S., Canada, or the EU.  This paradoxically is strong evidence that we should take the SEC’s warning about Chinese companies seriously because they are not subject to the same level of scrutiny as Western companies.
 
-*Contact us:*
+**Contact us:**
 
-*Our Watchdog Reports are Free for Retail Investors*, but if your are not a retail investor call our subscription manager about a group rate, at 239-240-9284.
+*Our Watchdog Reports are Free for Retail Investors*, if you are a professional investor you can sign up or call our subscription manager about a group rate, at 239-240-9284.
 
 If you have questions about this blog, send our content manager John Cheffers an email at jcheffers@watchdogresearch.com.
