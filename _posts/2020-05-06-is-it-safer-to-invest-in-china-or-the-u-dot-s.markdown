@@ -27,3 +27,9 @@ The reason why Chinese companies have a lower GSEF is because they *reported* fe
 In fact, the SEC and the PCAOB (a quasi-private entity that provides oversight for auditors) issued a [joint statement](https://www.sec.gov/news/public-statement/emerging-market-investments-disclosure-reporting) on April 21st specifically warned investors about investing in Chinese companies. They warn that, (1) the quality of financial statements are not consistent, (2) the quality of independent audits is uncertain because the PCAOB is unable to conduct inspections, (3) U.S. authorities cannot really enforce the rules against foreign persons and companies, and (4) there is essentially no legal recourse if you fall prey to fraud.
 
 Our comparison of GSEF by country proves that fewer gray swan events are *reported* in China than in the U.S., Canada, or the EU.  This paradoxically is strong evidence that we should take the SEC’s warning about Chinese companies seriously because they are not subject to the same level of scrutiny as Western companies.
+
+*Contact us:*
+
+*Our Watchdog Reports are Free for Retail Investors*, but if your are not a retail investor call our subscription manager about a group rate, at 239-240-9284.
+
+If you have questions about this blog, send our content manager John Cheffers an email at jcheffers@watchdogresearch.com.
