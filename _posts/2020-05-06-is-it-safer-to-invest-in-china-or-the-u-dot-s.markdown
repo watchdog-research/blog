@@ -9,7 +9,7 @@ tags:
 - GSEF
 - PCAOB
 - Comparison by Country
-author: John_Cheffers
+author: john_cheffers
 ---
 
 The China based coffee company Luckin [disclosed](https://www.sec.gov/Archives/edgar/data/1767582/000110465920042189/a20-14831_1ex99d1.htm) a massive fraud on April 2nd, and only five days later, another China based company TAL Education, [announced](https://www.sec.gov/Archives/edgar/data/1499620/000110465920044459/tm2015354d1_ex99-1.htm) that one its employees had been arrested for fabricating sales.  A decade ago, a wave of Chinese companies were [exposed ](https://www.marketwatch.com/story/after-china-fraud-boom-nasdaq-steps-up-scrutiny-of-shady-listings-2016-06-20)as frauds, which damaged China’s reputation.  The confluence of Luckin’s fraud with news that the Chinese lied about coronavirus has damaged China’s reputation once again as many people have come to believe that investing in Chinese companies is too risky.
