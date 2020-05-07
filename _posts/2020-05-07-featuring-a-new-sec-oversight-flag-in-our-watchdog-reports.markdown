@@ -10,6 +10,7 @@ tags:
 - PCAOB
 - SEC
 author: john_cheffers
+image: "/uploads/sec%20oversight.png"
 ---
 
 In our [last post](https://blog.watchdogresearch.com/posts/is-it-safer-to-invest-in-china-or-the-u-dot-s/) we compared the relative risks of investing in China and many other countries, including the U.S. We used our Gray Swan Event Factor, which weighs the impact of a host of different kinds of adverse events like restatements, disclosures of material weaknesses, turmoil at the C-suite level, mergers, etc.… We also track these events and flag them in our Watchdog Research reports (which are free to retail investors, reporters, and curious souls).
