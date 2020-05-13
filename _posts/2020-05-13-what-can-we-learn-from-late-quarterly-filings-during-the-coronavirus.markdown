@@ -9,6 +9,7 @@ tags:
 - Late Filings
 - GSEF
 author: john_cheffers
+image: "/uploads/watchdog%20transparency_late%20filing.jpg"
 ---
 
 To protect the elderly and immunocompromised, federal and state officials have locked down society to flatten the rate of infections.  An unfortunate byproduct of these shut-downs has been the destruction of large swaths of the economy and [skyrocketing ](https://www.epi.org/indicators/unemployment/)unemployment.  To relieve some of the financial pressure these lockdowns have put on businesses, federal and state officials have tried different measures intended to aid businesses. For its part, the SEC has [permitted ](https://www.sec.gov/news/press-release/2020-73)companies affected by the coronavirus to delay their annual and quarterly statements that would normally be due from March 31st-July 1st.
