@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 13 May 2020 09:25:00 -0400</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2020 13:01:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>We Few, We Happy Few, We Late Filers</title><author>John Cheffers</author>
+            
+            <category>Coronavirus</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;In this post we look at the large accelerated filers who have not filed their 10-Qs yet due to the coronavirus. These companies are outliers, with only 27 active filers delaying quarterly reports out of a population of nearly 600. We have already expressed concerns about the SEC allowing companies to be less transparent during such a critical time, and these concerns were not allayed by our research for this post. We will look at some broader trends and highlight a few egregious examples.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2020-05-19T13:01:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/we-few-we-happy-few-late-filers/</link><enclosure url="https://blog.watchdogresearch.com/uploads/We%20Few.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/we-few-we-happy-few-late-filers/</guid>
+        </item>
         
         <item>
             <title>What Can We Learn From Late Quarterly Filings During the Coronavirus?</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2020-04-08T09:31:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/borgwarner-wants-to-dump-delphi-will-delphis-resistance-be-futile/</link><enclosure url="https://blog.watchdogresearch.com/uploads/borger.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/borgwarner-wants-to-dump-delphi-will-delphis-resistance-be-futile/</guid>
-        </item>
-        
-        <item>
-            <title>Birds of A Feather: How to Tell a “Gray Swan” from a “Black Swan.”</title><author>John Cheffers</author>
-            
-            <category>featured</category>
-            
-
-            <description>&lt;p&gt;The coronavirus has shocked and stress tested institutions all over the world.  The emergence of the pandemic, and the global panic it has caused, is a true black swan event.&lt;/p&gt;
-</description>
-            <pubDate>2020-04-01T13:14:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/birds-of-a-feather-how-to-tell-a-gray-swan-from-a-black-swan-dot/</link><enclosure url="https://blog.watchdogresearch.com/uploads/black-swan-122983_640.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/birds-of-a-feather-how-to-tell-a-gray-swan-from-a-black-swan-dot/</guid>
         </item>
         
 
