@@ -6,6 +6,7 @@ categories:
 - featured
 tags:
 - Late Filings
+author: john_cheffers
 ---
 
 *In this post we look at the large accelerated filers who have not filed their 10-Qs yet due to the coronavirus. These companies are outliers, with only 27 active filers delaying quarterly reports out of a population of nearly 600. We have already expressed concerns about the SEC allowing companies to be less transparent during such a critical time, and these concerns were not allayed by our research for this post. We will look at some broader trends and highlight a few egregious examples.*
