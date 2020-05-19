@@ -1,5 +1,5 @@
 ---
-title: We Few, We Happy Few Late Filers
+title: We Few, We Happy Few, We Late Filers
 date: 2020-05-19 13:01:00 -04:00
 categories:
 - Coronavirus
@@ -32,3 +32,10 @@ We also found that about 14 of these companies had offered their first quarter r
 **Credit Acceptance Corp (CACC).** MFA was not the only company to say its management was too busy to file a 10-Q. CACC had a near identical [disclosure](https://www.sec.gov/ix?doc=/Archives/edgar/data/885550/000088555020000042/cacc8k20200420.htm), claiming management was too busy assessing the potential impact of the coronavirus. For context, CACC specializes in offering subprime loans on vehicles, which some people find [unsavory](https://www.npr.org/2019/12/12/787337997/the-big-business-of-subprime-auto-loans). Even though almost every other company is trying to increase and preserve liquidity to survive the shutdowns, CACC is in the process of [repurchasing](https://www.sec.gov/ix?doc=/Archives/edgar/data/885550/000088555020000036/cacc8k20200305.htm) up to 3 million shares, reducing their cash position. We also can’t help but point out the irony of CACC filing their 10-Q late on the flimsiest of excuses while also issuing this statement on their [website](https://www.creditacceptance.com/coronavirus-response) “…Credit Acceptance is unable to support payment deferrals, and your payments will continue to be due on your scheduled monthly due date….” Considering the current predicament of many of the low-income recipients of these predatory loans, we don’t know how CACC shareholders can sleep at night.
 
 Every investor wants to know if management is reliable and is dedicated to transparency. When management is opaque, it makes an investment far riskier. The best way to assess the trustworthiness of a management team is to see what kind of choices they make. The coronavirus has presented management teams with lots of choices, and we should watch them carefully as they make their decisions.
+
+
+**Contact us:**
+
+*Our Watchdog Reports are Free for Retail Investors*, if you are a professional investor you can sign up or call our subscription manager about a group rate, at 239-240-9284.
+
+If you have questions about this blog, send our content manager John Cheffers an email at jcheffers@watchdogresearch.com.
