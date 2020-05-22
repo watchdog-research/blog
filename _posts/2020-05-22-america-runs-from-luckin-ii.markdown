@@ -13,20 +13,20 @@ tags:
 - Congress
 - Corporate Governance
 - Fraud
-authir: 
+author: john_cheffers
 ---
 
 *This post is the second part in a three-part series on Luckin Coffee. The post below was completed this on May 6th, 2020, while the story was still developing. Since we wrote this piece, Luckin has changed its story and [admitted](https://www.sec.gov/Archives/edgar/data/1767582/000110465920059927/a20-19256_1ex99d1.htm) that its CEO was involved in the massive fraud and [delayed](https://www.sec.gov/Archives/edgar/data/1767582/000110465920052907/a20-18059_16k.htm) releasing its annual report. It has also been [delisted](https://www.sec.gov/Archives/edgar/data/1767582/000110465920063497/a20-20057_1ex99d1.htm) from the Nasdaq, spelling death for the company. It has also spurred action in Washington, with the Senate [passing](https://www.marketwatch.com/story/senate-could-vote-on-bill-that-could-delist-chinese-companies-from-us-stock-exchanges-2020-05-19) a bill that could potentially delist every Chinese company unless the Chinese Communist Party releases its iron grip on information and allows the PCAOB to inspect its audit firms.*
 
 *The Senate bill, if signed into law, would be a serious escalation in the ongoing dispute between the U.S. and the Chinese Communist Party. This is a ten page report detailing many of the vulnerabilities of the U.S. systems to Chinese fraud.  We touch on the inability of the PCAOB to inspect audit firms, which is the subject of the Senate bill, but we cover many other topics as well.  If you want to take a deep dive into understanding To understand how a fraud at a Chinese coffee company could spark an international conflict, read our original analysis…*
 
-## **PART II: IMPOTENCE**
+**Part II: Impotence**
 
 There is evidence to suggest Luckin Coffee’s executives—aided and abetted by segments of the CCP— schemed to steal billions from Western investors in one of the largest security fraud cases this decade. Corporate fraud may be a systemic problem in China, but the Western institutions that are supposed to act as gatekeepers to our capital markets appear to have been powerless before the CCP. It is remarkable that the NASDAQ; Luckin’s auditors, Ernst & Young; Credit Suisse and other securities underwriters; the SEC; the PCAOB; and the DOJ were all impotent to stop the fraud at Luckin.
 
 Ultimately, however, it is Congress and the Executive branch that have left American investors vulnerable to fraud sanctioned by the CCP, by neutering all of the normal gatekeepers and watchdogs. *This must change.*
 
-### *The Appeal of Growth in the Far East*
+***The Appeal of Growth in the Far East***
 
 Around the time of the California gold-rush, Horace Greeley told Americans to go West, and many did, looking for quick and easy money. Some struck it rich, but many lost everything. Today, American investment houses, tired of stagnant growth in the United States, are rushing to [pour ](https://www.ft.com/content/cabf76d4-c5a1-11e9-a8e9-296ca66511c9)billions into Chinese companies, trying to tap into a growing market of 1.3 billion people. Investors are looking to strike it rich by throwing millions of dollars at the next Alibaba. But, all too often, promising companies have [turned out ](http://bassiounigroup.com/reverse-takeover-how-fraudulent-chinese-companies-are-deceiving-u-s-investors/)to be wholesale frauds.
 
@@ -46,7 +46,7 @@ Many institutions in the United States have a strong incentive to paper over fun
 
 ![Luckin Chinese companies by Exchange.jpg](/uploads/Luckin%20Chinese%20companies%20by%20Exchange.jpg)
 
-### *China Inc, or China CCP?*
+***Communist Party or China Inc.?***
 
 Has China become China Inc., the largest corporation in the world, with monopolistic subsidiaries covering every sector of China’s economy, reaching out to compete worldwide? Is China an ideologically-driven communist regime, in its own cold war with the West? For the past two decades, the CCP, and its allies here in the U.S., have told us that China is not ideological, and that it is worth investing and partnering with China. But the CCP’s cover-up of the coronavirus, and its stating outwardly that [the](https://apnews.com/bf685dcf52125be54e030834ab7062a8) virus could not spread person-to-person, while hoarding medical supplies and allowing citizens to flee to foreign countries, has upended this conventional wisdom on China.
 
@@ -54,7 +54,7 @@ Given the untrustworthiness and potential hostility of the CCP, it is incredible
 
 After the Enron scandal rocked the United States, the Sarbanes-Oxley Act ("SOX") introduced tough standards and better oversight, intended to prevent large-scale corporate fraud. However, since that time, standards have consistently been relaxed, first in the Dodd-Frank Act of 2010, and then by the JOBS Act in 2012. These measures have loosened certain standards for domestic and foreign firms. Additionally, institutions meant to provide oversight, like the SEC and PCAOB, wilted when they encountered stiff resistance from the CCP.
 
-### *Congress Lowered Standards by Creating "Emerging Growth Companies" Status*
+***Congress Lowered Standards by Creating "Emerging Growth Company" Status***
 
 Congress wanted to increase economic growth by easing access to capital markets for companies that had been considered too small to take public. To foster this ease of access, they created a new category of company, called an Emerging Growth Company (EGC) in the [JOBS Act ](https://www.govtrack.us/congress/bills/112/hr3606/summary#libraryofcongress)of 2012. Generally, an EGC is one that has less than $1 billion in revenue and less than $700 million in equity. If a company remains under the revenue threshold, it can keep its EGC status [for](https://www.sec.gov/smallbusiness/goingpublic/EGC) up to five years.
 
@@ -86,7 +86,7 @@ Some people have been quick to blame the auditors Ernst & Young Hua Ming LLP for
 
 As for the NASDAQ , it should be concerned that other companies similar to Luckin may be trading on their exchanges, and it would be a good step for it to insist that all Chinese-based companies be required to meet the SOX 404(b) requirement before listing. If the NASDAQ is hesitant to make this change on its own, it should use its powerful lobby in Washington to push Congress into mandating it.
 
-### ***Foreign Companies Like Luckin Have Lax Insider Trading Disclosure Requirements***
+***Foreign Companies Like Luckin Have Lax Insider Trading Disclosure Requirements***
 
 The SEC enforces its insider trading laws vigorously. Under the Trump Administration, they have [increasingly pursued ](https://www.perkinscoie.com/en/news-insights/u-s-agencies-step-up-insider-trading-enforcement-against-foreign.html)foreign actors, especially the Chinese, for suspected insider trading. The SEC considers its enforcement of the insider trading rules to be a crucial part of its [function](https://www.sec.gov/rules/final/33-7881.htm#P225_88637).
 
@@ -102,13 +102,13 @@ When [announcing ](https://www.sec.gov/Archives/edgar/data/1767582/0001104659200
 
 Public policymakers need to reconsider whether it makes sense to lower our disclosure requirements for insider trading, as a means of encouraging foreign companies to gain access our capital markets. The Trump administration’s focus on foreign insider trading provides some comfort. However, enforcement actions can be effective only if foreign investors keep assets within reach of the authorities. Policymakers therefore need to prevent foreign insider trading in the first place, by ending Section 16 exemption for foreign private issuers.
 
-### ***How Responsible is the NASDAQ for Slack in its Rules?***
+***How Responsible is the Nasdaq for Slack in its Rules?***
 
 After Sarbanes-Oxley was passed, the SEC set forth certain minimum standards for listing and trading on the NASDAQ, NYSE, and OTC exchanges. These rules were formulated with input from the exchanges themselves, private companies, regulators, auditors, academics, and other stakeholders. Sometimes, Congress will weigh in as well and tweak the system to advance certain public policy goals, as they did with Dodd-Frank in 2010 and the JOBS act in 2012. The SEC assists in promulgating rules which form a minimum standard, or a floor. But he NASDAQ and the NYSE as private entities can impose higher standards, which accounts for slight [variations ](https://www.freewritings.law/wp-content/uploads/sites/24/2019/02/NYSE-vs-Nasdaq-Listing-Standards.pdf)in the listing requirements.
 
 The NASDAQ and the NYSE have some discretion, so they bear some responsibility if slack in their standards enables a fraud. Admittedly, Congress is the main entity that has occupied the field. Nonetheless, the exchanges have much power and influence, and they should be advocating for strong standards to protect investors.
 
-### *Luckin Flouted Corporate Governance Requirements*
+***Luckin Flouted Corporate Governance Requirements***
 
 Sarbanes-Oxley introduced extensive corporate governance rules to check management’s impulses and protect from fraud. The NASDAQ cooperates with the Financial Industry Regulatory Authority ("FINRA," another [quasi-private](http://nasdaq.cchwallstreet.com/NASDAQTools/PlatformViewer.asp?selectednode=chp%5F1%5F1%5F3%5F3%5F8%5F3&manual=%2Fnasdaq%2Fmain%2Fnasdaq%2Dequityrules%2F) oversight entity) in implementing these rules. A key component of these reforms was to require the involvement of “independent directors” in public companies, that is, directors who lack personal or financial ties which management can leverage to make the director beholden to management. The law requires that these independent directors be put in important positions to act as watchdogs for the company.
 
@@ -124,13 +124,13 @@ There is no such exemption for the Audit Committee, however, which raises an imp
 
 But possibly Luckin also broke the rules. The directors which it held out as "independent" were Thomas P. Meier, the former president and CEO of Frankee Coffee Systems, and Sean Shao. However, when Mr. Meier was still leading Frankee coffee systems, they and another manufacturer obtained a contract with Luckin, in 2018, [that was](https://alltechasia.com/luckin-coffees-blue-partner-alliance-fuels-its-bold-10000-shop-target/) reported to quintuple sales. It seems plausible that serving in that role ought to have disqualified Mr. Meier from qualifying as an independent director. After all, NASDAQ does not consider independent:
 
-> (D) *a director who is*, or has a Family Member who is, a partner in, or a controlling shareholder or *an executive officer of, any organization to which the company made*, or from which the company received, *payments for property* or services *in the current or any of the past three fiscal years that exceed 5% of the recipient’s consolidated gross revenues for that year, or $200,000* ($1 million if the listed company is also listed on the New York Stock Exchange), *whichever is more*…
+> (D) *a director who is*, or has a Family Member who is, a partner in, or a controlling shareholder or *an executive officer of, any organization to which the company made*, or from which the company received, *payments for property* or services *in the current or any of the past three fiscal years that exceed 5% of the recipient’s consolidated gross revenues for that year, or $200,000* ($1 million if the listed company is also listed on the New York Stock Exchange), *whichever is more*… (emphasis added)
 
 Mr. Meier left his position at Frankee in March 2019 to join Luckin as an independent director. Given the large contract with Luckin, apparently he should have been disqualified under the NASDAQ rules, as he was an executive at Frankee Coffee Systems, which had a contract with Luckin, which likely exceeded both 5% of revenue and $200,000. About three weeks after Luckin disclosed its fraud on April 21st, Mr. Meier resigned as an “independent” director and member of the audit committee. There was no explanation for his departure.
 
 The other independent director, Sean Shao, has extensive experience as an independent director. He worked at Deloitte Touche Tohmatsu CPA Ltd for almost a decade before taking up the role of independent director at many companies. One of his longest tenures was with Agria Corporation, from 2008-2017, where he was an independent director and chairman of the corporate governance committee. In 2018, Agria settled with the SEC for [fraud ](https://www.sec.gov/news/press-release/2018-276)relating to its operations in China from 2010- 2013.
 
-### *NASDAQ's Hollow Requirement for PCAOB Oversight of Accounting Firms*
+Nasdaq's Hollow Requirement for PCAOB Oversight of Accounting Firms
 
 The NASDAQ requires that all companies trading on its exchange be audited by firms that are registered with the PCAOB. This is meant to assure investors that the companies listed on the Nasdaq are receiving the highest quality audits, because the auditors are subject to oversight from the PCAOB. The PCAOB is a quasi-private organization that was created after the Enron scandal to conduct investigations of audits.
 
@@ -146,7 +146,7 @@ Why then are Chinese audit firms allowed to register with the PCAOB at all, if t
 
 One small step that the SEC and PCAOB have taken is to [require ](https://www.reuters.com/article/us-kingsoft-cloud-ipo/kingsoft-sets-terms-for-u-s-listing-first-major-ipo-since-coronavirus-crisis-idUSKBN22G2JB)companies in China to disclose, in all relevant financial statements, the fact that their auditors are not subject to inspections by the PCAOB . But is this enough? And why is this allowance given to Chinese-based but not US companies with major operations in China?
 
-### *Have Underwriters Become Careless?*
+***Have Underwriters Become Careless?***
 
 Before a company offers its stock to the public in an IPO, it is supposed to undergo an extensive vetting process. Part of this process is called underwriting, and it involves having investment banks act as intermediaries between the company and the public. The investment bankers conduct a substantial factual investigation of the company and its prospectus so that it can accurately price the stock. Sometimes, the underwriters will purchase shares at a wholesale price and then resell them to other investors.
 
@@ -156,7 +156,7 @@ Thus, even if one accepts the story (and we are skeptical) that the fraud at Luc
 
 Is it possible that the banking consortium could have discovered the fraud with proper due diligence? The SEC has [declared](https://www.reuters.com/article/us-luckin-investigation/u-s-sec-investigates-luckin-coffee-over-accounting-scandal-wsj-idUSKBN22B1D6) an investigation into Luckin’s fraud, and they will likely take a look at the banking consortium’s due diligence practices. Luckin’s fraud has already resulted in lawsuits. Because Chinese law will probably shelter Luckin’s assets, it is likely that suits will also be filed against the underwriters.
 
-***Effective Immunity from Private Suit***
+*Effective Immunity from Private Suit*
 
 A suit against the underwriters could be very difficult to win. In 1994 the Supreme Court held that private plaintiffs could not sue a third party for aiding or abetting a fraud, in Central Bank v. First Interstate, 511, U.S. 164 (1994). In 2008, the Supreme Court doubled down in Stoneridge Investment Partners v. Scientific-Atlanta, holding that third parties are not liable for participating in corporate wrongdoing if they did not directly mislead investors. In 2008, the Supreme Court had also denied certiorari in California Regents v. Merrill Lynch, a case in which the 5th Circuit found Merrill Lynch and other investment banks not liable for Enron's fraud, even though they had aided Enron in cooking their books, on the grounds that they did not have a duty to investors, and they had made no false statements directly to them.
 
@@ -164,10 +164,10 @@ These decisions in the Supreme Court have been reinforced by decisions in the lo
 
 The 1933 Securities Act does allow underwriters to be sued in a private cause of action when there are false statements in the prospectus for an IPO under sections 11 and 12a-3 (unlike the provision 10b-5 that allows a private cause of action for fraud subject to the Central Bank and Stoneridge decisions discussed above). However, unlike a private suit brought under 10b-5, due diligence is a complete defense to this charge. If the consortium can show they took “[reasonable care](https://www.law.cornell.edu/cfr/text/17/230.176)” and conducted a reasonable investigation of Luckin, then they will be immune from suit. It will be interesting to see if substance will triumph over style in the court’s analysis of the consortium’s due diligence. Since most of the events occurred in China, we will also be interested to see if any investigation is even feasible.
 
-***The SEC as the Last Line of Defense***
+*The SEC as the Last Line of Defense*
 
 One thing to note is that the SEC, for its part, \*can \*bring a 10b-5 case against an entity that aids and abets a fraud, because it is a government entity and not a private entity. The publicity surrounding this case, and the SEC investigation into Luckin, has actually raised the possibility that Credit Suisse and Morgan will be charged with aiding and abetting Luckin’s fraud. But, once again, a lack of information coming out of China may hamper any investigation.
 
-### **Conclusion**
+**Conclusion**
 
 Foreign companies and domestic companies are both trying to gain access to the capital markets in the United States, but they do not have to play by the same rules. Foreign companies have numerous allowances designed to give leeway, and Luckin took advantage of them. Yet consider how enormous Luckin’s fraud was: it fabricated half of its revenue and potentially stole \*billions \*from Western investors. This will happen again, and happen soon, unless policymakers take decisive action.
