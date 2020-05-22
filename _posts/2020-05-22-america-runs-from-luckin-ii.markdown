@@ -171,3 +171,9 @@ One thing to note is that the SEC, for its part, *can* bring a 10b-5 case agains
 **Conclusion**
 
 Foreign companies and domestic companies are both trying to gain access to the capital markets in the United States, but they do not have to play by the same rules. Foreign companies have numerous allowances designed to give leeway, and Luckin took advantage of them. Yet consider how enormous Luckin’s fraud was: it fabricated half of its revenue and potentially stole *billions* from Western investors. This will happen again, and happen soon, unless policymakers take decisive action.
+
+**Contact us:**
+
+Retail Investors get free access to our Watchdog Reports. Institutional Investors and those interested in our Gray Swan Event Factor can [subscribe](https://www.watchdogresearch.com/pricing), or call our subscription manager, at 239-240-9284.
+
+If you have questions about this blog, send the author of this piece John Cheffers, our Director of Research and Associate General Counsel, an email at [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com). For press inquiries or general questions about Watchdog Research, Inc., please contact our President, Brian Lawe at [blawe@watchdogresearch.com](mailto:blawe@watchdogresearch.com).
