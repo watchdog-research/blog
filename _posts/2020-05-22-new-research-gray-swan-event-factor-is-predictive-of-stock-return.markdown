@@ -43,9 +43,9 @@ Keeping in mind that no large cap companies earned a score of over 10%, lets loo
 
 As can be seen here, the high-risk companies did significantly worse than their peers by the end of 2019, returning a loss during a year when the S&P 500 would have returned nearly $300 dollars on the investment.
 
-This research demonstrates that there is significant value in properly assessing and weighing accounting-related risks. Investors could potentially short high-risk stocks, or they could filter high-risk stocks out of their portfolios.  
+This research demonstrates that there is significant value in properly assessing and weighing accounting-related risks. Investors could potentially short high-risk stocks, or they could filter high-risk stocks out of their portfolios.
 
-Dr. Burke and Dr. Yarbrough’s white papers are available on request.
+If you find these results interesting and want to learn more, simply email us and we will provide you with Dr. Burke and Dr. Yarbrough’s white papers free of charge or any commitments.
 
 **Contact us:**
 
