@@ -1,0 +1,149 @@
+---
+title: 'America Runs from Luckin: I'
+date: 2020-05-22 12:44:00 -04:00
+categories:
+- featured
+- Fraud
+- China
+tags:
+- China
+- CCP
+- Luckin Coffee
+- Fraud
+author: John_Cheffers
+Field name: 
+---
+
+This post is Part I in a three-part series on Luckin Coffee. The post below was completed on April 27th, 2020, as the story was still developing. Since we wrote this piece, Luckin has changed its story and [admitted](https://www.sec.gov/Archives/edgar/data/1767582/000110465920059927/a20-19256_1ex99d1.htm) that its CEO was involved in the massive fraud and [delayed](https://www.sec.gov/Archives/edgar/data/1767582/000110465920052907/a20-18059_16k.htm) releasing its annual report. It has also been [delisted](https://www.sec.gov/Archives/edgar/data/1767582/000110465920063497/a20-20057_1ex99d1.htm) from the Nasdaq, spelling death for the company. It has also spurred action in Washington, with the Senate [passing](https://www.marketwatch.com/story/senate-could-vote-on-bill-that-could-delist-chinese-companies-from-us-stock-exchanges-2020-05-19) a bill that could potentially delist every Chinese company unless the Chinese Communist Party releases its iron grip on information and allows the PCAOB to inspect its audit firms.
+
+The Senate bill, if signed into law, would be a serious escalation in the ongoing dispute between the U.S. and the Chinese Communist Party. To understand how a fraud at a Chinese coffee company could spark an international conflict, read our original analysis…
+
+Part I: The Fraud at Luckin
+
+*Executive Summary. If one tallies all the money lost in the West from the Luckin fraud, which went either to Luckin, or directly to its chairman Charles Lu, before the stock was shorted, this amounts to $2.165 billion. If one additionally includes money from short positions, and other potentially undisclosed and improper insider trading, the total could be far higher. Thus, from issues of sheer scale, the fraud requires careful attention.*
+
+*For many years, there have been credible [reports](https://www.npr.org/2020/02/10/804501991/chinese-hackers-charged-in-alleged-cyber-theft-of-145-million-americans-data) that elements of the CCP have sponsored selective looting of intellectual property from Western companies, through cyber hacking and other scams, and that similarly, the CCP has protected the perpetrators from prosecution. Can this alternative be ruled out in the case of Luckin?*
+
+*The ‘downside’, which must be protected against, would be extremely serious. If elements of the CCP have aided and abetted Chinese companies in defrauding Western investors on a grand scale, then there are significant implications for the US legislators, regulators, and gatekeepers for the capital markets and their relationships with the CCP. The implications range all the way from the relatively small-scale, such as whether a US company’s important supply chain should be located solely in China, all the way up to policy questions about the relationship, going forward, between economic engagement and civil liberties in China.*
+
+*The evidence raises the colorable claim that Luckin’s fraud involved further bad actors, and greater coordination, than a renegade COO—the current official explanation. Watchdog Research believes that the currently available information more than justifies an investigation, by investigative journalists and competent US public authorities, to rule out if possible the worst-case hypothesis, that Luckin was a scam from the beginning, where its public statements, capital raising, revenue projections, expense disclosures, and borrowings came together in an orchestrated, fraudulent scheme to fleece billions of dollars from greedy Western investors hungry for big returns.*
+
+*It must be kept in mind that, according to official communist ideology, the system of free markets is itself corrupt and inherently a system of greed, and the destabilization of such markets can only serve to promote an eventual communist revolution. To exploit the ‘capitalist system’ to the advantage of communism, on this ideology, is regarded as a positive good.*
+
+On April 2nd 2020, Luckin Coffee, which had been a darling for American investors since its IPO in 2019, and which had attracted [support](https://www.sec.gov/Archives/edgar/data/1061165/000106116520000006/sc13gluckincoffee.htm) from institutional investors like Lone Pine Capital, [announced](https://www.sec.gov/Archives/edgar/data/1767582/000110465920042189/a20-14831_1ex99d1.htm) that its COO and some employees had fabricated expenses and revenue. TAL Education Group, another company based in China, [announced](https://www.sec.gov/Archives/edgar/data/1499620/000110465920044459/tm2015354d1_ex99-1.htm) that one its employees had been arrested for fabricating sales numbers just five days later. These stories quickly gained prominence in the news, in part because of corresponding stories about the CCP’s blatant [lies](https://www.nytimes.com/2020/04/02/us/politics/cia-coronavirus-china.html) about the numbers of infections and deaths from the Wuhan flu in China. Indeed, it has [become clear](https://www.businessinsider.com/5-million-left-wuhan-before-coronavirus-quarantine-2020-1) that the Chinese government allowed 5 million visitors to leave Wuhan for other parts of the world, after it knew about the virus and had blocked travel from Wuhan to other parts of China.
+
+The confluence of these stories about the virus and the CCP, and about two prominent Chinese companies, produced a widespread negative reaction, with many investors gaining a newfound [skepticism](https://finanz.dk/luckin-debacle-shakes-investor-faith-in-new-yorks-china-listings/page/2/) about reported financial results in China. New stories that the CCP has almost certainly been [covering](https://www.cbsnews.com/news/coronavirus-covid-19-origins-investigation-wuhan-lab-accident/) up the origins of the Wuhan flu serve only to deepen skepticism of the reliability of regulatory and oversight institutions in China, and standards of transparency and fairness. The SEC and DOJ have had no ability to prosecute frauds in China, and the CCP seems intent on covering them up, creating a dangerous dynamic. With no fear of punishment or disgorgement, it is reasonable to suppose that criminals in China have been emboldened to commit fraud on Western investors. As mentioned, on communist ideology, it is not clear, to say the least, that such fraud would even be identified as ‘wrong.’
+
+*Conventional Wisdom on the Fraud*
+
+The massive Luckin fraud was first revealed by the activist short-seller Muddy Waters, which published a report by an anonymous author detailing the fraud. This triggered an investigation by Ernst & Young Hua Ming LLP (EYHM). When EYHM learned of the fraud, they reportedly [pressured](https://www.yicaiglobal.com/news/exclusive-auditor-anti-fraud-team-led-to-luckin-confession-sources-say) Luckin to come clean. When Luckin did make its report, there began a massive sell-off, and a halt on trading, for the short-term at least.
+
+![Luckin Chart.png](/uploads/Luckin%20Chart.png)
+
+*Share price of Luckin Coffee for 2020, which is mapped to Watchdog Flags on the interactive Watchdog website*
+
+Luckin’s [own disclosure](https://www.sec.gov/Archives/edgar/data/1767582/000110465920042189/a20-14831_1ex99d1.htm) states that the COO was responsible for initiating the fraudulent overreporting of revenue by over $300 million for 2019, which was more than half of the company’s reported revenue that year. This furthers a narrative that the pressure to meet expectations after the company’s IPO in May of last year motivated the COO and his underlings to inflate sales.
+
+The official story is of course not the only reasonable hypothesis. We find this narrative highly unpersuasive on its face. It seems doubtful that the COO could have pulled off fabricating more than half of Luckin’s revenue, and made “substantial” changes to expenditures, without the knowledge of the CFO or CEO. And it is implausible that a fraud so massive began only after the IPO.
+
+A close look at the available evidence suggests that, possibly, it was Luckin’s top executives who benefited most from this fraud. Moreover, there are indications that at some point, if not from the beginning, the company’s primary purpose changed from serving coffee to scamming Western investors. Enough evidence already exists, we believe, to justify an investigation to determine the true scope of Luckin’s fraud.
+
+Does this represent an Enron moment? Are truly large questions necessarily raised by this fraud, about how US securities regulators, auditors, exchanges, underwriters and Congressional representatives should respond?
+
+*Digging into the Anonymous Report*
+
+Carson Block’s Muddy Waters has become renowned for eviscerating Chinese companies, ever since Carson Block kickstarted his career by publishing a damaging [report](https://www.cnbc.com/id/43765929) on Orient Paper. Since then, Muddy Waters has issued numerous reports which resulted in serious losses for Chinese companies and even delisting, making Muddy Waters a wealthy and powerful short seller. However, in the case of Luckin, Muddy Waters claims not to have written the report, but to have received it from an anonymous source.
+
+The anonymous [report](https://drive.google.com/file/d/1LKOYMpXVo1ssbWQx8j4G3-strg6mpQ7F/view) published by Muddy Waters was not created by amateurs. It included thousands of hours of footage shot by 92 full-time and 1,418 part-time staff in 38 separate cities. The costs for producing this report would have easily run into the millions, which raises the question of who funded this report. Muddy Waters could have funded it and be lying. It could also have been Starbucks that paid for it, looking to kneecap a potential competitor. Perhaps it was a Chinese firm that received an inside scoop and wanted to benefit from the short.
+
+The core claim of the report is that reported sales numbers simply did not match actual customer volume, such that 70%-90% of sales were inflated. Luckin apparently rigged its ordering system to skip numbers so make it more difficult if not impossible to discover the manipulation. The report appears to have obtained a screenshot of instructions sent to employees telling them to ignore the discrepancies:
+
+![Luckin Text.png](/uploads/Luckin%20Text.png)
+
+These findings were confirmed when Luckin admitted through its financial restatement that its COO had started inflating sales in May 2019. The restatement also indicated that some costs and expenses had been substantially inflated. But the report contains other red flags which indicate that it may have been the chairman of Luckin, Charles Zhengyao Lu, and his associates, who were ultimately responsible for the fraud.
+
+*The Indicia of a Larger Fraud in the Anonymous Report*
+
+The anonymous report pointed out a red flag, which had been buried in the fine print of the Luckin’s [prospectus](https://www.sec.gov/Archives/edgar/data/1767582/000104746920000079/a2240174zf-1.htm), filed on January 7th, 2020, which is this: Charles Lu, Luckin’s chairman, Jenny Zhiya Qian, the CEO, and Sunying Wong (who is [alleged](https://luckincoffee.info/2020/04/07/goldman-sachs-usd-520-million-ruixing-stock-pledge-loan-default/) to be the sister of Charles Lu, a fact not disclosed in the SEC filing) pledged 49% of their collective shares to underwrite loans. The anonymous report argued that pledging shares for personal loans allowed Charles Lu and his associates effectively to cash out their ownership without panicking other shareholders. This theory appeared to be confirmed, when Goldman Sachs reported that Charles Lu defaulted on his [$518 million](https://www.morningstar.com/news/dow-jones/202004071246/loan-to-luckin-chairman-could-cost-banks-millions-wsj) loan only a few days after the fraud was revealed, which looks like a smoking gun for his involvement in the fraud.
+
+The anonymous report also claimed that Luckin engaged in related party transactions with companies that were controlled by Charles Lu and his associates. Luckin’s SEC filings disclosed it received advertising services from a company that is affiliated with Charles Lu. But the anonymous report claims not only that Charles Lu understated his relationship with advertising companies, but also that he controlled additional companies that provided coffee vending machines and food products to Luckin.
+
+In a related party transaction, a person in control of two companies can syphon off money for himself, by having the one company overpay for goods or services to the other company, pocketing for himself the difference of overpayment. The report accuses Luckin of inflating its advertising costs by over 150% and of dramatically inflating the cost of its coffee vending machines. One way of hiding such overcharges on related party transactions is to increase revenue falsely, to make it look as though revenue is increasing apace, with all the extra expenditures. Thus, there needs to be an investigation to determine if Luckin’s fraud started with fabricating expenses, instead of fabricating revenue. There should also be an investigation of the cost of building and outfitting new stores, one of Luckin’s largest expenditures, to see if that cost was inflated as well.
+
+The anonymous report also accuses the founding partner of Centurium Capital of being an old friend of Charles Lu because of its investment in one of Charles Lu’s other companies. Centurium Capital was one of the early investors in Luckin, contributing over $180 million in 2018. On January 8th, 2020, it made over $230 million by selling 20% of its holdings in Luckin, [netting $50](https://www.nasdaq.com/articles/chinas-centurium-capital-to-reach-first-close-at-%242-bln%3A-sources-2020-03-05) million on its initial investment. One could argue that the sale was not suspicious, after all, because Centurium retained 80% of its holdings. However, if an investing firm believed it was in on the ground floor of the Chinese Starbucks, would it sell 20% of its holdings? Besides, the percentages do not really matter that much: what really matters is how much money they were putting in their pockets.
+
+The report contains many other claims, but the existence of the report itself indicates that there may be a larger conspiracy here, something we believe is obvious. There are two reasonable inferences that can be drawn from the mere existence of this report.
+
+1\. *Someone on the inside of Luckin leaked this information*. There is no chance anyone would have spent several months and millions of dollars to create this report on a hunch. They had to know what they would find before they started looking, and the report was merely to document the fact.
+
+2\. *Certain members of the CCP were aware of this report before it came out*. China is an authoritarian [surveillance state](https://www.lifesitenews.com/news/chinese-govt-uses-smartphones-to-track-citizens-deny-service-to-those-deemed-threat-to-society), which uses advanced technology to track and grade all of its citizens movements, all the time. It would be exceedingly difficult for any group to spend millions of dollars, and hire over 1,500 people to conduct surveillance, without the CCP knowing about it. Additionally, the authors of the report must have known that exposing the CCP to potential embarrassment could easily cost them everything. Therefore, it is unlikely that the authors would have hired so many people in this endeavor without sufficient ‘comfort,’ taking the form of knowledge and permission of suitably placed CCP authorities.
+
+Thus, the origin of the report itself, and who knew about it, needs to be investigated.
+
+*Springtime for Luckin; Winter for Western Investors.*
+
+At its peak in January, Luckin had a market cap of over [$12 billion](https://ycharts.com/companies/LK/market_cap) (reaching $50.4 per share on January 19, 2020). Now it stands at $1 billion, but only because the halt in trading has kept it from falling still lower. However, it is unlikely that the people responsible will face any punishment because most of that money belonged to Western investors. For over a decade, the CCP has employed [state sponsored hackers](https://www.nytimes.com/2019/05/06/us/politics/china-hacking-cyber.html), tasked with stealing information, intellectual property, and technology from Western governments and companies. These groups do not restrict themselves to stealing sensitive information: they also steal plenty of [money](https://blog.knowbe4.com/chinese-state-sponsored-phishing). Elements of the CCP have long sponsored the looting of Western companies and protected the perpetrators from any consequences, provided they get some of the benefit themselves, and their long-term interests are not threatened.
+
+This broader context is important, because if Charles Lu purchased the patronage of certain elements of the CCP, then one must consider the possibility that the launch of Luckin, from the start, was a scam to defraud Western investors; and, if not from the beginning, then whether it turned into such a scheme, when it became clear to those on the inside, after the IPO in April 2019, that growth at the pace that investors were expecting would be untenable.
+
+Luckin was founded in 2018, and in June it received $200 million in investments from a private equity firm in Singapore and two Chinese firms, Centurium Capital and Joy Capital. In November, it raised another $200 million from the same investors. Up to this point, Luckin had mostly been in the business of building stores (over [2,370](https://www.barrons.com/articles/luckin-coffee-ipo-stock-price-51558054869) of them in about a year), and it had little revenue to show for it. By this time, Charles Lu probably had gained the patronage of some important Party officials. Indeed, to have built so many shops, in such a short period of time, in a country so tightly controlled by Party officials, would otherwise have been impossible.
+
+In April 2019, foreign investments started to roll in. Luckin received $150 million from Blackrock in pre-IPO fundraising. Then, in May, Luckin generated over $645 million from its IPO. By November, the company had made two fraudulent quarterly reports, which showed rising revenues and associated expenses, while also [claiming](https://www.sec.gov/Archives/edgar/data/1767582/000110465919065621/a19-23472_1ex99d1.htm) the number of its stores had risen to 3,680:
+
+![Luckin 3d quarter.png](/uploads/Luckin%203d%20quarter.png)
+
+One must consider that Charles Lu, after his lock-up on shares came to an end in November 2019, potentially wished to use these fraudulent results to pledge shares as collateral for a $518 million loan. In January 2020, Luckin raised over [$850 million](https://www.sec.gov/Archives/edgar/data/1767582/000110465920003929/a20-3405_1ex99d1.htm) more in shares and bond offerings, even though they claimed to retain, still, over $650 million in cash and cash equivalents after the third quarter. As mentioned, Centurium Capital, whose founding partner is allegedly affiliated with Charles Lu, sold over $230 million in holdings, just a few weeks before Muddy Waters published its anonymous report.
+
+We do not know if Centurium was able to extricate any more capital out of Luckin. However, a thorough investigation is necessary, to see which other investors bailed just prior to the publication of the report.
+
+Luckin’s share price was initially resilient, but it plummeted when the fraud was confirmed. The short sellers made a killing, estimated at about [$1.1 billion](https://finance.yahoo.com/news/luckin-coffee-short-sellers-1-152036003.html). Thus, an investigation into the Luckin fraud also needs to discover who benefited from the short besides Muddy Waters, to see if in particular if there are any related parties that benefited.
+
+![Luckin Timeline.png](/uploads/Luckin%20Timeline.png)
+
+Our final tally of cash flowing into China is this: $150 million taken from Blackrock; $1.5 billion raised from public offerings; $518 million in a personal loan to Charles Lu; and an unknown amount of proceeds from share and short sales. Moreover, Western investors lost a company that was valued at $12 billion as recently as January 2020.
+
+*Was the COO Responsible?*
+
+Looking at the evidence, it is hard to believe that Charles Lu and the other executives were unaware of the fraud. A look at the company’s [unaudited](https://www.sec.gov/Archives/edgar/data/1767582/000110465919065621/a19-23472_1ex99d1.htm) third quarter results indicates that they claim that about $300 million was spent on operating costs for that quarter.
+
+***Total operating expenses** were RMB2,132.5 million (US$298.3 million), representing an increase of 193.6% from RMB726.4 million in the third quarter of 2018. The increase in operating expenses was the result of business expansion. Meanwhile, operating expenses as a percentage of net revenues decreased to 138.3% in the third quarter of 2019 from 301.7% in the third quarter of 2018, mainly driven by increased economies of scale and the Company’s technology-driven operations.*
+
+Given that the revenue number for this company was almost completely fabricated, one has reason to doubt every number in these statements. Luckin reported approximately a billion dollars in total expenses for 2018 and the first three quarters of 2019. Given that this number is likely overstated, perhaps by hundreds of millions of dollars, and that Luckin did make some revenue, the company ought to have been swimming in cash, and anyone with access to company accounts would have noticed something was wrong. Yet we are expected to believe that the COO and a few other employees conducted this fraud without the knowledge of the CFO, the CEO, or Charles Lu. A far more reasonable hypothesis is that much of this money ended up in the pockets of Charles Lu and associates through related party transactions, and significant amounts probably greased the palms of important CCP officials as well.
+
+However, the CCP and the Western media have uncritically accepted Luckin’s offering of its COO as a sacrificial scapegoat. It does not appear that the CCP is investigating Charles Lu and his family members—someone might comment mordantly that when the CCP is displeased with a business owner, that person often simply [disappears](https://www.independent.co.uk/news/business/news/china-billionaires-ceo-disappearing-missing-station-sanctioned-abductions-beijing-security-agencies-a7564896.html). Some doctors who blew the whistle on the coronavirus are still [missing](https://www.businessinsider.com/china-coronavirus-whistleblowers-speak-out-vanish-2020-2). Since Charles Lu is still with us and apparently flourishing, it is probably because officials at the CCP are pleased with his contributions to the Party. For all we know, he is being hailed a hero, and there is some [evidence](https://twitter.com/WBYeats1865/status/1245730490234982400) supporting this idea.
+
+Are these idle speculations, or colorable claims that require investigating, because of the potential downside? But none of the uses of funds, or relationship between expenditures and revenues, makes any sense.
+
+*Revealing the Fraud as an Exit Strategy: Cui bono?*
+
+The craziest part of this fraud, if perpetrated as we suspect by Charles Lu and his patrons in the CCP, is that they could have made even more money by revealing it. As we said, it is likely that someone inside of Luckin leaked information to the writers of the anonymous report, and by extension to Muddy Waters. Who had motive? Sure, it might have been some midlevel manager who wanted cash. But if we look at the sequence of events, the possibility that it was actually Charles Lu and his associates becomes a more plausible explanation.
+
+Carson Block’s firm Muddy Waters has shown how lucrative it can be to expose fraud. Why wouldn’t fraudsters themselves, then, give it a try? Did any of the [$1.1 billion](https://finance.yahoo.com/news/luckin-coffee-short-sellers-1-152036003.html) that short-sellers made on Luckin go into the pockets of Charles Lu, or members of the CCP? Moreover, there would be no risk or exposure to them, if the CCP had never had an interest in pursuing the case, because foreign banks and investors would have no recourse and no methods of enforcement. Neither the SEC nor the DOJ can investigate, and Chinese laws prevent foreigners from taking effective measures (such as taking control of the operations of the company, or seizing and selling off property and equipment).
+
+The CCP has played an active role in looting Western governments and companies for years. And their willingness to allow fraud has created an environment where investors are exposed to every type of fraud. We know for certain that Luckin inflated revenues. But Charles Lu also appears to have taken out a $518 million dollar loan without any intention of repaying it. He also may have used related party transactions to syphon money out of the company and encouraged friends to sell in January before the fraud was revealed. But that is just the fraud that is well substantiated by available evidence. Fraud is not carried out in plain sight: it comes to light only when something compels disclosure. The available evidence likely represents only the tip of the iceberg.
+
+What can rule out that, after Luckin’s cash disappears (perhaps to buy coffee vending machines from a company allegedly owned by Charles Lu), and the firm declares bankruptcy—what can rule out that, on that day, the people involved in this scam are able to buy up again all the property, inventory, and equipment, for pennies on the dollar, and try something similar once more?
+
+*Muddy Waters*
+
+Could some of this conjecture be false? Yes, and Muddy Waters might have some inside information that could reinforce or dispel our thesis. But without cooperation from the CCP, some questions will never be answered. We hope that Muddy Waters would participate in any investigation.
+
+Yet one is reasonably troubled by the ethics of Muddy Waters’ short selling activism. Indeed, they are incentivized to expose fraud, which is good. But they are also incentivized to let a fraud go on for as long as possible, to allow the stock price to climb as high as possible, before pulling out the rug. Do they have some sort of moral obligation to warn investors at the first sign of trouble? Perhaps they think that any investor foolish enough to invest money in China gets what he or she deserves.
+
+*Conclusion of Part I*
+
+There is compelling enough evidence that Charles Zhengyao Lu and his associates, not the COO, are principally responsible for fabricating numbers and stealing an enormous amount of money from foreign investors out of Luckin Coffee. And, if that is true, then it is at least a possibility, which needs examination, that the executives were the ones who leaked details of the fraud and had it released, after they had raised additional capital so that they could short the stock. Considering the astonishing, meteoric rise of Luckin, and the amount of money in play (billions), is it possible that Charles Lu and his associates made substantial contributions to certain CCP officials every step of the way, allowing them to get off scot free?
+
+The most troubling part about this story is the implications it has for the future of permitting Chinese firms unfettered access to Western capital markets. If Chinese companies are able to loot Western investment houses, and all the people they represent, without fear of reprisal or personal responsibility, because segments of the CCP have given fraudsters free reign to steal as much money as they can get their hands on, then we will see frauds like this happen again and again. Yet institutions in the West seem impotent in the face of the CCP. We believe strongly that this fraud cannot be allowed to go uninvestigated by regulators and financial press alike.
+
+What can *you* do to protect *your* money? Perhaps the next time you think you see a Chinese unicorn—you should run.
+
+**About our Watchdog Transparency Blog**
+
+Watchdog Research is a new resource covering issues associated with the reliability of financial disclosures now available to all institutional and advisory firms. Three years in the making, it draws proprietary analyst driven data from multiple sources and provides that information in a concise, timely and interactive way In our Blog we utilize highly experienced analysts and forensic accountants to take a critical look at particular public company disclosures and focus on issues surrounding transparency, reliability, and accuracy. It you are looking for cheerleading, you have come to the wrong place. We rely on information from the best sources available to gain insight into companies and make predictions about what will happen in the future. Nothing in business is certain, so sometimes we will be wrong, but we will always be an independent voice telling you the truth as we see it.
+
+**Contact us:**
+
+Retail Investors get free access to our Watchdog Reports. Institutional Investors and those interested in our Gray Swan Event Factor can [subscribe](https://www.watchdogresearch.com/pricing), or call our subscription manager, at 239-240-9284.
+
+If you have questions about this blog, send the author of this piece John Cheffers, our Director of Research and Associate General Counsel, an email at [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com). For press inquiries or general questions about Watchdog Research, Inc., please contact our President, Brian Lawe at [blawe@watchdogresearch.com](mailto:blawe@watchdogresearch.com).
