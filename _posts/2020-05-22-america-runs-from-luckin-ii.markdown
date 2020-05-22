@@ -166,7 +166,7 @@ The 1933 Securities Act does allow underwriters to be sued in a private cause of
 
 *The SEC as the Last Line of Defense*
 
-One thing to note is that the SEC, for its part, \*can\* bring a 10b-5 case against an entity that aids and abets a fraud, because it is a government entity and not a private entity. The publicity surrounding this case, and the SEC investigation into Luckin, has actually raised the possibility that Credit Suisse and Morgan will be charged with aiding and abetting Luckin’s fraud. But, once again, a lack of information coming out of China may hamper any investigation.
+One thing to note is that the SEC, for its part, *can* bring a 10b-5 case against an entity that aids and abets a fraud, because it is a government entity and not a private entity. The publicity surrounding this case, and the SEC investigation into Luckin, has actually raised the possibility that Credit Suisse and Morgan will be charged with aiding and abetting Luckin’s fraud. But, once again, a lack of information coming out of China may hamper any investigation.
 
 **Conclusion**
 
