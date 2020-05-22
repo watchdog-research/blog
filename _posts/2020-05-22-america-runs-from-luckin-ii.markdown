@@ -170,4 +170,4 @@ One thing to note is that the SEC, for its part, *can* bring a 10b-5 case agains
 
 **Conclusion**
 
-Foreign companies and domestic companies are both trying to gain access to the capital markets in the United States, but they do not have to play by the same rules. Foreign companies have numerous allowances designed to give leeway, and Luckin took advantage of them. Yet consider how enormous Luckin’s fraud was: it fabricated half of its revenue and potentially stole \*billions \*from Western investors. This will happen again, and happen soon, unless policymakers take decisive action.
+Foreign companies and domestic companies are both trying to gain access to the capital markets in the United States, but they do not have to play by the same rules. Foreign companies have numerous allowances designed to give leeway, and Luckin took advantage of them. Yet consider how enormous Luckin’s fraud was: it fabricated half of its revenue and potentially stole \*billions\* from Western investors. This will happen again, and happen soon, unless policymakers take decisive action.
