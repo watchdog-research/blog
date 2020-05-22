@@ -96,7 +96,7 @@ Section 16 of the Exchange Act seeks to deter improper insider trading by requir
 
 > > > "Because we qualify as a foreign private issuer under the Exchange Act, we are exempt from certain provisions of the securities rules and regulations in the United States that are applicable to U.S. domestic issuers, including … the sections of the Exchange Act requiring insiders to file public reports of their stock ownership and trading activities and liability for insiders who profit from trades made in a short period of time … As a result, you may not be afforded the same protections or information that would be made available to you were you investing in a U.S. domestic issuer."
 
-Foreign private issues are only required to include their insider trading information in their annual reports—*once a year*—compared to \*two business days \*for U.S. companies. Has Charles Lu or any other insiders dumped their stock? We do not know, as Luckin has delayed releasing their annual report.
+Foreign private issues are only required to include their insider trading information in their annual reports—*once a year*—compared to *two business days* for U.S. companies. Has Charles Lu or any other insiders dumped their stock? We do not know, as Luckin has delayed releasing their annual report.
 
 When [announcing ](https://www.sec.gov/Archives/edgar/data/1767582/000110465920052907/a20-18059_16k.htm)this delay in late April, they claimed it was due to the impact of the coronavirus: they made no mention of problems stemming from the massive fraud they disclosed less than a month earlier.
 
