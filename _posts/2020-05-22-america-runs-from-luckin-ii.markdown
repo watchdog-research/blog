@@ -14,6 +14,7 @@ tags:
 - Corporate Governance
 - Fraud
 author: john_cheffers
+image: "/uploads/America%20Runs%20From%20Luckin-%20II.jpg"
 ---
 
 *This post is the second part in a three-part series on Luckin Coffee. The post below was completed this on May 6th, 2020, while the story was still developing. Since we wrote this piece, Luckin has changed its story and [admitted](https://www.sec.gov/Archives/edgar/data/1767582/000110465920059927/a20-19256_1ex99d1.htm) that its CEO was involved in the massive fraud and [delayed](https://www.sec.gov/Archives/edgar/data/1767582/000110465920052907/a20-18059_16k.htm) releasing its annual report. It has also been [delisted](https://www.sec.gov/Archives/edgar/data/1767582/000110465920063497/a20-20057_1ex99d1.htm) from the Nasdaq, spelling death for the company. It has also spurred action in Washington, with the Senate [passing](https://www.marketwatch.com/story/senate-could-vote-on-bill-that-could-delist-chinese-companies-from-us-stock-exchanges-2020-05-19) a bill that could potentially delist every Chinese company unless the Chinese Communist Party releases its iron grip on information and allows the PCAOB to inspect its audit firms.*
