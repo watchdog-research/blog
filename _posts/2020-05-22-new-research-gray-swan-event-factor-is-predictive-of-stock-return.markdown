@@ -9,6 +9,7 @@ tags:
 - Gray Swan Event Factor
 - White Paper
 author: john_cheffers
+image: "/uploads/New%20Research.png"
 ---
 
 *Joseph Burke PhD. and Joseph Yarbrough PhD, have produced two white papers for Watchdog Research that show that companies with higher Gray Swan Event Factors have a lower return on investment. This is because accounting-related risks are not properly priced into the market, potentially giving investors who use this valuable tool an edge over the broader market.*
