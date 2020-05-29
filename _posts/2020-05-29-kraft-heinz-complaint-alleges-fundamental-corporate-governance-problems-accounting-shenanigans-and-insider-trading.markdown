@@ -11,6 +11,7 @@ tags:
 - Corporate Governance
 - Litigaiton
 author: john_cheffers
+image: "/uploads/conclusion-of-the-contract-3100578_640.jpg"
 ---
 
 Kraft Heinz (KHC) [announced](https://www.sec.gov/Archives/edgar/data/1637459/000163745919000020/february2019form8-k.htm) a massive $15.4 billion impairment in February, 2019 to its goodwill and intangible assets.  This impairment was essentially an admission by management major components of the combined company were worth billions less than recorded on the balance sheet.  It was also an admission that 3G Capital (3G) and Warren Buffett’s much touted merger of Kraft and Heinz was a failure.   In the aftermath, Warren Buffett [admitted ](https://www.marketwatch.com/story/buffett-criticizes-others-for-using-non-standard-accounting-metricsbut-he-does-too-2019-02-26)that he had overpaid for his 27% of combined company.
