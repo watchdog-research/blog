@@ -59,6 +59,7 @@ The Complaint argues that the 3G Capital partners managing KHC knew that the com
 The Complaint looks at KHC’s repeated downward adjustments to [EBITDA ](https://www.investopedia.com/terms/e/ebitda.asp)projections to argue that KHC was aware of serious problems by the end of the second quarter.  EBITDA is a financial metric that measures earnings before taxes, interest expense, depreciation, or amortization costs are realized.  The Plaintiff put together a table of KHC’s revisions to EBITDA in 2018:
  
 ![KHC EBITDA.png](/uploads/KHC%20EBITDA.png)
+
 Source: City of Hollywood v. Kraft Heinz, Motion for Confidential Treatment, Exhibit A (18)
 
 Particular attention is also given to the Audit Committee and Board meetings at the end of the second quarter.  In those meetings management revised EBITDA projections down by $248 million from earlier revisions for a total decline from the beginning of the year of $727 million.  They also disclosed that the SEC made a request that KHC not destroy accounting-related documents due to a pending investigation.  The management at KHC also told the Audit Committee that it had tested some of its international segments, and that two of them required an impairment because their book value exceeded the carrying value by $265 million.
