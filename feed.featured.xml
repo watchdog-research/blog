@@ -1,13 +1,181 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+  <link rel="manifest" href="/assets/site.webmanifest">
+  <link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Watchdog Transparency Blog | Watchdog Transparency is a publication based on reports created by Watchdog Research, Inc.</title>
+<meta name="generator" content="Jekyll v4.1.0" />
+<meta property="og:title" content="Watchdog Transparency Blog" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Watchdog Transparency Blog - Most recent 5 featured articles Most recent 5 articles categorized as &#39;Featured&#39; https://blog.watchdogresearch.com&lt;/link&gt; Fri, 29 May 2020 13:55:00 -0400" />
+<meta property="og:description" content="Watchdog Transparency Blog - Most recent 5 featured articles Most recent 5 articles categorized as &#39;Featured&#39; https://blog.watchdogresearch.com&lt;/link&gt; Fri, 29 May 2020 13:55:00 -0400" />
+<link rel="canonical" href="https://blog.watchdogresearch.com/feed.featured.xml" />
+<meta property="og:url" content="https://blog.watchdogresearch.com/feed.featured.xml" />
+<meta property="og:site_name" content="Watchdog Transparency Blog" />
+<script type="application/ld+json">
+{"description":"Watchdog Transparency Blog - Most recent 5 featured articles Most recent 5 articles categorized as &#39;Featured&#39; https://blog.watchdogresearch.com&lt;/link&gt; Fri, 29 May 2020 13:55:00 -0400","headline":"Watchdog Transparency Blog","@type":"WebPage","url":"https://blog.watchdogresearch.com/feed.featured.xml","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Mono:400,700|Roboto:300,400,700&subset=latin-ext">
+  <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://blog.watchdogresearch.com/feed.xml" title="Watchdog Transparency Blog" /><script
+          src="https://code.jquery.com/jquery-3.4.1.min.js"
+          integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+          crossorigin="anonymous">
+  </script>
+
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+  <script src="https://unpkg.com/lunr/lunr.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+  <script>
+    var cookieName = 'dnt_flag';
+  </script><script>
+    if(typeof Cookies.get(cookieName) !== 'undefined') {
+      window['ga-disable-UA-116841703-3'] = true;
+    } else {
+      window['ga-disable-UA-116841703-3'] = false;
+    }
+  </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116841703-3"></script>
+  <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-116841703-3');
+  </script><script>
+    function checkSubmit(e) {
+      if(e && e.keyCode === 13) {
+        document.forms[0].submit();
+      }
+    }
+  </script>
+
+</head>
+<body><nav id="main_navbar" class="navbar sticky-top navbar-expand-lg navbar-light bg-white">
+  <div class="container">
+
+    <a href="/" class="navbar-brand d-inline-flex align-items-center">
+      <img src="/assets/logo-icon-square-320.png" alt="Watchdog Research logo" title="Watchdog Research, Inc.">
+      <div class="brand-text">
+        <div class="tagline">&nbsp;</div>
+        <div class="name">Watchdog Transparency</div>
+        <div class="tagline">by Watchdog Research, Inc.</div>
+      </div>
+    </a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarContent">
+
+      <div class="navbar-nav nav-secondary ml-auto mt-2 mt-lg-0">
+        <a class="nav-item nav-link" href="https://blog.watchdogresearch.com">Home</a>
+        <a class="nav-item nav-link" target="_blank" href="http://www.watchdogresearch.com">Watchdog Research</a>
+        <a class="nav-item nav-link" target="_blank" href="https://www.watchdogresearch.com/about">About</a>
+        <a class="nav-item nav-link" target="_blank" href="https://www.watchdogresearch.com/data_feeds">Contact</a>
+      </div>
+
+    </div>
+
+  </div>
+</nav>
+
+
+<div class="blog-content-container">
+
+    <div class="container-fluid">
+        <div class="row">
+
+            <div class="col-12 d-sm-none d-md-none d-lg-none d-xl-none">
+                <div class="blog-hunk-container">
+
+                    <div class="container-fluid" aria-label="Content">
+                        <div class="row">
+
+    <div class="col-12 pb-3">
+        <img style="width: 100%; height: 150px;" src="/assets/about-tablet_report_bg.png">
+    </div>
+
+    <div class="col-8 d-block d-sm-none d-md-none d-lg-none d-xl-none font-size-xsmall pr-0">
+
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title"></h1>
+  </header>
+
+  <div class="post-content">
+    <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Watchdog Transparency Blog - Most recent 5 featured articles</title>
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 19 May 2020 13:01:00 -0400</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2020 13:55:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>Kraft Heinz: Complaint Alleges Fundamental Corporate Governance Problems, Accounting Shenanigans, and Insider Trading</title><author>John Cheffers</author>
+            
+            <category>featured</category>
+            
+
+            <description>&lt;p&gt;Kraft Heinz (KHC) &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1637459/000163745919000020/february2019form8-k.htm&quot;&gt;announced&lt;/a&gt; a massive $15.4 billion impairment in February, 2019 to its goodwill and intangible assets.  This impairment was essentially an admission by management major components of the combined company were worth billions less than recorded on the balance sheet.  It was also an admission that 3G Capital (3G) and Warren Buffett’s much touted merger of Kraft and Heinz was a failure.   In the aftermath, Warren Buffett &lt;a href=&quot;https://www.marketwatch.com/story/buffett-criticizes-others-for-using-non-standard-accounting-metricsbut-he-does-too-2019-02-26&quot;&gt;admitted &lt;/a&gt;that he had overpaid for his 27% of combined company.&lt;/p&gt;
+
+&lt;p&gt;KHC’s impairment crushed share prices and has led to lawsuits, rapid executive bloodletting, an SEC investigation, and other deleterious events.  We &lt;a href=&quot;https://blog.watchdogresearch.com/posts/kraft-heinz-warren-buffets-dunkirk/&quot;&gt;wrote&lt;/a&gt; about the KHC bus-crash last September and argued that KHC’s core problem was a loss of investor trust and a poor management ethos.&lt;/p&gt;
+</description>
+            <pubDate>2020-05-29T13:55:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/kraft-heinz-complaint-alleges-fundamental-corporate-governance-problems-accounting-shenanigans-and-insider-trading/</link><enclosure url="https://blog.watchdogresearch.com/uploads/conclusion-of-the-contract-3100578_640.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/kraft-heinz-complaint-alleges-fundamental-corporate-governance-problems-accounting-shenanigans-and-insider-trading/</guid>
+        </item>
+        
+        <item>
+            <title>New Research: Gray Swan Event Factor is Predictive of Stock Return</title><author>John Cheffers</author>
+            
+            <category>Gray Swan Event Factor</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;Joseph Burke PhD. and Joseph Yarbrough PhD, have produced two white papers for Watchdog Research that show that companies with higher Gray Swan Event Factors have a lower return on investment. This is because accounting-related risks are not properly priced into the market, potentially giving investors who use this valuable tool an edge over the broader market.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2020-05-22T15:33:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/new-research-gray-swan-event-factor-is-predictive-of-stock-return/</link><enclosure url="https://blog.watchdogresearch.com/uploads/New%20Research.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/new-research-gray-swan-event-factor-is-predictive-of-stock-return/</guid>
+        </item>
+        
+        <item>
+            <title>America Runs From Luckin: II</title><author>John Cheffers</author>
+            
+            <category>featured</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;This post is the second part in a three-part series on Luckin Coffee. The post below was completed this on May 6th, 2020, while the story was still developing. Since we wrote this piece, Luckin has changed its story and &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920059927/a20-19256_1ex99d1.htm&quot;&gt;admitted&lt;/a&gt; that its CEO was involved in the massive fraud and &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920052907/a20-18059_16k.htm&quot;&gt;delayed&lt;/a&gt; releasing its annual report. It has also been &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920063497/a20-20057_1ex99d1.htm&quot;&gt;delisted&lt;/a&gt; from the Nasdaq, spelling death for the company. It has also spurred action in Washington, with the Senate &lt;a href=&quot;https://www.marketwatch.com/story/senate-could-vote-on-bill-that-could-delist-chinese-companies-from-us-stock-exchanges-2020-05-19&quot;&gt;passing&lt;/a&gt; a bill that could potentially delist every Chinese company unless the Chinese Communist Party releases its iron grip on information and allows the PCAOB to inspect its audit firms.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2020-05-22T12:52:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/america-runs-from-luckin-ii/</link><enclosure url="https://blog.watchdogresearch.com/uploads/America%20Runs%20From%20Luckin-%20II.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/america-runs-from-luckin-ii/</guid>
+        </item>
+        
+        <item>
+            <title>America Runs from Luckin: I</title>
+            
+            <category>featured</category>
+            
+
+            <description>&lt;p&gt;This post is Part I in a three-part series on Luckin Coffee. The post below was completed on April 27th, 2020, as the story was still developing. Since we wrote this piece, Luckin has changed its story and &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920059927/a20-19256_1ex99d1.htm&quot;&gt;admitted&lt;/a&gt; that its CEO was involved in the massive fraud and &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920052907/a20-18059_16k.htm&quot;&gt;delayed&lt;/a&gt; releasing its annual report. It has also been &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920063497/a20-20057_1ex99d1.htm&quot;&gt;delisted&lt;/a&gt; from the Nasdaq, spelling death for the company. It has also spurred action in Washington, with the Senate &lt;a href=&quot;https://www.marketwatch.com/story/senate-could-vote-on-bill-that-could-delist-chinese-companies-from-us-stock-exchanges-2020-05-19&quot;&gt;passing&lt;/a&gt; a bill that could potentially delist every Chinese company unless the Chinese Communist Party releases its iron grip on information and allows the PCAOB to inspect its audit firms.&lt;/p&gt;
+</description>
+            <pubDate>2020-05-22T12:44:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/america-runs-from-luckin-i/</link><enclosure url="https://blog.watchdogresearch.com/uploads/America%20Runs%20from%20Luckin-%20I.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/america-runs-from-luckin-i/</guid>
+        </item>
         
         <item>
             <title>We Few, We Happy Few, We Late Filers</title><author>John Cheffers</author>
@@ -21,55 +189,2354 @@
             <link>https://blog.watchdogresearch.com/posts/we-few-we-happy-few-late-filers/</link><enclosure url="https://blog.watchdogresearch.com/uploads/We%20Few.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/we-few-we-happy-few-late-filers/</guid>
         </item>
         
+
+    </channel>
+</rss>
+
+
+  </div>
+
+</article>
+
+
+    </div>
+
+    <div class="col-4 d-block d-sm-none d-md-none d-lg-none d-xl-none font-size-xsmall">
+<form action="/search/" method="get">
+    <input type="text" id="search-box" class="form-control py-2" name="query" placeholder="Search" onkeypress="checkSubmit()">
+</form>
+
+
+<div class="pt-3 d-sm-none d-md-none d-lg-none d-xl-none">CATEGORIES</div>
+<h6 class="pt-5 d-none d-sm-block">CATEGORIES</h6>
+
+<ul class="list-group">
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_featured/">Featured </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_red-flags/">Red flags </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_watchdog-context/">Watchdog context </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_leading-indicators/">Leading indicators </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_non-audit-fees/">Non-audit fees </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_red-flag/">Red flag </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_cams/">Cams </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_investigations/">Investigations </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_cfo-change/">Cfo change </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_coronavirus/">Coronavirus </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_black-swan-event/">Black swan event </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_gray-swan-event/">Gray swan event </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_coronavirus/">Coronavirus </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_mergers/">Mergers </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_risk/">Risk </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_china/">China </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_fraud/">Fraud </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_gray-swan-event-factor/">Gray swan event factor </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_independent-research/">Independent research </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_litigation/">Litigation </a></li>
+    
+</ul>
+
+<div class="pt-3 d-sm-none d-md-none d-lg-none d-xl-none">ARCHIVES</div>
+<h6 class="pt-5 d-none d-sm-block">ARCHIVES</h6>
+
+<ul class="list-group">
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2020/05
+    "> May 2020 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2020/04
+    "> April 2020 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2020/03
+    "> March 2020 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2020/01
+    "> January 2020 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/11
+    "> November 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/10
+    "> October 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/09
+    "> September 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/03
+    "> March 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/02
+    "> February 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/01
+    "> January 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/11
+    "> November 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/06
+    "> June 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/05
+    "> May 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/04
+    "> April 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/03
+    "> March 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/02
+    "> February 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/01
+    "> January 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2017/12
+    "> December 2017 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+</ul>
+</div>
+
+
+
+    <div class="col-sm-9 pl-5 d-none d-sm-block">
+
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title"></h1>
+  </header>
+
+  <div class="post-content">
+    <?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Watchdog Transparency Blog - Most recent 5 featured articles</title>
+        <description>Most recent 5 articles categorized as 'Featured'</description>
+        <link>https://blog.watchdogresearch.com</link>
+        <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Fri, 29 May 2020 13:55:00 -0400</lastBuildDate>
+
+
+        
         <item>
-            <title>What Can We Learn From Late Quarterly Filings During the Coronavirus?</title><author>John Cheffers</author>
+            <title>Kraft Heinz: Complaint Alleges Fundamental Corporate Governance Problems, Accounting Shenanigans, and Insider Trading</title><author>John Cheffers</author>
             
             <category>featured</category>
             
 
-            <description>&lt;p&gt;To protect the elderly and immunocompromised, federal and state officials have locked down society to flatten the rate of infections.  An unfortunate byproduct of these shut-downs has been the destruction of large swaths of the economy and &lt;a href=&quot;https://www.epi.org/indicators/unemployment/&quot;&gt;skyrocketing &lt;/a&gt;unemployment.  To relieve some of the financial pressure these lockdowns have put on businesses, federal and state officials have tried different measures intended to aid businesses. For its part, the SEC has &lt;a href=&quot;https://www.sec.gov/news/press-release/2020-73&quot;&gt;permitted &lt;/a&gt;companies affected by the coronavirus to delay their annual and quarterly statements that would normally be due from March 31st-July 1st.&lt;/p&gt;
+            <description>&lt;p&gt;Kraft Heinz (KHC) &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1637459/000163745919000020/february2019form8-k.htm&quot;&gt;announced&lt;/a&gt; a massive $15.4 billion impairment in February, 2019 to its goodwill and intangible assets.  This impairment was essentially an admission by management major components of the combined company were worth billions less than recorded on the balance sheet.  It was also an admission that 3G Capital (3G) and Warren Buffett’s much touted merger of Kraft and Heinz was a failure.   In the aftermath, Warren Buffett &lt;a href=&quot;https://www.marketwatch.com/story/buffett-criticizes-others-for-using-non-standard-accounting-metricsbut-he-does-too-2019-02-26&quot;&gt;admitted &lt;/a&gt;that he had overpaid for his 27% of combined company.&lt;/p&gt;
+
+&lt;p&gt;KHC’s impairment crushed share prices and has led to lawsuits, rapid executive bloodletting, an SEC investigation, and other deleterious events.  We &lt;a href=&quot;https://blog.watchdogresearch.com/posts/kraft-heinz-warren-buffets-dunkirk/&quot;&gt;wrote&lt;/a&gt; about the KHC bus-crash last September and argued that KHC’s core problem was a loss of investor trust and a poor management ethos.&lt;/p&gt;
 </description>
-            <pubDate>2020-05-13T09:25:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/what-can-we-learn-from-late-quarterly-filings-during-the-coronavirus/</link><enclosure url="https://blog.watchdogresearch.com/uploads/watchdog%20transparency_late%20filing.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/what-can-we-learn-from-late-quarterly-filings-during-the-coronavirus/</guid>
+            <pubDate>2020-05-29T13:55:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/kraft-heinz-complaint-alleges-fundamental-corporate-governance-problems-accounting-shenanigans-and-insider-trading/</link><enclosure url="https://blog.watchdogresearch.com/uploads/conclusion-of-the-contract-3100578_640.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/kraft-heinz-complaint-alleges-fundamental-corporate-governance-problems-accounting-shenanigans-and-insider-trading/</guid>
         </item>
         
         <item>
-            <title>Featuring a New “SEC Oversight” Flag in our Watchdog Reports</title><author>John Cheffers</author>
+            <title>New Research: Gray Swan Event Factor is Predictive of Stock Return</title><author>John Cheffers</author>
             
-            <category>Red Flags</category>
+            <category>Gray Swan Event Factor</category>
             
 
-            <description>&lt;p&gt;In our &lt;a href=&quot;https://blog.watchdogresearch.com/posts/is-it-safer-to-invest-in-china-or-the-u-dot-s/&quot;&gt;last post&lt;/a&gt; we compared the relative risks of investing in China and many other countries, including the U.S. We used our Gray Swan Event Factor, which weighs the impact of a host of different kinds of adverse events like restatements, disclosures of material weaknesses, turmoil at the C-suite level, mergers, etc.… We also track these events and flag them in our Watchdog Research reports (which are free to retail investors, reporters, and curious souls).&lt;/p&gt;
+            <description>&lt;p&gt;&lt;em&gt;Joseph Burke PhD. and Joseph Yarbrough PhD, have produced two white papers for Watchdog Research that show that companies with higher Gray Swan Event Factors have a lower return on investment. This is because accounting-related risks are not properly priced into the market, potentially giving investors who use this valuable tool an edge over the broader market.&lt;/em&gt;&lt;/p&gt;
 </description>
-            <pubDate>2020-05-07T16:01:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/featuring-a-new-sec-oversight-flag-in-our-watchdog-reports/</link><enclosure url="https://blog.watchdogresearch.com/uploads/sec%20oversight.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/featuring-a-new-sec-oversight-flag-in-our-watchdog-reports/</guid>
+            <pubDate>2020-05-22T15:33:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/new-research-gray-swan-event-factor-is-predictive-of-stock-return/</link><enclosure url="https://blog.watchdogresearch.com/uploads/New%20Research.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/new-research-gray-swan-event-factor-is-predictive-of-stock-return/</guid>
         </item>
         
         <item>
-            <title>Is it Safer to Invest in China or the U.S.?</title><author>John Cheffers</author>
+            <title>America Runs From Luckin: II</title><author>John Cheffers</author>
             
-            <category>gray swan event</category>
+            <category>featured</category>
             
 
-            <description>&lt;p&gt;The China based coffee company Luckin &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920042189/a20-14831_1ex99d1.htm&quot;&gt;disclosed&lt;/a&gt; a massive fraud on April 2nd, and only five days later, another China based company TAL Education, &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1499620/000110465920044459/tm2015354d1_ex99-1.htm&quot;&gt;announced&lt;/a&gt; that one its employees had been arrested for fabricating sales.  A decade ago, a wave of Chinese companies were &lt;a href=&quot;https://www.marketwatch.com/story/after-china-fraud-boom-nasdaq-steps-up-scrutiny-of-shady-listings-2016-06-20&quot;&gt;exposed &lt;/a&gt;as frauds, which damaged China’s reputation.  The confluence of Luckin’s fraud with news that the Chinese lied about coronavirus has damaged China’s reputation once again as many people have come to believe that investing in Chinese companies is too risky.&lt;/p&gt;
+            <description>&lt;p&gt;&lt;em&gt;This post is the second part in a three-part series on Luckin Coffee. The post below was completed this on May 6th, 2020, while the story was still developing. Since we wrote this piece, Luckin has changed its story and &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920059927/a20-19256_1ex99d1.htm&quot;&gt;admitted&lt;/a&gt; that its CEO was involved in the massive fraud and &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920052907/a20-18059_16k.htm&quot;&gt;delayed&lt;/a&gt; releasing its annual report. It has also been &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920063497/a20-20057_1ex99d1.htm&quot;&gt;delisted&lt;/a&gt; from the Nasdaq, spelling death for the company. It has also spurred action in Washington, with the Senate &lt;a href=&quot;https://www.marketwatch.com/story/senate-could-vote-on-bill-that-could-delist-chinese-companies-from-us-stock-exchanges-2020-05-19&quot;&gt;passing&lt;/a&gt; a bill that could potentially delist every Chinese company unless the Chinese Communist Party releases its iron grip on information and allows the PCAOB to inspect its audit firms.&lt;/em&gt;&lt;/p&gt;
 </description>
-            <pubDate>2020-05-06T16:01:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/is-it-safer-to-invest-in-china-or-the-u-dot-s/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Watchdog_it%20it%20safer%20to%20invest%20in%20china%20or%20us.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/is-it-safer-to-invest-in-china-or-the-u-dot-s/</guid>
+            <pubDate>2020-05-22T12:52:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/america-runs-from-luckin-ii/</link><enclosure url="https://blog.watchdogresearch.com/uploads/America%20Runs%20From%20Luckin-%20II.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/america-runs-from-luckin-ii/</guid>
         </item>
         
         <item>
-            <title>BorgWarner Wants to Dump Delphi.  Will Delphi’s Resistance be Futile?</title><author>John Cheffers</author>
+            <title>America Runs from Luckin: I</title>
+            
+            <category>featured</category>
+            
+
+            <description>&lt;p&gt;This post is Part I in a three-part series on Luckin Coffee. The post below was completed on April 27th, 2020, as the story was still developing. Since we wrote this piece, Luckin has changed its story and &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920059927/a20-19256_1ex99d1.htm&quot;&gt;admitted&lt;/a&gt; that its CEO was involved in the massive fraud and &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920052907/a20-18059_16k.htm&quot;&gt;delayed&lt;/a&gt; releasing its annual report. It has also been &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920063497/a20-20057_1ex99d1.htm&quot;&gt;delisted&lt;/a&gt; from the Nasdaq, spelling death for the company. It has also spurred action in Washington, with the Senate &lt;a href=&quot;https://www.marketwatch.com/story/senate-could-vote-on-bill-that-could-delist-chinese-companies-from-us-stock-exchanges-2020-05-19&quot;&gt;passing&lt;/a&gt; a bill that could potentially delist every Chinese company unless the Chinese Communist Party releases its iron grip on information and allows the PCAOB to inspect its audit firms.&lt;/p&gt;
+</description>
+            <pubDate>2020-05-22T12:44:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/america-runs-from-luckin-i/</link><enclosure url="https://blog.watchdogresearch.com/uploads/America%20Runs%20from%20Luckin-%20I.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/america-runs-from-luckin-i/</guid>
+        </item>
+        
+        <item>
+            <title>We Few, We Happy Few, We Late Filers</title><author>John Cheffers</author>
             
             <category>Coronavirus</category>
             
 
-            <description>&lt;p&gt;With the coronavirus shutting down entire industries and raising the possibility of an extended recession, pending mergers are in peril, and mergers overall will become disfavored as companies lose their appetite for risk.&lt;/p&gt;
+            <description>&lt;p&gt;&lt;em&gt;In this post we look at the large accelerated filers who have not filed their 10-Qs yet due to the coronavirus. These companies are outliers, with only 27 active filers delaying quarterly reports out of a population of nearly 600. We have already expressed &lt;a href=&quot;https://blog.watchdogresearch.com/posts/what-can-we-learn-from-late-quarterly-filings-during-the-coronavirus/&quot;&gt;concerns &lt;/a&gt;about the SEC allowing companies to be less transparent during such a critical time, and these concerns were not allayed by our research for this post. We will look at some broader trends and highlight a few egregious examples.&lt;/em&gt;&lt;/p&gt;
 </description>
-            <pubDate>2020-04-08T09:31:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/borgwarner-wants-to-dump-delphi-will-delphis-resistance-be-futile/</link><enclosure url="https://blog.watchdogresearch.com/uploads/borger.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/borgwarner-wants-to-dump-delphi-will-delphis-resistance-be-futile/</guid>
+            <pubDate>2020-05-19T13:01:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/we-few-we-happy-few-late-filers/</link><enclosure url="https://blog.watchdogresearch.com/uploads/We%20Few.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/we-few-we-happy-few-late-filers/</guid>
         </item>
         
 
     </channel>
 </rss>
 
+
+  </div>
+
+</article>
+
+
+    </div>
+
+    <div class="col-sm-3 pl-5 d-none d-sm-block">
+<form action="/search/" method="get">
+    <input type="text" id="search-box" class="form-control py-2" name="query" placeholder="Search" onkeypress="checkSubmit()">
+</form>
+
+
+<div class="pt-3 d-sm-none d-md-none d-lg-none d-xl-none">CATEGORIES</div>
+<h6 class="pt-5 d-none d-sm-block">CATEGORIES</h6>
+
+<ul class="list-group">
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_featured/">Featured </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_red-flags/">Red flags </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_watchdog-context/">Watchdog context </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_leading-indicators/">Leading indicators </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_non-audit-fees/">Non-audit fees </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_red-flag/">Red flag </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_cams/">Cams </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_investigations/">Investigations </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_cfo-change/">Cfo change </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_coronavirus/">Coronavirus </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_black-swan-event/">Black swan event </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_gray-swan-event/">Gray swan event </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_coronavirus/">Coronavirus </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_mergers/">Mergers </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_risk/">Risk </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_china/">China </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_fraud/">Fraud </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_gray-swan-event-factor/">Gray swan event factor </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_independent-research/">Independent research </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_litigation/">Litigation </a></li>
+    
+</ul>
+
+<div class="pt-3 d-sm-none d-md-none d-lg-none d-xl-none">ARCHIVES</div>
+<h6 class="pt-5 d-none d-sm-block">ARCHIVES</h6>
+
+<ul class="list-group">
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2020/05
+    "> May 2020 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2020/04
+    "> April 2020 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2020/03
+    "> March 2020 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2020/01
+    "> January 2020 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/11
+    "> November 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/10
+    "> October 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/09
+    "> September 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/03
+    "> March 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/02
+    "> February 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/01
+    "> January 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/11
+    "> November 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/06
+    "> June 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/05
+    "> May 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/04
+    "> April 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/03
+    "> March 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/02
+    "> February 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/01
+    "> January 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2017/12
+    "> December 2017 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+</ul>
+</div>
+
+</div>
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-10 offset-1 d-none d-sm-block">
+                <div class="blog-hunk-container">
+
+                    <div class="container-fluid" aria-label="Content">
+                        <div class="row">
+
+    <div class="col-12 pb-3">
+        <img style="width: 100%; height: 150px;" src="/assets/about-tablet_report_bg.png">
+    </div>
+
+    <div class="col-8 d-block d-sm-none d-md-none d-lg-none d-xl-none font-size-xsmall pr-0">
+
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title"></h1>
+  </header>
+
+  <div class="post-content">
+    <?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Watchdog Transparency Blog - Most recent 5 featured articles</title>
+        <description>Most recent 5 articles categorized as 'Featured'</description>
+        <link>https://blog.watchdogresearch.com</link>
+        <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Fri, 29 May 2020 13:55:00 -0400</lastBuildDate>
+
+
+        
+        <item>
+            <title>Kraft Heinz: Complaint Alleges Fundamental Corporate Governance Problems, Accounting Shenanigans, and Insider Trading</title><author>John Cheffers</author>
+            
+            <category>featured</category>
+            
+
+            <description>&lt;p&gt;Kraft Heinz (KHC) &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1637459/000163745919000020/february2019form8-k.htm&quot;&gt;announced&lt;/a&gt; a massive $15.4 billion impairment in February, 2019 to its goodwill and intangible assets.  This impairment was essentially an admission by management major components of the combined company were worth billions less than recorded on the balance sheet.  It was also an admission that 3G Capital (3G) and Warren Buffett’s much touted merger of Kraft and Heinz was a failure.   In the aftermath, Warren Buffett &lt;a href=&quot;https://www.marketwatch.com/story/buffett-criticizes-others-for-using-non-standard-accounting-metricsbut-he-does-too-2019-02-26&quot;&gt;admitted &lt;/a&gt;that he had overpaid for his 27% of combined company.&lt;/p&gt;
+
+&lt;p&gt;KHC’s impairment crushed share prices and has led to lawsuits, rapid executive bloodletting, an SEC investigation, and other deleterious events.  We &lt;a href=&quot;https://blog.watchdogresearch.com/posts/kraft-heinz-warren-buffets-dunkirk/&quot;&gt;wrote&lt;/a&gt; about the KHC bus-crash last September and argued that KHC’s core problem was a loss of investor trust and a poor management ethos.&lt;/p&gt;
+</description>
+            <pubDate>2020-05-29T13:55:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/kraft-heinz-complaint-alleges-fundamental-corporate-governance-problems-accounting-shenanigans-and-insider-trading/</link><enclosure url="https://blog.watchdogresearch.com/uploads/conclusion-of-the-contract-3100578_640.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/kraft-heinz-complaint-alleges-fundamental-corporate-governance-problems-accounting-shenanigans-and-insider-trading/</guid>
+        </item>
+        
+        <item>
+            <title>New Research: Gray Swan Event Factor is Predictive of Stock Return</title><author>John Cheffers</author>
+            
+            <category>Gray Swan Event Factor</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;Joseph Burke PhD. and Joseph Yarbrough PhD, have produced two white papers for Watchdog Research that show that companies with higher Gray Swan Event Factors have a lower return on investment. This is because accounting-related risks are not properly priced into the market, potentially giving investors who use this valuable tool an edge over the broader market.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2020-05-22T15:33:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/new-research-gray-swan-event-factor-is-predictive-of-stock-return/</link><enclosure url="https://blog.watchdogresearch.com/uploads/New%20Research.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/new-research-gray-swan-event-factor-is-predictive-of-stock-return/</guid>
+        </item>
+        
+        <item>
+            <title>America Runs From Luckin: II</title><author>John Cheffers</author>
+            
+            <category>featured</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;This post is the second part in a three-part series on Luckin Coffee. The post below was completed this on May 6th, 2020, while the story was still developing. Since we wrote this piece, Luckin has changed its story and &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920059927/a20-19256_1ex99d1.htm&quot;&gt;admitted&lt;/a&gt; that its CEO was involved in the massive fraud and &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920052907/a20-18059_16k.htm&quot;&gt;delayed&lt;/a&gt; releasing its annual report. It has also been &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920063497/a20-20057_1ex99d1.htm&quot;&gt;delisted&lt;/a&gt; from the Nasdaq, spelling death for the company. It has also spurred action in Washington, with the Senate &lt;a href=&quot;https://www.marketwatch.com/story/senate-could-vote-on-bill-that-could-delist-chinese-companies-from-us-stock-exchanges-2020-05-19&quot;&gt;passing&lt;/a&gt; a bill that could potentially delist every Chinese company unless the Chinese Communist Party releases its iron grip on information and allows the PCAOB to inspect its audit firms.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2020-05-22T12:52:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/america-runs-from-luckin-ii/</link><enclosure url="https://blog.watchdogresearch.com/uploads/America%20Runs%20From%20Luckin-%20II.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/america-runs-from-luckin-ii/</guid>
+        </item>
+        
+        <item>
+            <title>America Runs from Luckin: I</title>
+            
+            <category>featured</category>
+            
+
+            <description>&lt;p&gt;This post is Part I in a three-part series on Luckin Coffee. The post below was completed on April 27th, 2020, as the story was still developing. Since we wrote this piece, Luckin has changed its story and &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920059927/a20-19256_1ex99d1.htm&quot;&gt;admitted&lt;/a&gt; that its CEO was involved in the massive fraud and &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920052907/a20-18059_16k.htm&quot;&gt;delayed&lt;/a&gt; releasing its annual report. It has also been &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920063497/a20-20057_1ex99d1.htm&quot;&gt;delisted&lt;/a&gt; from the Nasdaq, spelling death for the company. It has also spurred action in Washington, with the Senate &lt;a href=&quot;https://www.marketwatch.com/story/senate-could-vote-on-bill-that-could-delist-chinese-companies-from-us-stock-exchanges-2020-05-19&quot;&gt;passing&lt;/a&gt; a bill that could potentially delist every Chinese company unless the Chinese Communist Party releases its iron grip on information and allows the PCAOB to inspect its audit firms.&lt;/p&gt;
+</description>
+            <pubDate>2020-05-22T12:44:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/america-runs-from-luckin-i/</link><enclosure url="https://blog.watchdogresearch.com/uploads/America%20Runs%20from%20Luckin-%20I.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/america-runs-from-luckin-i/</guid>
+        </item>
+        
+        <item>
+            <title>We Few, We Happy Few, We Late Filers</title><author>John Cheffers</author>
+            
+            <category>Coronavirus</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;In this post we look at the large accelerated filers who have not filed their 10-Qs yet due to the coronavirus. These companies are outliers, with only 27 active filers delaying quarterly reports out of a population of nearly 600. We have already expressed &lt;a href=&quot;https://blog.watchdogresearch.com/posts/what-can-we-learn-from-late-quarterly-filings-during-the-coronavirus/&quot;&gt;concerns &lt;/a&gt;about the SEC allowing companies to be less transparent during such a critical time, and these concerns were not allayed by our research for this post. We will look at some broader trends and highlight a few egregious examples.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2020-05-19T13:01:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/we-few-we-happy-few-late-filers/</link><enclosure url="https://blog.watchdogresearch.com/uploads/We%20Few.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/we-few-we-happy-few-late-filers/</guid>
+        </item>
+        
+
+    </channel>
+</rss>
+
+
+  </div>
+
+</article>
+
+
+    </div>
+
+    <div class="col-4 d-block d-sm-none d-md-none d-lg-none d-xl-none font-size-xsmall">
+<form action="/search/" method="get">
+    <input type="text" id="search-box" class="form-control py-2" name="query" placeholder="Search" onkeypress="checkSubmit()">
+</form>
+
+
+<div class="pt-3 d-sm-none d-md-none d-lg-none d-xl-none">CATEGORIES</div>
+<h6 class="pt-5 d-none d-sm-block">CATEGORIES</h6>
+
+<ul class="list-group">
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_featured/">Featured </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_red-flags/">Red flags </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_watchdog-context/">Watchdog context </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_leading-indicators/">Leading indicators </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_non-audit-fees/">Non-audit fees </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_red-flag/">Red flag </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_cams/">Cams </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_investigations/">Investigations </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_cfo-change/">Cfo change </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_coronavirus/">Coronavirus </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_black-swan-event/">Black swan event </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_gray-swan-event/">Gray swan event </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_coronavirus/">Coronavirus </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_mergers/">Mergers </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_risk/">Risk </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_china/">China </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_fraud/">Fraud </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_gray-swan-event-factor/">Gray swan event factor </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_independent-research/">Independent research </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_litigation/">Litigation </a></li>
+    
+</ul>
+
+<div class="pt-3 d-sm-none d-md-none d-lg-none d-xl-none">ARCHIVES</div>
+<h6 class="pt-5 d-none d-sm-block">ARCHIVES</h6>
+
+<ul class="list-group">
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2020/05
+    "> May 2020 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2020/04
+    "> April 2020 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2020/03
+    "> March 2020 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2020/01
+    "> January 2020 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/11
+    "> November 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/10
+    "> October 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/09
+    "> September 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/03
+    "> March 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/02
+    "> February 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/01
+    "> January 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/11
+    "> November 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/06
+    "> June 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/05
+    "> May 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/04
+    "> April 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/03
+    "> March 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/02
+    "> February 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/01
+    "> January 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2017/12
+    "> December 2017 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+</ul>
+</div>
+
+
+
+    <div class="col-sm-9 pl-5 d-none d-sm-block">
+
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title"></h1>
+  </header>
+
+  <div class="post-content">
+    <?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Watchdog Transparency Blog - Most recent 5 featured articles</title>
+        <description>Most recent 5 articles categorized as 'Featured'</description>
+        <link>https://blog.watchdogresearch.com</link>
+        <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Fri, 29 May 2020 13:55:00 -0400</lastBuildDate>
+
+
+        
+        <item>
+            <title>Kraft Heinz: Complaint Alleges Fundamental Corporate Governance Problems, Accounting Shenanigans, and Insider Trading</title><author>John Cheffers</author>
+            
+            <category>featured</category>
+            
+
+            <description>&lt;p&gt;Kraft Heinz (KHC) &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1637459/000163745919000020/february2019form8-k.htm&quot;&gt;announced&lt;/a&gt; a massive $15.4 billion impairment in February, 2019 to its goodwill and intangible assets.  This impairment was essentially an admission by management major components of the combined company were worth billions less than recorded on the balance sheet.  It was also an admission that 3G Capital (3G) and Warren Buffett’s much touted merger of Kraft and Heinz was a failure.   In the aftermath, Warren Buffett &lt;a href=&quot;https://www.marketwatch.com/story/buffett-criticizes-others-for-using-non-standard-accounting-metricsbut-he-does-too-2019-02-26&quot;&gt;admitted &lt;/a&gt;that he had overpaid for his 27% of combined company.&lt;/p&gt;
+
+&lt;p&gt;KHC’s impairment crushed share prices and has led to lawsuits, rapid executive bloodletting, an SEC investigation, and other deleterious events.  We &lt;a href=&quot;https://blog.watchdogresearch.com/posts/kraft-heinz-warren-buffets-dunkirk/&quot;&gt;wrote&lt;/a&gt; about the KHC bus-crash last September and argued that KHC’s core problem was a loss of investor trust and a poor management ethos.&lt;/p&gt;
+</description>
+            <pubDate>2020-05-29T13:55:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/kraft-heinz-complaint-alleges-fundamental-corporate-governance-problems-accounting-shenanigans-and-insider-trading/</link><enclosure url="https://blog.watchdogresearch.com/uploads/conclusion-of-the-contract-3100578_640.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/kraft-heinz-complaint-alleges-fundamental-corporate-governance-problems-accounting-shenanigans-and-insider-trading/</guid>
+        </item>
+        
+        <item>
+            <title>New Research: Gray Swan Event Factor is Predictive of Stock Return</title><author>John Cheffers</author>
+            
+            <category>Gray Swan Event Factor</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;Joseph Burke PhD. and Joseph Yarbrough PhD, have produced two white papers for Watchdog Research that show that companies with higher Gray Swan Event Factors have a lower return on investment. This is because accounting-related risks are not properly priced into the market, potentially giving investors who use this valuable tool an edge over the broader market.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2020-05-22T15:33:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/new-research-gray-swan-event-factor-is-predictive-of-stock-return/</link><enclosure url="https://blog.watchdogresearch.com/uploads/New%20Research.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/new-research-gray-swan-event-factor-is-predictive-of-stock-return/</guid>
+        </item>
+        
+        <item>
+            <title>America Runs From Luckin: II</title><author>John Cheffers</author>
+            
+            <category>featured</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;This post is the second part in a three-part series on Luckin Coffee. The post below was completed this on May 6th, 2020, while the story was still developing. Since we wrote this piece, Luckin has changed its story and &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920059927/a20-19256_1ex99d1.htm&quot;&gt;admitted&lt;/a&gt; that its CEO was involved in the massive fraud and &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920052907/a20-18059_16k.htm&quot;&gt;delayed&lt;/a&gt; releasing its annual report. It has also been &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920063497/a20-20057_1ex99d1.htm&quot;&gt;delisted&lt;/a&gt; from the Nasdaq, spelling death for the company. It has also spurred action in Washington, with the Senate &lt;a href=&quot;https://www.marketwatch.com/story/senate-could-vote-on-bill-that-could-delist-chinese-companies-from-us-stock-exchanges-2020-05-19&quot;&gt;passing&lt;/a&gt; a bill that could potentially delist every Chinese company unless the Chinese Communist Party releases its iron grip on information and allows the PCAOB to inspect its audit firms.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2020-05-22T12:52:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/america-runs-from-luckin-ii/</link><enclosure url="https://blog.watchdogresearch.com/uploads/America%20Runs%20From%20Luckin-%20II.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/america-runs-from-luckin-ii/</guid>
+        </item>
+        
+        <item>
+            <title>America Runs from Luckin: I</title>
+            
+            <category>featured</category>
+            
+
+            <description>&lt;p&gt;This post is Part I in a three-part series on Luckin Coffee. The post below was completed on April 27th, 2020, as the story was still developing. Since we wrote this piece, Luckin has changed its story and &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920059927/a20-19256_1ex99d1.htm&quot;&gt;admitted&lt;/a&gt; that its CEO was involved in the massive fraud and &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920052907/a20-18059_16k.htm&quot;&gt;delayed&lt;/a&gt; releasing its annual report. It has also been &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920063497/a20-20057_1ex99d1.htm&quot;&gt;delisted&lt;/a&gt; from the Nasdaq, spelling death for the company. It has also spurred action in Washington, with the Senate &lt;a href=&quot;https://www.marketwatch.com/story/senate-could-vote-on-bill-that-could-delist-chinese-companies-from-us-stock-exchanges-2020-05-19&quot;&gt;passing&lt;/a&gt; a bill that could potentially delist every Chinese company unless the Chinese Communist Party releases its iron grip on information and allows the PCAOB to inspect its audit firms.&lt;/p&gt;
+</description>
+            <pubDate>2020-05-22T12:44:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/america-runs-from-luckin-i/</link><enclosure url="https://blog.watchdogresearch.com/uploads/America%20Runs%20from%20Luckin-%20I.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/america-runs-from-luckin-i/</guid>
+        </item>
+        
+        <item>
+            <title>We Few, We Happy Few, We Late Filers</title><author>John Cheffers</author>
+            
+            <category>Coronavirus</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;In this post we look at the large accelerated filers who have not filed their 10-Qs yet due to the coronavirus. These companies are outliers, with only 27 active filers delaying quarterly reports out of a population of nearly 600. We have already expressed &lt;a href=&quot;https://blog.watchdogresearch.com/posts/what-can-we-learn-from-late-quarterly-filings-during-the-coronavirus/&quot;&gt;concerns &lt;/a&gt;about the SEC allowing companies to be less transparent during such a critical time, and these concerns were not allayed by our research for this post. We will look at some broader trends and highlight a few egregious examples.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2020-05-19T13:01:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/we-few-we-happy-few-late-filers/</link><enclosure url="https://blog.watchdogresearch.com/uploads/We%20Few.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/we-few-we-happy-few-late-filers/</guid>
+        </item>
+        
+
+    </channel>
+</rss>
+
+
+  </div>
+
+</article>
+
+
+    </div>
+
+    <div class="col-sm-3 pl-5 d-none d-sm-block">
+<form action="/search/" method="get">
+    <input type="text" id="search-box" class="form-control py-2" name="query" placeholder="Search" onkeypress="checkSubmit()">
+</form>
+
+
+<div class="pt-3 d-sm-none d-md-none d-lg-none d-xl-none">CATEGORIES</div>
+<h6 class="pt-5 d-none d-sm-block">CATEGORIES</h6>
+
+<ul class="list-group">
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_featured/">Featured </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_red-flags/">Red flags </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_watchdog-context/">Watchdog context </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_leading-indicators/">Leading indicators </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_non-audit-fees/">Non-audit fees </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_red-flag/">Red flag </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_cams/">Cams </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_investigations/">Investigations </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_cfo-change/">Cfo change </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_coronavirus/">Coronavirus </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_black-swan-event/">Black swan event </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_gray-swan-event/">Gray swan event </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_coronavirus/">Coronavirus </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_mergers/">Mergers </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_risk/">Risk </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_china/">China </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_fraud/">Fraud </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_gray-swan-event-factor/">Gray swan event factor </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_independent-research/">Independent research </a></li>
+    
+
+        
+        
+
+        <li class="list-group-item border-0 pl-0"><a href="https://blog.watchdogresearch.com/category_litigation/">Litigation </a></li>
+    
+</ul>
+
+<div class="pt-3 d-sm-none d-md-none d-lg-none d-xl-none">ARCHIVES</div>
+<h6 class="pt-5 d-none d-sm-block">ARCHIVES</h6>
+
+<ul class="list-group">
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2020/05
+    "> May 2020 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2020/04
+    "> April 2020 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2020/03
+    "> March 2020 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2020/01
+    "> January 2020 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/11
+    "> November 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/10
+    "> October 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/09
+    "> September 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/03
+    "> March 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/02
+    "> February 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2019/01
+    "> January 2019 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/11
+    "> November 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/06
+    "> June 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/05
+    "> May 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/04
+    "> April 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/03
+    "> March 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/02
+    "> February 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2018/01
+    "> January 2018 </a></li>
+        
+    
+
+    
+
+    
+
+    
+        <li class="list-group-item border-0 pl-0"><a href="
+    https://blog.watchdogresearch.com/archives/2017/12
+    "> December 2017 </a></li>
+        
+    
+
+    
+
+    
+
+    
+
+</ul>
+</div>
+
+</div>
+
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<div class="basement page-section page-section--with-border-top">
+    <div class="container" aria-label="Content">
+        <div class="row">
+            <div class="col">
+
+                <p>
+                    &copy; 2020 Watchdog Research, Inc. All rights reserved.<br>Watchdog Transparency is a publication based on reports created by Watchdog Research, Inc.<br>
+                    Watchdog Research, Inc. is a financial research company providing due diligence information on public companies.
+                </p>
+
+                <p><a href="https://www.twitter.com/WatchdogRsrch">@WatchdogRsrch</a>&nbsp; &nbsp; | &nbsp; &nbsp; <a href="/feed.xml"><span>rss</span></a></p>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+
+</html>
