@@ -3,7 +3,6 @@ title: 'Kraft Heinz: Complaint Alleges Fundamental Corporate Governance Problems
   Accounting Shenanigans, and Insider Trading'
 date: 2020-05-29 13:55:00 -04:00
 categories:
-- featured
 - Litigation
 tags:
 - Kraft Heinz
