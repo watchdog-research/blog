@@ -21,12 +21,6 @@ layout:
             <author>{{author.name}}</author>
             {%- endif -%}
 
-            {%- assign first_category = post.categories | first %}
-            {% if first_category != nil %}
-            <category>{{first_category}}</category>
-            {% endif %}
-
-            <description>{{ post.excerpt | xml_escape }}</description>
             <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
             <link>{{ site.url }}{{ post.url }}</link>
             {%- if post.image -%}
