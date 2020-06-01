@@ -3,7 +3,6 @@ title: 'America Runs From Luckin: II'
 date: 2020-05-22 12:52:00 -04:00
 published: false
 categories:
-- featured
 - China
 - Fraud
 tags:
