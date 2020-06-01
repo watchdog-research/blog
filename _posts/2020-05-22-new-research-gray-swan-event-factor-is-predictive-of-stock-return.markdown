@@ -3,7 +3,6 @@ title: 'New Research: Gray Swan Event Factor is Predictive of Stock Return'
 date: 2020-05-22 15:33:00 -04:00
 categories:
 - Gray Swan Event Factor
-- featured
 - Independent Research
 tags:
 - Gray Swan Event Factor
