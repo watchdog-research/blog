@@ -4,6 +4,7 @@ title: 'Kraft Heinz: Complaint Alleges Fundamental Corporate Governance Problems
 date: 2020-05-29 13:55:00 -04:00
 categories:
 - Litigation
+- featured
 tags:
 - Kraft Heinz
 - Goodwill
