@@ -5,6 +5,7 @@ published: false
 categories:
 - China
 - Fraud
+- featured
 tags:
 - China
 - Luckin Coffee
