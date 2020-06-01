@@ -22,7 +22,7 @@ layout:
             {%- endif -%}
 
             {%- assign first_category = post.categories | first %}
-            {% if first_category!= nil %}
+            {% if first_category != nil %}
             <category>{{first_category}}</category>
             {% endif %}
 
