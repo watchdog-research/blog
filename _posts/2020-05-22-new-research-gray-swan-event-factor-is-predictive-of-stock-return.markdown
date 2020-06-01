@@ -46,7 +46,7 @@ As can be seen here, the high-risk companies did significantly worse than their 
 
 This research demonstrates that there is significant value in properly assessing and weighing accounting-related risks. Investors could potentially short high-risk stocks, or they could filter high-risk stocks out of their portfolios.
 
-There is of course a great deal more informaiton in these white papers, if you would like to read them for yourself, then send us an email.
+There is of course a great deal more information in these white papers, if you would like to read them for yourself, then send us an email.
 
 **Contact us:**
 
