@@ -5,6 +5,7 @@ published: false
 categories:
 - Fraud
 - China
+- featured
 tags:
 - China
 - CCP
