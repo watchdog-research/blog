@@ -10,7 +10,7 @@ tags:
 - Goodwill
 - Impairment
 author: john_cheffers
-image: "/uploads/covid.jpg"
+image: "/uploads/covid-19.jpg"
 ---
 
 In our previous piece “[Birds of a Feather: How to Tell a Gray Swan from a Black Swan](https://blog.watchdogresearch.com/posts/birds-of-a-feather-how-to-tell-a-gray-swan-from-a-black-swan-dot/),” we discussed how difficult it may be to spot when a company disingenuously blames an impairment of goodwill on the effects of the coronavirus, as opposed to righfuly blaming it on preexisting conditions at the company. We then *specifically* mentioned Under Armour’s (UA) Latin American reporting unit as one to watch because PwC [highlighted](https://www.sec.gov/ix?doc=/Archives/edgar/data/1336917/000133691720000010/ua-20191231.htm) the goodwill impairment testing of that specific reporting unit as requiring particularly “*challenging, subjective, or complex judgements*” in its Critical Audit Matters (CAMs).
