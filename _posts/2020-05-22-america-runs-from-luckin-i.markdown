@@ -1,5 +1,5 @@
 ---
-title: 'America Runs from Luckin: I'
+title: 'America Runs from Luckin: The Fraud'
 date: 2020-05-22 12:44:00 -04:00
 published: false
 categories:
@@ -15,11 +15,13 @@ author: John_Cheffers
 image: "/uploads/America%20Runs%20from%20Luckin-%20I.png"
 ---
 
-This post is Part I in a three-part series on Luckin Coffee. The post below was completed on April 27th, 2020, as the story was still developing. Since we wrote this piece, Luckin has changed its story and [admitted](https://www.sec.gov/Archives/edgar/data/1767582/000110465920059927/a20-19256_1ex99d1.htm) that its CEO was involved in the massive fraud and [delayed](https://www.sec.gov/Archives/edgar/data/1767582/000110465920052907/a20-18059_16k.htm) releasing its annual report. It has also been [delisted](https://www.sec.gov/Archives/edgar/data/1767582/000110465920063497/a20-20057_1ex99d1.htm) from the Nasdaq, spelling death for the company. It has also spurred action in Washington, with the Senate [passing](https://www.marketwatch.com/story/senate-could-vote-on-bill-that-could-delist-chinese-companies-from-us-stock-exchanges-2020-05-19) a bill that could potentially delist every Chinese company unless the Chinese Communist Party releases its iron grip on information and allows the PCAOB to inspect its audit firms.
+We originally wrote this post on Luckin Coffee over a month ago on April 27th, 2020.  Since then the story has significantly developed. Since we wrote this piece, Luckin has changed its story and [admitted](https://www.sec.gov/Archives/edgar/data/1767582/000110465920059927/a20-19256_1ex99d1.htm) that its CEO was involved in the massive fraud and [delayed](https://www.sec.gov/Archives/edgar/data/1767582/000110465920052907/a20-18059_16k.htm) releasing its annual report.  The WSJ has also written a devastating [piece](https://www.wsj.com/articles/behind-the-fall-of-chinas-luckin-coffee-a-network-of-fake-buyers-and-a-fictitious-employee-11590682336) that confirmed our suspicions that many of the expenses were fabricated and that Charles Lu, the chairman, sat at the center of a complicated web of related party transactions. Luckin has been [delisted](https://www.sec.gov/Archives/edgar/data/1767582/000110465920063497/a20-20057_1ex99d1.htm) from the Nasdaq. 
 
-The Senate bill, if signed into law, would be a serious escalation in the ongoing dispute between the U.S. and the Chinese Communist Party. To understand how a fraud at a Chinese coffee company could spark an international conflict, read our original analysis…
+Shockingly, it has also spurred action in Washington, with the Senate [passing](https://www.marketwatch.com/story/senate-could-vote-on-bill-that-could-delist-chinese-companies-from-us-stock-exchanges-2020-05-19) a bill that could potentially delist every Chinese company unless the Chinese Communist Party releases its iron grip on information and allows the PCAOB to inspect its audit firms.
 
-Part I: The Fraud at Luckin
+The Senate bill, if signed into law, would be a serious escalation in the ongoing dispute between the U.S. and the Chinese Communist Party. We are going to closely examine potential problems in Sino-American business relations in a later series.  But to understand why a fraud at a Chinese coffee company would spark an international conflict, read our original analysis… 
+
+**The Fraud at Luckin**
 
 *Executive Summary. If one tallies all the money lost in the West from the Luckin fraud, which went either to Luckin, or directly to its chairman Charles Lu, before the stock was shorted, this amounts to $2.165 billion. If one additionally includes money from short positions, and other potentially undisclosed and improper insider trading, the total could be far higher. Thus, from issues of sheer scale, the fraud requires careful attention.*
 
