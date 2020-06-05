@@ -133,7 +133,7 @@ Could some of this conjecture be false? Yes, and Muddy Waters might have some in
 
 Yet one is reasonably troubled by the ethics of Muddy Waters’ short selling activism. Indeed, they are incentivized to expose fraud, which is good. But they are also incentivized to let a fraud go on for as long as possible, to allow the stock price to climb as high as possible, before pulling out the rug. Do they have some sort of moral obligation to warn investors at the first sign of trouble? Perhaps they think that any investor foolish enough to invest money in China gets what he or she deserves.
 
-*Conclusion of Part I*
+*Conclusion *
 
 There is compelling enough evidence that Charles Zhengyao Lu and his associates, not the COO, are principally responsible for fabricating numbers and stealing an enormous amount of money from foreign investors out of Luckin Coffee. And, if that is true, then it is at least a possibility, which needs examination, that the executives were the ones who leaked details of the fraud and had it released, after they had raised additional capital so that they could short the stock. Considering the astonishing, meteoric rise of Luckin, and the amount of money in play (billions), is it possible that Charles Lu and his associates made substantial contributions to certain CCP officials every step of the way, allowing them to get off scot free?
 
