@@ -19,7 +19,7 @@ We originally wrote this post on Luckin Coffee over a month ago on April 27th, 2
 
 Shockingly, it has also spurred action in Washington, with the Senate [passing](https://www.marketwatch.com/story/senate-could-vote-on-bill-that-could-delist-chinese-companies-from-us-stock-exchanges-2020-05-19) a bill that could potentially delist every Chinese company unless the Chinese Communist Party releases its iron grip on information and allows the PCAOB to inspect its audit firms.
 
-The Senate bill, if signed into law, would be a serious escalation in the ongoing dispute between the U.S. and the Chinese Communist Party. We are going to closely examine potential problems in Sino-American business relations in a later series.  But to understand why a fraud at a Chinese coffee company would spark an international conflict, read our original analysis… 
+The Senate bill, if signed into law, would be a serious escalation in the ongoing dispute between the U.S. and the Chinese Communist Party. We are going to closely examine potential problems in Sino-American business relations in a series of in-depth posts.  But to understand why a fraud at a Chinese coffee company has sparked an international conflict, read our original analysis… 
 
 **The Fraud at Luckin**
 
