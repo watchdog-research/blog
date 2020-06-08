@@ -16,7 +16,7 @@ edited: john_cheffers
 
 *We originally published this report in February 1, 2018 to FactSet. We are now republishing it on our blog since it was referenced and quoted in a securities lawsuit against Symantec, which has since changed its name to [NortonLifeLock Inc](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000849399&owner=exclude&count=40).*
 
-Symantec Announced Earnings: On-time.
+**Symantec Announced Earnings: On-time.**
 
 For the last three quarters Symantec has been posting non-timely filings with the SEC. On January 31, 2019, as planned, they announced their earnings. We expect they are now on-schedule to make regular SEC filings. And that’s a good thing!
 
