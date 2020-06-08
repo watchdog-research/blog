@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 03 Jun 2020 10:23:00 -0400</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2020 10:33:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>Symantec FLASHBACK “What happened?”</title>
+            
+            <category>Independent Research</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;We originally published this report in February 1, 2019 to FactSet. We are now republishing it on our blog since it was referenced and quoted in a securities lawsuit against Symantec, which has since changed its name to &lt;a href=&quot;https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;CIK=0000849399&amp;amp;owner=exclude&amp;amp;count=40&quot;&gt;NortonLifeLock Inc&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2020-06-08T10:33:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/symantec-flashback-what-happened/</link><enclosure url="https://blog.watchdogresearch.com/uploads/symantec.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/symantec-flashback-what-happened/</guid>
+        </item>
         
         <item>
             <title>Under Armor Goodwill Impairment Due to Coronavirus or Preexisting Conditions?</title><author>John Cheffers</author>
@@ -57,18 +69,6 @@
 </description>
             <pubDate>2020-05-22T12:44:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/america-runs-from-luckin-i/</link><enclosure url="https://blog.watchdogresearch.com/uploads/America%20Runs%20from%20Luckin-%20I.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/america-runs-from-luckin-i/</guid>
-        </item>
-        
-        <item>
-            <title>We Few, We Happy Few, We Late Filers</title><author>John Cheffers</author>
-            
-            <category>Coronavirus</category>
-            
-
-            <description>&lt;p&gt;&lt;em&gt;In this post we look at the large accelerated filers who have not filed their 10-Qs yet due to the coronavirus. These companies are outliers, with only 27 active filers delaying quarterly reports out of a population of nearly 600. We have already expressed &lt;a href=&quot;https://blog.watchdogresearch.com/posts/what-can-we-learn-from-late-quarterly-filings-during-the-coronavirus/&quot;&gt;concerns &lt;/a&gt;about the SEC allowing companies to be less transparent during such a critical time, and these concerns were not allayed by our research for this post. We will look at some broader trends and highlight a few egregious examples.&lt;/em&gt;&lt;/p&gt;
-</description>
-            <pubDate>2020-05-19T13:01:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/we-few-we-happy-few-late-filers/</link><enclosure url="https://blog.watchdogresearch.com/uploads/We%20Few.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/we-few-we-happy-few-late-filers/</guid>
         </item>
         
 
