@@ -10,8 +10,8 @@ tags:
 - Goodwill
 - Lawsuits
 - Revenue Recognition
-author: watchdog_staff
-edited: john_cheffers
+author: 
+edited: 
 ---
 
 *We originally published this report in February 1, 2018 to FactSet. We are now republishing it on our blog since it was referenced and quoted in a securities lawsuit against Symantec, which has since changed its name to [NortonLifeLock Inc](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000849399&owner=exclude&count=40).*
@@ -65,3 +65,9 @@ Consider this: Symantec disclosed one recent $29 million impairment to its Prope
 In summary, Symantec’s valuation and reputation took a massive hit on May 10, 2018 and it has yet to recover.
 
 It likely will NOT recover and management will not restore its market value until they step-up and take full responsibility for the revenue recognition fraud at the company. That will mean disclosing ineffective financial controls and building a culture that demands rigor and the highest ethics and reliability for their financial controls and reporting.
+
+**Contact us:**
+
+Retail Investors get free access to our Watchdog Reports. Institutional Investors and those interested in our Gray Swan Event Factor can [subscribe](https://www.watchdogresearch.com/pricing), or call our subscription manager, at 239-240-9284.
+
+If you have questions about this blog, send the author of this piece John Cheffers, our Director of Research, an email at [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com). For press inquiries or general questions about Watchdog Research, Inc., please contact our President, Brian Lawe at [blawe@watchdogresearch.com](mailto:blawe@watchdogresearch.com).
