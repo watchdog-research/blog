@@ -14,7 +14,7 @@ author:
 edited: 
 ---
 
-*We originally published this report in February 1, 2018 to FactSet. We are now republishing it on our blog since it was referenced and quoted in a securities lawsuit against Symantec, which has since changed its name to [NortonLifeLock Inc](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000849399&owner=exclude&count=40).*
+*We originally published this report in February 1, 2019 to FactSet. We are now republishing it on our blog since it was referenced and quoted in a securities lawsuit against Symantec, which has since changed its name to [NortonLifeLock Inc](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000849399&owner=exclude&count=40).*
 
 **Symantec Announced Earnings: On-time.**
 
