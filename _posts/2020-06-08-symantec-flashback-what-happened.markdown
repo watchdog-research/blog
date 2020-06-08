@@ -5,6 +5,7 @@ categories:
 - Independent Research
 - Litigation
 - Revenue Recognition
+- featured
 tags:
 - Symantec
 - Goodwill
