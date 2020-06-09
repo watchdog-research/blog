@@ -1,6 +1,7 @@
 ---
 title: Symantec Complaint Cites Watchdog Research’s Analysis
 date: 2020-06-09 14:20:00 -04:00
+published: false
 categories:
 - featured
 - Litigation
@@ -24,7 +25,7 @@ This non-GAAP accounting allegedly allowed Symantec’s management to pull out s
 
 If these accusations are true, then this is a great example of how performance bonuses can create a conflict of interest for management. The same people responsible for accurately and truthfully reporting the financial condition of the company also stand to personally benefit the most from potential manipulation of the numbers.
 
-Using deferred revenue is only one way that executives can attempt to manipulate results and enrich themselves. In another post we discussed how UA may have been manipulating revenue by “[channel stuffing](https://blog.watchdogresearch.com/posts/under-armour-part-ii-cam-raises-the-specter-of-channel-stuffing/).” A recent [study](https://news.terry.uga.edu/articles/ceos_are_turning_a_negative_into_a_payout_study_finds/) also indicated that some executives have been timing the release of bad news so that their company stock prices are artificially lowered when they receive their stock options.
+Using deferred revenue is only one potential path that executives can take to manipulate results and enrich themselves. In another post we discussed how UA may have been manipulating revenue by “[channel stuffing](https://blog.watchdogresearch.com/posts/under-armour-part-ii-cam-raises-the-specter-of-channel-stuffing/).” A recent [study](https://news.terry.uga.edu/articles/ceos_are_turning_a_negative_into_a_payout_study_finds/) also indicated that some executives have been timing the release of bad news so that their company stock prices are artificially lowered when they receive their stock options.
 
 Management’s conflict of interest reinforces the crucial role that independent board members play as watchdogs for the company. It is crucial that board members are truly independent from management, by both the letter and spirit of the law, so that they can deter and discover any manipulation in financial reporting.
 
