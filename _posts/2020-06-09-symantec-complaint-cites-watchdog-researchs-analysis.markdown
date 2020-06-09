@@ -1,7 +1,6 @@
 ---
 title: Symantec Complaint Cites Watchdog Research’s Analysis
 date: 2020-06-09 14:20:00 -04:00
-published: false
 categories:
 - featured
 - Litigation
@@ -9,7 +8,6 @@ tags:
 - Symantec
 - Litigation
 - Revenue Recognition
-image: "/uploads/symantec_manipulation.jpg"
 ---
 
 February 2018, we published a [report](https://blog.watchdogresearch.com/posts/symantec-flashback-what-happened/) calling out the management of Symantec for a perceived lack of candor in the way they handled a whistleblower report of accounting irregularities and a subsequent SEC investigation. In particular, we honed-in on Symantec’s failure to disclose any material weakness in their internal controls and their dubious claim that a $12 million adjustment in revenue in 2018 was immaterial.
