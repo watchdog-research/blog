@@ -1,6 +1,13 @@
 ---
 title: Symantec Complaint Cites Watchdog Research’s Analysis
 date: 2020-06-09 14:20:00 -04:00
+categories:
+- featured
+- Litigation
+tags:
+- Symantec
+- Litigation
+- Revenue Recognition
 ---
 
 February 2018, we published a [report](https://blog.watchdogresearch.com/posts/symantec-flashback-what-happened/) calling out the management of Symantec for a perceived lack of candor in the way they handled a whistleblower report of accounting irregularities and a subsequent SEC investigation. In particular, we honed-in on Symantec’s failure to disclose any material weakness in their internal controls and their dubious claim that a $12 million adjustment in revenue in 2018 was immaterial.
@@ -23,7 +30,7 @@ Management’s conflict of interest reinforces the crucial role that independent
 
 *On the Litigation*
 
-When we wrote our analysis of Symantec, we wanted to promote transparency and responsibility for investors, not to aide in litigation per se. But plaintiff’s attorneys can also serve as watchdogs (with plenty of bite!), to protect the interests of investors and we consider it a compliment that our reports and independent analysis are being cited in securities litigation.
+When we wrote our analysis of Symantec, we wanted to promote transparency and responsibility for investors, not to aide in litigation per se. But plaintiff’s attorneys can also serve as watchdogs to protect the interests of investors and we consider it a compliment that our reports and independent analysis are being cited in securities litigation.
 
 Our Gray Swan Event Factor and Watchdog Reports are tools that allow investors to understand the inherent risks in their investments and potentially hold management accountable. It is our hope that if management is tempted to massage or manipulate the numbers for their own gain, that they will be deterred by potential scrutiny from independent board members, auditors, activist shareholders, regulators, plaintiff’s attorneys, and Watchdog Research. This accountability for management is crucial to protect the financial health of our companies and is in the best interests of all shareholders.
 
