@@ -10,7 +10,7 @@ tags:
 - Revenue Recognition
 ---
 
-February 2018, we published a [report](https://blog.watchdogresearch.com/posts/symantec-flashback-what-happened/) calling out the management of Symantec for a perceived lack of candor in the way they handled a whistleblower report of accounting irregularities and a subsequent SEC investigation. In particular, we honed-in on Symantec’s failure to disclose any material weakness in their internal controls and their dubious claim that a $12 million adjustment in revenue in 2018 was immaterial.
+In February 2018, we published a [report](https://blog.watchdogresearch.com/posts/symantec-flashback-what-happened/) calling out the management of Symantec for a perceived lack of candor in the way they handled a whistleblower report of accounting irregularities and a subsequent SEC investigation. In particular, we honed-in on Symantec’s failure to disclose any material weakness in their internal controls and their dubious claim that a $12 million adjustment in revenue in 2018 was immaterial.
 
 Our analysis was quoted in a securities lawsuit, *Felix v. Symantec Corp.* (N. D. Cal.) Here is the entire quote as it appears in the complaint.
 
