@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 08 Jun 2020 10:33:00 -0400</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2020 14:20:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>Symantec Complaint Cites Watchdog Research’s Analysis</title>
+            
+            <category>featured</category>
+            
+
+            <description>&lt;p&gt;February 2018, we published a &lt;a href=&quot;https://blog.watchdogresearch.com/posts/symantec-flashback-what-happened/&quot;&gt;report&lt;/a&gt; calling out the management of Symantec for a perceived lack of candor in the way they handled a whistleblower report of accounting irregularities and a subsequent SEC investigation. In particular, we honed-in on Symantec’s failure to disclose any material weakness in their internal controls and their dubious claim that a $12 million adjustment in revenue in 2018 was immaterial.&lt;/p&gt;
+</description>
+            <pubDate>2020-06-09T14:20:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/symantec-complaint-cites-watchdog-researchs-analysis/</link><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/symantec-complaint-cites-watchdog-researchs-analysis/</guid>
+        </item>
         
         <item>
             <title>Symantec FLASHBACK “What happened?”</title>
@@ -57,18 +69,6 @@
 </description>
             <pubDate>2020-05-22T15:33:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/new-research-gray-swan-event-factor-is-predictive-of-stock-return/</link><enclosure url="https://blog.watchdogresearch.com/uploads/New%20Research.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/new-research-gray-swan-event-factor-is-predictive-of-stock-return/</guid>
-        </item>
-        
-        <item>
-            <title>America Runs from Luckin: The Fraud</title>
-            
-            <category>Fraud</category>
-            
-
-            <description>&lt;p&gt;We originally wrote this post on Luckin Coffee over a month ago on April 27th, 2020.  Since then the story has significantly developed. Since we wrote this piece, Luckin has changed its story and &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920059927/a20-19256_1ex99d1.htm&quot;&gt;admitted&lt;/a&gt; that its CEO was involved in the massive fraud and &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920052907/a20-18059_16k.htm&quot;&gt;delayed&lt;/a&gt; releasing its annual report.  The WSJ has also written a devastating &lt;a href=&quot;https://www.wsj.com/articles/behind-the-fall-of-chinas-luckin-coffee-a-network-of-fake-buyers-and-a-fictitious-employee-11590682336&quot;&gt;piece&lt;/a&gt; that confirmed our suspicions that many of the expenses were fabricated and that Charles Lu, the chairman, sat at the center of a complicated web of related party transactions that began before the IPO. Luckin has also been &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1767582/000110465920063497/a20-20057_1ex99d1.htm&quot;&gt;delisted&lt;/a&gt; from the Nasdaq, hopefully for good.&lt;/p&gt;
-</description>
-            <pubDate>2020-05-22T12:44:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/america-runs-from-luckin-i/</link><enclosure url="https://blog.watchdogresearch.com/uploads/America%20Runs%20from%20Luckin-%20I.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/america-runs-from-luckin-i/</guid>
         </item>
         
 
