@@ -26,3 +26,9 @@ Management’s conflict of interest reinforces the crucial role that independent
 When we wrote our analysis of Symantec, we wanted to promote transparency and responsibility for investors, not to aide in litigation per se. But plaintiff’s attorneys can also serve as watchdogs (with plenty of bite!), to protect the interests of investors and we consider it a compliment that our reports and independent analysis are being cited in securities litigation.
 
 Our Gray Swan Event Factor and Watchdog Reports are tools that allow investors to understand the inherent risks in their investments and potentially hold management accountable. It is our hope that if management is tempted to massage or manipulate the numbers for their own gain, that they will be deterred by potential scrutiny from independent board members, auditors, activist shareholders, regulators, plaintiff’s attorneys, and Watchdog Research. This accountability for management is crucial to protect the financial health of our companies and is in the best interests of all shareholders.
+
+**Contact us:**
+
+Retail Investors get free access to our Watchdog Reports. Institutional Investors and those interested in our Gray Swan Event Factor can [subscribe](https://www.watchdogresearch.com/pricing), or call our subscription manager, at 239-240-9284.
+
+If you have questions about this blog send John Cheffers, our Director of Research, an email at [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com). For press inquiries or general questions about Watchdog Research, Inc., please contact our President, Brian Lawe at [blawe@watchdogresearch.com](mailto:blawe@watchdogresearch.com).
