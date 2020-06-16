@@ -1,6 +1,15 @@
 ---
 title: 'America Runs From Luckin: Fraud Enabled by Slack Standards'
 date: 2020-06-16 15:41:00 -04:00
+categories:
+- featured
+- Standards
+tags:
+- Luckin Coffee
+- China
+- Sarbanes Oxley
+- EGC
+author: john_cheffers
 ---
 
 Luckin Coffee engaged in one of the most brazen frauds in history. It is easy to blame the fraud on the business environment in China fostered by the CCP. But this fraud could not have occurred if not for systemic weaknesses in the Western capital markets.
