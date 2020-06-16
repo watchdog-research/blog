@@ -1,5 +1,5 @@
 ---
-title: 'America Runs From Luckin: Clash Over PCAOB'
+title: 'America Runs From Luckin: Clash Over the PCAOB'
 date: 2020-06-15 16:31:00 -04:00
 categories:
 - Legislation
