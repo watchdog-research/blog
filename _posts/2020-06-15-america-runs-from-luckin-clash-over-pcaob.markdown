@@ -54,7 +54,7 @@ The one small step that SEC and the PCAOB took after the Luckin story broke was 
 
 That changed in May, when the Senate *unanimously* passed a bill that would delist Chinese companies unless the CCP permits the PCAOB to oversee their auditors. Frankly, we were shocked when this bill was passed because it takes real steps to address a real problem.
 
-It seemed this bill passed because of the confluence of two stories: first, the emergence of the coronavirus from Wuhan, along with credible reports that the CCP’s [lies](https://nypost.com/2020/05/06/finally-the-world-is-catching-on-to-chinas-coronavirus-lies/) had made the impact of the virus worse, and second, the disclosure of a massive fraud at Luckin. Public opinion turned decisively [against](https://www.pewresearch.org/global/2020/04/21/u-s-views-of-china-increasingly-negative-amid-coronavirus-outbreak/) China, creating the perfect environment for this bill to pass.
+It seemed this bill passed because of the confluence of two stories: first, the emergence of the coronavirus from Wuhan coupled with credible reports that the CCP’s [lies](https://nypost.com/2020/05/06/finally-the-world-is-catching-on-to-chinas-coronavirus-lies/) had made the impact of the virus worse, and second, the disclosure of a massive fraud at Luckin. Public opinion turned decisively [against](https://www.pewresearch.org/global/2020/04/21/u-s-views-of-china-increasingly-negative-amid-coronavirus-outbreak/) China, creating the perfect environment for this bill to pass.
 
 It is unclear if this ostensibly bipartisan bill will be introduced and passed in the House of Representatives. The moment has passed. Reports on riots have finally displaced the unceasing coverage of the coronavirus which had monopolized the airwaves for months. The CCP looks as if it will arrest Charles Lu, the chairman and founder of Luckin, since people were not satisfied with the COO as a scapegoat (nor with the CEO who was served up a month later).
 
@@ -66,7 +66,7 @@ This bill may be helpful for investors, but it omits a crucially important issue
 
 Concerns about the Chinese operations of multinational companies are warranted, and the senate bill does nothing to address that issue. However, this problem may already have an informal albeit makeshift solution. Even though the Chinese audit firms are supposed to do everything locally, it is likely that they [consult](http://retheauditors.com/2012/07/09/what-the-sec-and-pcaob-fail-to-acknowledge-about-chinese-fraud/) with their U.S. counterparts when doing a multinational audit. This probably allows the Big Four to exercise some influence over their foreign affiliates in China, even if the official story is that no “sensitive” work-papers ever cross borders.
 
-**Conclusion**
+***Conclusion***
 
 Shockingly, the Senate has passed a bill that could actually protect investors. However, there is undoubtedly pressure from pro-China lobbyists to scrap the essence of the bill in exchange for some token victory. This victory could be the arrest of Charles Lu or perhaps some “corrupt” CCP officials who supported him.
 
