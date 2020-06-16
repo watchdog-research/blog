@@ -46,7 +46,7 @@ Unsurprisingly, those vague promises never amounted to anything. Recently, with 
 
 So, for several years Chinese audit firms have been permitted to register with the PCAOB, even though they are not subject to inspections. This has worked well for Chinese companies, who get a premium price for listing on U.S. exchanges, and it has worked well for Chinese audit firms who register with the PCAOB since they also can charge a [premium](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111973). Whenever a fraud is revealed, individual investors are left holding the bag.
 
-Without leadership from Washington on this issue, nothing could change. There had been some talk over the years, but it had not yielded any fruit. For example, Sen. Marco Rubio [touted](https://www.wsj.com/articles/you-cant-trust-a-chinese-audit-11559687739) the EQUITABLE Act last year, a bill he introduced that would have potentially delisted Chinese companies if their auditors were not subject to inspection. But the bill languished. 
+Without leadership from Washington on this issue, nothing could change. There had been some talk over the years, but it had not yielded any fruit. For example, Sen. Marco Rubio [touted](https://www.wsj.com/articles/you-cant-trust-a-chinese-audit-11559687739) the EQUITABLE Act last year, a bill he introduced that would have potentially delisted Chinese companies if their auditors were not subject to inspection. But the bill languished.
 
 The one small step that SEC and the PCAOB took after the Luckin story broke was to [require](https://www.reuters.com/article/us-kingsoft-cloud-ipo/kingsoft-sets-terms-for-u-s-listing-first-major-ipo-since-coronavirus-crisis-idUSKBN22G2JB) companies in China to disclose the fact that their auditors are not subject to inspections by the PCAOB in all relevant financial statements.  Buyer Beware.
 
@@ -73,3 +73,9 @@ Shockingly, the Senate has passed a bill that could actually protect investors. 
 Even if the bill passes, it may not have the effect intended. Chinese companies incorporated in the U.S. or in Tax Havens and only attached to the Chinese operations through contractual agreements (most “Chinese” companies already have one of these “VIE” arrangements) may be permitted to stay on the exchanges without any PCAOB oversight of their auditors.
 
 If the U.S. wants to really ensure that Chinese companies have proper oversight, Washington must continue to lead and show resolve. However, the stories that drove the passage of this bill are already fading from memory and Washington is a place where resolve is in short supply…
+
+**Contact us:**
+
+Retail Investors get free access to our Watchdog Reports. Institutional Investors and those interested in our Gray Swan Event Factor can [subscribe](https://www.watchdogresearch.com/pricing), or call our subscription manager, at 239-240-9284.
+
+If you have questions about this blog send John Cheffers, our Director of Research, an email at [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com). For press inquiries or general questions about Watchdog Research, Inc., please contact our President, Brian Lawe at [blawe@watchdogresearch.com](mailto:blawe@watchdogresearch.com).
