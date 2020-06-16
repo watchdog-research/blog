@@ -20,7 +20,7 @@ Luckin’s massive fraud hints at systemic problems in the Chinese markets. At t
 
 Consequently, this story has reignited a dormant dispute between China and the U.S. about the regulatory oversight of Chinese auditors. Even though some Chinese audit firms in China are registered with the PCAOB, including affiliates of the Big 4, the CCP has not permitted the PCAOB to conduct investigations of any of its auditors. We consider this so significant that our reports assign a [red flag](https://blog.watchdogresearch.com/posts/featuring-a-new-sec-oversight-flag-in-our-watchdog-reports/) to any company whose auditor is not subject to meaningful supervision by the PCAOB.
 
-In the aftermath of the fraud at Luckin, the Senate unanimously passed a bill that would delist any companies from U.S. exchanges whose auditors were not subject to inspection by the PCAOB. As a practical matter, this could result in the delisting of Chinese companies worth over a trillion dollars and trigger a big kerfuffle in U.S.-Sino relations.
+In the aftermath of the fraud at Luckin, the Senate unanimously passed a [bill ](https://www.marketwatch.com/story/bill-that-could-delist-chinese-companies-from-us-stock-exchanges-to-see-swift-passage-in-house-analyst-says-2020-05-21)that would delist any companies from U.S. exchanges whose auditors were not subject to inspection by the PCAOB. As a practical matter, this could result in the delisting of Chinese companies worth over a trillion dollars and trigger a big kerfuffle in U.S.-Sino relations.
 
 ***China’s Longstanding Refusal to Allow Oversight of Their Auditors***
 
