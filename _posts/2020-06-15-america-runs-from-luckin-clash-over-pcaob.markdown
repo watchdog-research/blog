@@ -11,6 +11,7 @@ tags:
 - PCAOB
 - Legislation
 author: john_cheffers
+image: "/uploads/Watchdog_America%20Runs%20From%20Luckin_Clash%20Over%20PCAOB.png"
 ---
 
 In April, just as the America was in the grip of the coronavirus originating from Wuhan, Luckin Coffee initially reported that it had discovered a fraud by the COO fabricating over half of the company’s revenue. We wrote an in-depth [report](https://blog.watchdogresearch.com/posts/america-runs-from-luckin-i/) arguing the fraud was far more pervasive. Since then, Luckin has been [delisted](https://www.sec.gov/Archives/edgar/data/1767582/000110465920063497/a20-20057_1ex99d1.htm), the WSJ wrote an [exposé](https://www.wsj.com/articles/behind-the-fall-of-chinas-luckin-coffee-a-network-of-fake-buyers-and-a-fictitious-employee-11590682336) detailing far more extensive fraud than originally reported, the CEO was also [implicated](https://www.sec.gov/Archives/edgar/data/1767582/000110465920059927/a20-19256_1ex99d1.htm) by Luckin, and now Luckin’s chairman and founder now is [reportedly](https://www.fool.com/investing/2020/06/08/why-luckin-coffee-stock-dropped-today.aspx) facing charges.
