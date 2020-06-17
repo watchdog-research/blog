@@ -3,7 +3,7 @@ title: 'America Runs From Luckin: Fraud Enabled by Slack Standards'
 date: 2020-06-16 15:41:00 -04:00
 categories:
 - featured
-- Standards
+- Auditor Opinions
 tags:
 - Luckin Coffee
 - China
