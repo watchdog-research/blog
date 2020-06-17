@@ -10,6 +10,7 @@ tags:
 - Sarbanes Oxley
 - EGC
 author: john_cheffers
+image: "/uploads/fraud_luckin_standard.jpg"
 ---
 
 Luckin Coffee engaged in one of the most brazen frauds in history. It is easy to blame the fraud on the business environment in China fostered by the CCP. But this fraud could not have occurred if not for systemic weaknesses in the Western capital markets.
