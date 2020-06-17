@@ -35,7 +35,7 @@ Management has an inherent interest in creating effective internal controls over
 
 The cost for a SOX 404(b) opinion varies, but it can [exceed](https://www.schgroup.com/resource/blog-post/sarbanes-oxley-404b-compliance-a-refresher-of-the-initial-questions-you-should-be-asking/) $2 million a year, especially at the early stages of implementation. The high cost is due to the independent auditor testing and evaluating the internal controls on financial reporting throughout the year, a time consuming and expensive process (although likely much lower in a labor market like China). This extensive year-round testing makes concealing a large-scale fraud far more difficult for management.  Luckin’s auditor Ernst & Young Hua Ming LLP [uncoverd ](https://thedig.substack.com/p/luckin-coffee-anatomy-of-an-auditor)the fraud, and would have probably have detected the inflated revenues and costs even earlier if it had been testing the internal controls throughout the year.   However, Luckin was classified as an EGC, and therefore, EYHM did not offer an [opinion](https://www.sec.gov/Archives/edgar/data/1767582/000104746919003174/a2238747z424b4.htm) on their internal controls and did not do the requisite testing:
 
-*"**The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting.** As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over financial reporting.** Accordingly, we express no such opinion.**"*
+*"**The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting.** As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over financial reporting.*\* Accordingly, we express no such opinion.\**"*
 
 ***The SOX 404(b) Attestation Has a Real Impact on the Quality of Internal Controls***
 
@@ -60,3 +60,9 @@ Some people have been quick to blame the auditors Ernst & Young Hua Ming LLP for
 EGCs essentially have no oversight until the auditor arrives to conduct the year-end audit. **That means the current bill passed by the Senate** that would delist companies whose auditors are not subject to inspection by the [PCAOB](https://blog.watchdogresearch.com/posts/america-runs-from-luckin-clash-over-pcaob/), **would not have stopped the fraud at Luckin**, **even if the CCP acquiesced to inspections** by the regulator. As it stands now, foreign companies in emerging markets that are considered EGCs have a one-year period where they can fabricate numbers before the auditors come to check their books.
 
 Public policy makers should be concerned that other foreign companies like Luckin may attempt to use EGC status to run short term scams on the capital markets.  It would be a good step to insist that every company from an emerging market meet the SOX 404(b) requirement before listing.
+
+**Contact us:**
+
+Retail Investors get free access to our Watchdog Reports. Institutional Investors and those interested in our Gray Swan Event Factor can [subscribe](https://www.watchdogresearch.com/pricing), or call our subscription manager, at 239-240-9284.
+
+If you have questions about this blog send John Cheffers, our Director of Research, an email at [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com). For press inquiries or general questions about Watchdog Research, Inc., please contact our President, Brian Lawe at [blawe@watchdogresearch.com](mailto:blawe@watchdogresearch.com).
