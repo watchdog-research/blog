@@ -9,6 +9,7 @@ tags:
 - Corporate Governance
 - Loopholes
 author: john_cheffers
+image: "/uploads/luckin_management.jpg"
 ---
 
 Luckin Coffee’s  massive fraud was discovered by its auditors, EY’s Chinese affiliate, Ernst & Young Hua Ming LLP. The affiliate  probably would have discovered the fraud earlier if not for Luckin's status as an [Emerging Growth Company](https://blog.watchdogresearch.com/posts/america-runs-from-luckin-fraud-enabled-by-slack-standards/), but in this post we turn our attention to Luckin's board of directors, who ought to serve as the first line of defense against fraud.
