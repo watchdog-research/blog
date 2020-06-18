@@ -47,3 +47,9 @@ It is not uncommon for former auditors at the Big 4 to parlay their experience i
 ***Conclusion***
 
 It is more difficult for the exchanges and regulators to effectively monitor foreign based firms for a host of reasons. That makes it critical for foreign firms to have effective independent directors to act as watchdogs and prevent fraud. However, the current rules permit these foreign firms more latitude than U.S. firms. If regulators want to make meaningful steps to bolster protections for investors in the wake of the Luckin fraud, then this would be a great place to start.
+
+**Contact us:**
+
+Retail Investors get free access to our Watchdog Reports. Institutional Investors and those interested in our Gray Swan Event Factor can [subscribe](https://www.watchdogresearch.com/pricing), or call our subscription manager, at 239-240-9284.
+
+If you have questions about this blog send John Cheffers, our Director of Research, an email at [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com). For press inquiries or general questions about Watchdog Research, Inc., please contact our President, Brian Lawe at [blawe@watchdogresearch.com](mailto:blawe@watchdogresearch.com).
