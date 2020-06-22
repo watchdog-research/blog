@@ -1,7 +1,6 @@
 ---
 title: 'America Runs From Luckin: Insider Trading and Stock Pledging'
 date: 2020-06-22 09:55:00 -04:00
-published: false
 categories:
 - Insider Trading
 - featured
