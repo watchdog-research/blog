@@ -11,6 +11,7 @@ tags:
 - Luckin Coffee
 - Congress
 author: john_cheffers
+image: "/uploads/luckin_stock_drop.png"
 ---
 
 *You might think that foreign companies would be held to the same standards as U.S. companies, but that is not true, not at all.*
