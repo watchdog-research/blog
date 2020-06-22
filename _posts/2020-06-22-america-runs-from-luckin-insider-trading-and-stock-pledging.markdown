@@ -56,3 +56,9 @@ Insider stock sales and insider stock pledges, we juxtapose these issues to rais
 It is completely mystifying why foreign companies have less rigorous insider trading disclosure requirements than U.S. firms. With advances in technology, there is no reason why a company located in Columbia should be treated differently than a company in Colorado.
 
 Additionally, policymakers should reconsider how stock pledges are treated under the current law. If an insider takes on a large loan and pledges a large amount of their stock as collateral, shouldn’t the other investors know right away?
+
+**Contact us:**
+
+Retail Investors get free access to our Watchdog Reports. Institutional Investors and those interested in our Gray Swan Event Factor can [subscribe](https://www.watchdogresearch.com/pricing), or call our subscription manager, at 239-240-9284.
+
+If you have questions about this blog send John Cheffers, our Director of Research, an email at [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com). For press inquiries or general questions about Watchdog Research, Inc., please contact our President, Brian Lawe at [blawe@watchdogresearch.com](mailto:blawe@watchdogresearch.com).
