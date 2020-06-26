@@ -8,6 +8,7 @@ tags:
 - Underwriters
 - Luckin Coffee
 - Due Dilligence
+author: john_cheffers
 ---
 
 Before a company offers its stock to the public in an IPO, it is supposed to undergo an [extensive](https://www.gao.gov/assets/330/321612.pdf) vetting process. Part of this process is called underwriting, and it involves having investment banks act as intermediaries between the company and the public. The investment bankers conduct a substantial factual investigation of the company and its prospectus so that it can accurately price the stock.
@@ -20,13 +21,13 @@ You might think that the revelation of this fraud would spell bad news for the c
 
 ***Effectively Immune from Private Suit?***
 
-Underwriters received a boon from the Supreme Court in *Central Bank v. First Interstate, *511, U.S. 164 (1994), when it decided that civil liability did not extend to “aiders and abettors” of fraud in the sales of securities (ending decades of tradition to the contrary). This decision was reinforced by *Stoneridge Investment Partners v. Scientific-Atlanta*, 552 U.S. 148 (2008)* *by holding that third parties are not liable for participating in corporate wrongdoing if they did not directly mislead investors.
+Underwriters received a boon from the Supreme Court in \*Central Bank v. First Interstate, *511, U.S. 164 (1994), when it decided that civil liability did not extend to “aiders and abettors” of fraud in the sales of securities (ending decades of tradition to the contrary). This decision was reinforced by Stoneridge Investment Partners v. Scientific-Atlanta*, 552 U.S. 148 (2008) \*by holding that third parties are not liable for participating in corporate wrongdoing if they did not directly mislead investors.
 
 These Supreme Court decisions have provided underwriters effective immunity from many securities lawsuits. This creates a moral hazard that encourages carelessness on the part of the underwriters because they do not bear the costs if their clients commit fraud.
 
 One of the most significant results from the *Central Bank* and *Stoneridge* was the result in *California Regents v. Merrill Lynch.* In that [suit](https://caselaw.findlaw.com/us-5th-circuit/1140930.html), the Enron shareholders sued Merrill Lynch for assisting Enron in cooking the books by disguising loans as purchases so that executives at Enron would hit certain benchmarks for their compensation. The 5th Circuit dismissed the suit because Merrill Lynch and the other investment banks did not have a duty to investors and had made no false statements *directly* to investors. The Supreme Court denied certiorari, thereby ensuring that Enron’s investors were left holding the bag.
 
-The Supreme Court went even further in *Janus Capital Group, Inc. v. First Derivative Traders, *564 U. S. 135 (2011) to hold that a party does not “make” a statement unless they have ultimate authority over that statement. This would appear to have created an airtight defense for underwriters and other potential aiders and abettors for securities fraud under rule 10b-5. These legal protections create troubling incentives that undermine the underwriter’s role as gatekeepers for the capital markets.
+The Supreme Court went even further in \*Janus Capital Group, Inc. v. First Derivative Traders, \*564 U. S. 135 (2011) to hold that a party does not “make” a statement unless they have ultimate authority over that statement. This would appear to have created an airtight defense for underwriters and other potential aiders and abettors for securities fraud under rule 10b-5. These legal protections create troubling incentives that undermine the underwriter’s role as gatekeepers for the capital markets.
 
 However, recently the water has been muddied. In *SEC v. Tambone*, 550 F. 3d 106 (1st Cir. 2008), the first circuit held that underwriters can be held responsible for making false statements in the prospectus by implication because their duty to investigate the company and verify the facts in the prospectus. In Lorenzo v. SEC, (2018), the Supreme Court contradicted earlier decisions by deciding that persons did not need to make false statements, so long as they participated in the fraud “scheme.” Some enterprising plaintiff’s attorney could attempt to bring a case under Section 10-b5 against the banking consortium by arguing either an implied misstatement of fact via *Tambone*, or “scheme” via *Lorenzo*, but the odds would be stacked against them.
 
@@ -53,3 +54,9 @@ The SEC has [declared](https://www.reuters.com/article/us-luckin-investigation/u
 The underwriters for Luckin’s stock will probably be sued because there is nowhere else for the defrauded investors to make a recovery. If there is a case, it will revolve around the idea of due diligence and we will see if substance triumphs over style in the analysis.
 
 But this may be a chance for something bigger. The Supreme Court could get a chance to walk back its [maligned](https://www.law.gwu.edu/sites/g/files/zaxdzs2351/f/downloads/Klock_Stoneridge.pdf) *Stonebridge* decision. Something must be done to change the incentives at play here for the big investment banks, because if the incentives don’t change, regular people will continue to pay the price.
+
+**Contact us:**
+
+Retail Investors get free access to our Watchdog Reports. Institutional Investors and those interested in our Gray Swan Event Factor can [subscribe](https://www.watchdogresearch.com/pricing), or call our subscription manager, at 239-240-9284.
+
+If you have questions about this blog send John Cheffers, our Director of Research, an email at [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com). For press inquiries or general questions about Watchdog Research, Inc., please contact our President, Brian Lawe at [blawe@watchdogresearch.com](mailto:blawe@watchdogresearch.com).
