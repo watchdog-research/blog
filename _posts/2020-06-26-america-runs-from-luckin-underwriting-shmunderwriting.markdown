@@ -22,7 +22,7 @@ You might think that the revelation of this fraud would spell bad news for the c
 
 ***Effectively Immune from Private Suit?***
 
-Underwriters received a boon from the Supreme Court in *Central Bank v. First Interstate, 511, U.S. 164 (1994)*, when it decided that civil liability did not extend to “aiders and abettors” of fraud in the sales of securities (ending decades of tradition to the contrary). This decision was reinforced by *Stoneridge Investment Partners v. Scientific-Atlanta*, 552 U.S. 148 (2008)* by holding that third parties are not liable for participating in corporate wrongdoing if they did not directly mislead investors.
+Underwriters received a boon from the Supreme Court in *Central Bank v. First Interstate, 511, U.S. 164 (1994)*, when it decided that civil liability did not extend to “aiders and abettors” of fraud in the sales of securities (ending decades of tradition to the contrary). This decision was reinforced by *Stoneridge Investment Partners v. Scientific-Atlanta, 552 U.S. 148 (2008)* by holding that third parties are not liable for participating in corporate wrongdoing if they did not directly mislead investors.
 
 These Supreme Court decisions have provided underwriters effective immunity from many securities lawsuits. This creates a moral hazard that encourages carelessness on the part of the underwriters because they do not bear the costs if their clients commit fraud.
 
