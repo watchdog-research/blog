@@ -9,6 +9,7 @@ tags:
 - Luckin Coffee
 - Due Dilligence
 author: john_cheffers
+image: "/uploads/luckin_bank_fraud.png"
 ---
 
 Before a company offers its stock to the public in an IPO, it is supposed to undergo an [extensive](https://www.gao.gov/assets/330/321612.pdf) vetting process. Part of this process is called underwriting, and it involves having investment banks act as intermediaries between the company and the public. The investment bankers conduct a substantial factual investigation of the company and its prospectus so that it can accurately price the stock.
