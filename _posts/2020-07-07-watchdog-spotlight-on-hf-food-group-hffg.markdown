@@ -10,6 +10,7 @@ tags:
 - Internal Controls
 - Impairment
 author: john_cheffers
+image: "/uploads/Chinese%20Food.jpg"
 ---
 
 *In March HFFG was accused of siphoning off investors money to buy a stable of super-cars, but their problems started well before those allegations*.
