@@ -12,7 +12,7 @@ tags:
 author: john_cheffers
 ---
 
-*In March HFFG was accused of siphoning off investors money to buy a stable of super-cars, but their problems started well before those allegations*. 
+*In March HFFG was accused of siphoning off investors money to buy a stable of super-cars, but their problems started well before those allegations*.
 
 HFFG is a food distributor that primarily serves Asian restaurants in the Southeast, Pacific, and Mountain West regions of the U.S. HFFG currently has the dubious distinction of having our highest Gray Swan Event Factor (GSEF) score by far at 17.43%.
 
@@ -32,7 +32,9 @@ According to our statistical analysis, HFFG has a nearly 60% chance of a filing 
 
 *“The material weakness related to the **deficiency in the ability of our in-house accounting professionals to generate financial statements in the form required by applicable SEC requirements**. Control deficiencies are related to the lack of proper documentation to evidence the review of customer orders and purchase orders, and lack of proper documentation to evidence customers’ acknowledgement of transaction amounts and account balances*.”
 
-In the annual report for 2019, the HFFG admitted that little progress had been made, “***the Company** **does not have in-house accounting personnel with sufficient knowledge of US GAAP and SEC reporting experiences***.” We find this strange, why haven’t they hired someone over the past year with the ability to follow GAAP? Is it so difficult to find an experienced and qualified person to lead the in-house accounting staff?
+In the annual report for 2019, the HFFG admitted that little progress had been made, “***the Company** **does not have in-house accounting personnel with sufficient knowledge of US GAAP and SEC reporting experiences***.” 
+
+We find this strange.  Why haven’t they hired someone over the past year with the ability to follow GAAP? Is it so difficult to find an experienced and qualified person to lead the in-house accounting staff?
 
 Also note that because HFFG is classified as an Emerging Growth Company, its auditor does not offer an opinion as to the effectiveness of its internal controls. But considering that HFFG’s auditors do not understand how to apply Generally Accepted Accounting Principles, we can venture a guess as to what their auditor’s opinion would be if they gave one. HFFG’s problems are a great example of how the lack of the SOX 404(b) requirement lowers the quality of internal controls, which we have written about [before](https://blog.watchdogresearch.com/posts/america-runs-from-luckin-fraud-enabled-by-slack-standards/).
 
@@ -50,7 +52,7 @@ HFFG’s material weaknesses also related to the review of their purchase orders
 
 HFFG also has a high number of related party transactions. HFFG disclosed that it made sales of over $19 million and made purchases of over $40 million in related party transactions in [2019](https://www.sec.gov/Archives/edgar/data/1680873/000143774920005276/fooh20191231_10k.htm) alone. HFFG also recorded many other types of related party transactions, including advances both to related suppliers and from related customers, a $55 million term loan guarantee, and related lease transactions.
 
-Additionally, the company loaned over $8 million entities owned by the Chairman- and co-CEO Zhou Min Ni or his son; Ni initially guaranteed the loans before he “purchased” them with over 632,746 shares. But Ni also had to put an additional 208,806 shares into escrow, and he will lose all or part of those shares if the average closing price of the stock is below $13.30 for the 250 days leading up to September 30th, 2020. Considering that the stock price dropped below $13.30 in March and has stayed consistently below $10.00 since, Ni has a very strong incentive to do *something *that will make the share price recover.
+Additionally, the company loaned over $8 million to entities either owned by the Chairman- and co-CEO Zhou Min Ni or his son; Ni initially guaranteed the loans before he “purchased” them with over 632,746 shares. But Ni also had to put an additional 208,806 shares into escrow, and he will lose all or part of those shares if the average closing price of the stock is below $13.30 for the 250 days leading up to September 30th, 2020. Considering that the stock price dropped below $13.30 in March and has stayed consistently below $10.00 since, Ni has a very strong incentive to do *something* that will make the share price recover.
 
 ![HFFG Chart.png](/uploads/HFFG%20Chart.png)
 
