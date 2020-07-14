@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 07 Jul 2020 10:07:00 -0400</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2020 07:29:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>Slacker Standards: SEC Exempts Even More Companies From 404(b)</title><author>John Cheffers</author>
+            
+            <category>SEC</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;There is scant evidence that 404(b) is scaring companies away from the public marketplace, but there is evidence that the sort of companies that just got an exception from 404(b) were the ones who needed it most.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2020-07-14T07:29:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/slacker-standards-sec-exempts-even-more-companies-from-404-b/</link><enclosure url="https://blog.watchdogresearch.com/uploads/SEC%20404(b).jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/slacker-standards-sec-exempts-even-more-companies-from-404-b/</guid>
+        </item>
         
         <item>
             <title>Watchdog Spotlight on HF Food Group “HFFG”</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2020-06-18T10:25:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/america-runs-from-luckin-corporate-governance-failures/</link><enclosure url="https://blog.watchdogresearch.com/uploads/luckin_management.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/america-runs-from-luckin-corporate-governance-failures/</guid>
-        </item>
-        
-        <item>
-            <title>America Runs From Luckin: Fraud Enabled by Slack Standards</title><author>John Cheffers</author>
-            
-            <category>featured</category>
-            
-
-            <description>&lt;p&gt;Luckin Coffee engaged in one of the most brazen frauds in history. It is easy to blame the fraud on the business environment in China fostered by the CCP. But this fraud could not have occurred if not for systemic weaknesses in the Western capital markets.&lt;/p&gt;
-</description>
-            <pubDate>2020-06-16T15:41:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/america-runs-from-luckin-fraud-enabled-by-slack-standards/</link><enclosure url="https://blog.watchdogresearch.com/uploads/fraud_luckin_standard.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/america-runs-from-luckin-fraud-enabled-by-slack-standards/</guid>
         </item>
         
 
