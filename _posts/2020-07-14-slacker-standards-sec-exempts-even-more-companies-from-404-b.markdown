@@ -57,3 +57,9 @@ The main beneficiary of this new rule is pharmaceutical companies that do not ha
 There was a split on this rule, with Commissioner Lee dissenting. She stated, “Eliminating the auditor attestation removes a critical gatekeeping function that we know works to improve the reliability of financial reporting for investors.”
 
 This probably is not the last time the SEC will choose to reduce the scope of 404(b), since there appears to be broad bipartisan support for rolling back the protections it offers for investors. Commissioner Pierce is in favor of making 404(b) [optional](https://www.sec.gov/news/public-statement/statement-peirce-accelerated-filer-2020-03-12) for all companies. If the SEC continues to strip away the burdens placed on corporations by Sarbanes Oxley, it will strip away the corresponding protections for investors as well. The SEC would do well to remember its job is to *enforce* the laws passed by Congress, including Sarbanes Oxley, not to minimize them by changing the definitions.
+
+**Contact us:**
+
+Retail Investors get free access to our Watchdog Reports. Institutional Investors and those interested in our Gray Swan Event Factor can [subscribe](https://www.watchdogresearch.com/pricing), or call our subscription manager, at 239-240-9284.
+
+If you have questions about this blog send John Cheffers, our Director of Research, an email at [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com). For press inquiries or general questions about Watchdog Research, Inc., please contact our President, Brian Lawe at [blawe@watchdogresearch.com](mailto:blawe@watchdogresearch.com).
