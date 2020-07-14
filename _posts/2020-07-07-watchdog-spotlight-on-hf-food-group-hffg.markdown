@@ -90,3 +90,9 @@ Did HFFG make reasonable assumptions in their valuation estimates? We cannot be 
 ***Conclusion***
 
 HFFG has had a difficult year so far. The merger certainly has posed a difficult set of challenges, made worse by the management team’s material weaknesses in their financial reporting. They are already enduring one securities lawsuit and have made a massive impairment. But if our research is correct this is only the opening salvo and 2020 probably has a lot more in store for HFFG.
+
+**Contact us:**
+
+Retail Investors get free access to our Watchdog Reports. Institutional Investors and those interested in our Gray Swan Event Factor can [subscribe](https://www.watchdogresearch.com/pricing), or call our subscription manager, at 239-240-9284.
+
+If you have questions about this blog send John Cheffers, our Director of Research, an email at [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com). For press inquiries or general questions about Watchdog Research, Inc., please contact our President, Brian Lawe at [blawe@watchdogresearch.com](mailto:blawe@watchdogresearch.com).
