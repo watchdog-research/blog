@@ -33,7 +33,7 @@ According to our statistical analysis, HFFG has a nearly 60% chance of a filing 
 
 *“The material weakness related to the **deficiency in the ability of our in-house accounting professionals to generate financial statements in the form required by applicable SEC requirements**. Control deficiencies are related to the lack of proper documentation to evidence the review of customer orders and purchase orders, and lack of proper documentation to evidence customers’ acknowledgement of transaction amounts and account balances*.”
 
-In the annual report for 2019, the HFFG admitted that little progress had been made, “***the Company** **does not have in-house accounting personnel with sufficient knowledge of US GAAP and SEC reporting experiences***.” 
+In the annual report for 2019, the HFFG admitted that little progress had been made, “***the Company does not have in-house accounting personnel with sufficient knowledge of US GAAP and SEC reporting experiences***.”
 
 We find this strange.  Why haven’t they hired someone over the past year with the ability to follow GAAP? Is it so difficult to find an experienced and qualified person to lead the in-house accounting staff?
 
