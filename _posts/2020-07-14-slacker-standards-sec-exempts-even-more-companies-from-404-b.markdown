@@ -12,6 +12,8 @@ author: john_cheffers
 image: "/uploads/SEC%20404(b).jpg"
 ---
 
+*There is scant evidence that 404(b) is scaring companies away from the public marketplace, but there is evidence that the sort of companies that just got an exception from 404(b) were the ones who needed it most.*
+
 The SEC issued a new [rule](https://www.sec.gov/rules/final/2020/34-88365.pdf) that took effect on April 27th, 2020 that exempted even more companies from the auditor attestation requirement of SOX Section 404(b). The SEC accomplished this by adjusting the [definitions](https://www.sec.gov/rules/final/2020/34-88365.pdf) of “accelerated” and “large accelerated” filers. We have [previously](https://blog.watchdogresearch.com/posts/america-runs-from-luckin-fraud-enabled-by-slack-standards/) discussed 404(b) when looking at Luckin Coffee, and we decried how the loosening of 404(b) by the JOBS Act allowed Luckin’s fraud to go undetected. But this new regulation merits a deeper discussion of 404(b) and its implications.
 
 Sarbanes-Oxley (SOX) was legislation passed in the wake of the Enron and WorldCom scandals. Its purpose was to end corporate fraud empowering watchdogs and gatekeepers to restrain the impulse of management to manipulate financial reporting. One of the key measures was 404(b), which required *every* publicly traded company to have an independent auditor attest that the “internal controls” of the company were effective.
