@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 14 Jul 2020 07:29:00 -0400</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2020 14:56:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>The Party is Over at “CRON”</title><author>John Cheffers</author>
+            
+            <category>Watchdog Spotlight</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;When CRON &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1656472/000165647220000030/q3exhibit991fs.htm&quot;&gt;restated&lt;/a&gt; the third quarter results for 2019, it attributed the restatement to “accounting errors.” Accounting errors? No kidding! Over a quarter of the company’s supposed revenue went up in smoke.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2020-07-17T14:56:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/party-over-at-cron/</link><enclosure url="https://blog.watchdogresearch.com/uploads/next-green-wave-JPI6SKrd-Rw-unsplash.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/party-over-at-cron/</guid>
+        </item>
         
         <item>
             <title>Slacker Standards: SEC Exempts Even More Companies From 404(b)</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2020-06-22T09:55:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/america-runs-from-luckin-insider-trading-and-stock-pledging/</link><enclosure url="https://blog.watchdogresearch.com/uploads/luckin_stock_drop.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/america-runs-from-luckin-insider-trading-and-stock-pledging/</guid>
-        </item>
-        
-        <item>
-            <title>America Runs From Luckin: Corporate Governance Failures</title><author>John Cheffers</author>
-            
-            <category>Corporate Governance</category>
-            
-
-            <description>&lt;p&gt;Luckin Coffee’s  massive fraud was discovered by its auditors, EY’s Chinese affiliate, Ernst &amp;amp; Young Hua Ming LLP. The affiliate  probably would have discovered the fraud earlier if not for Luckin’s status as an &lt;a href=&quot;https://blog.watchdogresearch.com/posts/america-runs-from-luckin-fraud-enabled-by-slack-standards/&quot;&gt;Emerging Growth Company&lt;/a&gt;, but in this post we turn our attention to Luckin’s board of directors, who ought to serve as the first line of defense against fraud.&lt;/p&gt;
-</description>
-            <pubDate>2020-06-18T10:25:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/america-runs-from-luckin-corporate-governance-failures/</link><enclosure url="https://blog.watchdogresearch.com/uploads/luckin_management.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/america-runs-from-luckin-corporate-governance-failures/</guid>
         </item>
         
 
