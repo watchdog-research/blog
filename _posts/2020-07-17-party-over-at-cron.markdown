@@ -53,7 +53,7 @@ Bizarrely, the CFO and CEO didn’t notice or ask any questions, which is weird 
 
 After a merger, there can be all sorts of problems that arise when bringing together two different management teams. Altria’s investment created a similar problem at CRON. Altria [added](https://www.sec.gov/Archives/edgar/data/1656472/000119312519076836/d690389dex992.htm) four new members to the board and brought in Jeffery Barbato as CFO in April 2019. The first “accounting error” occurred in the second quarter of 2019 so that it was Altria’s Barbato that [certified](https://www.sec.gov/Archives/edgar/data/1656472/000156459019030406/cron-ex994_7.htm) both of the quarterly statements containing over $5 million in “accounting errors”.
 
-It is also interesting that Bruce Gates, added to the board by Altria and Chairman of the Compensation Committee, resigned the same day that the restatement was [announced](https://www.sec.gov/Archives/edgar/data/1656472/000165647220000019/form8kb.htm). If that wasn’t fishy enough, the explanation for his departure was that he was “going to focus on other increased professional responsibilities.”  
+It is also interesting that Bruce Gates, added to the board by Altria and Chairman of the Compensation Committee, resigned the same day that the restatement was [announced](https://www.sec.gov/Archives/edgar/data/1656472/000165647220000019/form8kb.htm). If that wasn’t fishy enough, the explanation for his departure was that he was “going to focus on other increased professional responsibilities.”
 
 CRON may have been happy to take Altria’s money, but Altria is a big tobacco company, not a charity. The team members Altria brought in may have been putting a lot of pressure on CRON to accelerate growth. That pressure, coupled with inadequate internal controls, may have created the perfect environment for “accounting errors.”
 
@@ -76,3 +76,9 @@ CRON is a posterchild for the why the U.S. should reconsider allowing Emerging G
 If the auditor is not testing the internal controls of a company throughout the year, there is very little incentive for management to develop proper internal controls over financial reporting. This creates the perfect environment for the manipulation of financial results.
 
 If investors want to protect themselves from potential machinations by management, they should demand that their companies get an auditor to attest to the internal controls, even when they are exempt from SOX 404(b).
+
+**Contact us:**
+
+Retail Investors get free access to our Watchdog Reports. Institutional Investors and those interested in our Gray Swan Event Factor can [subscribe](https://www.watchdogresearch.com/pricing), or call our subscription manager, at 239-240-9284.
+
+If you have questions about this blog send John Cheffers, our Director of Research, an email at [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com). For press inquiries or general questions about Watchdog Research, Inc., please contact our President, Brian Lawe at [blawe@watchdogresearch.com](mailto:blawe@watchdogresearch.com).
