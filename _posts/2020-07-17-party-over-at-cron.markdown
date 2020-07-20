@@ -59,7 +59,7 @@ CRON may have been happy to take Altria’s money, but Altria is a big tobacco c
 
 The current situation for the top brass of CRON is untenable, expect major changes this year.
 
-**KPMG Cleaning up the Accounting…For a Price**
+***KPMG Cleaning up the Accounting…For a Price***
 
 CRON has given over $2 million to KPMG for its services in 2020. That’s 7% of revenue! In total, they have spent [$4.4 million](https://seekingalpha.com/article/4345058-cronos-group-inc-cron-ceo-mike-gorenstein-on-q1-2020-results-earnings-call-transcript?page=6) on the internal review costs related to the restatement. It is likely that they will spend much more as the remediation efforts continue and the litigation costs pile up.
 
@@ -69,7 +69,7 @@ One bright spot for CRON is that KPMG appears to have helped reduce the complexi
 
 Financial disclosures decrease in complexity when companies use fewer custom XBRL tags. It appears that CRON has made an effort in 2020 to put their disclosures into more standard and accessible language. It is likely that KPMG has been assisting them in this task.
 
-**Conclusion**
+***Conclusion***
 
 CRON is a posterchild for the why the U.S. should reconsider allowing Emerging Growth Companies to forego the SOX 404(b) auditor attestation requirement. We [discussed](https://blog.watchdogresearch.com/posts/america-runs-from-luckin-fraud-enabled-by-slack-standards/) this problem when looking at Luckin’s fraud. And [again](https://blog.watchdogresearch.com/posts/slacker-standards-sec-exempts-even-more-companies-from-404-b/), when the SEC further scaled back the number of companies required to comply with SOX 404(b).
 
