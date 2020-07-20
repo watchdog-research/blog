@@ -7,6 +7,8 @@ tags:
 - Emerging Growth Companies
 - CRON
 - Errors
+author: john_cheffers
+image: "/uploads/next-green-wave-JPI6SKrd-Rw-unsplash.jpg"
 ---
 
 *When CRON [restated](https://www.sec.gov/Archives/edgar/data/1656472/000165647220000030/q3exhibit991fs.htm) the third quarter results for 2019, it attributed the restatement to “accounting errors.” Accounting errors? No kidding! Over a quarter of the company’s supposed revenue went up in smoke.*
