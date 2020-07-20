@@ -3,6 +3,7 @@ title: The Party is Over at “CRON”
 date: 2020-07-17 14:56:00 -04:00
 categories:
 - Watchdog Spotlight
+- featured
 tags:
 - Emerging Growth Companies
 - CRON
