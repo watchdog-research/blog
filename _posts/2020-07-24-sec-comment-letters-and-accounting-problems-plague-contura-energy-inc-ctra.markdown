@@ -27,7 +27,7 @@ Remarkably, in May 2020 the SEC [asked](https://www.sec.gov/Archives/edgar/data/
 
 *Given the fluid nature of the commodity market for coal products sold by the Company, we do not think a loss of any such customer **would have a material adverse effect** **on the** **long-term financial results** or prospects of our business.*
 
-*The Company respectfully advises the Staff that** in a customary business environment **the coal market exhibits high levels of liquidity given the nature of the commodity. Our sales force is experienced in moving coal sales volumes from one account to another as required by market conditions, either with established customers or new customers. *(emphasis added)
+*The Company respectfully advises the Staff that **in a customary business environment** the coal market exhibits high levels of liquidity given the nature of the commodity. Our sales force is experienced in moving coal sales volumes from one account to another as required by market conditions, either with established customers or new customers.*(emphasis added)
 
 Two parts of this statement are problematic, so we will take each in turn. The first problem is that the [regulation](https://www.law.cornell.edu/cfr/text/17/229.101) asks for the names of customers if their loss would be material. It does not qualify this requirement by stating that the loss must be material in the “long-term.” Here CTRA qualifies their statement by saying the loss of any one customer would not be material “on the long-term financial results.” But what about the impact right now?
 
