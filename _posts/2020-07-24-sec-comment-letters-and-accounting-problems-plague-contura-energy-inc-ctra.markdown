@@ -17,7 +17,7 @@ CTRA is a company that mines and processes coal before selling it to powerplants
 
 ***Repetitive SEC Comment Letters Raise a Red Flag***
 
-Our friend and occasional guest contributor, Olga Usvyatsky CPA PhD, drew our attention to CTRA’s recent SEC Comment Letters. These letters concern Item 101(c)(1)(vii) of Regulation S-K, which requires a company to disclose the names of any customers that account for more than 10% of revenue, *if the loss of that customer would have a materially adverse effect on the company.*
+Our friend and occasional guest contributor, Olga Usvyatsky CPA , drew our attention to CTRA’s recent SEC Comment Letters. These letters concern Item 101(c)(1)(vii) of Regulation S-K, which requires a company to disclose the names of any customers that account for more than 10% of revenue, *if the loss of that customer would have a materially adverse effect on the company.*
 
 CTRA does not disclose the list of its customers, even though one of their clients [accounted](https://www.sec.gov/Archives/edgar/data/1704715/000095010319008988/filename1.htm) for 16.7% of revenue, and their top ten consumers account for 60%. When the SEC first asked about this issue in June of 2019, CTRA [explained](https://www.sec.gov/Archives/edgar/data/1704715/000095010319008248/filename1.htm) that the market for coal was highly liquid, and therefore the loss of any one customer would not be material because they would easily be replaced. Markets tend to be liquid when demand consistently outpaces supply.
 
