@@ -14,7 +14,7 @@ image: "/uploads/WEX%20picture.jpg"
 
 WEX Inc (WEX) is a company, headquartered in Maine, that provides payment solutions. Over the years they have grown and expanded the number of services that they offer by going on a acquisition/merger spree. They have engaged in at least one merger or acquisition every year since 2015, and they accelerated this trend in 2019 with four mergers or acquisitions.
 
-These mergers have expanded the company, but they have also given them chronic internal control issues, leading to extensive irregularities in their accounting. A brief look at WEX’s Watchdog Report shows that their recent financial reporting has been riddled with red and yellow flags.
+These mergers have expanded the company, but they have also given them chronic internal control issues, leading to extensive irregularities in their accounting. A brief look at WEX’s [Watchdog Report](http://) shows that their recent financial reporting has been riddled with red and yellow flags.
 
 ![WEX Flags.png](/uploads/WEX%20Flags.png)
 
@@ -46,7 +46,7 @@ As of the beginning of 2020, WEX appears to have remediated its material weaknes
 
 *The Company acquired Noventis, Inc. on January 24, 2019, Pavestone Capital, LLC on February 14, 2019, Discovery Benefits, Inc. on March 5, 2019, and Go Fuel Card on July 1, 2019. Management excluded these four businesses from its assessment of the effectiveness of the Company’s internal control over financial reporting as of December 31, 2019. These exclusions were in accordance with Securities and Exchange Commission guidance that an assessment of a recently acquired business’s internal control over financial reporting may be omitted from management’s report on internal control over financial reporting in the year of acquisition of the business. These four businesses represented, in aggregate, approximately 8.3% of the Company’s total consolidated assets (excluding goodwill and intangibles, which are included within the scope of the assessment) and 8.9% of total consolidated revenues, as of and for the year ended December 31, 2019.*
 
-Considering WEX’s track record, we can expect many more internal control problems stemming from its 2019 acquisitions.  The potential internal control issues stemming from its four mergers last year have greatly increased the company's Gray Swan Event Factor, which is a metric we use to quantify the risk of an accounting-related problems. 
+Considering WEX’s track record, we can expect many more internal control problems stemming from its 2019 acquisitions.  The potential internal control issues stemming from its four mergers last year have greatly increased the company's[ Gray Swan Event Factor](http://), which is a metric we use to quantify the risk of an accounting-related problems.
 
 ***The Pandemic Spoils the Appetite for Acquisitions***
 
