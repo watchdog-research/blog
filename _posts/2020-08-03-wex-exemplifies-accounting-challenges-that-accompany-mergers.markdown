@@ -9,7 +9,7 @@ tags:
 - Mergers
 - Internal Controls
 author: john_cheffers
-image: "/uploads/Mergers%20Chart.png"
+image: "/uploads/WEX%20picture.jpg"
 ---
 
 WEX Inc (WEX) is a company, headquartered in Maine, that provides payment solutions. Over the years they have grown and expanded the number of services that they offer by going on a acquisition/merger spree. They have engaged in at least one merger or acquisition every year since 2015, and they accelerated this trend in 2019 with four mergers or acquisitions.
