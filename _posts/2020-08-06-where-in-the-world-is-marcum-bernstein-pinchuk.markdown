@@ -29,7 +29,7 @@ We dug more deeply into the numbers and found that since 2017 Marcum BP has sign
 
 ![Marcum BP AP Form Graph.png](/uploads/Marcum%20BP%20AP%20Form%20Graph.png)
 
-This graph shows Marcum BP audit reports issued from China and the US from 2017 to 2020 year-to-date for their Chinese clients. The data indicates that Marcum BP generally issues more audit reports from its China office locations than it does in New York, except for 2018 when almost all their reports were issued out of New York. This data was derived from AP Form Data made available by the [PCAOB](https://pcaobus.org/firms/5395). 
+This graph shows Marcum BP audit reports issued from China and the US from 2017 to 2020 year-to-date for their Chinese clients. The data indicates that Marcum BP generally issues more audit reports from its China office locations than it does in New York, except for 2018 when almost all their reports were issued out of New York. This data was derived from AP Form Data made available by the [PCAOB](https://pcaobus.org/firms/5395).
 
 We did not see any other auditors where audit opinions would switch back and forth from China (including Hong Kong) to the U.S. from 2010 to the present. Ernst and Young had one client switch from Hong Kong to Seoul in 2016, and PWC had on client, Nord Anglia Education, Inc. move from China to the UK. In short, we believe this “city-swapping” phenomenon is unique to Marcum BP.
 
@@ -90,3 +90,9 @@ There may be some other explanation for the apparent “city-swapping” that ha
 The PCAOB and the CCP’s directives are directly contradictory, which is why our reports assign every Chinese company a [red flag](https://blog.watchdogresearch.com/posts/featuring-a-new-sec-oversight-flag-in-our-watchdog-reports/). It should not be surprising that auditors are contorting themselves into pretzels to stay in the good graces of the PCAOB and the CCP.
 
 We also are not surprised that Marcum BP inspection report showed a myriad of problems with one of their clients (likely a Chinese company); the obstacles to having an adequate audit of a Chinese company are significant. We would point out that it is possible that the Chinese affiliates of the Big 4 have the same significant defects in their audits as Marcum BP, but we will never know because they are not subject to inspection by the PCAOB.
+
+**Contact us:**
+
+Retail Investors get free access to our Watchdog Reports. Institutional Investors and those interested in our Gray Swan Event Factor can [subscribe](https://www.watchdogresearch.com/pricing), or call our subscription manager, at 239-240-9284.
+
+If you have questions about this blog send John Cheffers, our Director of Research, an email at [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com). For press inquiries or general questions about Watchdog Research, Inc., please contact our President, Brian Lawe at [blawe@watchdogresearch.com](mailto:blawe@watchdogresearch.com).
