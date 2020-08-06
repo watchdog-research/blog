@@ -23,21 +23,19 @@ Our research team has always taken a keen interest in China, and our interest su
 
 We wanted to know if any China-based companies listed in the U.S. had changed their auditors from U.S. member firms to Chinese member firms, perhaps to avoid auditor inspection by the PCAOB. We found a handful of companies whose audits had moved to China, but strangely enough they had not switched audit firms; instead it appeared that their auditor, Marcum BP, appeared to switch office locations where the opinions were issued between China and the U.S.
 
-Every firm registered with the PCAOB must complete Form AP when issuing an audit opinion. The firm must include the location of the office that performed the work and issued the opinion by providing the city where the office is located. Marcum BP appears to have three main offices—one in New York, and two in China. We were surprised to see that some of Marcum BP’s clients “city-swapping” their opinions, alternating between New York and Beijing in successive years.
+Every firm registered with the PCAOB must complete Form AP when issuing an audit report. The firm must include the location of the office that performed the work and issued the report by providing the city where the office is located. Marcum BP appears to have three main offices—one in New York, and two in China. We were surprised to see that some of Marcum BP’s clients “city-swapping” their opinions, alternating between New York and Beijing in successive years.
 
 We dug more deeply into the numbers and found that since 2017 Marcum BP has signed audit reports for 37 individual companies, of whom 27 are Chinese clients. Of those clients, twelve of them had a year where the location of the office issuing the audit report for the company appeared to change countries.
 
 ![Marcum BP AP Form Graph.png](/uploads/Marcum%20BP%20AP%20Form%20Graph.png)
 
-This graph shows Marcum BP audit reports issued from China and the US from 2017 to 2020 year-to-date for their Chinese clients. This data was derived from AP Form Data made available by the [PCAOB](https://pcaobus.org/firms/5395). L
+This graph shows Marcum BP audit reports issued from China and the US from 2017 to 2020 year-to-date for their Chinese clients. The data indicates that Marcum BP generally issues more audit reports from its China office locations than it does in New York, except for 2018 when almost all their reports were issued out of New York. This data was derived from AP Form Data made available by the [PCAOB](https://pcaobus.org/firms/5395). 
 
 We did not see any other auditors where audit opinions would switch back and forth from China (including Hong Kong) to the U.S. from 2010 to the present. Ernst and Young had one client switch from Hong Kong to Seoul in 2016, and PWC had on client, Nord Anglia Education, Inc. move from China to the UK. In short, we believe this “city-swapping” phenomenon is unique to Marcum BP.
 
-The data indicates that Marcum BP generally issues more audit reports from its China office locations than it does in New York, except for 2018 when almost all their opinions were issued out of New York.
-
 ***Does a 2018 PCAOB Inspection Explain Marcum BP’s City-Swapping?***
 
-Marcum BP is a small boutique firm and has never issued more than 25 opinions in a given year. One advantage to being a smaller firm is that you are not subject to annual inspections by the PCAOB. Instead firms with less than 100 opinions for public companies each year are subject to inspection every [third](https://pcaobus.org/Rules/Pages/Section_4.aspx) year. The PCAOB conducted an inspection of Marcum BP in 2018 and partially released the [results](https://pcaobus.org/Inspections/Reports/Documents/104-2020-006-Marcum-Bernstein-Pinchuk-LLP.pdf) of that inspection in January 2020.
+Marcum BP is a small boutique firm that has never issued more than 25 reports in a given year. One advantage to being a smaller firm is that you are not subject to annual inspections by the PCAOB. Instead firms with less than 100 opinions for public companies each year are subject to inspection every [third](https://pcaobus.org/Rules/Pages/Section_4.aspx) year. The PCAOB conducted an inspection of Marcum BP in 2018 and partially released the [results](https://pcaobus.org/Inspections/Reports/Documents/104-2020-006-Marcum-Bernstein-Pinchuk-LLP.pdf) of that inspection in January 2020.
 
 It is well-established that the CCP has forbidden auditors operating in China to share their work papers with the SEC or PCAOB. That has created some friction between the PCAOB and the Big 4 audit firms. The Chinese member firms of the Big 4 — Deloitte, PwC, Ernst & Young, and KPMG, as well as the former BDO affiliate even faced potential sanctions by the SEC for refusing to cooperate with PCAOB inspections and SEC investigations.
 
@@ -51,11 +49,11 @@ Additionally, having the Marcum BP LLP lead engagement partner for the China-bas
 
 The “city-swapping” may be a workaround to handle the firm’s dilemma.
 
-During 2018, Marcum BP appears to have brought most of their work from China back to New York so they could issue their opinions out of that office, subject to inspection by the PCAOB. In other years, most of their opinions came out of their office in Beijing.
+During 2018, Marcum BP appears to have brought most of their work from China back to New York so they could issue their reports out of that office, subject to inspection by the PCAOB. In other years, most of their reports came out of their office in Beijing.
 
-Marcum BP’s next inspection is due in 2021, and it will be interesting to see if the number of opinions coming out the New York office shoots up or continues its current trend.
+Marcum BP’s next inspection is due in 2021, and it will be interesting to see if the number of reports coming out the New York office shoots up or continues its current trend.
 
-**Power Concentration in Beijing**
+***Power Concentration in Beijing***
 
 Marcum BP’s trend towards having more opinions issued out of Beijing is consistent with industry wide trends in the past few years. When we look at the city locations of the audits performed by the Chinese affiliates of the Big 4, as well as all audits performed in China, we can see a dramatic turn towards Beijing.
 
