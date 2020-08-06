@@ -21,7 +21,7 @@ Our research team has always taken a keen interest in China, and our interest su
 
 ***Marcum BP “City-Swapping”***
 
-We wanted to know if any China-based companies listed in the U.S. had changed their auditors from U.S. member firms to Chinese member firms, perhaps to avoid auditor inspection by the PCAOB. We found a handful of companies whose audits had moved to China, but strangely enough they had not switched audit firms; instead it appeared that their auditor, Marcum BP, appeared to switch office locations where the opinions were issued between China and the U.S.
+We wanted to know if any China-based companies listed in the U.S. had changed their auditors from U.S. member firms to Chinese member firms, perhaps to avoid auditor inspection by the PCAOB. We found a handful of companies whose audits had moved to China, but strangely enough they had not switched audit firms; instead their auditor, Marcum BP, appeared to switch office locations where the reports were issued between China and the U.S.
 
 Every firm registered with the PCAOB must complete Form AP when issuing an audit report. The firm must include the location of the office that performed the work and issued the report by providing the city where the office is located. Marcum BP appears to have three main offices—one in New York, and two in China. We were surprised to see that some of Marcum BP’s clients “city-swapping” their opinions, alternating between New York and Beijing in successive years.
 
@@ -31,7 +31,7 @@ We dug more deeply into the numbers and found that since 2017 Marcum BP has sign
 
 This graph shows Marcum BP audit reports issued from China and the US from 2017 to 2020 year-to-date for their Chinese clients. The data indicates that Marcum BP generally issues more audit reports from its China office locations than it does in New York, except for 2018 when almost all their reports were issued out of New York. This data was derived from AP Form Data made available by the [PCAOB](https://pcaobus.org/firms/5395).
 
-We did not see any other auditors where audit opinions would switch back and forth from China (including Hong Kong) to the U.S. from 2010 to the present. Ernst and Young had one client switch from Hong Kong to Seoul in 2016, and PWC had on client, Nord Anglia Education, Inc. move from China to the UK. In short, we believe this “city-swapping” phenomenon is unique to Marcum BP.
+We did not see any other auditors where audit opinions would switch back and forth from China (including Hong Kong) to the U.S. from 2010 to the present. Ernst and Young had one client switch from Hong Kong to Seoul in 2016, and PWC had on client, Nord Anglia Education, Inc. move from China to the UK. In short, we believe this “city-swapping” phenomenon between the U.S. and China is unique to Marcum BP.
 
 ***Does a 2018 PCAOB Inspection Explain Marcum BP’s City-Swapping?***
 
