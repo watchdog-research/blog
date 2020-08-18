@@ -1,5 +1,5 @@
 ---
-title: Where in the World is Marcum Bernstein Pinchuk?
+title: 'UPDATE: Where in the World is Marcum Bernstein Pinchuk?'
 date: 2020-08-06 08:51:00 -04:00
 categories:
 - featured
@@ -15,7 +15,25 @@ image: "/uploads/Beijing%20Commie%20flag.jpg"
 
 *Marcum BP is a joint venture between Marcum LLP and Bernstein & Pinchuk LLP specializing mostly in Chinese clients. Their practice of “city-swapping” raises some interesting questions.*
 
-*We emailed Marcum BP twice and called and left them a message before publishing this article. We welcome any comments they may have and will either update this article, or write a new article featuring their comments, if they have any remarks.*
+*UPDATE: Marcum BP was unable to make any official comment on this story. However, we did learn a great deal more about Marcum BP after publishing our article and we would like to provide that context here. As well as point out a few corrections or clarifications in the body of the article itself.*
+
+*Our research is data driven and atypical results and outliers generally raise red flags. This sort of data-based analysis can tell you that you are looking at something different or unique, but it does not provide an explanation for outlying results.*
+
+*When we wrote this article there was an assumption that comparing Marcum BP to other auditors would provide an apples-to-apples comparison, but the truth is far more complex. In short, it is possible that Marcum BP’s results are unique because the firm is unique.*
+
+*Marcum BP is a U.S. firm that audits Chinese companies. That means Marcum BP stands behind their audits and are ultimately accountable for them. In contrast, the Big 4 have fenced off their Chinese affiliates. Our research indicates a U.S. branch of the Big 4 has not offered an audit opinion of a Chinese company since 2015, instead their Chinese affiliates handle their Chinese clients, and—unlike Marcum BP—these Chinese affiliates of the Big 4 are not subject to inspection by the PCAOB.*
+
+*Other small U.S. auditing firms that provide audit services for Chinese companies often have a Chinese audit firm participate in the audit opinion to some extent. These Chinese audit firms are not subject to inspection by the PCAOB either. In contrast, Marcum BP does not partner up with Chinese audit firms to do their work in China, they do it themselves. This makes Marcum BP stand out amongst their peers.*
+
+*Two final points of context. Firstly, by law Marcum BP is subject to inspection by the PCAOB at least every three years, however, the PCAOB can impose additional inspections at any time. There is no evidence that Marcum BP is attempting to avoid inspections. Marcum BP’s concentration of reports out of its New York office in 2018 may not relate to the PCAOB of 2018 inspection in anyway. If it did, it would probably indicate that Marcum BP was trying to make itself more available to the PCAOB, not less.*
+
+*Finally, the U.S. and China impose contradictory demands on audit firms. The Big 4 handle this problem by keeping their U.S. and Chinese operations separate, where as Marcum BP and some other small firms attempt to navigate between Scylla and Charybdis at their own peril.*
+
+*Multiple solutions have been offered to this problem. The Senate unanimously passed the Holding Foreign Companies Accountable Act (yet to be voted on in the House) which would delist Chinese companies that were not inspected by the PCAOB within three years.*
+
+*Carson Block [argued](https://www.sec.gov/comments/emerging-markets/cll9-7400188-219069.pdf) that the Big 4 audit firms should be liable for the actions of their global affiliates because of their use of the brand. A recent [report](https://home.treasury.gov/system/files/136/PWG-Report-on-Protecting-United-States-Investors-from-Significant-Risks-from-Chinese-Companies.pdf) issued at the direction of President Trump has recommended co-audits, which would also make the Big 4 potentially liable.*
+
+*Of course, there are many who benefit from the status quo, so it is possible the Senate bill will be quietly scuttled, and the proposed reforms will be given nothing more than lip-service.*
 
 Our research team has always taken a keen interest in China, and our interest surged again with the news of Luckin Coffee’s collapse. There are several reasons why investing in Chinese companies has always been risky, but one of the most significant and ongoing reasons for being wary of Chinese companies is that Chinese auditors are supposed to be [subject](https://blog.watchdogresearch.com/posts/america-runs-from-luckin-clash-over-pcaob/) to inspection by the Public Company Accounting Oversight Board, or PCAOB, but the Chinese Communist Party (CCP) refuses to allow inspectors to do that job. This is because the CCP considers the work papers produced by these auditors for their China clients, often state-owned companies, “state secrets.”
 
@@ -23,7 +41,7 @@ Our research team has always taken a keen interest in China, and our interest su
 
 We wanted to know if any China-based companies listed in the U.S. had changed their auditors from U.S. member firms to Chinese member firms, perhaps to avoid auditor inspection by the PCAOB. We found a handful of companies whose audits had moved to China, but strangely enough they had not switched audit firms; instead their auditor, Marcum BP, appeared to switch office locations where the reports were issued between China and the U.S.
 
-Every firm registered with the PCAOB must complete Form AP when issuing an audit report. The firm must include the location of the office that performed the work and issued the report by providing the city where the office is located. Marcum BP appears to have three main offices—one in New York, and two in China. We were surprised to see that some of Marcum BP’s clients “city-swapping” their opinions, alternating between New York and Beijing in successive years.
+Every firm registered with the PCAOB must complete Form AP when issuing an audit report. The firm must include the location of the office that performed the work and issued the report by providing the city where the office is located. Marcum BP appears to have three main offices—one in New York, and two in China. *(Correction: The PCAOB inspection report for [2018](https://pcaobus.org/Inspections/Reports/Documents/104-2020-006-Marcum-Bernstein-Pinchuk-LLP.pdf) indicates there are 7 offices, however New York, Beijing, and Guangzhou are named most often in the Form AP Data*). We were surprised to see that some of Marcum BP’s clients “city-swapping” their opinions, alternating between New York and Beijing in successive years.
 
 We dug more deeply into the numbers and found that since 2017 Marcum BP has signed audit reports for 37 individual companies, of whom 27 are Chinese clients. Of those clients, twelve of them had a year where the location of the office issuing the audit report for the company appeared to change countries.
 
@@ -34,6 +52,8 @@ This graph shows Marcum BP audit reports issued from China and the US from 2017 
 We did not see any other auditors where audit opinions would switch back and forth from China (including Hong Kong) to the U.S. from 2010 to the present. Ernst and Young had one client switch from Hong Kong to Seoul in 2016, and PWC had on client, Nord Anglia Education, Inc. move from China to the UK. In short, we believe this “city-swapping” phenomenon between the U.S. and China is unique to Marcum BP.
 
 ***Does a 2018 PCAOB Inspection Explain Marcum BP’s City-Swapping?***
+
+*Clarification: It is possible that Marcum BP has been inspected by the PCAOB since 2018, and that the PCAOB has not issued an inspection report yet. If that is the case, then it would belie any idea that inspections and “city-swapping” were related.*
 
 Marcum BP is a small boutique firm that has never issued more than 25 reports in a given year. One advantage to being a smaller firm is that you are not subject to annual inspections by the PCAOB. Instead firms with less than 100 opinions for public companies each year are subject to inspection every [third](https://pcaobus.org/Rules/Pages/Section_4.aspx) year. The PCAOB conducted an inspection of Marcum BP in 2018 and partially released the [results](https://pcaobus.org/Inspections/Reports/Documents/104-2020-006-Marcum-Bernstein-Pinchuk-LLP.pdf) of that inspection in January 2020.
 
