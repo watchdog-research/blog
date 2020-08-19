@@ -31,7 +31,7 @@ image: "/uploads/Beijing%20Commie%20flag.jpg"
 
 *Multiple solutions have been offered to this problem. The Senate unanimously passed the Holding Foreign Companies Accountable Act (yet to be voted on in the House) which would delist Chinese companies that were not inspected by the PCAOB within three years.*
 
-*Carson Block [argued](https://www.sec.gov/comments/emerging-markets/cll9-7400188-219069.pdf) that the Big 4 audit firms should be liable for the actions of their global affiliates because of their use of the brand. A recent [report](https://home.treasury.gov/system/files/136/PWG-Report-on-Protecting-United-States-Investors-from-Significant-Risks-from-Chinese-Companies.pdf) issued at the direction of President Trump has recommended co-audits, which would also make the Big 4 potentially liable.*
+*Carson Block [argued](https://www.sec.gov/comments/emerging-markets/cll9-7400188-219069.pdf) that the Big 4 audit firms should be liable for the actions of their global affiliates because of their use of the brand. A recent [report](https://home.treasury.gov/system/files/136/PWG-Report-on-Protecting-United-States-Investors-from-Significant-Risks-from-Chinese-Companies.pdf) issued at the direction of the White House has recommended co-audits, which would also make the Big 4 potentially liable.*
 
 *Of course, there are many who benefit from the status quo, so it is possible the Senate bill will be quietly scuttled, and the proposed reforms will be given nothing more than lip-service.*
 
