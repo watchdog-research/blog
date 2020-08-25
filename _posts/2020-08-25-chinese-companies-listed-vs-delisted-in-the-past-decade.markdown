@@ -9,7 +9,7 @@ tags:
 - Listing
 - Delisting
 author: john_cheffers
-image: 
+image: "/uploads/aditya-vyas-mHdATQY9fIU-unsplash.jpg"
 ---
 
 Our readers are familiar with our interest in China. We use the best data available to analyze the probability a company will suffer a Gray Swan Event, rare but predictable events that can negatively affect the value of company stock. The collapse of Luckin Coffee was a powerful reminder of how risky an investment in a Chinese company can be, but our analysis was [not capturing](https://blog.watchdogresearch.com/posts/is-it-safer-to-invest-in-china-or-the-u-dot-s/) that risk.
