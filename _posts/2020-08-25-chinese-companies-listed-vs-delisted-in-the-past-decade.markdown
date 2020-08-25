@@ -31,3 +31,9 @@ Occasionally a delisting can benefit investors, if it occurs because a company i
 ***Conclusion***
 
 In the last few years, the hunger for investments in China has apparently become insatiable, at least amongst a certain class. This has fueled many hyped Chinese IPOs, including Luckin’s IPO. It will be interesting to see if the combined effect of Luckin’s fraud, and a political clash between the U.S. and the CCP over the CCP's longstanding [refusal](https://blog.watchdogresearch.com/posts/america-runs-from-luckin-clash-over-pcaob/) to allow the PCAOB to conduct inspect Chinese auditors will dampen investor enthusiasm for Chinese companies.
+
+**Contact us:**
+
+Retail Investors get free access to our Watchdog Reports. Institutional Investors and those interested in our Gray Swan Event Factor can [subscribe](https://www.watchdogresearch.com/pricing), or call our subscription manager, at 239-240-9284.
+
+If you have questions about this blog send John Cheffers, our Director of Research, an email at [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com). For press inquiries or general questions about Watchdog Research, Inc., please contact our President, Brian Lawe at [blawe@watchdogresearch.com](mailto:blawe@watchdogresearch.com).
