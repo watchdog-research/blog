@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 25 Aug 2020 09:56:00 -0400</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2020 10:46:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>Six Leading Indicators of Securities Litigation</title><author>John Cheffers</author>
+            
+            <category>Litigation</category>
+            
+
+            <description>&lt;p&gt;At Watchdog Research our team analyzes public company disclosures and summarizes that information in an easy-to-use report. Our reports include 29 different categories, and each one is assigned a green, yellow, or red flag. These flags have helped our D&amp;amp;O Subscribers assess and price risks into their premiums in a way that is easy to understand for their clients.&lt;/p&gt;
+</description>
+            <pubDate>2020-08-26T10:46:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/six-leading-indicators-of-securities-litigation/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Six%20leading%20indicators.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/six-leading-indicators-of-securities-litigation/</guid>
+        </item>
         
         <item>
             <title>Chinese Companies: Listed vs. Delisted in the Past Decade</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2020-07-24T12:19:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/sec-comment-letters-and-accounting-problems-plague-contura-energy-inc-ctra/</link><enclosure url="https://blog.watchdogresearch.com/uploads/CTRA%20picture.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/sec-comment-letters-and-accounting-problems-plague-contura-energy-inc-ctra/</guid>
-        </item>
-        
-        <item>
-            <title>The Party is Over at “CRON”</title><author>John Cheffers</author>
-            
-            <category>Watchdog Spotlight</category>
-            
-
-            <description>&lt;p&gt;&lt;em&gt;When CRON &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1656472/000165647220000030/q3exhibit991fs.htm&quot;&gt;restated&lt;/a&gt; the third quarter results for 2019, it attributed the restatement to “accounting errors.” Accounting errors? No kidding! Over a quarter of the company’s supposed revenue went up in smoke.&lt;/em&gt;&lt;/p&gt;
-</description>
-            <pubDate>2020-07-17T14:56:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/party-over-at-cron/</link><enclosure url="https://blog.watchdogresearch.com/uploads/next-green-wave-JPI6SKrd-Rw-unsplash.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/party-over-at-cron/</guid>
         </item>
         
 
