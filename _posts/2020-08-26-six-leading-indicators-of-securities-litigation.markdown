@@ -8,6 +8,8 @@ tags:
 - Securites Litigation
 - Insurance
 - D&O
+author: john_cheffers
+image: "/uploads/Six%20leading%20indicators.jpg"
 ---
 
 At Watchdog Research our team analyzes public company disclosures and summarizes that information in an easy-to-use report. Our reports include 29 different categories, and each one is assigned a green, yellow, or red flag. These flags have helped our D&O Subscribers assess and price risks into their premiums in a way that is easy to understand for their clients.
@@ -51,3 +53,7 @@ Over twenty percent of companies that filed a revision were subject to a new law
 If you want to understand how this research was conducted or dig deeper into the details, we encourage you to look at our research report, available for free on [google scholar](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3562785). Oftentimes, companies will have multiple flags related to litigation, our Gray Swan Event Factor estimates every company’s probability of incurring a securities class action suit over the next 12 months.
 
 **Contact Us:**
+
+Retail Investors get free access to our Watchdog Reports. Institutional Investors and those interested in our Gray Swan Event Factor can [subscribe](https://www.watchdogresearch.com/pricing), or call our subscription manager, at 239-240-9284.
+
+If you have questions about this blog send John Cheffers, our Director of Research, an email at [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com). For press inquiries or general questions about Watchdog Research, Inc., please contact our President, Brian Lawe at [blawe@watchdogresearch.com](mailto:blawe@watchdogresearch.com).
