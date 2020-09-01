@@ -45,6 +45,6 @@ Companies classified as retail comprise 4% of the market and are the most likely
 
 **Contact Us:**
 
-The information used to create our reports comes from [Audit Analytics](https://www.auditanalytics.com/).  Not only do we sell reports, we also perform custom research, if you are interested in doing business with us, or you have questions about this blog, contact John Cheffers our Director of Research, at jcheffers@watchdogresearch.com.
+The information used to create our reports comes from [Audit Analytics](https://www.auditanalytics.com/).  Not only do we sell reports, we also perform custom research; if you are interested in doing business with us, or you have questions about this blog, contact John Cheffers our Director of Research, at jcheffers@watchdogresearch.com.
 
 For press inquiries or general questions about our company, contact our President Brian Lawe, at brianlawe@watchdogresearch.com.
