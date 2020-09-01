@@ -11,9 +11,7 @@ author: john_cheffers
 image: "/uploads/Retail%20Picture.jpg"
 ---
 
-Our team analyzes public company disclosures for over 4,500 public companies and summarizes that information in an easy-to-use report. 
-
-Beyond creating company reports, our data can be used to analyze general trends and provide insight into many aspects the public company marketplace. Two members of our team, Joseph Burke PhD and Joseph Yarbrough, PhD, have analyzed our data to delve deeper into the risk that companies face from securities class action lawsuits and [published](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3562785) their findings on Google Scholar.
+Our team analyzes public company disclosures for over 4,500 public companies and summarizes that information in an easy-to-use report.Beyond creating company reports, our data can be used to analyze general trends and provide insight into many aspects the public company marketplace. Two members of our team, Joseph Burke PhD and Joseph Yarbrough, PhD, have analyzed our data to delve deeper into the risk that companies face from securities class action lawsuits and [published](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3562785) their findings on Google Scholar.
 
 There are different facets to their research (last week we posted about [six leading indicators of litigation](https://blog.watchdogresearch.com/posts/six-leading-indicators-of-securities-litigation/)), their analysis includes a comparison the relative exposure to security class action suits for public companies by industry.
 
@@ -37,7 +35,7 @@ Information companies had a 10.3% chance of being the defendant in a securities 
 
 **2. Education and Healthcare Companies**
 
-This relatively small industry only accounts for 2% of all public companies traded on the Nasdaq and NYSE, but 10.9% of them were named as defendants in securities class action lawsuits in 2019. Education and Healthcare companies were **33% more likely **to be named as a defendant** than the average company**.
+This relatively small industry only accounts for 2% of all public companies traded on the Nasdaq and NYSE, but 10.9% of them were named as defendants in securities class action lawsuits in 2019. Education and Healthcare companies were **33% more likely to be named as a defendant** than the average company.
 
 **1. Retail Companies**
 
@@ -49,4 +47,4 @@ Companies classified as retail comprise 4% of the market and are the most likely
 
 The information used to create our reports comes from [Audit Analytics](https://www.auditanalytics.com/).  Not only do we sell reports, we also perform custom research, if you are interested in doing business with us, or you have questions about this blog, contact John Cheffers our Director of Research, at jcheffers@watchdogresearch.com.
 
-For press inquiries or general questions about our company, contact our President Brian Lawe, at brianlawe@watchdogresearch.com. 
+For press inquiries or general questions about our company, contact our President Brian Lawe, at brianlawe@watchdogresearch.com.
