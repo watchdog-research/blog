@@ -21,7 +21,7 @@ In this post we are updating that research to include results from 2019, when 8.
 
 This segment is composed of companies like [Kraft Heinz](https://blog.watchdogresearch.com/posts/kraft-heinz-complaint-alleges-fundamental-corporate-governance-problems-accounting-shenanigans-and-insider-trading/), Pfizer and Tesla.
 
-Companies classified as manufacturing companies made up the largest segment of all public companies traded on the Nasdaq and NYSE in 2019 at 38%. Manufacturing companies also had a 9% chance of being named a defendant in a securities class action suit in 2019, **10% more likely than the average company**. About 40% of the defendants classified were pharmaceutical or biotechnology companies.
+Companies classified as manufacturing companies made up the largest segment of all public companies traded on the Nasdaq and NYSE in 2019 at 38%. Manufacturing companies also had a 9% chance of being named a defendant in a securities class action suit in 2019, **10% more likely than the average company**. About 40% of the defendants in this category were pharmaceutical or biotechnology companies.
 
 **4. Construction Companies**
 
