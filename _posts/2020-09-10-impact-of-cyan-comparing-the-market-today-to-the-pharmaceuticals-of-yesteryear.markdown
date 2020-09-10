@@ -19,7 +19,7 @@ The Supreme Court’s decision in *Cyan* in 2018 was a big victory to plaintiff�
 
 For the last three years, the percentage of companies named in a securities class action suit annually have been extremely high, hovering around 8%. This has been a great development for plaintiff’s attorneys, but a major problem for corporations and the insurers who provide D&O Insurance to cover the costs of these suits.
 
-To get a sense of how disruptive this change has been, we compared the current level of litigation with the amount of litigation associated with what is considered the riskiest class of companies—pharmaceuticals. Our research indicates that over the last 10 years, that on average 7.45% of pharmaceutical companies have been named as defendants in securities class actions annually. If you were to compare the rates of security class action suits year over year between pharmaceuticals and everyone else, it would look like this.
+To get a sense of how disruptive this change has been, we compared the current level of litigation with the amount of litigation associated with what is considered the riskiest class of companies—pharmaceuticals. Our research indicates that over the last 10 years, that on average 7.45% of pharmaceutical companies have been named as defendants in securities class actions annually. If you were to compare the rates of security class action suits year over year between pharmaceuticals and everyone else, it would look like this:
 
 ![Pharma v nonPharma.png](/uploads/Pharma%20v%20nonPharma.png)
 
