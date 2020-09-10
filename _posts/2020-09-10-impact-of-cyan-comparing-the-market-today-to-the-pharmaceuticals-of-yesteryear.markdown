@@ -17,7 +17,7 @@ image: "/uploads/Supreme%20Court%20pic.jpg"
 
 The Supreme Court’s decision in *Cyan* in 2018 was a big victory to plaintiff’s law firms because it opened the doors of the state courts to federal claims under the Securities Act of 1933. These state law cases had already been permitted in some jurisdictions, but *Cyan* threw the doors open all over the country, with predictable results.
 
-For the last three years, the percentage of companies named in a securities class action suit annually have been extremely high, hovering around 8%. This has been a great development for plaintiff’s attorneys, but a major problem for corporations and the insurers who provide D&O Insurance to cover the costs of these suits.
+For the last three years, the percentage of companies named in a securities class action suit have been extremely high, hovering around 8%. This has been a great development for plaintiff’s attorneys, but a major problem for corporations and the insurers who provide D&O Insurance to cover the costs of these suits.
 
 To get a sense of how disruptive this change has been, we compared the current level of litigation with the amount of litigation associated with what is considered the riskiest class of companies—pharmaceuticals. Our research indicates that over the last 10 years, that on average 7.45% of pharmaceutical companies have been named as defendants in securities class actions annually. If you were to compare the rates of security class action suits year over year between pharmaceuticals and everyone else, it would look like this:
 
