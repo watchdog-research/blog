@@ -13,7 +13,7 @@ author: john_cheffers
 image: "/uploads/Supreme%20Court%20pic.jpg"
 ---
 
-*[Watchdog Research](https://www.watchdogresearch.com/) provides an easy-to-use report for over 4,500 public companies based on 29 different categories of public disclosures. Our clients include D&O Insurance Underwriters who use these reports to assess and price ricks into their premiums. We are offering all products at a 50% discount ($2,500 for an annual license) until September 30th.*
+*[Watchdog Research](https://www.watchdogresearch.com/) provides an easy-to-use report for over 4,500 public companies based on 29 different categories of public disclosures. Our extensive database enables us to study larger trends affecting publicly traded companies. *
 
 The Supreme Court’s decision in *Cyan* in 2018 was a big victory to plaintiff’s law firms because it opened the doors of the state courts to federal claims under the Securities Act of 1933. These state law cases had already been permitted in some jurisdictions, but *Cyan* threw the doors open all over the country, with predictable results.
 
@@ -35,6 +35,6 @@ In his blog the D&O Diary, Kevin LaCroix recently [reviewed](https://www.dandodi
 
 **Contact Us:**
 
-If you have questions about this article, please contact the author, [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).  If you have questions about the company generally, or for press inquires, please contact our president Brian Lawe, brianlawe@watchdogresearch.com.  
+If you have questions about this article, please contact the author, [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).  If you have questions about the company generally, or for press inquires, please contact our president Brian Lawe, brianlawe@watchdogresearch.com.
 
 Our company has access to a proprietary database that includes all material litigation, classified by issue, for public companies. If you are interested in some bespoke research on litigation trends, please contact [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).
