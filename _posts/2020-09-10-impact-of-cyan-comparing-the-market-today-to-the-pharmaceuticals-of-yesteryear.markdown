@@ -13,7 +13,7 @@ author: john_cheffers
 image: "/uploads/Supreme%20Court%20pic.jpg"
 ---
 
-*[Watchdog Research](https://www.watchdogresearch.com/) provides an easy-to-use report for over 4,500 public companies based on 29 different categories of public disclosures. Our extensive database enables us to study larger trends affecting publicly traded companies. *
+\*[Watchdog Research](https://www.watchdogresearch.com/) provides an easy-to-use report for over 4,500 public companies based on 29 different categories of public disclosures. Our extensive database enables us to study larger trends affecting publicly traded companies.\*
 
 The Supreme Court’s decision in *Cyan* in 2018 was a big victory to plaintiff’s law firms because it opened the doors of the state courts to federal claims under the Securities Act of 1933. These state law cases had already been permitted in some jurisdictions, but *Cyan* threw the doors open all over the country, with predictable results.
 
