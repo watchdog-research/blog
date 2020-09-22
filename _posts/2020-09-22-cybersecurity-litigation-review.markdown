@@ -1,6 +1,14 @@
 ---
 title: Cybersecurity Litigation Review
 date: 2020-09-22 10:37:00 -04:00
+categories:
+- Cybersecurity
+- featured
+tags:
+- Cybersecurity
+- Litigaiton
+author: john_cheffers
+image: "/uploads/Cybersecurity.jpg"
 ---
 
 Cybersecurity has gone from a niche concern to a hot topic in the D&O insurance world. Tomorrow, on September 23rd, we will be attending (remotely of course)  a webinar hosted by PLUS on how companies can strategically handle cybersecurity concerns. We are an independent research provider that uses an extensive database of public information to create easy-to-use reports for over 4,500 publicly traded companies. Since we track cybersecurity incidents and all material litigation for public companies, we thought we could use this as an opportunity to provide a little color to the important discussions concerning cybersecurity.
@@ -37,4 +45,10 @@ Additionally, cybersecurity incidents were one of the [six leading indicators](h
 
 The chance of being involved in a cybersecurity securities class action lawsuit is still relatively low, but it is increasing rapidly. Additionally, the risk profile is far higher for large companies, which are more likely to be a victim of a cybersecurity incident and more likely to get named in a securities class action lawsuit.
 
-If company boards wish to prevent having their company victimized twice (by hackers and by lawyers), then they need to make wise and strategic decisions to confront this growing threat. 
+If company boards wish to prevent having their company victimized twice (by hackers and by lawyers), then they need to make wise and strategic decisions to confront this growing threat.
+
+**Contact Us:**
+
+If you have questions about this article, please contact the author, [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).  If you have questions about the company generally, or for press inquires, please contact our president Brian Lawe, brianlawe@watchdogresearch.com.
+
+Our company has access to a proprietary database that includes all material litigation, classified by issue, for public companies. If you are interested in some bespoke research on litigation trends, please contact [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).
