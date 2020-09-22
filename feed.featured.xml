@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 10 Sep 2020 11:51:00 -0400</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2020 10:37:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>Cybersecurity Litigation Review</title><author>John Cheffers</author>
+            
+            <category>Cybersecurity</category>
+            
+
+            <description>&lt;p&gt;Cybersecurity has gone from a niche concern to a hot topic in the D&amp;amp;O insurance world. Tomorrow, on September 23rd, we will be attending (remotely of course)  a webinar hosted by PLUS on how companies can strategically handle cybersecurity concerns. We are an independent research provider that uses an extensive database of public information to create easy-to-use reports for over 4,500 publicly traded companies. Since we track cybersecurity incidents and all material litigation for public companies, we thought we could use this as an opportunity to provide a little color to the important discussions concerning cybersecurity.&lt;/p&gt;
+</description>
+            <pubDate>2020-09-22T10:37:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/cybersecurity-litigation-review/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Cybersecurity.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/cybersecurity-litigation-review/</guid>
+        </item>
         
         <item>
             <title>Impact of Cyan: Comparing the Market Today to the Pharmaceuticals of Yesteryear</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2020-08-25T09:56:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/chinese-companies-listed-vs-delisted-in-the-past-decade/</link><enclosure url="https://blog.watchdogresearch.com/uploads/aditya-vyas-mHdATQY9fIU-unsplash.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/chinese-companies-listed-vs-delisted-in-the-past-decade/</guid>
-        </item>
-        
-        <item>
-            <title>UPDATE: Where in the World is Marcum Bernstein Pinchuk?</title><author>John Cheffers</author>
-            
-            <category>featured</category>
-            
-
-            <description>&lt;p&gt;&lt;em&gt;Marcum BP is a joint venture between Marcum LLP and Bernstein &amp;amp; Pinchuk LLP specializing mostly in Chinese clients. Their practice of “city-swapping” raises some interesting questions.&lt;/em&gt;&lt;/p&gt;
-</description>
-            <pubDate>2020-08-06T08:51:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/where-in-the-world-is-marcum-bernstein-pinchuk/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Beijing%20Commie%20flag.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/where-in-the-world-is-marcum-bernstein-pinchuk/</guid>
         </item>
         
 
