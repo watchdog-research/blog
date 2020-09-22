@@ -33,7 +33,7 @@ A cyberbreach at a company creates all sorts of problems, including litigation. 
 
 ![Cyber-lawsuit prob.png](/uploads/Cyber-lawsuit%20prob.png)
 
-It is important to note that these percentages are for all companies. Large cap companies have a significantly probability than is represented in the graph because they are both more likely to be the victim of a cybersecurity incident and are generally more likely to have a securities class action suit filed against them.
+It is important to note that these percentages are for all companies. Large cap companies have a significantly higher probability than is represented in the graph because they are both more likely to be the victim of a cybersecurity incident and are generally more likely to have a securities class action suit filed against them.
 
 *Cybersecurity as a Leading and Covariate Indicator*
 
