@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 22 Sep 2020 10:37:00 -0400</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2020 13:50:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>SEC Comment Letters Shed More Light on Reverse Factoring</title><author>Olga Usvyatsky</author>
+            
+            <category>Guest Blog</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;This post is published with permission of Olga Usvyatsky, a former VP of Research at Audit Analytics. She has a distinguished library of blogs and op-eds on accounting, buy-side research, and data analysis. Ms. Usvyatsky is currently enrolled as a PhD in Accounting student at Boston College, where she earned her MS in Accounting degree.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2020-09-24T13:50:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/sec-comment-letters-shed-more-light-on-reverse-factoring/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Paperwork.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/sec-comment-letters-shed-more-light-on-reverse-factoring/</guid>
+        </item>
         
         <item>
             <title>Cybersecurity Litigation Review</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2020-08-26T10:46:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/six-leading-indicators-of-securities-litigation/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Six%20leading%20indicators.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/six-leading-indicators-of-securities-litigation/</guid>
-        </item>
-        
-        <item>
-            <title>Chinese Companies: Listed vs. Delisted in the Past Decade</title><author>John Cheffers</author>
-            
-            <category>China</category>
-            
-
-            <description>&lt;p&gt;Our company specializes in assessing the probability a company will suffer a Gray Swan Event, rare but predictable events that can negatively affect the value of company stock.  Our products help capture and assess risk. The collapse of Luckin Coffee was a powerful reminder of how risky an investment in a Chinese company can be, however, at the time our analysis did &lt;a href=&quot;https://blog.watchdogresearch.com/posts/is-it-safer-to-invest-in-china-or-the-u-dot-s/&quot;&gt;not capture&lt;/a&gt; the risk posed by Luckin.&lt;/p&gt;
-</description>
-            <pubDate>2020-08-25T09:56:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/chinese-companies-listed-vs-delisted-in-the-past-decade/</link><enclosure url="https://blog.watchdogresearch.com/uploads/aditya-vyas-mHdATQY9fIU-unsplash.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/chinese-companies-listed-vs-delisted-in-the-past-decade/</guid>
         </item>
         
 
