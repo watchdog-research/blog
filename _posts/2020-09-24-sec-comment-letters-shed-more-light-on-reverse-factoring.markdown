@@ -49,3 +49,9 @@ Based on the disclosure we have seen so far, companies tend to record supply cha
 In conclusion, receiving a comment letter does not imply that there is anything wrong with a company’s disclosures. The goal of a comment letter is to provide more information to investors, and we have seen increased disclosures of supply chain financing programs following the comment letter review process. For the companies that do not provide any supply chain financing disclosures (as we discussed above, a company may consider the program to be immaterial), investors can get a small hint by looking at the trends in accounts payable.
 
 *The Watchdog Blog Team contacted Coca-Cola, P&G, and Boeing concerning this article. Boeing and Coca-Cola declined to comment, and P&G did not respond to our request for comment.*
+
+**Contact Us:**
+
+If you have questions about this article, please contact  our content manager, [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).  If you have questions about our company generally, or for press inquires, please contact our president Brian Lawe, blawe@watchdogresearch.com.
+
+We offer easy-to-use reports on individual public companies, if you would like to demo our products, please contact [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).
