@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+
+{%- include head.html -%}
+
+<body>
+
+{%- include header.html -%}
+
+
+<div class="blog-content-container">
+
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-10 offset-1">
+                <div class="blog-hunk-container" style="height: 600px;">
+                    {{ content }}
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+
+<div class="basement page-section page-section--with-border-top">
+    <div class="container" aria-label="Content">
+        <div class="row">
+            <div class="col">
+
+                <p>
+                    &copy; 2020 Watchdog Research, Inc. All rights reserved.<br>
+                    {{- site.description | escape -}}<br>
+                    Watchdog Research, Inc. is a financial research company providing due diligence information on
+                    public companies.
+                </p>
+
+                <p>
+                    {%- if site.twitter_username -%}<a
+                        href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}">@{{
+                    site.twitter_username| escape }}</a>{%- endif -%}
+                    {%- if site.rss -%}&nbsp; &nbsp; | &nbsp; &nbsp; <a
+                        href="{{ 'feed.xml' | relative_url }}"><span>{{ site.rss | escape }}</span></a>{%- endif -%}
+                </p>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+
+</html>
