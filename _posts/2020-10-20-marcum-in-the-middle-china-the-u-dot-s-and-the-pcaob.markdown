@@ -79,3 +79,7 @@ Marcum LLP has an infinitesimal portion of the Chinese audit market in compariso
 Another complicating factor is Marcum LLP and Marcum BP’s willingness to take on risky clients. In this case, Marcum LLP took over for another auditor which had resigned nearly a year earlier because of differences with the management team. Recently, Marcum BP took over the audit for Luckin Coffee from Ernst & Young Hua Ming LLP after a massive fraud was exposed.
 
 That transparency, and willingness to take on messy situations from riskier clients has come at a cost for Marcum LLP, but it has provided an invaluable insight to those interested in audit quality in China. This report demonstrates how valuable PCAOB inspections could be for improving audit quality and accountability for management in China. Hopefully, the CCP and the U.S. will reach an agreement to bring the same level of transparency to all accounting firms in China.
+
+**Contact Us:**
+
+If you have questions about this article, please contact the author, [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).  If you have questions about the company generally, or for press inquires, please contact our president Brian Lawe, brianlawe@watchdogresearch.com.
