@@ -12,9 +12,9 @@ author: john_cheffers
 image: 
 ---
 
-*We reached out to Marcum LLP, Marcum BP, and the PCAOB for comment concerning this article and did not receive any responses.  We will keep you apprised of any responses. *
+*We reached out to Marcum LLP, Marcum BP, and the PCAOB for comment concerning this article and did not receive any responses.  We will keep you apprised of any responses.*
 
-[Sign up](https://blog.watchdogresearch.com/signup/) to get our blogs sent directly to your inbox.
+*[Sign up](https://blog.watchdogresearch.com/signup/) to get our blogs sent directly to your inbox.*
 
 On September 24, 2020, the PCAOB released a settled disciplinary order against Marcum LLP for a matter dating back to November 2016, when Marcum issued a single unqualified opinion for the 2013, 2014, and 2015 financial statements of a company incorporated in Delaware, but headquartered and operating primarily located in China.
 
