@@ -9,7 +9,7 @@ tags:
 - PCAOB
 - China
 author: john_cheffers
-image: 
+image: "/uploads/Marcum%20LLP%20China%20Image.jpg"
 ---
 
 *We reached out to Marcum LLP, Marcum BP, and the PCAOB for comment concerning this article and did not receive any responses.  We will keep you apprised of any responses.*
