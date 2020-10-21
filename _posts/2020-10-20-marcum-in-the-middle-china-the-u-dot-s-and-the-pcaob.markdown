@@ -28,7 +28,7 @@ The CCP has taken other measures to cement control over its accounting professio
 
 Despite these restrictions, or perhaps because of them, the share of audit opinions issued out Beijing has doubled in the last decade.
 
-This dispute over the auditing profession belies a fantasy that the differences between China and the U.S. are merely accidental and not substantive— a fantasy held by a by a class of people hoping to benefit from China’s growth potential and foisted on everyone else through the normal institutional channels. However, the dispute over the PCAOB’s access to Chinese auditors shows that China and the U.S. are in separate worlds, playing by different sets of rules.
+This dispute over the auditing profession belies a fantasy that the differences between China and the U.S. are merely accidental and not substantive— a fantasy held by a class of people hoping to benefit from China’s growth potential and foisted on everyone else through the normal institutional channels. However, the dispute over the PCAOB’s access to Chinese auditors shows that China and the U.S. are in separate worlds, playing by different sets of rules.
 
 *Marcum in the Middle*
 
