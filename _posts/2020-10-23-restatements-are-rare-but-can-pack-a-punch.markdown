@@ -44,7 +44,7 @@ Even though the percentage of companies impacted by a restatement in 2019 was re
 
 *Conclusion*
 
-Restatements today are far less common than they were a decade ago, although the rate of decline has slowed in recent years. Our research also shows that 2/3 of restatements have a negative impact on share price. Although the response to a restatement is generally negative, people may be surprised by the fact that 1/3 of restatements had\* no negative impact\* on the share price after 30 days.
+Restatements today are far less common than they were a decade ago, although the rate of decline has slowed in recent years. Our research also shows that 2/3 of restatements have a negative impact on share price. Although the response to a restatement is generally negative, people may be surprised by the fact that 1/3 of restatements had *no negative impact* on the share price after 30 days.
 
 Even though restatements are not as common as they used to be, a restatement can still be a catastrophic gray swan event, as is evident from the negative impact that they had on TEUM, KHC, and BAX in 2019.
 
