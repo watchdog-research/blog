@@ -36,15 +36,15 @@ Our analysis indicates that for many companies, issuing a restatement is a tryin
 
 Even though the percentage of companies impacted by a restatement in 2019 was relatively low, some of the restatements that did occur had a near record-breaking impact.
 
-**Pareteum Corp (TEUM) **had a restatement on October 21, 2019 and lost 69.6% of its value over the next 30 days ($119 in market cap). TEUM’s decline in value (as a percentage of its pre-restatement value) over the thirty days following its restatement was more than any other company in the last ten years. TEUM was [delisted](https://www.sec.gov/Archives/edgar/data/1084384/000110465920115313/tm2033276d1_ex99-1.htm) in October 2020.
+**Pareteum Corp (TEUM)** had a restatement on October 21, 2019 and lost 69.6% of its value over the next 30 days ($119 in market cap). TEUM’s decline in value (as a percentage of its pre-restatement value) over the thirty days following its restatement was more than any other company in the last ten years. TEUM was [delisted](https://www.sec.gov/Archives/edgar/data/1084384/000110465920115313/tm2033276d1_ex99-1.htm) in October 2020.
 
 **Kraft Heinz (KHC)** had a restatement in February 2019 that erased $12.7 billion in market cap after its restatement on February 9th, 2019. This loss in vale was the second largest in the last ten years. If you want to know more, you can read some of our analysis on KHC [here](https://blog.watchdogresearch.com/posts/kraft-heinz-warren-buffets-dunkirk/), and [here](https://blog.watchdogresearch.com/posts/kraft-heinz-complaint-alleges-fundamental-corporate-governance-problems-accounting-shenanigans-and-insider-trading/), and [here](https://blog.watchdogresearch.com/posts/birds-of-a-feather-how-to-tell-a-gray-swan-from-a-black-swan-dot/).
 
-**Baxter International Inc (BAX) **had a restatement in October 2019 that erased $4.39 billion in market cap over the next thirty days. Even though BAX lost significantly less money than KHC, it was still the third largest loss of value in the last ten years.
+**Baxter International Inc (BAX)** had a restatement in October 2019 that erased $4.39 billion in market cap over the next thirty days. Even though BAX lost significantly less money than KHC, it was still the third largest loss of value in the last ten years.
 
 *Conclusion*
 
-Restatements today are far less common than they were a decade ago, although the rate of decline has slowed in recent years. Our research also shows that 2/3 of restatements have a negative impact on share price. Although the response to a restatement is generally negative, people may be surprised by the fact that 1/3 of restatements had* no negative impact* on the share price after 30 days.
+Restatements today are far less common than they were a decade ago, although the rate of decline has slowed in recent years. Our research also shows that 2/3 of restatements have a negative impact on share price. Although the response to a restatement is generally negative, people may be surprised by the fact that 1/3 of restatements had\* no negative impact\* on the share price after 30 days.
 
 Even though restatements are not as common as they used to be, a restatement can still be a catastrophic gray swan event, as is evident from the negative impact that they had on TEUM, KHC, and BAX in 2019.
 
