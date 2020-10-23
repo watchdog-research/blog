@@ -20,11 +20,11 @@ One thing to note is that restatements have declined significantly over the past
 
 ![Restatement Probability.png](/uploads/Restatement%20Probability.png)
 
-This graph shows the percent of companies filing one or more financial restatements from 2010 to 2019.
+This graph shows the annual share of companies filing one or more financial restatements from 2010 to 2019.
 
 This decline should bring a great deal of comfort to many companies since restatements are one of the most harmful gray swan events that we track. Restatements are often the opening salvo in a torrent of bad press. A restatement often occurs because of a substantial material weakness in the internal controls and often can precipitate turnover in the management team, particularly at the CFO position. Additionally, restatements often trigger class action securities lawsuits.
 
-Our analysis shows that the typical reaction of the market to a restatement is negative (approximately 2/3 of restatements resulted in negative returns). The most common result is negative returns from zero to 10%, but a significant portion (approximately 15%) had a negative return of 20% or more.
+Our analysis compared the returns over the thirty days following a restatement to the returns from the S&P 500 over the same timeframe.   The data shows that the typical reaction of the market to a restatement is negative (approximately 2/3 of restatements resulted in negative returns). The most common result is negative returns from zero to 10%, but a significant portion (approximately 15%) had a negative return of 20% or more.
 
 ![Restatements Histogram.png](/uploads/Restatements%20Histogram.png)
 
@@ -36,7 +36,7 @@ Our analysis indicates that for many companies, issuing a restatement is a tryin
 
 Even though the percentage of companies impacted by a restatement in 2019 was relatively low, some of the restatements that did occur had a near record-breaking impact.
 
-**Pareteum Corp (TEUM)** had a restatement on October 21, 2019 and lost 69.6% of its value over the next 30 days ($119 in market cap). TEUM’s decline in value (as a percentage of its pre-restatement value) over the thirty days following its restatement was more than any other company in the last ten years. TEUM was [delisted](https://www.sec.gov/Archives/edgar/data/1084384/000110465920115313/tm2033276d1_ex99-1.htm) in October 2020.
+**Pareteum Corp (TEUM)** had a restatement in October, 2019, and lost 69.6% of its value over the next 30 days ($119 in market cap). TEUM’s decline in value (as a percentage of its pre-restatement value) over the thirty days following its restatement was more than any other company in the last ten years. TEUM was [delisted](https://www.sec.gov/Archives/edgar/data/1084384/000110465920115313/tm2033276d1_ex99-1.htm) in October 2020.
 
 **Kraft Heinz (KHC)** had a restatement in February 2019 that erased $12.7 billion in market cap after its restatement on February 9th, 2019. This loss in vale was the second largest in the last ten years. If you want to know more, you can read some of our analysis on KHC [here](https://blog.watchdogresearch.com/posts/kraft-heinz-warren-buffets-dunkirk/), and [here](https://blog.watchdogresearch.com/posts/kraft-heinz-complaint-alleges-fundamental-corporate-governance-problems-accounting-shenanigans-and-insider-trading/), and [here](https://blog.watchdogresearch.com/posts/birds-of-a-feather-how-to-tell-a-gray-swan-from-a-black-swan-dot/).
 
