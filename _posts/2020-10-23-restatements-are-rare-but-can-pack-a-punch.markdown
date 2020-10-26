@@ -2,8 +2,8 @@
 title: Restatements Are Rare, But Can Pack a Punch
 date: 2020-10-23 15:35:00 -04:00
 categories:
-- featured
 - Independent Research
+- featured
 tags:
 - Financial Restatements
 author: john_cheffers
