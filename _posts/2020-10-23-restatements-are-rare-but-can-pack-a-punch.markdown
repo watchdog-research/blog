@@ -7,7 +7,7 @@ categories:
 tags:
 - Financial Restatements
 author: john_cheffers
-image: "/uploads/Error.jpg"
+image: "/uploads/Punch%20Pic.jpg"
 ---
 
 Public companies are required to keep investors and the public well informed concerning their financial condition. People rely on this information and expect it to be accurate. Accordingly, a company must file a restatement if it determines that its previous financial disclosures were inaccurate, and that people should not rely on them.
