@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 23 Oct 2020 15:35:00 -0400</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2020 13:18:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>The Impact of Restatements: The Bigger They Are…</title><author>John Cheffers</author>
+            
+            <category>Independent Research</category>
+            
+
+            <description>&lt;p&gt;There is nothing worse as an investor than when a company experiences a gray swan event like a financial restatement. Investors are rarely prepared for the bad news and have difficulty placing it into context; it is no wonder that for many investors the initial reaction to a financial restatement is a panicked sell-off.&lt;/p&gt;
+</description>
+            <pubDate>2020-10-29T13:18:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/the-impact-of-restatements-the-bigger-they-are-dot-dot-dot/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Restatements%20by%20size%20pic.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/the-impact-of-restatements-the-bigger-they-are-dot-dot-dot/</guid>
+        </item>
         
         <item>
             <title>Restatements Are Rare, But Can Pack a Punch</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2020-09-22T10:37:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/cybersecurity-litigation-review/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Cybersecurity.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/cybersecurity-litigation-review/</guid>
-        </item>
-        
-        <item>
-            <title>Impact of Cyan: Comparing the Market Today to the Pharmaceuticals of Yesteryear</title><author>John Cheffers</author>
-            
-            <category>featured</category>
-            
-
-            <description>&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.watchdogresearch.com/&quot;&gt;Watchdog Research&lt;/a&gt; provides an easy-to-use report for over 4,500 public companies based on 29 different categories of public disclosures. Our extensive database enables us to study larger trends affecting publicly traded companies.&lt;/em&gt;&lt;/p&gt;
-</description>
-            <pubDate>2020-09-10T11:51:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/impact-of-cyan-comparing-the-market-today-to-the-pharmaceuticals-of-yesteryear/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Supreme%20Court%20pic.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/impact-of-cyan-comparing-the-market-today-to-the-pharmaceuticals-of-yesteryear/</guid>
         </item>
         
 
