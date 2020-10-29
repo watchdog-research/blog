@@ -43,3 +43,7 @@ Additionally, large cap companies are also far more likely to be subject to a se
 *Conclusion*
 
 According to our research, restatements have fallen steadily over the past decade. Restatements for Large cap companies are exceptionally rare, but when they do occur, they can be extremely harmful. But the same does not hold true for Mid cap and Small cap companies Our research indicates that the impact of a restatement is often proportional to the size of a company, so if a Small cap company issues a restatement, it may end up being small potatoes.
+
+**Contact Us:**
+
+If you have questions about this article, please contact the author, [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).  If you have questions about the company generally, or for press inquires, please contact our president Brian Lawe, blawe@watchdogresearch.com.
