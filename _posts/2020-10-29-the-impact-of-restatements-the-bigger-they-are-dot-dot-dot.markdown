@@ -26,7 +26,7 @@ We looked at how many restatements occurred for each segment over the past ten y
 
 ![Restatements by size.png](/uploads/Restatements%20by%20size.png)
 
-This table shows the financial restatements by size from 2010-2019. One thing to note is just how exceptionally rare it is for a large cap company to issue a restatement. A Mid cap company is more than twice as likely as Large cap company to issue a restatement. And Small cap companies are almost seven times more likely to issue a restatement than a Large cap company.
+This table shows the financial restatements by size from 2010-2019. One thing to note is just how exceptionally rare it is for a Large cap company to issue a restatement. A Mid cap company is more than twice as likely as Large cap company to issue a restatement. And Small cap companies are almost seven times more likely to issue a restatement than a Large cap company.
 
 *Size Proportional to Impact*
 
@@ -36,9 +36,9 @@ The result of our analysis shows that the impact of a restatement is proportiona
 
 ![Restatements abnormal returns.png](/uploads/Restatements%20abnormal%20returns.png)
 
-This table shows abnormal returns by size from 2008 to 2020 year-to-date. What explains this disparity? One factor may be the relative lack of attention and scrutiny on small cap companies. Restatements for big companies are an unusual event, so when a large cap company has one, the market experiences a strongly negative reaction to the news.
+This table shows abnormal returns by size from 2008 to 2020 year-to-date. What explains this disparity? One factor may be the relative lack of attention and scrutiny on Small cap companies. Restatements for big companies are an unusual event, so when a Large cap company has one, the market experiences a strongly negative reaction to the news.
 
-Additionally, large cap companies are also far more likely to be subject to a securities class action suit after a restatement, which can amplify the negative cycle and downward pressure on share value.
+Additionally, Large cap companies are also far more likely to be subject to a securities class action suit after a restatement, which can amplify the negative cycle and downward pressure on share value.
 
 *Conclusion*
 
