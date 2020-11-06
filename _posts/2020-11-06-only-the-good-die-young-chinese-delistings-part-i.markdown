@@ -46,3 +46,7 @@ This graph shows that most Chinese delistings occur within a few years of an IPO
 No company is a sure bet, but some are riskier than others. Investors expect some up and downs in the market, but a delisting can represent a total loss of value in an investment, and the potential risk of a delisting should be a top concern when deciding where to invest. Investors should exercise great caution when investing in Chinese companies.
 
 As a part of our analysis, we also looked at when the circumstances surrounding these delistings raised concerns of fraud. But to see those numbers, you will have to wait for Part II.
+
+**Contact Us:**
+
+If you have questions about this article, please contact the author, [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).  If you have questions about the company generally, or for press inquires, please contact our president Brian Lawe, blawe@watchdogresearch.com.
