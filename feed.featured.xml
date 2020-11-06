@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 29 Oct 2020 13:18:00 -0400</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2020 15:01:00 -0500</lastBuildDate>
 
 
+        
+        <item>
+            <title>Only the Good Die Young? Chinese Delistings: Part I</title><author>John Cheffers</author>
+            
+            <category>China</category>
+            
+
+            <description>&lt;p&gt;Investors in Chinese companies are at a greater risk of a total loss from delisting than those investing in companies from any other country. This risk is especially high in the first few years after a Chinese company is listed on a U.S. Exchange.&lt;/p&gt;
+</description>
+            <pubDate>2020-11-06T15:01:00-05:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/only-the-good-die-young-chinese-delistings-part-i/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Good%20die%20young.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/only-the-good-die-young-chinese-delistings-part-i/</guid>
+        </item>
         
         <item>
             <title>The Impact of Restatements: The Bigger They Are…</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2020-09-24T13:50:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/sec-comment-letters-shed-more-light-on-reverse-factoring/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Paperwork.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/sec-comment-letters-shed-more-light-on-reverse-factoring/</guid>
-        </item>
-        
-        <item>
-            <title>Cybersecurity Litigation Review</title><author>John Cheffers</author>
-            
-            <category>Cybersecurity</category>
-            
-
-            <description>&lt;p&gt;Cybersecurity has gone from a niche concern to a hot topic in the D&amp;amp;O insurance world. Tomorrow, on September 23rd, we will be attending (remotely of course)  a webinar hosted by PLUS on how companies can strategically handle cybersecurity concerns. We are an independent research provider that uses an extensive database of public information to create easy-to-use reports for over 4,500 publicly traded companies. Since we track cybersecurity incidents and all material litigation for public companies, we thought we could use this as an opportunity to provide a little color to the important discussions concerning cybersecurity.&lt;/p&gt;
-</description>
-            <pubDate>2020-09-22T10:37:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/cybersecurity-litigation-review/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Cybersecurity.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/cybersecurity-litigation-review/</guid>
         </item>
         
 
