@@ -54,4 +54,4 @@ Chinese companies are getting listed on U.S. exchanges in record numbers. Invest
 
 **Contact Us:**
 
-If you have questions about this article, please contact the author, [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).  If you have questions about the company generally, or for press inquires, please contact our president Brian Lawe, blawe@watchdogresearch.com.
+If you have questions about this article, please contact the author, [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).  If you have questions about the company generally, or for press inquires, please contact our president Brian Lawe, blawe@watchdogresearch.com. 
