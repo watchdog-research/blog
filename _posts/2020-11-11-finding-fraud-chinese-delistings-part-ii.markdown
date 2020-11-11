@@ -16,7 +16,7 @@ image: "/uploads/57%25%20Pic.jpg"
 
 In our previous post, we looked at how Chinese companies are delisted at a higher rate than companies from any other country. In this post, we will look at why Chinese companies are delisted at such high rates.
 
-We collected data on 158 Chinese companies delisted from the NYSE and NASDAQ between 2010 and 2020. We gathered this data by searching through articles and public statements concerning the company, specifically examining the facts and circumstances around the time of delisting. We then categorized our results by keywords.
+We collected data on 158 Chinese companies delisted from the NYSE and NASDAQ between 2010 and 2020. We gathered this data by searching through articles and public statements concerning each company, specifically examining the facts and circumstances around the time of delisting. We then categorized our results by keywords.
 
 *This blog is derived from “Chinese Deslistings: Frequency and Causes” a research report produced by Joseph Burke, PhD, and John Cheffers, for Watchdog Research. If you are interested in accessing the entire report, email [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).*
 
