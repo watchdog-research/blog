@@ -51,3 +51,7 @@ Finally, we inferred fraud in some circumstances where it multiple auditor chang
 Our research strongly suggests that Chinese companies are delisted at higher rates than companies from other countries because they are far more likely to be unmasked as frauds. It will take some time to gather an equivalent dataset for U.S. and other foreign listings, but we suspect that a much smaller percentage of delistings in the U.S. will be associated with fraud.
 
 Chinese companies are getting listed on U.S. exchanges in record numbers. Investors should exercise extreme caution if they are considering investing in a Chinese company.
+
+**Contact Us:**
+
+If you have questions about this article, please contact the author, [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).  If you have questions about the company generally, or for press inquires, please contact our president Brian Lawe, blawe@watchdogresearch.com.
