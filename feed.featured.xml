@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 06 Nov 2020 15:01:00 -0500</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2020 09:55:00 -0500</lastBuildDate>
 
 
+        
+        <item>
+            <title>Finding Fraud: Chinese Delistings Part II</title><author>John Cheffers</author>
+            
+            <category>China</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;57% of Chinese delistings are associated with fraud, illegal activity, or highly suspicious circumstances, according to our research&lt;/em&gt;.&lt;/p&gt;
+</description>
+            <pubDate>2020-11-11T09:55:00-05:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/finding-fraud-chinese-delistings-part-ii/</link><enclosure url="https://blog.watchdogresearch.com/uploads/57%25%20Pic.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/finding-fraud-chinese-delistings-part-ii/</guid>
+        </item>
         
         <item>
             <title>Only the Good Die Young? Chinese Delistings: Part I</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2020-10-20T16:32:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/marcum-in-the-middle-china-the-u-dot-s-and-the-pcaob/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Marcum%20LLP%20China%20Image.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/marcum-in-the-middle-china-the-u-dot-s-and-the-pcaob/</guid>
-        </item>
-        
-        <item>
-            <title>SEC Comment Letters Shed More Light on Reverse Factoring</title><author>Olga Usvyatsky</author>
-            
-            <category>Guest Blog</category>
-            
-
-            <description>&lt;p&gt;&lt;em&gt;This post is published with permission of Olga Usvyatsky, a former VP of Research at Audit Analytics. She has a distinguished library of blogs and op-eds on accounting, buy-side research, and data analysis. Ms. Usvyatsky is currently enrolled as a PhD in Accounting student at Boston College, where she earned her MS in Accounting degree.&lt;/em&gt;&lt;/p&gt;
-</description>
-            <pubDate>2020-09-24T13:50:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/sec-comment-letters-shed-more-light-on-reverse-factoring/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Paperwork.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/sec-comment-letters-shed-more-light-on-reverse-factoring/</guid>
         </item>
         
 
