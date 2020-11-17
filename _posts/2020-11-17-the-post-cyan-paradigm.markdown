@@ -11,7 +11,9 @@ author: john_cheffers
 image: "/uploads/Legal.jpg"
 ---
 
-In March 2018, the Supreme Court handed down a unanimous decision in Cyan Inc. v. Beaver County Employees Retirement Fund (“*Cyan*”). This decision allowed plaintiffs to bring cases in some state courts which previously had only been triable in federal court. *Cyan* made it easier for plaintiffs to bring cases, and the predicable result has been an increase in cases.
+In March 2018, the Supreme Court handed down a unanimous decision in Cyan Inc. v. Beaver County Employees Retirement Fund (*“Cyan”*). This decision allowed plaintiffs to bring cases in some state courts which previously had only been triable in federal court. *Cyan* made it easier for plaintiffs to bring cases, and the predicable result has been an increase in cases.
+
+*This blog is derived from “Frequency and Impact of Securities Class Actions" a research report produced by Joseph Burke, PhD, and Joseph Yarborough, PhD, for Watchdog Research. If you are interested in accessing the entire report, email [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).*
 
 *Cyan* was a boon for plaintiff’s attorneys and for the defense attorneys called up to answer these claims, but it has been a real disaster for everyone else. D&O Insurance premiums have risen dramatically and created a hard market for policies. The increase in the cost of doing business has certainly been felt elsewhere too as costs get passed through to investors, employees, and customers.
 
