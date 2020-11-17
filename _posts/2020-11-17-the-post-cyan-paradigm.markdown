@@ -40,3 +40,7 @@ Our research corresponds with academic research and [commentary](https://www.dan
 Securities Class Action litigation hit record levels in 2017, and thanks to *Cyan*, litigation has remained at an elevated level. In this new paradigm, companies of all sizes are at far more risk of being named in one or more suits than in years past.
 
 Our research indicates that the size of a company is one of the most important factors determining the impact of litigation, but we will take a closer look at that data in our next post.
+
+**Contact Us:**
+
+If you have questions about this article, please contact the author, [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).  If you have questions about the company generally, or for press inquires, please contact our president Brian Lawe, blawe@watchdogresearch.com.
