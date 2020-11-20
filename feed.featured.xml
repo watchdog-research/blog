@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 17 Nov 2020 11:30:00 -0500</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2020 12:57:00 -0500</lastBuildDate>
 
 
+        
+        <item>
+            <title>The Post-Cyan Paradigm: Part II</title><author>John Cheffers</author>
+            
+            <category>Litigation</category>
+            
+
+            <description>&lt;p&gt;Securities Class Action suits tend to have a negative effect on companies of all sizes. But Small and Mid cap companies tend to suffer more when named as a defendant.&lt;/p&gt;
+</description>
+            <pubDate>2020-11-20T12:57:00-05:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/the-post-cyan-paradigm-part-ii/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Supreme%20Court.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/the-post-cyan-paradigm-part-ii/</guid>
+        </item>
         
         <item>
             <title>The Post-Cyan Paradigm</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2020-10-29T13:18:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/the-impact-of-restatements-the-bigger-they-are-dot-dot-dot/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Restatements%20by%20size%20pic.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/the-impact-of-restatements-the-bigger-they-are-dot-dot-dot/</guid>
-        </item>
-        
-        <item>
-            <title>Restatements Are Rare, But Can Pack a Punch</title><author>John Cheffers</author>
-            
-            <category>Independent Research</category>
-            
-
-            <description>&lt;p&gt;Public companies are required to keep investors and the public well informed concerning their financial condition. People rely on this information and expect it to be accurate. Accordingly, a company must file a restatement if it determines that its previous financial disclosures were inaccurate, and that people should not rely on them.&lt;/p&gt;
-</description>
-            <pubDate>2020-10-23T15:35:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/restatements-are-rare-but-can-pack-a-punch/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Punch%20Pic.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/restatements-are-rare-but-can-pack-a-punch/</guid>
         </item>
         
 
