@@ -36,3 +36,7 @@ Small cap and Mid cap companies have limited resources, and this post-*Cyan* par
 Even Small cap companies that have not been subject to Securities Class Action suits have suffered, as the D&O insurance market has hardened in response to these trends since getting named in a suit is not a matter of *if*, but *when*.
 
 Higher insurance premiums are passed on to investors, employees, and customers, harming everyone. The question is, is the post-*Cyan* paradigm here to stay?
+
+**Contact Us:**
+
+If you have questions about this article, please contact the author, [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).  If you have questions about the company generally, or for press inquires, please contact our president Brian Lawe, blawe@watchdogresearch.com.
