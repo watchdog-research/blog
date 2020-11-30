@@ -35,7 +35,7 @@ Concerning the broader implications of the ANT Group story, Kevin Lacroix, autho
 
 At Watchdog, we produce reports for every public company traded on U.S. exchanges. Each one of these reports contains a section on corporate governance issues because understanding what is going on in the C-suite is critical for understanding what is going on at a company.
 
-The pith of the problem in Chinese corporate governance is that executives have obligations to both the state and investors, and those loyalties can be in conflict. But to understand that conflict over loyalty and why it is such a significant problem, we need to take a few steps back.
+The pith of the problem in Chinese corporate governance is that executives have obligations to both the state and investors, and those loyalties are in conflict. But to understand that conflict over loyalty and why it is such a significant problem, we need to take a few steps back.
 
 Corporations exist to facilitate the flow of capital from people outside the corporation (investors) to the people inside the corporation (the directors and officers). Investors put their capital at risk to generate productivity, growth, and wealth, and they reap some share of the profits as a reward.
 
@@ -59,7 +59,7 @@ Problems in corporate governance [often](https://blog.watchdogresearch.com/posts
 
 This conflict over loyalty is not limited to a tiff between China’s dictator and its wealthiest business owner. This problem touches many different aspects in international business in China.
 
-For example, in a post cautioning business owners from relying on Chinese lawyers, the [China Law Blog](https://www.chinalawblog.com/2020/10/beware-of-china-lawyers.html) raises the possibility that “*working **against **your interest … might be your lawyer’s patriotic duty in China*.” Since Chinese lawyers take a [loyalty oath](https://www.rfa.org/english/news/china/china-makes-lawyers-swear-oath-12042018113905.html) to the CCP, so “*it is simply unrealistic to expect there will be any meaningful pushback against government pressure*.”
+For example, in a post cautioning business owners from relying on Chinese lawyers, the [China Law Blog](https://www.chinalawblog.com/2020/10/beware-of-china-lawyers.html) raises the possibility that “\*working \*\*against \**your interest … might be your lawyer’s patriotic duty in China*.” Since Chinese lawyers take a [loyalty oath](https://www.rfa.org/english/news/china/china-makes-lawyers-swear-oath-12042018113905.html) to the CCP, so “*it is simply unrealistic to expect there will be any meaningful pushback against government pressure*.”
 
 Pressure has been brought to bear in the accounting profession as well. We have written several stories about how the CCP refuses to allow auditors to share their work papers with the PCAOB, at least [most](https://blog.watchdogresearch.com/posts/marcum-in-the-middle-china-the-u-dot-s-and-the-pcaob/) of the time.
 
