@@ -59,11 +59,11 @@ Problems in corporate governance [often](https://blog.watchdogresearch.com/posts
 
 This conflict over loyalty is not limited to a tiff between China’s dictator and its wealthiest business owner. This problem touches many different aspects in international business in China.
 
-For example, in a post cautioning business owners from relying on Chinese lawyers, the [China Law Blog](https://www.chinalawblog.com/2020/10/beware-of-china-lawyers.html) raises the possibility that “\*working \*\*against \**your interest … might be your lawyer’s patriotic duty in China*.” Since Chinese lawyers take a [loyalty oath](https://www.rfa.org/english/news/china/china-makes-lawyers-swear-oath-12042018113905.html) to the CCP, so “*it is simply unrealistic to expect there will be any meaningful pushback against government pressure*.”
+For example, in a post cautioning business owners from relying on Chinese lawyers, the [China Law Blog](https://www.chinalawblog.com/2020/10/beware-of-china-lawyers.html) raises the possibility that “ *working*  ***against***  *your interest … might be your lawyer’s patriotic duty in China*.” Since Chinese lawyers take a [loyalty oath](https://www.rfa.org/english/news/china/china-makes-lawyers-swear-oath-12042018113905.html) to the CCP, so “*it is simply unrealistic to expect there will be any meaningful pushback against government pressure*.”
 
 Pressure has been brought to bear in the accounting profession as well. We have written several stories about how the CCP refuses to allow auditors to share their work papers with the PCAOB, at least [most](https://blog.watchdogresearch.com/posts/marcum-in-the-middle-china-the-u-dot-s-and-the-pcaob/) of the time.
 
-The CCP [requires](https://blog.watchdogresearch.com/posts/america-runs-from-luckin-clash-over-pcaob/) Chinese nationals to run the Chinese Big 4 affiliates. This suggests that the CCP is exercising influence on the accounting profession, so we have not been surprised to see an increasing share of audit opinions issued out of Beijing.
+The CCP [requires](https://blog.watchdogresearch.com/posts/america-runs-from-luckin-clash-over-pcaob/) Chinese nationals to run the Chinese Big 4 affiliates. This suggests that the CCP is exercising influence on the accounting profession, and we were not surprised to see an increasing share of audit opinions issued out of Beijing as power has concentrated there under Xi Jinping.
 
 ![Beining Audit opinions%-d476d5.png](/uploads/Beining%20Audit%20opinions%25-d476d5.png)
 
