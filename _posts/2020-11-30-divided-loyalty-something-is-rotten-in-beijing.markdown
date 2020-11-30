@@ -49,7 +49,7 @@ The core corporate governance problem for Chinese companies is that they are req
 
 This practice reflects the [Constitution](http://www.npc.gov.cn/zgrdw/englishnpc/Constitution/2007-11/15/content_1372963.htm) of the People’s Republic of China, which states in Article 1, “*The People’s Republic of China is a socialist state under the people’s democratic dictatorship .... Disruption of the socialist system by any organization or individual is prohibited.”*
 
-On the other hand, shareholders for Chinese companies have no recourse if the directors engage in [self-dealing](https://www.sec.gov/news/public-statement/emerging-market-investments-disclosure-reporting).
+In addition, shareholders of Chinese companies have no recourse if the directors engage in [self-dealing](https://www.sec.gov/news/public-statement/emerging-market-investments-disclosure-reporting).
 
 Problems in corporate governance [often](https://blog.watchdogresearch.com/posts/kraft-heinz-complaint-alleges-fundamental-corporate-governance-problems-accounting-shenanigans-and-insider-trading/) lead to problems in financial reporting because proper corporate governance is a key safeguard against fraud and abuse. Our research has shown that Chinese companies delist from U.S. exchanges at a [higher rate](https://blog.watchdogresearch.com/posts/only-the-good-die-young-chinese-delistings-part-i/) than any other country, and that almost 60% of those delistings were credibly associated with [fraud](https://blog.watchdogresearch.com/posts/finding-fraud-chinese-delistings-part-ii/).
 
