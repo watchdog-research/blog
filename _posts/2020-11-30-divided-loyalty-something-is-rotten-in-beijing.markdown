@@ -76,3 +76,7 @@ This episode also reveals a fundamental problem effecting every Chinese company.
 But in China, loyalty to the CCP and Xi Jinping supersedes all other loyalties.
 
 The communist ideology undermines the fundamental trust in relationships that make capital flow efficiently. Indeed, it undermines capitalism itself. This realization is no surprise to those who are familiar with communism’s history, or the writings of Marx, but it seems to have escaped those holding the levers of power in government and Wall Street.
+
+**Contact Us:**
+
+If you have questions about this article, please contact the author, [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).  If you have questions about the company generally, or for press inquires, please contact our president Brian Lawe, blawe@watchdogresearch.com.
