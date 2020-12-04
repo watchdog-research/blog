@@ -11,7 +11,7 @@ author: john_cheffers
 
 When assessing a company, it is always a good idea to see if there has been any unusual turnover in the C-suite.
 
-Turmoil in the C-suite often trickles down to other aspects of a company and is often associated with other problems. New CEOs can clash with existing management, and often there is a rocky transition as new systems are imposed on the company. Sometimes a new CEO will uncover problems successfully hidden by the previous CEO.
+Turmoil in the C-suite often trickles down to other aspects of a company and is often associated with other problems. New CEOs can clash with existing management, and often there is a rocky transition as new systems are imposed on a company. Sometimes a new CEO will uncover problems successfully hidden by the previous CEO.
 
 Additionally, some of our previous [research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3562785) showed that companies with a red flag CEO change were more than twice as likely to be named in a Securities Class Action suit in that same year as companies without one.
 
