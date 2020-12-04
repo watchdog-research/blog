@@ -7,6 +7,7 @@ categories:
 tags:
 - CEO
 author: john_cheffers
+image: "/uploads/CEO%20Departure.jpg"
 ---
 
 When assessing a company, it is always a good idea to see if there has been any unusual turnover in the C-suite.
