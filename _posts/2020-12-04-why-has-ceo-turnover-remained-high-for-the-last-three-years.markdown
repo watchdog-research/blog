@@ -42,7 +42,11 @@ It is not clear if litigation is causing CEO turnover or if CEO turnover is caus
 
 ***Conclusion***
 
-Taken together, the sustained increases in litigation and CEO departures point to a widespread increase in volatility in public companies. It’s not clear if this volatility is occurring for legal or cultural reasons. If the volatility is due to decisions from the Supreme Court and the outgoing Trump Administration, or if the volatility is due to the emergence of new cultural values in boardrooms. The overall increase in volatility could also just be a part of a generational shift as baby boomers exit the stage.
+Taken together, the sustained increases in litigation and CEO departures point to a widespread increase in volatility in public companies. It’s not clear if this volatility is occurring for legal or cultural reasons. 
+
+The volatility could be due to decisions from the Supreme Court and the outgoing Trump Administration, or it could be due to the emergence of new cultural values in boardrooms. 
+
+The overall increase in volatility could also just be a part of a generational shift as baby boomers exit the stage.
 
 Is this new volatility a blip, or a paradigm shift? Only time will tell.
 
@@ -50,4 +54,4 @@ Is this new volatility a blip, or a paradigm shift? Only time will tell.
 
 Public companies publish so much information that it is easy to miss critically important information.  Our Watchdog Reports allow our clients to quickly assess any public company. If you never want to  get caught flatfooted, then request a [demo](https://www.watchdogresearch.com/request_demo) . Special offers available.
 
-If you have questions about this blog, contact John Cheffers at jcheffers@watchdogresearch.com. For general or press inquires, contact our President Brian Lawe at blawe@watchdogresearch.com. 
+If you have questions about this blog, contact John Cheffers at jcheffers@watchdogresearch.com. For general or press inquires, contact our President Brian Lawe at blawe@watchdogresearch.com.
