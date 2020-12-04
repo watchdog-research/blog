@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 30 Nov 2020 08:39:00 -0500</lastBuildDate>
+        <lastBuildDate>Fri, 04 Dec 2020 09:43:00 -0500</lastBuildDate>
 
 
+        
+        <item>
+            <title>Why Has CEO Turnover Remained High for the Last Three Years?</title><author>John Cheffers</author>
+            
+            <category>CEO Turnover</category>
+            
+
+            <description>&lt;p&gt;When assessing a company, it is always a good idea to see if there has been any unusual turnover in the C-suite.&lt;/p&gt;
+</description>
+            <pubDate>2020-12-04T09:43:00-05:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/why-has-ceo-turnover-remained-high-for-the-last-three-years/</link><enclosure url="https://blog.watchdogresearch.com/uploads/CEO%20Departure.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/why-has-ceo-turnover-remained-high-for-the-last-three-years/</guid>
+        </item>
         
         <item>
             <title>Divided Loyalty: Something is Rotten in Beijing</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2020-11-11T09:55:00-05:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/finding-fraud-chinese-delistings-part-ii/</link><enclosure url="https://blog.watchdogresearch.com/uploads/57%25%20Pic.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/finding-fraud-chinese-delistings-part-ii/</guid>
-        </item>
-        
-        <item>
-            <title>Only the Good Die Young? Chinese Delistings: Part I</title><author>John Cheffers</author>
-            
-            <category>China</category>
-            
-
-            <description>&lt;p&gt;Investors in Chinese companies are at a greater risk of a total loss from delisting than those investing in companies from any other country. This risk is especially high in the first few years after a Chinese company is listed on a U.S. Exchange.&lt;/p&gt;
-</description>
-            <pubDate>2020-11-06T15:01:00-05:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/only-the-good-die-young-chinese-delistings-part-i/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Good%20die%20young.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/only-the-good-die-young-chinese-delistings-part-i/</guid>
         </item>
         
 
