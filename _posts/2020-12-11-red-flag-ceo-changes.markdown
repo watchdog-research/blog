@@ -27,7 +27,7 @@ For example, the CEO for McDonald’s [parted ways](https://www.sec.gov/Archives
 
 McDonald’s disclosure of wrongdoing was unusual. Our previous [analysis](https://blog.watchdogresearch.com/posts/why-has-ceo-turnover-remained-high-for-the-last-three-years/) of company disclosures concerning CEO departures from 2020 found that less than 4% of the departures were ascribed to misconduct. However, for almost 70% of CEO departures, the companies either gave no explanation, or an explanation so nondescript that it revealed nothing.
 
-It is indisputable that companies replace CEOs for misconduct far more often than they *disclose *that they replace a CEO for misconduct. A [PwC study](https://www.pwc.com/gx/en/news-room/press-releases/2019/ceo-turnover-record-high.html) suggested that *nearly 40%* of CEO departures in 2018 were due to an “ethical lapse.”
+It is indisputable that companies replace CEOs for misconduct far more often than they \*disclose \*that they replace a CEO for misconduct. A [PwC study](https://www.pwc.com/gx/en/news-room/press-releases/2019/ceo-turnover-record-high.html) suggested that *nearly 40%* of CEO departures in 2018 were due to an “ethical lapse.”
 
 Since we cannot rely on the companies to tell us when a CEO departure should raise a red flag, we also look at the surrounding facts and circumstances.
 
@@ -56,3 +56,9 @@ One last note on this topic of red flag CEO changes. As a part of the normal CEO
 **Conclusion**
 
 The reason why we assign green, yellow, and red flags in our reports is because we want to make it easier to spot significant events. Changes at the CEO position are always important, but our system can help cut through the noise and draw attention to the CEO departures that are the most likely to have a significant effect on the company’s future.
+
+**Contact Us**
+
+*D&O insurers spend a lot of time on new bid requests. Our clients use our Watchdog Reports to quickly discover which bids they should pursue. Click [here ](http://ec2-52-26-194-35.us-west-2.compute.amazonaws.com/x/d?c=10148055&l=8f486791-a4a8-4367-af11-bf1f39ebc6c7&r=dc393d8e-9c53-4da8-a628-9317a0b2abeb) to request a free demo. Special offers available.*
+
+If you have questions about this blog, contact John Cheffers at jcheffers@watchdogresearch.com. For general or press inquires, contact our President Brian Lawe at blawe@watchdogresearch.com.
