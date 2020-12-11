@@ -27,7 +27,7 @@ For example, the CEO for McDonald’s [parted ways](https://www.sec.gov/Archives
 
 McDonald’s disclosure of wrongdoing was unusual. Our previous [analysis](https://blog.watchdogresearch.com/posts/why-has-ceo-turnover-remained-high-for-the-last-three-years/) of company disclosures concerning CEO departures from 2020 found that less than 4% of the departures were ascribed to misconduct. However, for almost 70% of CEO departures, the companies either gave no explanation, or an explanation so nondescript that it revealed nothing.
 
-It is indisputable that companies replace CEOs for misconduct far more often than they \*disclose \*that they replace a CEO for misconduct. A [PwC study](https://www.pwc.com/gx/en/news-room/press-releases/2019/ceo-turnover-record-high.html) suggested that *nearly 40%* of CEO departures in 2018 were due to an “ethical lapse.”
+It is indisputable that companies replace CEOs for misconduct far more often than they *disclose* that they replace a CEO for misconduct. A [PwC study](https://www.pwc.com/gx/en/news-room/press-releases/2019/ceo-turnover-record-high.html) suggested that *nearly 40%* of CEO departures in 2018 were due to an “ethical lapse.”
 
 Since we cannot rely on the companies to tell us when a CEO departure should raise a red flag, we also look at the surrounding facts and circumstances.
 
