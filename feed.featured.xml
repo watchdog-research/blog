@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 04 Dec 2020 09:43:00 -0500</lastBuildDate>
+        <lastBuildDate>Fri, 11 Dec 2020 15:12:00 -0500</lastBuildDate>
 
 
+        
+        <item>
+            <title>Red Flag CEO Changes</title><author>John Cheffers</author>
+            
+            <category>Red Flags</category>
+            
+
+            <description>&lt;p&gt;Public companies disclose an enormous amount of information every year, but they don’t tell you what it means. Our Watchdog Reports summarize all the relevant corporate governance and financial reporting issues in a simple report that flags issues and provides peer-to-peer comparisons. Once you know what the information means, you can act with confidence.&lt;/p&gt;
+</description>
+            <pubDate>2020-12-11T15:12:00-05:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/red-flag-ceo-changes/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Red%20Flag.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/red-flag-ceo-changes/</guid>
+        </item>
         
         <item>
             <title>Why Has CEO Turnover Remained High for the Last Three Years?</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2020-11-17T11:30:00-05:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/the-post-cyan-paradigm/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Legal.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/the-post-cyan-paradigm/</guid>
-        </item>
-        
-        <item>
-            <title>Finding Fraud: Chinese Delistings Part II</title><author>John Cheffers</author>
-            
-            <category>China</category>
-            
-
-            <description>&lt;p&gt;&lt;em&gt;57% of Chinese delistings are associated with fraud, illegal activity, or highly suspicious circumstances, according to our research&lt;/em&gt;.&lt;/p&gt;
-</description>
-            <pubDate>2020-11-11T09:55:00-05:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/finding-fraud-chinese-delistings-part-ii/</link><enclosure url="https://blog.watchdogresearch.com/uploads/57%25%20Pic.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/finding-fraud-chinese-delistings-part-ii/</guid>
         </item>
         
 
