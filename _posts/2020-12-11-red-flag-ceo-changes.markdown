@@ -13,7 +13,7 @@ image: "/uploads/Red%20Flag.jpg"
 
 Public companies disclose an enormous amount of information every year, but they don’t tell you what it means. Our Watchdog Reports summarize all the relevant corporate governance and financial reporting issues in a simple report that flags issues and provides peer-to-peer comparisons. Once you know what the information means, you can act with confidence.
 
-One of the most important issues that we track is turnover in the C-suite. We track CEO and CFO changes for every public company and assign them a red, yellow, or green flag. In this post we will look specifically at CEO changes and show you the criteria for how we assign a red flag.
+One of the most important issues that we track is turnover in the C-suite. We track CEO and CFO changes for every public company and assign them a red, yellow, or green flag. If an investor should look to one person to best protect the investor's interest it would be the CEO. If the CEO goes, investors should be very concerned and want to know a clear reason for the departure. In this post we will look specifically at CEO changes and show you the criteria for how we assign a red flag
 
 **The Reason Offered for a CEO Departure Can Raise a Red Flag**
 
@@ -21,7 +21,7 @@ Companies must file a disclosure when they make a change at the CEO position, an
 
 Our system also will assign a red flag to any CEO change due to a disagreement with management, a dismissal for cause, or if wrongdoing was suspected or determined.
 
-For example, the CEO for McDonald’s [parted ways](https://www.sec.gov/Archives/edgar/data/63908/000089882219000080/pressrelease1.htm) with Steve Easterbrook for violating company policy by engaging in an inappropriate relationship with an employee.
+For example, McDonald’s [parted ways](https://www.sec.gov/Archives/edgar/data/63908/000089882219000080/pressrelease1.htm) with ex-CEO Steve Easterbrook for violating company policy by engaging in an inappropriate relationship with an employee.
 
 ![$MCD CEO Change.png](/uploads/$MCD%20CEO%20Change.png)
 
@@ -39,7 +39,7 @@ The most common reason we assign a CEO change a red flag is if the departing CEO
 
 Expedia also replaced its CFO the [same day](https://www.sec.gov/Archives/edgar/data/1324424/000119312519305833/d843290dex991.htm) as a part of a change in direction for the company. This decision appears to have been strategic and not related to any misconduct on the part of Expedia’s executives.
 
-In retrospect our red flag for Lawrence Molloy’s departure from Under Armour was on point. Molloy resigned for “[personal reasons](https://www.sec.gov/Archives/edgar/data/1336917/000133691717000008/january312017form8-k.htm)” in January 2017. His departure appears to have sparked an investigation by the SEC of accounting practices from 2015-2016 that earned Under Armour a [Wells notice](https://www.sec.gov/ix?doc=/Archives/edgar/data/1336917/000119312520199113/d43403d8k.htm) this past July. Interestingly, Molloy’s abrupt departure appears to have been due to the ethical lapses of other executives at Under Armour, not the CEO.
+In retrospect our red flag for Lawrence Molloy’s departure from Under Armour was on point. Molloy resigned for “[personal reasons](https://www.sec.gov/Archives/edgar/data/1336917/000133691717000008/january312017form8-k.htm)” in January 2017. His departure appears to have sparked an investigation by the SEC of accounting practices from 2015-2016 that earned Under Armour a [Wells notice](https://www.sec.gov/ix?doc=/Archives/edgar/data/1336917/000119312520199113/d43403d8k.htm) this past July. Interestingly, Molloy’s abrupt departure as CEO appears to have been due to the ethical lapses of *other *executives at Under Armour, not him. But his departure should have raised a big red flag for investors. 
 
 The PwC [study](https://www.pwc.com/gx/en/news-room/press-releases/2019/ceo-turnover-record-high.html) that we referenced earlier claimed that 40% of CEO departures were due to ethical lapses in 2018, nearly 50% higher than in 2017.
 
@@ -55,7 +55,9 @@ One last note on this topic of red flag CEO changes. As a part of the normal CEO
 
 **Conclusion**
 
-The reason why we assign green, yellow, and red flags in our reports is because we want to make it easier to spot significant events. Changes at the CEO position are always important, but our system can help cut through the noise and draw attention to the CEO departures that are the most likely to have a significant effect on the company’s future.
+The reason why we assign green, yellow, and red flags in our reports is because we want to make it easier to spot future gray swan events (public disclosures that often lead to a steep decline in a company's stock price).
+
+Changes at the CEO position are always important, but our system can help cut through the noise and draw attention to the CEO departures that are the most likely to have a significant effect on the company’s future.
 
 **Contact Us**
 
