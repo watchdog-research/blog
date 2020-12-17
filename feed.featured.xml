@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 11 Dec 2020 15:12:00 -0500</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2020 09:39:00 -0500</lastBuildDate>
 
 
+        
+        <item>
+            <title>Material Weaknesses Worsen</title><author>John Cheffers</author>
+            
+            <category>Red Flags</category>
+            
+
+            <description>&lt;p&gt;Accounting related problems at a company generally don’t get much press … until they do. A total accounting failure can result in an SEC investigation, restatements, lawsuits, and a catastrophic and long-lasting decline in stock price. In the last few years, we have seen &lt;a href=&quot;https://blog.watchdogresearch.com/posts/ge-goosing-accounting-estimates-to-lay-golden-eggs/&quot;&gt;GE&lt;/a&gt;, &lt;a href=&quot;https://blog.watchdogresearch.com/posts/kraft-heinz-complaint-alleges-fundamental-corporate-governance-problems-accounting-shenanigans-and-insider-trading/&quot;&gt;Kraft Heinz&lt;/a&gt;, and &lt;a href=&quot;https://blog.watchdogresearch.com/posts/under-armour-part-ii-cam-raises-the-specter-of-channel-stuffing/&quot;&gt;Under Armour&lt;/a&gt; all suffer severe and lasting consequences for accounting related issues.&lt;/p&gt;
+</description>
+            <pubDate>2020-12-17T09:39:00-05:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/material-weaknesses-worsen/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Material%20Weakness.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/material-weaknesses-worsen/</guid>
+        </item>
         
         <item>
             <title>Red Flag CEO Changes</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2020-11-20T12:57:00-05:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/the-post-cyan-paradigm-part-ii/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Supreme%20Court.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/the-post-cyan-paradigm-part-ii/</guid>
-        </item>
-        
-        <item>
-            <title>The Post-Cyan Paradigm</title><author>John Cheffers</author>
-            
-            <category>Litigation Risk</category>
-            
-
-            <description>&lt;p&gt;In March 2018, the Supreme Court handed down a unanimous decision in Cyan Inc. v. Beaver County Employees Retirement Fund (&lt;em&gt;“Cyan”&lt;/em&gt;). This decision allowed plaintiffs to bring cases in some state courts which previously had only been triable in federal court. &lt;em&gt;Cyan&lt;/em&gt; made it easier for plaintiffs to bring cases, and the predicable result has been an increase in cases.&lt;/p&gt;
-</description>
-            <pubDate>2020-11-17T11:30:00-05:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/the-post-cyan-paradigm/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Legal.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/the-post-cyan-paradigm/</guid>
         </item>
         
 
