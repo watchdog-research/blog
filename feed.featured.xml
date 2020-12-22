@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 17 Dec 2020 09:39:00 -0500</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2020 10:18:00 -0500</lastBuildDate>
 
 
+        
+        <item>
+            <title>The Impact of CEO Changes</title><author>John Cheffers</author>
+            
+            <category>CEO Turnover</category>
+            
+
+            <description>&lt;p&gt;This year we have looked at the impact of several different types of events, like &lt;a href=&quot;https://blog.watchdogresearch.com/posts/restatements-are-rare-but-can-pack-a-punch/&quot;&gt;restatements&lt;/a&gt;, &lt;a href=&quot;https://blog.watchdogresearch.com/posts/material-weaknesses-worsen/&quot;&gt;material weaknesses,&lt;/a&gt; and &lt;a href=&quot;https://blog.watchdogresearch.com/posts/the-post-cyan-paradigm-part-ii/&quot;&gt;securities class actions&lt;/a&gt; on share values.&lt;/p&gt;
+</description>
+            <pubDate>2020-12-22T10:18:00-05:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/the-impact-of-ceo-changes/</link><enclosure url="https://blog.watchdogresearch.com/uploads/CEO%20Image.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/the-impact-of-ceo-changes/</guid>
+        </item>
         
         <item>
             <title>Material Weaknesses Worsen</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2020-11-30T08:39:00-05:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/divided-loyalty-something-is-rotten-in-beijing/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Beijing%20Ruins.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/divided-loyalty-something-is-rotten-in-beijing/</guid>
-        </item>
-        
-        <item>
-            <title>The Post-Cyan Paradigm: Part II</title><author>John Cheffers</author>
-            
-            <category>Litigation</category>
-            
-
-            <description>&lt;p&gt;Securities Class Action suits tend to have a negative effect on companies of all sizes. But Small and Mid cap companies tend to suffer more when named as a defendant.&lt;/p&gt;
-</description>
-            <pubDate>2020-11-20T12:57:00-05:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/the-post-cyan-paradigm-part-ii/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Supreme%20Court.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/the-post-cyan-paradigm-part-ii/</guid>
         </item>
         
 
