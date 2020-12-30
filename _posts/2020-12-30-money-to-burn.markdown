@@ -1,6 +1,15 @@
 ---
 title: Money to Burn?
 date: 2020-12-30 09:43:00 -05:00
+categories:
+- SPACs
+- featured
+tags:
+- SPACs
+- Incentives
+- Returns
+author: john_cheffers
+image: "/uploads/Burning%20Money.jpg"
 ---
 
 Long ago FINRA warned that SPAC managers were incentivized to overpay for companies. This year a [study](https://www.renaissancecapital.com/IPO-Center/News/71816/Updated-SPAC-returns-fall-short-of-traditional-IPO-returns-on-average#:\~:text=Of%20the%20313%20SPACs%20IPOs,for%20traditional%20IPOs%20since%202015.) of SPACs showed that their average return was **-9.6%**. Of all the SPACs studied, only **31.1%** had positive returns.
@@ -34,3 +43,9 @@ This is a dismal track record considering that traditional IPOs had returns of *
 This is really a corporate governance issue. Good corporate governance requires that the managers be properly incentivized to act in the best interests of the investors, since the money belongs to the investors and not to them.
 
 Here SPAC managers get nothing if they cannot find a target but can still win big even if they overpay for an underperforming company. That is something to think about before following the crowd.
+
+**Contact Us**
+
+*D&O insurers spend a lot of time on new bid requests. Our clients use our Watchdog Reports to quickly discover which bids they should pursue. Click [here ](http://ec2-52-26-194-35.us-west-2.compute.amazonaws.com/x/d?c=10148055&l=8f486791-a4a8-4367-af11-bf1f39ebc6c7&r=dc393d8e-9c53-4da8-a628-9317a0b2abeb) to request a free demo. Special offers available.*
+
+If you have questions about this blog, contact John Cheffers at jcheffers@watchdogresearch.com. For general or press inquires, contact our President Brian Lawe at blawe@watchdogresearch.com.
