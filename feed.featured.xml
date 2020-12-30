@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 22 Dec 2020 10:18:00 -0500</lastBuildDate>
+        <lastBuildDate>Wed, 30 Dec 2020 09:43:00 -0500</lastBuildDate>
 
 
+        
+        <item>
+            <title>Money to Burn?</title><author>John Cheffers</author>
+            
+            <category>SPACs</category>
+            
+
+            <description>&lt;p&gt;Long ago FINRA warned that SPAC managers were incentivized to overpay for companies. This year a &lt;a href=&quot;https://www.renaissancecapital.com/IPO-Center/News/71816/Updated-SPAC-returns-fall-short-of-traditional-IPO-returns-on-average#:\~:text=Of%20the%20313%20SPACs%20IPOs,for%20traditional%20IPOs%20since%202015.&quot;&gt;study&lt;/a&gt; of SPACs showed that their average return was &lt;strong&gt;-9.6%&lt;/strong&gt;. Of all the SPACs studied, only &lt;strong&gt;31.1%&lt;/strong&gt; had positive returns.&lt;/p&gt;
+</description>
+            <pubDate>2020-12-30T09:43:00-05:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/money-to-burn/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Burning%20Money.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/money-to-burn/</guid>
+        </item>
         
         <item>
             <title>The Impact of CEO Changes</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2020-12-04T09:43:00-05:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/why-has-ceo-turnover-remained-high-for-the-last-three-years/</link><enclosure url="https://blog.watchdogresearch.com/uploads/CEO%20Departure.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/why-has-ceo-turnover-remained-high-for-the-last-three-years/</guid>
-        </item>
-        
-        <item>
-            <title>Divided Loyalty: Something is Rotten in Beijing</title><author>John Cheffers</author>
-            
-            <category>Corporate Governance</category>
-            
-
-            <description>&lt;p&gt;&lt;em&gt;Xi Jinping’s rebuke of Jack Ma has laid bare a critical problem in Chinese corporate governance. Chinese companies are required to put loyalty to the CCP and Xi Jinping before all other loyalties. Any perceived lack of loyalty to Xi Jinping is punished.&lt;/em&gt;&lt;/p&gt;
-</description>
-            <pubDate>2020-11-30T08:39:00-05:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/divided-loyalty-something-is-rotten-in-beijing/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Beijing%20Ruins.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/divided-loyalty-something-is-rotten-in-beijing/</guid>
         </item>
         
 
