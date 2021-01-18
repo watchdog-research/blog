@@ -42,7 +42,7 @@ This is a dismal track record considering that traditional IPOs had returns of *
 
 This is really a corporate governance issue. Good corporate governance requires that the managers be properly incentivized to act in the best interests of the investors, since the money belongs to the investors and not to them.
 
-Here SPAC managers get nothing if they cannot find a target but can still win big even if they overpay for an underperforming company. That is something to think about before following the crowd.
+Here SPAC managers get nothing if they cannot find a target but can still win big even if they overpay for an underperforming company. Although not [every](https://www.sec.gov/Archives/edgar/data/1811882/000119312520175042/d930055ds1.htm) SPAC is structured this way, looking carefully at the incentives in a SPAC is something that every investor should do before following the crowd.
 
 **Contact Us**
 
