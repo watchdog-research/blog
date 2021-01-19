@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 12 Jan 2021 14:25:00 -0500</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2021 15:16:00 -0500</lastBuildDate>
 
 
+        
+        <item>
+            <title>Who is Auditing SPACs?</title><author>John Cheffers</author>
+            
+            <category>SPACs</category>
+            
+
+            <description>&lt;p&gt;The number of SPACs exploded in 2020, exceeding the number of traditional IPOs for the first time ever. That growth looks like it will continue in &lt;a href=&quot;https://www.pymnts.com/news/ipo/2021/will-spacs-be-back-with-a-bang-in-2021/&quot;&gt;2021&lt;/a&gt;. SPACs have been around for a long time, however, they have only recently generated significant interest and capital.&lt;/p&gt;
+</description>
+            <pubDate>2021-01-19T15:16:00-05:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/who-is-auditing-spacs/</link><enclosure url="https://blog.watchdogresearch.com/uploads/SPAC%20Picture.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/who-is-auditing-spacs/</guid>
+        </item>
         
         <item>
             <title>SPACs in the Cayman Islands</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2020-12-17T09:39:00-05:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/material-weaknesses-worsen/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Material%20Weakness.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/material-weaknesses-worsen/</guid>
-        </item>
-        
-        <item>
-            <title>Red Flag CEO Changes</title><author>John Cheffers</author>
-            
-            <category>Red Flags</category>
-            
-
-            <description>&lt;p&gt;Public companies disclose an enormous amount of information every year, but they don’t tell you what it means. Our Watchdog Reports summarize all the relevant corporate governance and financial reporting issues in a simple report that flags issues and provides peer-to-peer comparisons. Once you know what the information means, you can act with confidence.&lt;/p&gt;
-</description>
-            <pubDate>2020-12-11T15:12:00-05:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/red-flag-ceo-changes/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Red%20Flag.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/red-flag-ceo-changes/</guid>
         </item>
         
 
