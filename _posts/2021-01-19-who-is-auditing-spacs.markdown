@@ -31,3 +31,9 @@ WithumSmith\+Brown has not had any recent disciplinary issues with the [PCAOB](h
 **Conclusion**
 
 For most of the last twenty years, SPACs occupied an insignificant portion of the market. Only two small auditing firms catered to this portion of the market. However, in the last three years, the number of SPACs has grown significantly, raising the profiles of Marcum LLP and WithumSmith\+Brown. Now that SPACs are attracting billions in capital, it will be interesting to see if the Big 4 take any significant steps to encroach on the SPAC market.
+
+**Contact Us**
+
+*D&O insurers spend a lot of time on new bid requests. Our clients use our Watchdog Reports to quickly discover which bids they should pursue. Click [here ](http://ec2-52-26-194-35.us-west-2.compute.amazonaws.com/x/d?c=10148055&l=8f486791-a4a8-4367-af11-bf1f39ebc6c7&r=dc393d8e-9c53-4da8-a628-9317a0b2abeb) to request a free demo. Special offers available.*
+
+If you have questions about this blog, contact John Cheffers at jcheffers@watchdogresearch.com. For general or press inquires, contact our President Brian Lawe at blawe@watchdogresearch.com.
