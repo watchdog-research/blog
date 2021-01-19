@@ -14,7 +14,7 @@ image: "/uploads/SPAC%20Picture.jpg"
 
 The number of SPACs exploded in 2020, exceeding the number of traditional IPOs for the first time ever. That growth looks like it will continue in [2021](https://www.pymnts.com/news/ipo/2021/will-spacs-be-back-with-a-bang-in-2021/). SPACs have been around for a long time, however, they have only recently generated significant interest and capital.
 
-Until recently, SPACs were a novelty and treated as such: FINRA warned investors about problematic incentives; D&O insurance coverage was [expensive](https://www.dandodiary.com/2021/01/articles/director-and-officer-liability/the-top-ten-do-stories-of-2020/) because it was so specialized; and only smaller more specialized accounting firms would provide independent auditing services.
+Until recently, SPACs were a novelty and treated as such: FINRA warned investors about [problematic incentives](https://blog.watchdogresearch.com/posts/money-to-burn/); D&O insurance coverage was [expensive](https://www.dandodiary.com/2021/01/articles/director-and-officer-liability/the-top-ten-do-stories-of-2020/) because it was so specialized; and only smaller more specialized accounting firms would provide independent auditing services.
 
 Over the last five years, two auditors have dominated the SPAC market, Marcum LLP and WithumSmith\+Brown PC.
 
@@ -22,7 +22,7 @@ Over the last five years, two auditors have dominated the SPAC market, Marcum LL
 
 Up through the last five years, the Big 4, PwC, Delloite, Ernst & Young, and KPMG have largely steered clear of SPACs. From 2015-2020, PwC only took on one SPAC client. It will be interesting to see if the dramatic increase in the number of SPACs will result in greater interest from the Big 4.
 
-What do we know about the two auditing firms that currently enjoy the lion’s share of the SPAC market? Marcum LLP did recently have some [trouble](https://blog.watchdogresearch.com/posts/marcum-in-the-middle-china-the-u-dot-s-and-the-pcaob/) with the [PCAOB](https://rasr.pcaobus.org/Firms/FirmSummaryPublic.aspx?FirmID=76E6B737AAB06B9D9470E48AE55F30C3) concerning their business in China; however, that does not tell us much about how they handle SPACs.
+What do we know about the two auditing firms that currently enjoy the lion’s share of the SPAC market? Marcum LLP did recently have some [trouble](https://blog.watchdogresearch.com/posts/marcum-in-the-middle-china-the-u-dot-s-and-the-pcaob/) with the [PCAOB](https://rasr.pcaobus.org/Firms/FirmSummaryPublic.aspx?FirmID=76E6B737AAB06B9D9470E48AE55F30C3) concerning their business in China; however, that does not tell us much about the SPAC side of their business.
 
 WithumSmith\+Brown has not had any recent disciplinary issues with the [PCAOB](https://rasr.pcaobus.org/Firms/FirmSummaryPublic.aspx?FirmID=7E4B42A51F1A72B7BDFE6C10FF510996). According to their last inspection report (which was released in 2016) the firm has 11 offices, all within the U.S. Interestingly, they appear to specialize [assisting](https://www.withum.com/wp-content/uploads/2021/01/FOREIGN-DOMICILED-SPACs.pdf) SPACs which are looking to incorporate in “tax havens.” For the past five years, they have been the clear leader for SPACs looking to incorporate in the Cayman Islands, a tax haven.
 
