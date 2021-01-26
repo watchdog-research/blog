@@ -58,3 +58,7 @@ A potential hybrid solution would be for the online platforms to provide investo
 **Conclusion**
 
 Currently, the online brokers are operating in a gray space. They seem to want to replace traditional brokers, as evidenced by their marketing and the services they offer. Yet they do not want to take on the responsibility of making suitable recommendations for investors.
+
+**Contact Us**
+
+If you have questions about this blog, contact John Cheffers at jcheffers@watchdogresearch.com. For general or press inquires, contact our President Brian Lawe at blawe@watchdogresearch.com.
