@@ -1,6 +1,14 @@
 ---
 title: Are We Making the Same Mistakes with ETFs that We Made with CDOs?
 date: 2021-01-29 10:22:00 -05:00
+categories:
+- ETFs
+- featured
+tags:
+- ETFs
+- CDOs
+author: john_cheffers
+image: "/uploads/CDOs.jpg"
 ---
 
 **Most ETFs aren’t technically derivatives, but could they pose similar risks?**
