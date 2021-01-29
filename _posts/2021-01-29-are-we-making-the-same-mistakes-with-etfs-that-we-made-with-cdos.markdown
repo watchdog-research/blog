@@ -50,3 +50,9 @@ One big difference between ETFs and CDOs is that the assets backing up most ETFs
 Still, investors need to be wary of being lulled into a false sense of security surrounding ETFs. They are skyrocketing in popularity, leading to a wide proliferation of different types of ETFs to satisfy every appetite. Investors should not get caught up in the frenzy, but instead make sure that they understand what they are putting their money into.
 
 If you want to buy an ETF, especially a specialized one, then do your due diligence on the underlying stocks, because no one else is doing it for you.
+
+**Contact Us**
+
+*D&O insurers spend a lot of time on new bid requests. Our clients use our Watchdog Reports to quickly discover which bids they should pursue. Click [here ](http://ec2-52-26-194-35.us-west-2.compute.amazonaws.com/x/d?c=10148055&l=8f486791-a4a8-4367-af11-bf1f39ebc6c7&r=dc393d8e-9c53-4da8-a628-9317a0b2abeb) to request a free demo. Special offers available.*
+
+If you have questions about this blog, contact John Cheffers at jcheffers@watchdogresearch.com. For general or press inquires, contact our President Brian Lawe at blawe@watchdogresearch.com.
