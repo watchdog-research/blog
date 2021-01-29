@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 26 Jan 2021 13:44:00 -0500</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2021 10:22:00 -0500</lastBuildDate>
 
 
+        
+        <item>
+            <title>Are We Making the Same Mistakes with ETFs that We Made with CDOs?</title><author>John Cheffers</author>
+            
+            <category>ETFs</category>
+            
+
+            <description>&lt;p&gt;&lt;strong&gt;Most ETFs aren’t technically derivatives, but they may pose similar risks.&lt;/strong&gt;&lt;/p&gt;
+</description>
+            <pubDate>2021-01-29T10:22:00-05:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/are-we-making-the-same-mistakes-with-etfs-that-we-made-with-cdos/</link><enclosure url="https://blog.watchdogresearch.com/uploads/CDOs.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/are-we-making-the-same-mistakes-with-etfs-that-we-made-with-cdos/</guid>
+        </item>
         
         <item>
             <title>Online Brokers are ... Not Brokers?</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2020-12-30T09:43:00-05:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/money-to-burn/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Burning%20Money.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/money-to-burn/</guid>
-        </item>
-        
-        <item>
-            <title>The Impact of CEO Changes</title><author>John Cheffers</author>
-            
-            <category>CEO Turnover</category>
-            
-
-            <description>&lt;p&gt;This year we have looked at the impact of several different types of events, like &lt;a href=&quot;https://blog.watchdogresearch.com/posts/restatements-are-rare-but-can-pack-a-punch/&quot;&gt;restatements&lt;/a&gt;, &lt;a href=&quot;https://blog.watchdogresearch.com/posts/material-weaknesses-worsen/&quot;&gt;material weaknesses,&lt;/a&gt; and &lt;a href=&quot;https://blog.watchdogresearch.com/posts/the-post-cyan-paradigm-part-ii/&quot;&gt;securities class actions&lt;/a&gt; on share values.&lt;/p&gt;
-</description>
-            <pubDate>2020-12-22T10:18:00-05:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/the-impact-of-ceo-changes/</link><enclosure url="https://blog.watchdogresearch.com/uploads/CEO%20Image.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/the-impact-of-ceo-changes/</guid>
         </item>
         
 
