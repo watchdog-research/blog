@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{% assign posts = site.categories['CEO Turnover'] %}
+
+
+<h3 class="post-list-heading">Articles in category: Ceo turnover</h3>
+
+<ul class="list-group">
+    {% for post in posts %}
+    <li class="list-group-item border-0 pl-0 pb-0"><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+
