@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 29 Jan 2021 10:22:00 -0500</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2021 07:56:00 -0500</lastBuildDate>
 
 
+        
+        <item>
+            <title>ETF Growth Continues in 2020</title><author>John Cheffers</author>
+            
+            <category>ETFs</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;The sheer number of new ETFs created annually indicates that many of them many represent highly risky investment strategies.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2021-02-01T07:56:00-05:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/etf-growth-continues-in-2020/</link><enclosure url="https://blog.watchdogresearch.com/uploads/ETF%20proliferation.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/etf-growth-continues-in-2020/</guid>
+        </item>
         
         <item>
             <title>Are We Making the Same Mistakes with ETFs that We Made with CDOs?</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2021-01-12T14:25:00-05:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/spacs-in-the-cayman-islands/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Beach.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/spacs-in-the-cayman-islands/</guid>
-        </item>
-        
-        <item>
-            <title>Money to Burn?</title><author>John Cheffers</author>
-            
-            <category>SPACs</category>
-            
-
-            <description>&lt;p&gt;Long ago FINRA warned that SPAC managers were incentivized to overpay for companies. This year a &lt;a href=&quot;https://www.renaissancecapital.com/IPO-Center/News/71816/Updated-SPAC-returns-fall-short-of-traditional-IPO-returns-on-average#:\~:text=Of%20the%20313%20SPACs%20IPOs,for%20traditional%20IPOs%20since%202015.&quot;&gt;study&lt;/a&gt; of SPACs showed that their average return was &lt;strong&gt;-9.6%&lt;/strong&gt;. Of all the SPACs studied, only &lt;strong&gt;31.1%&lt;/strong&gt; had positive returns.&lt;/p&gt;
-</description>
-            <pubDate>2020-12-30T09:43:00-05:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/money-to-burn/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Burning%20Money.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/money-to-burn/</guid>
         </item>
         
 
