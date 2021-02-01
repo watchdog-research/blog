@@ -16,7 +16,7 @@ ETFs are a relatively new investment vehicle that has become extremely popular o
 
 In 2020 the amount of money invested in ETFs eclipsed [$5 trillion](https://www.cnbc.com/2020/11/17/us-etf-market-tops-5-trillion-in-assets-as-investors-stampede-into-stocks-on-vaccine-hopes.html). ETFs have become popular in part because it their low fees, diversification, and tax efficiency. The key to their success is that they use an index, like the S&P 500, to create the underlying basket of stocks, so they do not use analysts to select stocks. Cutting out analysts lowers operating costs for the fund and lowers fees for investors.
 
-Since ETFs don’t use analysts to select stocks, they don’t do any due diligence on the companies in the underlying basket. Instead, ETFs file a prospectus explaining a set of criteria for its index populates the fund with companies that fit that criteria.
+ETFs don’t use analysts to select stocks and they seldom do any due diligence on the companies in the underlying basket. Instead, ETFs file a prospectus explaining a set of criteria for its index populates the fund with companies that fit that criteria.
 
 An ETF is only as safe as its index. The safest indexes are ones that track the whole market, or a more established list like the S&P 500. When investors buy into these ETFs they are avoiding the risk of picking stocks for a portfolio, since oftentimes a [monkey](http://wealthrisecfp.com/blog/2019/12/6/should-you-let-a-monkey-pick-your-stocks#:\~:text=Can%20a%20monkey%20select%20a,well%20as%20any%20investment%20professional.%E2%80%9D) can do a better job than the experts at picking stocks.
 
