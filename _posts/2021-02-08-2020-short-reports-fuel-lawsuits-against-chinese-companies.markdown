@@ -48,3 +48,9 @@ We have previously discussed many of the systemic problems in China: the lax [fo
 These problems make it plausible that China has a serious and systemic [fraud](https://blog.watchdogresearch.com/posts/finding-fraud-chinese-delistings-part-ii/) problem. To help factor in this risk for our clients, we penalize every Chinese company by automatically boosting their gray swan event risk factor.
 
 While more investors are becoming skeptical of Chinese companies, Western capital continues to flow into China. This abundance of fear and greed creates an ideal environment for short sellers. We suspect that short sellers will continue to target Chinese companies at elevated levels in 2021 and that securities class actions will follow closely behind.
+
+**Contact Us**
+
+*D&O insurers spend a lot of time on new bid requests. Our clients use our Watchdog Reports to quickly discover which bids they should pursue. Click [here ](http://ec2-52-26-194-35.us-west-2.compute.amazonaws.com/x/d?c=10148055&l=8f486791-a4a8-4367-af11-bf1f39ebc6c7&r=dc393d8e-9c53-4da8-a628-9317a0b2abeb) to request a free demo. Special offers available.*
+
+If you have questions about this blog, contact John Cheffers at jcheffers@watchdogresearch.com. For general or press inquires, contact our President Brian Lawe at blawe@watchdogresearch.com.
