@@ -40,3 +40,9 @@ With this guidance FINRA is opening the door to examining the relationships form
 FINRA may be contemplating some changes that will affect how every online broker does business. But instead of running from the legal obligation that brokers act in the best interests of their customers and provide suitable recommendations, they should find creative ways to meet these obligations.
 
 They could provide a suite of tools that allow investors to easily understand and evaluate the risks that come with investing in any investment vehicle, from single stocks to ETFs. If those risk profiles were the product of unbiased and independent research, then it would be easier to convince FINRA that their features were not unduly influential.
+
+**Contact Us**
+
+*We provide independent research on public companies, ETFs, and portfolios.  Our clients include D&O insurers, buy-side analysts, and consultants.  Click [here ](http://ec2-52-26-194-35.us-west-2.compute.amazonaws.com/x/d?c=10148055&l=8f486791-a4a8-4367-af11-bf1f39ebc6c7&r=dc393d8e-9c53-4da8-a628-9317a0b2abeb) to request a free demo. Special offers available.*
+
+If you have questions about this blog, contact John Cheffers at jcheffers@watchdogresearch.com. For general or press inquires, contact our President Brian Lawe at blawe@watchdogresearch.com.
