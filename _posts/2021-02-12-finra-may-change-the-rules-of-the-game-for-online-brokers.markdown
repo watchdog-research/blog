@@ -1,5 +1,5 @@
 ---
-title: FINRA May Change the Rules of the Game for Online Brokers
+title: FINRA May Change Rules of the Game for Online Brokers
 date: 2021-02-12 11:52:00 -05:00
 categories:
 - Online Brokers
