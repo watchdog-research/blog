@@ -1,4 +1,108 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://blog.watchdogresearch.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.watchdogresearch.com/" rel="alternate" type="text/html" /><updated>2021-02-12T12:39:48-05:00</updated><id>https://blog.watchdogresearch.com/feed.xml</id><title type="html">Watchdog Transparency Blog</title><subtitle>Watchdog Transparency is a publication based on reports created by Watchdog Research, Inc.</subtitle><entry><title type="html">FINRA May Change Rules of the Game for Online Brokers</title><link href="https://blog.watchdogresearch.com/posts/finra-may-change-the-rules-of-the-game-for-online-brokers/" rel="alternate" type="text/html" title="FINRA May Change Rules of the Game for Online Brokers" /><published>2021-02-12T11:52:00-05:00</published><updated>2021-02-12T11:52:00-05:00</updated><id>https://blog.watchdogresearch.com/posts/finra-may-change-the-rules-of-the-game-for-online-brokers</id><content type="html" xml:base="https://blog.watchdogresearch.com/posts/finra-may-change-the-rules-of-the-game-for-online-brokers/">&lt;p&gt;&lt;em&gt;Recent guidance on “game-like” features from FINRA should concern every online broker.&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://blog.watchdogresearch.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.watchdogresearch.com/" rel="alternate" type="text/html" /><updated>2021-02-15T09:54:43-05:00</updated><id>https://blog.watchdogresearch.com/feed.xml</id><title type="html">Watchdog Transparency Blog</title><subtitle>Watchdog Transparency is a publication based on reports created by Watchdog Research, Inc.</subtitle><entry><title type="html">Review of 2020’s High-Risk Companies</title><link href="https://blog.watchdogresearch.com/posts/review-of-2020-s-high-risk-companies/" rel="alternate" type="text/html" title="Review of 2020’s High-Risk Companies" /><published>2021-02-15T09:27:00-05:00</published><updated>2021-02-15T09:27:00-05:00</updated><id>https://blog.watchdogresearch.com/posts/review-of-2020-s-high-risk-companies</id><content type="html" xml:base="https://blog.watchdogresearch.com/posts/review-of-2020-s-high-risk-companies/">&lt;p&gt;&lt;em&gt;Five large-cap companies that we categorized as “high-risk” struggled throughout the year.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Here at Watchdog Research, we provide independent reports on publicly traded companies. Each company has two reports, a Watchdog Report, and a Gray Swan Event Factor Report.&lt;/p&gt;
+
+&lt;p&gt;Our Watchdog Reports use red, yellow, and green flags to make it easy to spot potential governance, accounting, legal, and oversight issues. Our Gray Swan Event Factor (GSEF) estimates what kind of negative impact a company’s past will have on their future.&lt;/p&gt;
+
+&lt;p&gt;Most companies have a relatively low GSEF score, in January 2020, only 5 large cap companies had scores over 5% (our threshold for considering a company “high-risk”). Here is a histogram of the GSEF scores for large cap companies. As you can see, even scoring above 2% is unusual.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/Histogram%20GSEF.png&quot; alt=&quot;Histogram GSEF.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We thought it would be fun to revisit the high-risk companies after such an interesting year and see how they performed in 2020. When we look at each company, we will look at their GSEF on January 1, 2020, returns in 2020, any major red flags, and offer a brief analysis.&lt;/p&gt;
+
+&lt;p&gt;In the aggregate, the few companies that we categorized as high-risk performed abysmally in comparison to the S&amp;amp;P 500, which gained 16.26% in 2020.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/High%20Risk%20v.%20S&amp;amp;P.png&quot; alt=&quot;High Risk v. S&amp;amp;P.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Kraft Heinz (KHC)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;11.15% GSEF: Extreme Risk&lt;/p&gt;
+
+&lt;p&gt;Return in 2020: 9.65%&lt;/p&gt;
+
+&lt;p&gt;Major Red Flags:&lt;/p&gt;
+
+&lt;p&gt;In 2019 Kraft Heinz issued a &lt;a href=&quot;https://blog.watchdogresearch.com/posts/kraft-heinz-warren-buffets-dunkirk/&quot;&gt;restatement&lt;/a&gt; impairing $15.9 billion in goodwill and intangible assets and disclosing serious internal control issues. In response, share prices fell by approximately 25%. The chaos from this restatement continued into 2020 as KHC was subject to multiple lawsuits, including a &lt;a href=&quot;https://blog.watchdogresearch.com/posts/kraft-heinz-complaint-alleges-fundamental-corporate-governance-problems-accounting-shenanigans-and-insider-trading/&quot;&gt;derivative suit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Analysis:&lt;/p&gt;
+
+&lt;p&gt;Kraft Heinz has slowly been recovering from its catastrophic fall in 2019. KHC stated in its second quarterly report that they have addressed the material weaknesses in their internal controls. However, KHC also impaired an additional &lt;a href=&quot;https://www.sec.gov/ix?doc=/Archives/edgar/data/1637459/000163745920000159/khc-20200926.htm&quot;&gt;$3.4 billion&lt;/a&gt; in goodwill and intangible assets in the first nine months of 2020.&lt;/p&gt;
+
+&lt;p&gt;Kraft Heinz has survived 2020. Their survival may be due in part to the coronavirus. It was a good year to sell comfort food in grocery stores. Buying the familiar brands under the Kraft Heinz umbrella probably gave people a much-needed sense of normalcy in an otherwise abnormal year.&lt;/p&gt;
+
+&lt;p&gt;It is possible that 2020 could have been a tremendous year for Kraft Heinz, but their past accounting issues and ongoing impairments may have kept them from properly rebounding.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Bristol Myers Squibb (BMY)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;6.81% GSEF: High Risk&lt;/p&gt;
+
+&lt;p&gt;Return in 2020: -2.07%&lt;/p&gt;
+
+&lt;p&gt;Major Red Flags:&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://blog.watchdogresearch.com/posts/bristol-myers-squibb-slash-celgene-merger/&quot;&gt;BMY merger&lt;/a&gt; with Celgene closed in 2019. When two companies of comparable size merge, the surviving company will typically underproduce in comparison to their peers for about &lt;a href=&quot;https://blog.watchdogresearch.com/posts/borgwarner-wants-to-dump-delphi-will-delphis-resistance-be-futile/&quot;&gt;two years&lt;/a&gt;. This is because the surviving company must attempt to integrate two completely different companies, each with their own set of problems and peculiarities. The “synergies” often are mere puffery that never materialize.&lt;/p&gt;
+
+&lt;p&gt;Accounting issues that arise out of a merger usually do not surface for at least a year. This is partly because accounting rules will allow companies to delay internal control assessments for the first year. So, it may take until 2022 to get a clear picture of the any challenges posed by BMY’s merger with Celgene.&lt;/p&gt;
+
+&lt;p&gt;We would also note that BMY has not had a comment letter with the SEC since late 2018. A company of that size is typically reviewed every year and the letters are not released until some weeks after the conversation ends, so it is possible that they are working on some complicated issues. A lack of comment letters can also be due to an undisclosed SEC investigation.&lt;/p&gt;
+
+&lt;p&gt;Analysis:&lt;/p&gt;
+
+&lt;p&gt;BMY is suffering from the typical malaise that strikes companies post-merger. Since they do not produce vaccines and did not quickly develop a therapeutic for the coronavirus (&lt;a href=&quot;https://www.sec.gov/ix?doc=/Archives/edgar/data/14272/000001427221000066/bmy-20201231.htm&quot;&gt;currently&lt;/a&gt; they have a therapeutic in phase I of testing), they missed out on the government contracts and hype that so many other companies in the medical field benefitted from this year.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Baxter International Inc (BAX)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;5.24% GSEF: High Risk&lt;/p&gt;
+
+&lt;p&gt;Return in 2020: -6.56%&lt;/p&gt;
+
+&lt;p&gt;Major Red Flags:&lt;/p&gt;
+
+&lt;p&gt;In 2020, BAX had to delay its 10-k for 2019 because of internal control issues and a pending restatement. That restatement was &lt;a href=&quot;https://www.sec.gov/ix?doc=/Archives/edgar/data/10456/000162828020003693/bax-20191231.htm&quot;&gt;issued&lt;/a&gt; shortly thereafter and restated figures from 2017, 2018, and 2019. It has led to several serious and ongoing problems, including a costly securities class action suit.&lt;/p&gt;
+
+&lt;p&gt;The last comment letter from the SEC was in 2017, even though it is likely that BAX is reviewed every year because of its size. In 2018, BAX’s numbers did not conform to Benford’s law. The presence of Benford’s law anomalies and the absence of comment letters both can be associated with an undisclosed SEC investigation.&lt;/p&gt;
+
+&lt;p&gt;After disclosing the restatement, BAX warned that they may be subject to SEC enforcement. They did not say if their disclosure was due to an ongoing investigation.&lt;/p&gt;
+
+&lt;p&gt;Analysis:&lt;/p&gt;
+
+&lt;p&gt;Baxter is the only company on this short list whose GSEF was higher at the end of 2020 than at the beginning. They have had a challenging year. It is &lt;a href=&quot;https://blog.watchdogresearch.com/posts/restatements-are-rare-but-can-pack-a-punch/&quot;&gt;typical&lt;/a&gt; for companies that issue a restatement to suffer stock declines has investor confidence plummets.&lt;/p&gt;
+
+&lt;p&gt;BAX produces medical devices, which is a growing field, but many of their customers (hospitals and similar businesses) experienced slow-downs this year as people shied away from receiving non-emergency care during the pandemic.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Lumen Technologies (LUMN) (formerly CenturyLink)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;5.74% GSEF: High Risk&lt;/p&gt;
+
+&lt;p&gt;Return in 2020: -17.36%&lt;/p&gt;
+
+&lt;p&gt;Major Red Flags:&lt;/p&gt;
+
+&lt;p&gt;Lumen Technologies did not file their 10-k &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/18926/000119312519061757/d706860dnt10k.htm&quot;&gt;on time&lt;/a&gt; in 2019 due to a restatement. They also revealed internal control issues that were not fully resolved until the following year. As usually happens, the restatement resulted in a securities class action suit that is still ongoing.&lt;/p&gt;
+
+&lt;p&gt;Analysis:&lt;/p&gt;
+
+&lt;p&gt;Lumen’s stock dropped during March, like every other company, but unlike many other companies, it did not recover. This is mysterious considering that the coronavirus did not appear to have a &lt;a href=&quot;https://seekingalpha.com/article/4396578-shedding-light-on-lumen-technologies&quot;&gt;material impact&lt;/a&gt; on operations. Their poor returns this year may have to do more with a lack of confidence in their attempt to &lt;a href=&quot;https://www.crn.com/news/networking/centurylink-changes-name-to-lumen-technologies-intros-smb-fiber-offering#:\~:text=and%20Technology%20Integrators-,CenturyLink%20Changes%20Name%20To%20Lumen%20Technologies%2C%20Intros%20SMB%20Fiber%20Offering,SMB%20services%2C%20the%20carrier%20said.&quot;&gt;revamp&lt;/a&gt; their business.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. TechnipFMC Plc. (FTI)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;6.02% GSEF: High Risk&lt;/p&gt;
+
+&lt;p&gt;Return in 2020: -55.93%&lt;/p&gt;
+
+&lt;p&gt;Major Red Flags:&lt;/p&gt;
+
+&lt;p&gt;FTI issued a restatement in 2017 and had material weaknesses in 2017, 2018, and 2019. FTI also has made 11 changes to accounting estimates in the last three years. In 2020, changes in accounting estimates had a positive impact of over &lt;a href=&quot;https://www.sec.gov/ix?doc=/Archives/edgar/data/1681459/000168145919000104/technipfmc2019930-10q.htm#s31BD284795D659A194AE3E47EDF9B1B2&quot;&gt;$340 million&lt;/a&gt;. However, in 2019, the company also issued an impairment of $1.79 billion. FTI’s CFO departed in January 2021.&lt;/p&gt;
+
+&lt;p&gt;Their independent auditor’s critical audit matters disclosures highlighted risks in revenue recognition concerning long term contracts. FTI’s auditors warn that the estimates involved in these estimates require a lot of judgement and are subjective.  Uncertainty concerning revenue recognition is always a red flag.&lt;/p&gt;
+
+&lt;p&gt;Analysis:&lt;/p&gt;
+
+&lt;p&gt;FTI was removed from the S&amp;amp;P 500. This is partly because of a &lt;a href=&quot;https://seekingalpha.com/news/3649692-technipfmc-resumes-planned-split-via-energies-spinoff&quot;&gt;spinoff&lt;/a&gt;, but primarily because they were one of the worst performers in the S&amp;amp;P 500 during 2020. FTI’s industry, oil and gas, was hit particularly hard by a loss of demand due to the coronavirus.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Stock prices reflect the confidence and enthusiasm of the market. Accounting, governance, regulatory and legal issues rarely have a significant impact on stock price, unless problems in those areas manifest themselves in a way that dashes the market’s confidence in a company. Our GSEF metric can serve as a proxy for evaluating potential challenges a company will have in keeping (or regaining) the confidence of the market.&lt;/p&gt;</content><author><name>john_cheffers</name></author><category term="Red Flags" /><category term="featured" /><category term="Gray Swan Event" /><category term="Returns" /><category term="coronavirus" /><summary type="html">Five large-cap companies that we categorized as “high-risk” struggled throughout the year.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.watchdogresearch.com/uploads/Gray%20Swan.jpg" /><media:content medium="image" url="https://blog.watchdogresearch.com/uploads/Gray%20Swan.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">FINRA May Change Rules of the Game for Online Brokers</title><link href="https://blog.watchdogresearch.com/posts/finra-may-change-the-rules-of-the-game-for-online-brokers/" rel="alternate" type="text/html" title="FINRA May Change Rules of the Game for Online Brokers" /><published>2021-02-12T11:52:00-05:00</published><updated>2021-02-12T11:52:00-05:00</updated><id>https://blog.watchdogresearch.com/posts/finra-may-change-the-rules-of-the-game-for-online-brokers</id><content type="html" xml:base="https://blog.watchdogresearch.com/posts/finra-may-change-the-rules-of-the-game-for-online-brokers/">&lt;p&gt;&lt;em&gt;Recent guidance on “game-like” features from FINRA should concern every online broker.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Like many media stories, the GameStop saga loomed large and made people feel that everything was about to change. But the moment has passed, and the media has moved onto the next novelty. But for online brokers, this story may end up having a lasting impact.&lt;/p&gt;
 
@@ -300,56 +404,4 @@
 
 &lt;p&gt;&lt;em&gt;D&amp;amp;O insurers spend a lot of time on new bid requests. Our clients use our Watchdog Reports to quickly discover which bids they should pursue. Click &lt;a href=&quot;http://ec2-52-26-194-35.us-west-2.compute.amazonaws.com/x/d?c=10148055&amp;amp;l=8f486791-a4a8-4367-af11-bf1f39ebc6c7&amp;amp;r=dc393d8e-9c53-4da8-a628-9317a0b2abeb&quot;&gt;here &lt;/a&gt;to request a free demo. Special offers available.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;If you have questions about this blog, email &lt;a href=&quot;mailto:jcheffers@watchdogresearch.com&quot;&gt;jcheffers@watchdogresearch.com&lt;/a&gt;. Or you can contact our President, Brian Lawe at &lt;a href=&quot;mailto:blawe@watchdogresearch.com&quot;&gt;blawe@watchdogresearch.com&lt;/a&gt;.&lt;/p&gt;</content><author><name>john_cheffers</name></author><category term="CEO Turnover" /><category term="featured" /><category term="CEO Changes" /><category term="Impact Analysis" /><summary type="html">This year we have looked at the impact of several different types of events, like restatements, material weaknesses, and securities class actions on share values.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.watchdogresearch.com/uploads/CEO%20Image.jpg" /><media:content medium="image" url="https://blog.watchdogresearch.com/uploads/CEO%20Image.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Material Weaknesses Worsen</title><link href="https://blog.watchdogresearch.com/posts/material-weaknesses-worsen/" rel="alternate" type="text/html" title="Material Weaknesses Worsen" /><published>2020-12-17T09:39:00-05:00</published><updated>2020-12-17T09:39:00-05:00</updated><id>https://blog.watchdogresearch.com/posts/material-weaknesses-worsen</id><content type="html" xml:base="https://blog.watchdogresearch.com/posts/material-weaknesses-worsen/">&lt;p&gt;Accounting related problems at a company generally don’t get much press … until they do. A total accounting failure can result in an SEC investigation, restatements, lawsuits, and a catastrophic and long-lasting decline in stock price. In the last few years, we have seen &lt;a href=&quot;https://blog.watchdogresearch.com/posts/ge-goosing-accounting-estimates-to-lay-golden-eggs/&quot;&gt;GE&lt;/a&gt;, &lt;a href=&quot;https://blog.watchdogresearch.com/posts/kraft-heinz-complaint-alleges-fundamental-corporate-governance-problems-accounting-shenanigans-and-insider-trading/&quot;&gt;Kraft Heinz&lt;/a&gt;, and &lt;a href=&quot;https://blog.watchdogresearch.com/posts/under-armour-part-ii-cam-raises-the-specter-of-channel-stuffing/&quot;&gt;Under Armour&lt;/a&gt; all suffer severe and lasting consequences for accounting related issues.&lt;/p&gt;
-
-&lt;p&gt;These were not black swan events, each of them was presaged by warning flags that should have warned investors of what lay ahead. Unfortunately, few people had the time to notice these flags, or had the expertise to factor in the risk.&lt;/p&gt;
-
-&lt;p&gt;Maybe you correctly foresaw these gray swan events, but the odds are that you were in the majority of people who missed them and lost money. Our Gray Swan Event Factor can help you stay ahead of the curve and anticipate accounting risks more easily. Request a free &lt;a href=&quot;https://www.watchdogresearch.com/request_demo&quot;&gt;demo&lt;/a&gt; today.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Material Weaknesses on the Rise&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;When we calculate our Gray Swan Event Factor, we look at a lot of different variables. One variable is whether a company disclosed a material weakness. A company will disclose a material weakness when one or more of their internal controls (procedures and safeguards against financial reporting irregularities) is ineffective.&lt;/p&gt;
-
-&lt;p&gt;Every year we create a report on the frequency and impact of material weaknesses. This article touches on a few key points, but if you would like to see the full report, email us and we will send it to you.&lt;/p&gt;
-
-&lt;p&gt;The number of companies that reported a material weakness increased sharply in 2019.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/Material%20Weaknesses%20numbers.png&quot; alt=&quot;Material Weaknesses numbers.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This increase in the overall number of material weaknesses reported continues an upward trend that has been consistent over the past decade.&lt;/p&gt;
-
-&lt;p&gt;To get a sense of the likelihood that any given company will disclose a material weakness, we took the same information and expressed it in percentages. In 2019, &lt;strong&gt;13.3%&lt;/strong&gt; of companies disclosed a material weakness.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/Material%20Weaknesses%20percentages.png&quot; alt=&quot;Material Weaknesses percentages.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This increase in material weaknesses should raise concerns amongst investors. When a company has a material weakness it means that there could be undetected problems with their financial reporting. Those undetected problems could be grievous accounting errors requiring a restatement, or worse, fraud.&lt;/p&gt;
-
-&lt;p&gt;It is interesting that the number of disclosed material weaknesses are on the rise, despite the fact that the SEC continues to &lt;a href=&quot;https://blog.watchdogresearch.com/posts/slacker-standards-sec-exempts-even-more-companies-from-404-b/&quot;&gt;loosen standards&lt;/a&gt; concerning the auditor attestation requirement under Sox 404(b).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Company Size Predictive of Frequency and Impact&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Not all companies are equally likely to experience a material weakness. In fact, our research indicates that a small company is far more likely to have a material weakness than a large company.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/Material%20Weakness%20table%20by%20market%20cap.png&quot; alt=&quot;Material Weakness table by market cap.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;One reason for this disparity is that the auditors of large companies must test their internal controls, this creates a strong incentive to expend the resources necessary to create effective internal controls.&lt;/p&gt;
-
-&lt;p&gt;Finally, the disclosure of a material weakness does not tend to have a large impact on the value of a company’s stock price, particularly for larger companies.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/Material%20Weakness%20table%20returns%20by%20market%20cap.png&quot; alt=&quot;Material Weakness table returns by market cap.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A company that has material weaknesses in their financial reporting is more likely to experience other events that have a much greater impact on stock price, like &lt;a href=&quot;https://blog.watchdogresearch.com/posts/restatements-are-rare-but-can-pack-a-punch/&quot;&gt;restatements&lt;/a&gt;, or &lt;a href=&quot;https://blog.watchdogresearch.com/posts/the-post-cyan-paradigm-part-ii/&quot;&gt;securities class action suits&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Material weaknesses have increased steadily over the past decade from &lt;strong&gt;7.2%&lt;/strong&gt; in 2010 to &lt;strong&gt;13.3%&lt;/strong&gt; in 2019. Smaller companies that have fewer regulatory requirements and fewer resources were far more likely to disclose a material weakness than larger companies.&lt;/p&gt;
-
-&lt;p&gt;These material weaknesses do not have much of an immediate impact on stock price, but they do increase the risk of problems with the financial reporting. Problems with the financial reporting can lead to restatements, lawsuits, investigations, and a host of other problems that can result in catastrophic losses.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Contact Us&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;A gray swan event can lead to catastrophic losses unless you are one of the few people who see it coming. Our Gray Swan Reports can help you navigate an uncertain future. Sign up for a free &lt;a href=&quot;https://www.watchdogresearch.com/request_demo&quot;&gt;demo&lt;/a&gt; today and learn how our information can keep you ahead of the curve.&lt;/p&gt;
-
-&lt;p&gt;If you would to have our blog sent directly to your inbox, &lt;a href=&quot;https://blog.watchdogresearch.com/signup/&quot;&gt;sign up&lt;/a&gt; here.&lt;/p&gt;
-
-&lt;p&gt;You can email jcheffers@watchdogresearch.com about this article.  For press inquires, contact our President, blawe@watchdogresearch.com.&lt;/p&gt;</content><author><name>john_cheffers</name></author><category term="Red Flags" /><category term="featured" /><category term="Material Weaknesses" /><category term="Red Flags" /><summary type="html">Accounting related problems at a company generally don’t get much press … until they do. A total accounting failure can result in an SEC investigation, restatements, lawsuits, and a catastrophic and long-lasting decline in stock price. In the last few years, we have seen GE, Kraft Heinz, and Under Armour all suffer severe and lasting consequences for accounting related issues.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.watchdogresearch.com/uploads/Material%20Weakness.jpg" /><media:content medium="image" url="https://blog.watchdogresearch.com/uploads/Material%20Weakness.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;If you have questions about this blog, email &lt;a href=&quot;mailto:jcheffers@watchdogresearch.com&quot;&gt;jcheffers@watchdogresearch.com&lt;/a&gt;. Or you can contact our President, Brian Lawe at &lt;a href=&quot;mailto:blawe@watchdogresearch.com&quot;&gt;blawe@watchdogresearch.com&lt;/a&gt;.&lt;/p&gt;</content><author><name>john_cheffers</name></author><category term="CEO Turnover" /><category term="featured" /><category term="CEO Changes" /><category term="Impact Analysis" /><summary type="html">This year we have looked at the impact of several different types of events, like restatements, material weaknesses, and securities class actions on share values.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.watchdogresearch.com/uploads/CEO%20Image.jpg" /><media:content medium="image" url="https://blog.watchdogresearch.com/uploads/CEO%20Image.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
