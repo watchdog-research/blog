@@ -90,7 +90,9 @@ BAX produces medical devices, which is a growing field, but many of their custom
 
 Return in 2020: -17.36%
 
-Major Red Flags: Lumen Technologies did not file their 10-k [on time](https://www.sec.gov/Archives/edgar/data/18926/000119312519061757/d706860dnt10k.htm) in 2019 due to a restatement. They also revealed internal control issues that were not fully resolved until the following year. As usually happens, the restatement resulted in a securities class action suit that is still ongoing.
+Major Red Flags: 
+
+Lumen Technologies did not file their 10-k [on time](https://www.sec.gov/Archives/edgar/data/18926/000119312519061757/d706860dnt10k.htm) in 2019 due to a restatement. They also revealed internal control issues that were not fully resolved until the following year. As usually happens, the restatement resulted in a securities class action suit that is still ongoing.
 
 Analysis:
 
