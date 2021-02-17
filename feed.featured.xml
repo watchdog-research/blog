@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 15 Feb 2021 09:27:00 -0500</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2021 11:13:00 -0500</lastBuildDate>
 
 
+        
+        <item>
+            <title>Biotech and Pharmaceutical Litigation in 2020</title><author>John Cheffers</author>
+            
+            <category>Securities Litigation</category>
+            
+
+            <description>&lt;p&gt;Companies sustained record-setting levels of securities class action suits in 2017, 2018, and 2019 after the Supreme Court’s decision in &lt;a href=&quot;https://blog.watchdogresearch.com/posts/the-post-cyan-paradigm/&quot;&gt;Cyan&lt;/a&gt; threw open the doors of the state courts to traditionally federal securities litigation. In 2020, the number of securities class action suits filed receded from these all-time highs, but it is unclear whether the reduction is a temporary departure from a new paradigm, or the beginning a of a return to the mean.&lt;/p&gt;
+</description>
+            <pubDate>2021-02-17T11:13:00-05:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/biotech-and-pharmaceutical-litigation-in-2020/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Legal-ec0bcb.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/biotech-and-pharmaceutical-litigation-in-2020/</guid>
+        </item>
         
         <item>
             <title>Review of 2020's High-Risk Companies</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2021-02-01T07:56:00-05:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/etf-growth-continues-in-2020/</link><enclosure url="https://blog.watchdogresearch.com/uploads/ETF%20proliferation.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/etf-growth-continues-in-2020/</guid>
-        </item>
-        
-        <item>
-            <title>Are We Making the Same Mistakes with ETFs that We Made with CDOs?</title><author>John Cheffers</author>
-            
-            <category>ETFs</category>
-            
-
-            <description>&lt;p&gt;&lt;strong&gt;Most ETFs aren’t technically derivatives, but they may pose similar risks.&lt;/strong&gt;&lt;/p&gt;
-</description>
-            <pubDate>2021-01-29T10:22:00-05:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/are-we-making-the-same-mistakes-with-etfs-that-we-made-with-cdos/</link><enclosure url="https://blog.watchdogresearch.com/uploads/CDOs.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/are-we-making-the-same-mistakes-with-etfs-that-we-made-with-cdos/</guid>
         </item>
         
 
