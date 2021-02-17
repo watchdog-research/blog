@@ -35,3 +35,9 @@ As you might expect, several companies in the biotech and pharmaceutical industr
 **Conclusion**
 
 This pattern may repeat again in 2021 as two of the three coronavirus-related lawsuits filed as of February 15th were against companies in the biotech and pharmaceutical industries. It appears that even if securities class actions continue to decline towards the long-term mean, there is a good chance that coronavirus-related lawsuits will keep biotech and pharmaceuticals at an elevated risk for litigation.
+
+**Contact Us**
+
+*We provide independent research on public companies, ETFs, and portfolios.  Our clients include D&O insurers, buy-side analysts, and consultants.  Click [here ](http://ec2-52-26-194-35.us-west-2.compute.amazonaws.com/x/d?c=10148055&l=8f486791-a4a8-4367-af11-bf1f39ebc6c7&r=dc393d8e-9c53-4da8-a628-9317a0b2abeb) to request a free demo. Special offers available.*
+
+If you have questions about this blog, contact John Cheffers at jcheffers@watchdogresearch.com. For general or press inquires, contact our President Brian Lawe at blawe@watchdogresearch.com.
