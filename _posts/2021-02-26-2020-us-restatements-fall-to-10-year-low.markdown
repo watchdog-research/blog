@@ -35,3 +35,9 @@ This year restatements and securities class action [lawsuits](https://blog.watch
 Restatements were down significantly for U.S. companies in 2020, reaching a new low. It is not clear if this decline has something to do with the coronavirus, or if it is simply the continuation of a long-term trend.
 
 The decline in restatements has likely contributed to the decline in securities class action suits that also occurred in 2020, although restatements traditionally have minor impact on the overall securities class action trends.
+
+**Contact Us**
+
+*We provide independent research on public companies, ETFs, and portfolios.  Our clients include D&O insurers, buy-side analysts, and consultants.  Click [here ](http://ec2-52-26-194-35.us-west-2.compute.amazonaws.com/x/d?c=10148055&l=8f486791-a4a8-4367-af11-bf1f39ebc6c7&r=dc393d8e-9c53-4da8-a628-9317a0b2abeb) to request a free demo. Special offers available.*
+
+If you have questions about this blog, contact John Cheffers at jcheffers@watchdogresearch.com. For general or press inquires, contact our President Brian Lawe at blawe@watchdogresearch.com.
