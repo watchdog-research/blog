@@ -34,3 +34,9 @@ To put it another way, investors are not as confident in the stability of foreig
 One implication is that foreign companies are a much more appetizing target for activist [short sellers](https://blog.watchdogresearch.com/posts/2020-short-reports-fuel-lawsuits-against-chinese-companies/). Our research indicates that investors lose confidence in foreign companies more easily, so a damaging short report is more likely to generate strong returns for the short seller.
 
 Another implication is that foreign companies who file restatements are an easier target for plaintiff’s firms, which can use the price swings following an event like a restatement to establish damages.
+
+**Contact Us**
+
+*We provide independent research on public companies, ETFs, and portfolios.  Our clients include D&O insurers, buy-side analysts, and consultants.  Click [here ](http://ec2-52-26-194-35.us-west-2.compute.amazonaws.com/x/d?c=10148055&l=8f486791-a4a8-4367-af11-bf1f39ebc6c7&r=dc393d8e-9c53-4da8-a628-9317a0b2abeb) to request a free demo. Special offers available.*
+
+If you have questions about this blog, contact John Cheffers at jcheffers@watchdogresearch.com. For general or press inquires, contact our President Brian Lawe at blawe@watchdogresearch.com.
