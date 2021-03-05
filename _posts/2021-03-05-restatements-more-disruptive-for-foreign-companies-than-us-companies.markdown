@@ -1,5 +1,5 @@
 ---
-title: Restatements More Disruptive for Foreign Companies than U.S. Companies
+title: Restatements More Disruptive to Foreign Companies than U.S. Companies
 date: 2021-03-05 14:21:00 -05:00
 categories:
 - Restatements
