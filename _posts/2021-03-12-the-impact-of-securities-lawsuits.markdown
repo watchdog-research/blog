@@ -27,7 +27,7 @@ Secondly, about a third of the time the lawsuit coincides with a relatively mode
 
 Large cap companies have access to more resources that can help them mitigate the impact of a securities class action suit. Large companies can afford a PR firm and can take steps to change the media narrative. Additionally, investors may think that the lawsuit is immaterial if the company is large and wealthy enough.
 
-The final thing to note about the table is that it is skewed to the left. About a third of the time the company named as a defendant will have abnormal returns that are worse than -10%. In comparison, fewer than one-tenth of companies had had positive returns that were better than 10%.
+The final thing to note about the table is that it is skewed to the left. About a third of the time the company named as a defendant will have abnormal returns that are worse than -10%. In comparison, fewer than one-tenth of companies had positive returns that were better than 10%.
 
 The data indicates that securities lawsuits pose a significant risk of intense losses for any given company.
 
