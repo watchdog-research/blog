@@ -11,8 +11,6 @@ author: john_cheffers
 image: "/uploads/SCA%20Histogram.png"
 ---
 
-*A securities class action suit poses serious risk of substantial losses.*
-
 In our research on securities class action lawsuits, we measure the impact the lawsuits by looking at abnormal returns over the 30-day period following a securities lawsuit. We calculate the abnormal returns by comparing how the company performed with how the S&P 500 performed on average over the same 30-day period.
 
 For example, if the S&P 500 rose 10% in the 30-days following a lawsuit against company X, and the company X’s stock remained at the same price during that period, then we calculate an abnormal return of -10% for company X.
