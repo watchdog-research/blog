@@ -14,7 +14,7 @@ image: "/uploads/China%20Flags.jpg"
 
 Foreign companies have played an increasingly relevant role on the NYSE and NASDAQ over the last decade and currently comprise over 20% of those exchanges. We recently completed a report on the particular risks by foreign listings entitled Foreign Restatements and Securities Class Actions.
 
-*This is a summary of our report on Foreign Restatements and Securities Class Actions authored by Joseph Burke and John Cheffers. If you would like access to the complete report at no cost, please email jcheffers@watchdogresearch.com. *
+*This is a summary of our report on Foreign Restatements and Securities Class Actions authored by Joseph Burke and John Cheffers. If you would like access to the complete report at no cost, please email jcheffers@watchdogresearch.com.*
 
 Securities class action suits against Chinese companies rose significantly in 2020, despite an overall decline in securities class action suits. We have [previously](https://blog.watchdogresearch.com/posts/2020-short-reports-fuel-lawsuits-against-chinese-companies/) observed that nearly half of the suits filed against Chinese companies were the result of an activist short report.
 
