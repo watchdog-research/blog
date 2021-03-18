@@ -8,7 +8,7 @@ tags:
 - Securites Litigation
 - China
 - Financial Restatements
-author: joseph_burke
+author: john_cheffers
 image: "/uploads/China%20Flags.jpg"
 ---
 
