@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 12 Mar 2021 10:34:00 -0500</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 11:51:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>Foreign Restatements and Securities Class Action Suits</title><author>John Cheffers</author>
+            
+            <category>Foreign Companies</category>
+            
+
+            <description>&lt;p&gt;Foreign companies have played an increasingly relevant role on the NYSE and NASDAQ over the last decade and currently comprise over 20% of those exchanges. We recently completed a report on the particular risks by foreign listings entitled Foreign Restatements and Securities Class Actions.&lt;/p&gt;
+</description>
+            <pubDate>2021-03-18T11:51:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/foreign-restatements-and-securities-class-action-suits/</link><enclosure url="https://blog.watchdogresearch.com/uploads/China%20Flags.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/foreign-restatements-and-securities-class-action-suits/</guid>
+        </item>
         
         <item>
             <title>The Impact of Securities Lawsuits</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2021-02-17T11:13:00-05:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/biotech-and-pharmaceutical-litigation-in-2020/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Legal-ec0bcb.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/biotech-and-pharmaceutical-litigation-in-2020/</guid>
-        </item>
-        
-        <item>
-            <title>Review of 2020's High-Risk Companies</title><author>John Cheffers</author>
-            
-            <category>Red Flags</category>
-            
-
-            <description>&lt;p&gt;&lt;em&gt;Five large-cap companies that we categorized as “high-risk” struggled throughout the year.&lt;/em&gt;&lt;/p&gt;
-</description>
-            <pubDate>2021-02-15T09:27:00-05:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/review-of-2020-s-high-risk-companies/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Gray%20Swan.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/review-of-2020-s-high-risk-companies/</guid>
         </item>
         
 
