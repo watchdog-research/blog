@@ -40,7 +40,7 @@ The easiest way to “phone-in” the assessment is to provide an adverse opinio
 
 Adverse opinions by management are far more meaningful for large companies. Since the independent auditors at large companies provide their own independent assessment of internal controls, management is strongly incentivized to implement and maintain rigorous controls.
 
-The different incentives at play create a remarkably different results when we segment the company population by size. Small companies were over 5 times more likely to report a control deficiency than large companies. This is consistent with our research demonstrating that small companies are far more likely to report a restatement than large companies.
+The different incentives at play create a remarkably different results when we segment the company population by size. Small companies were over 5 times more likely to report a control deficiency than large companies. This is consistent with our research demonstrating that small companies are far more likely to report a [restatement ](https://blog.watchdogresearch.com/posts/the-impact-of-restatements-the-bigger-they-are-dot-dot-dot/)than large companies.
 
 ![Deficiencies by Market Cap.png](/uploads/Deficiencies%20by%20Market%20Cap.png)
 
