@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 18 Mar 2021 11:51:00 -0400</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 10:17:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>Small Companies 5X More Likely Than Large Companies to Report a Control Deficiency</title><author>John Cheffers</author>
+            
+            <category>Internal Controls</category>
+            
+
+            <description>&lt;p&gt;After the Enron scandal, Congress passed Sarbanes-Oxley (SOX) to improve the quality of financial reporting and deter fraud. One core reform was to require every company’s management team to annually assess and report on the effectiveness of the company’s disclosure controls.&lt;/p&gt;
+</description>
+            <pubDate>2021-03-29T10:17:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/small-companies-5x-more-likely-than-large-companies-to-report-control-deficiency/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Green%20Fields.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/small-companies-5x-more-likely-than-large-companies-to-report-control-deficiency/</guid>
+        </item>
         
         <item>
             <title>Foreign Restatements and Securities Class Action Suits</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2021-02-26T12:32:00-05:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/2020-us-restatements-fall-to-10-year-low/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Restatements%20by%20size%20pic-6e1052.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/2020-us-restatements-fall-to-10-year-low/</guid>
-        </item>
-        
-        <item>
-            <title>Biotech and Pharmaceutical Litigation in 2020</title><author>John Cheffers</author>
-            
-            <category>Securities Litigation</category>
-            
-
-            <description>&lt;p&gt;Companies sustained record-setting levels of securities class action suits in 2017, 2018, and 2019 after the Supreme Court’s decision in &lt;a href=&quot;https://blog.watchdogresearch.com/posts/the-post-cyan-paradigm/&quot;&gt;Cyan&lt;/a&gt; threw open the doors of the state courts to traditionally federal securities litigation. In 2020, the number of securities class action suits filed receded from these all-time highs, but it is unclear whether the reduction is a temporary departure from a new paradigm, or the beginning a of a return to the mean.&lt;/p&gt;
-</description>
-            <pubDate>2021-02-17T11:13:00-05:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/biotech-and-pharmaceutical-litigation-in-2020/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Legal-ec0bcb.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/biotech-and-pharmaceutical-litigation-in-2020/</guid>
         </item>
         
 
