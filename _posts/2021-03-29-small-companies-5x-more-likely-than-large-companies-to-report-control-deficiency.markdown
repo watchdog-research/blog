@@ -18,7 +18,7 @@ Disclosure controls are the policies and procedures that ensure a company can pr
 
 Originally, the law also required the independent auditor to independently assess and attest to the quality of the internal controls. However, this attestation requirement, known as SOX 404(b), has been narrowed in scope [repeatedly](https://blog.watchdogresearch.com/posts/slacker-standards-sec-exempts-even-more-companies-from-404-b/) over the last two decades.
 
-Thankfully, the SOX 404(a) requirement for management to annually report on the effectiveness of internal controls has remained intact. Additionally, the SOX 302 requirement for management for report any disclosure control issues has also remained in effect.
+Thankfully, the SOX 404(a) requirement for management to annually report on the effectiveness of internal controls has remained intact. Additionally, the SOX 302 requirement for management to report quarterly on any disclosure control issues has also remained in effect.
 
 Management always has a strong interest in minimizing negative events, and we will touch on how that effects how they report on control issues.
 
