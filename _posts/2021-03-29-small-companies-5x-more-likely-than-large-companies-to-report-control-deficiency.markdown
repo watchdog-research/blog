@@ -36,7 +36,7 @@ It is often important to segment the market by size because companies of differe
 
 These small companies still need to assess their internal controls, but that assessment is not independently verified by their auditor. This lack of verification can result in companies “phoning-in” their assessment.
 
-The easiest way to “phone-in” the assessment is to provide an adverse opinion. This is safer than claiming that internal controls are good, and risk being humiliated if they are eventually forced to file a restatement. And since so many other small companies are filing adverse opinions, the announcement of a control deficiency has little impact. After all, many people expect small companies to lack the resources necessary to implement rigorous controls.
+The easiest way to “phone-in” the assessment is to provide an adverse opinion. This is safer than claiming that internal controls are good, and risk being humiliated if they are eventually forced to file a restatement. And since so many other small companies are filing adverse opinions, the announcement of an adverse opinion on a small company has relatively little impact. After all, many people expect small companies to lack the resources necessary to implement rigorous controls.
 
 Adverse opinions by management are far more meaningful for large companies. Since the independent auditors at large companies provide their own independent assessment of internal controls, management is strongly incentivized to implement and maintain rigorous controls.
 
