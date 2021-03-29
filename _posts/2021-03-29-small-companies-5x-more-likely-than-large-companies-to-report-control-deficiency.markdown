@@ -1,5 +1,5 @@
 ---
-title: Small Companies 5X More Likely Than Large Companies to Report Control Deficiency
+title: Small Companies 5X More Likely Than Large Companies to Report a Control Deficiency
 date: 2021-03-29 10:17:00 -04:00
 categories:
 - Internal Controls
