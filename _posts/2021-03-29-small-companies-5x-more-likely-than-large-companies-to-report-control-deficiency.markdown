@@ -32,7 +32,7 @@ Control deficiencies have been increasing at a steady rate over the last ten yea
 
 There are over 5,000 companies listed on U.S. exchanges. Although larger companies receive the majority of investor and media attention, there are far more small companies than large companies.
 
-It is often important to segment the market by size because companies of different sizes have different regulatory and reporting requirements, so they are often operating in a different environment. For example, smaller reporting companies with less than $75 million in public float don’t have to comply with 404(b).
+It is often important to segment the market by size because companies of different sizes have different regulatory and reporting requirements, so they are often operating in different environments. For example, smaller reporting companies with less than $75 million in public float don’t have to comply with 404(b).
 
 These small companies still need to assess their internal controls, but that assessment is not independently verified by their auditor. This lack of verification can result in companies “phoning-in” their assessment.
 
