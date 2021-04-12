@@ -3,6 +3,7 @@ title: 'On Trial: Personal Experience versus Hard Data'
 date: 2021-04-12 09:26:00 -04:00
 categories:
 - Independent Research
+- featured
 tags:
 - Internal Controls
 - Litigation
