@@ -60,9 +60,9 @@ The expert witness also reviewed PwC’s assessment of the expertise of Cavium�
 
 PwC’s expert witness concluded that the National Office at PwC came to a reasonable conclusion in deciding not to issue a material weakness for Cavium. Finally, the expert was asked the following question (and it is important because it speaks to the reasonableness of Botta’s whistleblower complaint to the SEC):
 
-> Q. Sir, in your entire career, including your 12 years at the SEC, have you ever seen a material weakness due to incompetency exist in these circumstances?
+> Q. *Sir, in your entire career, including your 12 years at the SEC, have you ever seen a material weakness due to incompetency exist in these circumstances?*
 >
-> A. Not in these circumstances.
+> A. *Not in these circumstances.*
 
 PwC’s expert has excellent credentials and a wealth of valuable and relevant experience. Yet even his experience is necessarily limited by the cases that crossed his desk, the clients he served, and the topics discussed by his friends and colleagues.
 
