@@ -19,7 +19,7 @@ When Lawrence Molloy [left Under Armour](https://blog.watchdogresearch.com/posts
 
 It is not surprising that our research consistently identifies [red-flag CFO changes](https://blog.watchdogresearch.com/posts/six-leading-indicators-of-securities-litigation/) as leading indicators for securities class action litigation.
 
-*This post is derived from our report on the 2021: Frequency and Impact of CFO Changes authored by Joseph Burke and Joseph Yarborough. If you would like to read the report at no cost, please email [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).*
+*This post is derived from our 2021: Frequency and Impact of CFO Changes report authored by Joseph Burke and Joseph Yarborough. If you would like to read the report, please email [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).*
 
 CFO changes have been rising steadily over the last ten years. In 2011, only **10.8%** of companies reported a CFO change, whereas in 2020, **15.1%** of companies reported a CFO change.
 
