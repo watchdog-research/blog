@@ -11,7 +11,7 @@ author: john_cheffers
 image: "/uploads/CFO%20turnover%202020.png"
 ---
 
-*In 2020, CFO turnover fell from historic levels, yet CFO turnover maintains its long-term upward trend.*
+*In 2020 CFO turnover fell from historic levels, yet CFO turnover maintains its long-term upward trend.*
 
 The CFO position may be one of the most important positions at any public company. Financial problems at a public company tend to fall in the lap of the CFO first. If the CFO departs under troubling circumstances, that can be a signal of trouble down the road.
 
