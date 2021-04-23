@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 20 Apr 2021 12:35:00 -0400</lastBuildDate>
+        <lastBuildDate>Fri, 23 Apr 2021 10:47:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>The 5 Worst Industries for CFO Turnover</title><author>John Cheffers</author>
+            
+            <category>CFO Change</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;All public company CFOs have a tough job, but keeping that job is particularly tough in these industries.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2021-04-23T10:47:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/the-5-worst-industries-for-cfo-turnover/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Empty%20Chair.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/the-5-worst-industries-for-cfo-turnover/</guid>
+        </item>
         
         <item>
             <title>CFO Turnover Falls (a little) in 2020</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2021-03-18T11:51:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/foreign-restatements-and-securities-class-action-suits/</link><enclosure url="https://blog.watchdogresearch.com/uploads/China%20Flags.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/foreign-restatements-and-securities-class-action-suits/</guid>
-        </item>
-        
-        <item>
-            <title>The Impact of Securities Lawsuits</title><author>John Cheffers</author>
-            
-            <category>Impact Analysis</category>
-            
-
-            <description>&lt;p&gt;In our research on securities class action lawsuits, we measure the impact of lawsuits by looking at abnormal returns over the 30-day period following a securities lawsuit. We calculate the abnormal returns by comparing how the company performed to how the S&amp;amp;P 500 performed on average over the same 30-day period.&lt;/p&gt;
-</description>
-            <pubDate>2021-03-12T10:34:00-05:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/the-impact-of-securities-lawsuits/</link><enclosure url="https://blog.watchdogresearch.com/uploads/SCA%20Histogram.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/the-impact-of-securities-lawsuits/</guid>
         </item>
         
 
