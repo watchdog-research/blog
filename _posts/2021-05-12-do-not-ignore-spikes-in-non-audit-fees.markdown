@@ -23,7 +23,7 @@ However, a spike in non-audit fees can be a cause for concern. A dramatic increa
 
 In 2019 Under Armour reported a dramatic spike in non-audit fees. In November 2019, the Wall Street Journal broke a story that Under Armour was subject to an SEC investigation concerning their accounting practices.
 
-It is likely that Under Armour’s increase in non-audit fees were related to navigating the investigation and in remediating weaknesses in the internal controls. The SEC [settled](https://www.sec.gov/news/press-release/2021-78) the case for $9 million less than two weeks ago.
+It is likely that Under Armour’s increase in non-audit fees were related to navigating the investigation and remediating the problems that led to the SEC investigation. The SEC [settled](https://www.sec.gov/news/press-release/2021-78) the case for $9 million less than two weeks ago.
 
 **Spikes in Non-Audit Fees Can Merely Accompany Complicated Financial Transactions**
 
