@@ -48,3 +48,5 @@ We are *not claiming* that Motorola has done something wrong. But unexplained ch
 The disclosure of audit and non-audit fees gives some limited insight into a company. If the fees are changing, it must be because something at the company is changing. Although oftentimes the explanation is readily available to investors, sometimes it isn’t.
 
 Here it is important to know what you do not know. For D&O insurance professionals, it is important to spot these potential risks and get explanations from the company when underwriting a policy or renewing a contract.
+
+Our Watchdog Reports help insurance and investment professionals spot risk, and they are available for over 4,500 public companies. Email jcheffers@watchdogresearch.com to find out if our reports can help you.  
