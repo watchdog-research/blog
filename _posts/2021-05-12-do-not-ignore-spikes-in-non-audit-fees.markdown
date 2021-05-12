@@ -27,7 +27,7 @@ It is likely that Under Armour’s increase in non-audit fees were related to na
 
 **Spikes in Non-Audit Fees Can Merely Accompany Complicated Financial Transactions**
 
-A spike in non-audit fees signals a new event, but not necessarily one that is negative. For example, in 2016 Hilton Hotels paid non-audit fees of over $13 million, a **181% **increase over the prior year. This increase was primarily due the complicated tax implications for Hilton’s [spinoff](https://www.washingtonpost.com/business/hilton-completes-split-into-three-independent-companies/2017/01/06/04414772-d287-11e6-a783-cd3fa950f2fd_story.html) into three distinct entities.
+A spike in non-audit fees signals a new event, but not necessarily one that is negative. For example, in 2016 Hilton Hotels paid non-audit fees of over $13 million, a **181%** increase over the prior year. This increase was primarily due the complicated tax implications for Hilton’s [spinoff](https://www.washingtonpost.com/business/hilton-completes-split-into-three-independent-companies/2017/01/06/04414772-d287-11e6-a783-cd3fa950f2fd_story.html) into three distinct entities.
 
 **The Example of Motorola**
 
