@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 03 Jun 2021 13:29:00 -0400</lastBuildDate>
+        <lastBuildDate>Mon, 21 Jun 2021 09:20:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>Mergers Plant the Seeds For Litigation</title><author>John Cheffers</author>
+            
+            <category>Red Flags</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;Our research indicates that large mergers are a strong leading indicator for Securities Class Actions.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2021-06-21T09:20:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/mergers-plant-seeds-for-litigation/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Red%20Flag-8cbf8e.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/mergers-plant-seeds-for-litigation/</guid>
+        </item>
         
         <item>
             <title>Watch Out for Audit Fee Jumps</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2021-04-23T10:47:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/the-5-worst-industries-for-cfo-turnover/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Empty%20Chair.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/the-5-worst-industries-for-cfo-turnover/</guid>
-        </item>
-        
-        <item>
-            <title>CFO Turnover Falls (a little) in 2020</title><author>John Cheffers</author>
-            
-            <category>CFO Change</category>
-            
-
-            <description>&lt;p&gt;&lt;em&gt;In 2020 CFO turnover fell from historic levels, yet CFO turnover maintains its long-term upward trend.&lt;/em&gt;&lt;/p&gt;
-</description>
-            <pubDate>2021-04-20T12:35:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/cfo-turnover-falls-a-little-in-2020/</link><enclosure url="https://blog.watchdogresearch.com/uploads/CFO%20turnover%202020.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/cfo-turnover-falls-a-little-in-2020/</guid>
         </item>
         
 
