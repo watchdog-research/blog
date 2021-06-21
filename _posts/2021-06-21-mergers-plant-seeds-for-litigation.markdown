@@ -1,5 +1,5 @@
 ---
-title: Mergers Plant Seeds For Litigation
+title: Mergers Plant the Seeds For Litigation
 date: 2021-06-21 09:20:00 -04:00
 categories:
 - Red Flags
