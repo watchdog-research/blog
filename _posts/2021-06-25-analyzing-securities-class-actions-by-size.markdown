@@ -21,7 +21,7 @@ Our database allows us to track the probability that any given companies will be
 
 ***Segmenting by Size***
 
-Our database shows us that this risk is not uniform for companies of all sizes. The large a company is, the more likely it is to be named in a SCA suit.
+Our database shows us that this risk is not uniform for companies of all sizes. The larger a company is, the more likely it is to be named in a SCA suit.
 
 ![Picture2.png](/uploads/Picture2.png)
 
