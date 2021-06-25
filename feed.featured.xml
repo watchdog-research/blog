@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 21 Jun 2021 09:20:00 -0400</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jun 2021 06:01:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>Analyzing Securities Class Actions by Size</title><author>John Cheffers</author>
+            
+            <category>Securities Litigation</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;Bigger companies may be more likely to be sued than smaller companies, but they are also more resilient.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2021-06-25T06:01:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/analyzing-securities-class-actions-by-size/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Picture2.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/analyzing-securities-class-actions-by-size/</guid>
+        </item>
         
         <item>
             <title>Mergers Plant the Seeds For Litigation</title><author>John Cheffers</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2021-05-06T08:30:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/auditors-can-help-prevent-costly-litigation/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Green%20field.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/auditors-can-help-prevent-costly-litigation/</guid>
-        </item>
-        
-        <item>
-            <title>The 5 Worst Industries for CFO Turnover</title><author>John Cheffers</author>
-            
-            <category>CFO Change</category>
-            
-
-            <description>&lt;p&gt;&lt;em&gt;All public company CFOs have a tough job, but keeping that job is particularly tough in these industries.&lt;/em&gt;&lt;/p&gt;
-</description>
-            <pubDate>2021-04-23T10:47:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/the-5-worst-industries-for-cfo-turnover/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Empty%20Chair.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/the-5-worst-industries-for-cfo-turnover/</guid>
         </item>
         
 
