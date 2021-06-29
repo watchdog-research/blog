@@ -10,7 +10,7 @@ author: elise_rose
 image: "/uploads/Pipes.jpg"
 ---
 
-SPACs are allowed to make dazzling projections without supporting data and retail investors may not be aware of some conflicts of interest that influence sponsors’ investment behavior.
+*SPACs are allowed to make dazzling projections without supporting data and retail investors may not be aware of some conflicts of interest that influence sponsors’ investment behavior.*
 
 Special purpose acquisition companies (SPACs) have [exploded](https://www.cnbc.com/2021/05/27/sec-considers-new-investor-protections-for-spacs.html) in popularity in the last 18 months, with 90% created in 2020 or 2021. A SPAC, also known as blank-check company, is a stock created by sponsors that raises money in an initial public offering with no underlying business. [Typically](https://www.jdsupra.com/legalnews/five-key-takeaways-from-the-sec-s-3931115/), the SPAC must use its cash within two years to buy a private company (in a de-SPAC transaction), or refund the money to investors. Generally, investors don’t know what the acquisition target will be until the announcement.
 
