@@ -8,7 +8,7 @@ tags:
 - SPACs
 - Conflict of Interest
 author: elise_rose
-image: 
+image: "/uploads/Couple.jpg"
 ---
 
 *The structure of SPACs leads to an inherent advantage for sponsors.*
