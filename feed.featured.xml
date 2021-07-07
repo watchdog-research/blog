@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 28 Jun 2021 10:00:00 -0400</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jul 2021 15:38:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>Matchmaker, Matchmaker--Sponsor Advantage</title><author>Elise Rose</author>
+            
+            <category>SPACs</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;The structure of SPACs leads to an inherent advantage for sponsors.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2021-07-07T15:38:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/matchmaker-matchmaker-sponsor-advantage/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Couple.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/matchmaker-matchmaker-sponsor-advantage/</guid>
+        </item>
         
         <item>
             <title>Sizzle and PIPE Dreams in SPAC-land</title><author>Elise Rose</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2021-06-03T13:29:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/watch-out-for-audit-fee-jumps/</link><enclosure url="https://blog.watchdogresearch.com/uploads/goo.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/watch-out-for-audit-fee-jumps/</guid>
-        </item>
-        
-        <item>
-            <title>Do Not Ignore Spikes in Non-Audit Fees</title><author>John Cheffers</author>
-            
-            <category>Non-Audit Fees</category>
-            
-
-            <description>&lt;p&gt;&lt;em&gt;A dramatic increase in non-audit fees means something is happening, and you should know what it is.&lt;/em&gt;&lt;/p&gt;
-</description>
-            <pubDate>2021-05-12T14:41:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/do-not-ignore-spikes-in-non-audit-fees/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Motorola%20non-audit%20fees.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/do-not-ignore-spikes-in-non-audit-fees/</guid>
         </item>
         
 
