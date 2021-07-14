@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 07 Jul 2021 15:38:00 -0400</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jul 2021 09:27:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>Slouching in SPAC-land: Poor Returns</title><author>Elise Rose</author>
+            
+            <category>SPACs</category>
+            
+
+            <description>&lt;p&gt;The investment returns for most SPACs are not as good as those for traditional IPOs.&lt;/p&gt;
+</description>
+            <pubDate>2021-07-14T09:27:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/slouching-in-spac-land-poor-returns/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Burning%20Money.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/slouching-in-spac-land-poor-returns/</guid>
+        </item>
         
         <item>
             <title>Matchmaker, Matchmaker--Sponsor Advantage</title><author>Elise Rose</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2021-06-21T09:20:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/mergers-plant-seeds-for-litigation/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Red%20Flag-8cbf8e.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/mergers-plant-seeds-for-litigation/</guid>
-        </item>
-        
-        <item>
-            <title>Watch Out for Audit Fee Jumps</title><author>John Cheffers</author>
-            
-            <category>Red Flags</category>
-            
-
-            <description>&lt;p&gt;&lt;em&gt;Audit fees are usually “sticky,” so you should notice when they jump.&lt;/em&gt;&lt;/p&gt;
-</description>
-            <pubDate>2021-06-03T13:29:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/watch-out-for-audit-fee-jumps/</link><enclosure url="https://blog.watchdogresearch.com/uploads/goo.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/watch-out-for-audit-fee-jumps/</guid>
         </item>
         
 
