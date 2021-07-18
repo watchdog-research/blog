@@ -60,7 +60,7 @@ authors:
   john_cheffers:
     name: John Cheffers
   elise_rose:
-    name: Elise Rose
+    name: Elise Rose PhD
 url: https://blog.watchdogresearch.com
 paginate: 7
 paginate_path: "/page:num/"
