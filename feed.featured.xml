@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 14 Jul 2021 09:27:00 -0400</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 08:43:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>Unsafe to Mislead</title><author>Elise Rose PhD</author>
+            
+            <category>SPACs</category>
+            
+
+            <description>&lt;p&gt;Legal liability for those involved in SPACs &lt;em&gt;may be higher&lt;/em&gt; than in conventional IPOs because of potential conflicts of interest.&lt;/p&gt;
+</description>
+            <pubDate>2021-07-27T08:43:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/unsafe-to-mislead/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Courtroom.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/unsafe-to-mislead/</guid>
+        </item>
         
         <item>
             <title>Slouching in SPAC-land: Poor Returns</title><author>Elise Rose PhD</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2021-06-25T06:01:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/analyzing-securities-class-actions-by-size/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Picture2.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/analyzing-securities-class-actions-by-size/</guid>
-        </item>
-        
-        <item>
-            <title>Mergers Plant the Seeds For Litigation</title><author>John Cheffers</author>
-            
-            <category>Red Flags</category>
-            
-
-            <description>&lt;p&gt;&lt;em&gt;Our research indicates that large mergers are a strong leading indicator for Securities Class Actions.&lt;/em&gt;&lt;/p&gt;
-</description>
-            <pubDate>2021-06-21T09:20:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/mergers-plant-seeds-for-litigation/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Red%20Flag-8cbf8e.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/mergers-plant-seeds-for-litigation/</guid>
         </item>
         
 
