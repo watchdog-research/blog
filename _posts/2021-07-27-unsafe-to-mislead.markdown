@@ -11,7 +11,7 @@ author: elise_rose
 image: "/uploads/Courtroom.jpg"
 ---
 
-Legal liability for those involved in SPACs *may be higher *than in conventional IPOs because of potential conflicts of interest.
+Legal liability for those involved in SPACs *may be higher* than in conventional IPOs because of potential conflicts of interest.
 
 A SPAC, also known as blank-check company, is a stock created by sponsors that raises money in an initial public offering with no underlying business. Investors entrust their money to one of these sponsors, instead of to an operating company.
 
@@ -19,13 +19,13 @@ A SPAC, also known as blank-check company, is a stock created by sponsors that r
 
 **No more free passes**
 
-On April 8, 2021, John Coates, Acting Director, Division of Corporation Finance of the *US Securities and Exchange Commission, wrote an *[article](https://www.sec.gov/news/public-statement/spacs-ipos-liability-risk-under-securities-laws)* primarily addressing the legal liability attached to disclosures in the de-SPAC transaction. He stressed that in some cases the risk of *liability for those involved in SPACs are higher, not lower, than in conventional IPOs because of potential conflicts of interest in the SPAC structure.
+On April 8, 2021, John Coates, Acting Director, Division of Corporation Finance of the US Securities and Exchange Commission, wrote an *[article](https://www.sec.gov/news/public-statement/spacs-ipos-liability-risk-under-securities-laws)* primarily addressing the legal liability attached to disclosures in the de-SPAC transaction. He stressed that in some cases the risk of liability for those involved in SPACs may be higher, not lower, than in conventional IPOs because of potential conflicts of interest in the SPAC structure.
 
 **Unsafe to mislead**
 
 Coates stressed that both federal and state law prohibit any material misstatement in, or omission from, SPAC registration statements either in the IPO or as part of a de-SPAC merger. In conflict-of-interest settings, Delaware corporate law in particular has stricter requirements on both fiduciary duties and on a duty of candor.
 
-Some SPAC advocates have argued that “safe harbor” provisions of the Private Securities Litigation Reform Act (PSLRA) of 1995 provide SPACs protections when making projections. The PSLRA was passed to curb frivolous securities lawsuits and its [safe harbor provision](https://www.law.cornell.edu/uscode/text/15/78u-5) protects stock issuers from legal liability for projections, also known as “[forward-looking statements](https://www.law.cornell.edu/definitions/uscode.php?width=840&height=800&iframe=true&def_id=15-USC-1658834582-1964343826&term_occur=999&term_src=title:15:chapter:2B:section:78u–5).” However, the safe harbor does not apply to any situation where the issuer knows the statement is untrue, misleading, or omits material facts.
+Some SPAC advocates have argued that “safe harbor” provisions of the Private Securities Litigation Reform Act (PSLRA) of 1995 provide SPACs protections when making projections. The PSLRA was passed to curb frivolous securities lawsuits and its [safe harbor provision](https://www.law.cornell.edu/uscode/text/15/78u-5) protects stock issuers from legal liability for projections, also known as “[forward-looking statements](https://www.law.cornell.edu/definitions/uscode.php?width=840&height=800&iframe=true&def_id=15-USC-1658834582-1964343826&term_occur=999&term_src=title:15:chapter:2B:section:78u%E2%80%935).” However, the safe harbor does not apply to any situation where the issuer knows the statement is untrue, misleading, or omits material facts.
 
 Even more relevant, [15 US Code 78u-5b1B](https://www.law.cornell.edu/uscode/text/15/78u-5) *specifically excludes* blank check companies from any safe harbor protections. Initial Public Offerings are also excluded from using the safe harbor provisions by [15 US Code 78u-5b1D](https://www.law.cornell.edu/uscode/text/15/78u-5) because of a danger for abuse. Coates argues that a de-SPAC transaction essentially functions as an IPO because even though the public entity has existed as a legal entity for some time, the actual operations from de-SPAC entity will come from the projections of a private company:
 
@@ -51,4 +51,4 @@ Lawsuits could go the other way as well. [Paul Atkins](https://us02web.zoom.us/r
 
 **Conclusion:**
 
-Recent SEC publications indicate that those involved in *SPACs* may not have safe harbor protection from l*egal liability under the *PSLRA. In fact, the risk of liability for those involved with SPACs *may be *higher than in risk of launching a conventional IPO because of structural conflicts of interest in SPACs.
+Recent SEC publications indicate that those involved in *SPACs* may not have safe harbor protection from l\*egal liability under the \*PSLRA. In fact, the risk of liability for those involved with SPACs \*may be \*higher than in risk of launching a conventional IPO because of structural conflicts of interest in SPACs.
