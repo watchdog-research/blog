@@ -51,4 +51,4 @@ Lawsuits could go the other way as well. [Paul Atkins](https://us02web.zoom.us/r
 
 **Conclusion:**
 
-Recent SEC publications indicate that those involved in *SPACs* may not have safe harbor protection from l\*egal liability under the \*PSLRA. In fact, the risk of liability for those involved with SPACs \*may be \*higher than in risk of launching a conventional IPO because of structural conflicts of interest in SPACs.
+Recent SEC publications indicate that those involved in *SPACs* may not have safe harbor protection from legal liability under the PSLRA. In fact, the risk of liability for those involved with SPACs *may be* higher than in risk of launching a conventional IPO because of structural conflicts of interest in SPACs.
