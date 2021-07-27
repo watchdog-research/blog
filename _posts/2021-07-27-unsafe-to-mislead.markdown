@@ -39,7 +39,7 @@ He also warns against only disclosing favorable projections while omitting menti
 
 This heightened scrutiny caused alarm in some quarters. [Michael Fitzgerald](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/tech-and-spacs-sec-regulation-could-result-in-fewer-but-better-spacs-64000801), a managing director at MorganFranklin Consulting LLC, a Vaco company, said,
 
-“One of the biggest advantages of SPACs over traditional IPOs is the availability of target projections and information on valuation that are not common in a traditional IPO prospectus. Changes in securities laws or elimination of safe harbor protections could reduce the benefit of SPACs in the future."
+> One of the biggest advantages of SPACs over traditional IPOs is the availability of target projections and information on valuation that are not common in a traditional IPO prospectus. Changes in securities laws or elimination of safe harbor protections could reduce the benefit of SPACs in the future.
 
 However, Withers partner M. Ridgway [Barker](https://www.cfodive.com/news/new-spac-scrutiny-CFO-forward-looking-guidance-withers-barker/598728/) and [others](https://www.jdsupra.com/legalnews/five-key-takeaways-from-the-sec-s-3931115/) didn’t see the SEC as prohibiting forward-looking disclosures in SPAC deals. They feel the new guidelines are a signal that the Commission would examine what sponsors and target companies say about their merger, looking for the kinds of statements that are banned in traditional IPOs.
 
