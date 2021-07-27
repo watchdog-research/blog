@@ -29,7 +29,7 @@ Some SPAC advocates have argued that “safe harbor” provisions of the Private
 
 Even more relevant, [15 US Code 78u-5b1B](https://www.law.cornell.edu/uscode/text/15/78u-5) *specifically excludes* blank check companies from any safe harbor protections. Initial Public Offerings are also excluded from using the safe harbor provisions by [15 US Code 78u-5b1D](https://www.law.cornell.edu/uscode/text/15/78u-5) because of a danger for abuse. Coates argues that a de-SPAC transaction essentially functions as an IPO because even though the public entity has existed as a legal entity for some time, the actual operations from de-SPAC entity will come from the projections of a private company:
 
-> …the public knows nothing about this private company. Appropriate liability should attach to whatever claims it is making, or others are making on its behalf.
+> "…the public knows nothing about this private company. Appropriate liability should attach to whatever claims it is making, or others are making on its behalf."
 
 [Coates](https://www.sec.gov/news/public-statement/spacs-ipos-liability-risk-under-securities-laws) rightly insists that PSLRA does not protect against false or misleading statements when made with actual knowledge that the statement was false or misleading.
 
@@ -39,7 +39,7 @@ He also warns against only disclosing favorable projections while omitting menti
 
 This heightened scrutiny caused alarm in some quarters. [Michael Fitzgerald](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/tech-and-spacs-sec-regulation-could-result-in-fewer-but-better-spacs-64000801), a managing director at MorganFranklin Consulting LLC, a Vaco company, said,
 
-> One of the biggest advantages of SPACs over traditional IPOs is the availability of target projections and information on valuation that are not common in a traditional IPO prospectus. Changes in securities laws or elimination of safe harbor protections could reduce the benefit of SPACs in the future.
+> "One of the biggest advantages of SPACs over traditional IPOs is the availability of target projections and information on valuation that are not common in a traditional IPO prospectus. Changes in securities laws or elimination of safe harbor protections could reduce the benefit of SPACs in the future."
 
 However, Withers partner M. Ridgway [Barker](https://www.cfodive.com/news/new-spac-scrutiny-CFO-forward-looking-guidance-withers-barker/598728/) and [others](https://www.jdsupra.com/legalnews/five-key-takeaways-from-the-sec-s-3931115/) didn’t see the SEC as prohibiting forward-looking disclosures in SPAC deals. They feel the new guidelines are a signal that the Commission would examine what sponsors and target companies say about their merger, looking for the kinds of statements that are banned in traditional IPOs.
 
