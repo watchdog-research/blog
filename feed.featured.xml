@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 27 Jul 2021 08:43:00 -0400</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 15:06:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>Why Are Companies Using 10-K/As to Disclose Bad News in 2021?</title><author>John Cheffers</author>
+            
+            <category>SPACs</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;SPACs have been utilizing amended annual reports, 10-K/As, to break bad news in 2021.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2021-08-03T15:06:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/why-are-companies-using-10-k-slash-as-to-disclose-bad-news-in-2021/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Sinking%20Ship.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/why-are-companies-using-10-k-slash-as-to-disclose-bad-news-in-2021/</guid>
+        </item>
         
         <item>
             <title>Unsafe to Mislead</title><author>Elise Rose PhD</author>
@@ -55,18 +67,6 @@
 </description>
             <pubDate>2021-06-28T10:00:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/sizzle-and-pipe-dreams-in-spac-land/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Pipes.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/sizzle-and-pipe-dreams-in-spac-land/</guid>
-        </item>
-        
-        <item>
-            <title>Analyzing Securities Class Actions by Size</title><author>John Cheffers</author>
-            
-            <category>Securities Litigation</category>
-            
-
-            <description>&lt;p&gt;&lt;em&gt;Bigger companies may be more likely to be sued than smaller companies, but they are also more resilient.&lt;/em&gt;&lt;/p&gt;
-</description>
-            <pubDate>2021-06-25T06:01:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/analyzing-securities-class-actions-by-size/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Picture2.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/analyzing-securities-class-actions-by-size/</guid>
         </item>
         
 
