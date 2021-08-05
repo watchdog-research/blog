@@ -22,9 +22,9 @@ A SPAC, also known as blank-check company, is a stock created by sponsors that r
 
 **Reserve now, buy later**
 
-A SPAC IPO is usually structured to offer investors a unit of securities consisting of (1) shares of common stock and (2) [warrants](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/what-you). A warrant is a contract that gives the holder the right to purchase in the future a certain number of additional shares of common stock at a certain price**.**
+A SPAC IPO is usually structured to offer investors a unit of securities consisting of (1) shares of common stock and (2) [warrants](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/what-you). A warrant is a contract that gives the holder the right to purchase in the future a certain number of additional shares of common stock at a certain price.
 
-**The **[terms of warrants](https://lawcast.com/2021/06/25/a-resolution-for-spac-warrant-accounting/)** vary greatly across different SPACs. **In general, sponsors receive the more advantageous private placement warrants and outside shareholders receive less-desirable public warrants. A SPAC itself can redeem warrants pursuant to their terms. Warrants are often exercised when the merger target is announced.
+The **[terms of warrants](https://lawcast.com/2021/06/25/a-resolution-for-spac-warrant-accounting/)** vary greatly across different SPACs. In general, sponsors receive the more advantageous private placement warrants and outside shareholders receive less-desirable public warrants. A SPAC itself can redeem warrants pursuant to their terms. Warrants are often exercised when the merger target is announced.
 
 **A liability, not an asset**
 
