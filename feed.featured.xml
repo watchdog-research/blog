@@ -5,9 +5,22 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 03 Aug 2021 15:06:00 -0400</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 12:42:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>Concern is Warranted:
+Warrants as Liabilities vs. Equities</title><author>Elise Rose PhD</author>
+            
+            <category>SPACs</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;The SEC issued accounting guidelines that pumped the breaks on the white-hot SPAC market and caused many SPACs restate their financials.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2021-08-05T12:42:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/concern-is-warranted-warrants-as-liabilities-vs-equities/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Punch%20Pic.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/concern-is-warranted-warrants-as-liabilities-vs-equities/</guid>
+        </item>
         
         <item>
             <title>Why Are Companies Using 10-K/As to Disclose Bad News in 2021?</title><author>John Cheffers</author>
@@ -55,18 +68,6 @@
 </description>
             <pubDate>2021-07-07T15:38:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/matchmaker-matchmaker-sponsor-advantage/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Couple.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/matchmaker-matchmaker-sponsor-advantage/</guid>
-        </item>
-        
-        <item>
-            <title>Sizzle and PIPE Dreams in SPAC-land</title><author>Elise Rose PhD</author>
-            
-            <category>SPACs</category>
-            
-
-            <description>&lt;p&gt;&lt;em&gt;SPACs are allowed to make dazzling projections without supporting data and retail investors may not be aware of some conflicts of interest that influence sponsors’ investment behavior.&lt;/em&gt;&lt;/p&gt;
-</description>
-            <pubDate>2021-06-28T10:00:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/sizzle-and-pipe-dreams-in-spac-land/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Pipes.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/sizzle-and-pipe-dreams-in-spac-land/</guid>
         </item>
         
 
