@@ -39,7 +39,7 @@ Lordstown’s use of a 10-K/A to disclose its going concern and internal control
 
 According to our analysis, this change is due almost entirely to companies that went public via a SPAC.
 
-![Initial Disclosure Table.png](/uploads/Initial%20Disclosure%20Table.png)
+![Initial Disclosures Table final.png](/uploads/Initial%20Disclosures%20Table%20final.png)
 
 **Conclusion**
 
@@ -50,3 +50,5 @@ This is just another example of how SPACs, and the companies that go public via 
 We’ve written previously about how SPACs are in a hurry to make deals and are incentivized to [overpay](https://blog.watchdogresearch.com/posts/money-to-burn/) for acquisitions. That’s bad for investors. The penchant for hiding bad news in a 10-K/A is a sign that many SPACs are not prepared to become a successful public company, and that their sponsors may have pushed them through a SPAC merger because the payout was too good to turn down.
 
 If you are interested in more learning more about our research, contact jcheffers@watchdogresearch.com.
+
+*This article was amended on 8/9/2021 to correct the final table. We made an error that inflated the number of going concern opinions and have revised the numbers accordingly.* 
