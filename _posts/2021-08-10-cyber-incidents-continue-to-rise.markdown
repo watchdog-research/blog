@@ -12,7 +12,7 @@ author: john_cheffers
 image: "/uploads/CyberImage_2-1f3c38.png"
 ---
 
-**Cybersecurity Incident and Litigation Review 2021**
+*Cybersecurity incidents experienced a lull in 2020, but are coming back with a vengeance in 2021.* 
 
 Cybersecurity has gone from a niche concern to a hot topic in the D&O insurance world. A cybersecurity breach can be extremely disruptive to any business, but (adding injury to injury) these breaches can also be the source of damaging class action litigation.
 
