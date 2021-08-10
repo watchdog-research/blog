@@ -16,7 +16,7 @@ image: "/uploads/CyberImage_2-1f3c38.png"
 
 Cybersecurity has gone from a niche concern to a hot topic in the D&O insurance world. A cybersecurity breach can be extremely disruptive to any business, but (adding injury to injury) these breaches can also be the source of damaging class action litigation.
 
-At Watchdog Research we analyze information disclosed by public companies, including information on cybersecurity incidents, Securities Class Action lawsuits, and disclosure controls. 
+At Watchdog Research we analyze information disclosed by public companies, including information on cybersecurity incidents, Securities Class Action lawsuits, and disclosure controls.
 
 The research presented here relates to Nasdaq and NYSE listed public companies and is derived from our report “*Cybersecurity Incidents and Litigation: 2021*,” by Joseph Burke, PhD, Joseph Yarborough, PhD, and John Cheffers and primarily based on data from Audit Analytics.
 
@@ -64,6 +64,6 @@ The chance of being involved in a cybersecurity securities class action lawsuit 
 
 Companies are also apparently increasing their scrutiny of their own systems, as the number of companies that have identified IT issues in their disclosure controls has increased significantly over the last decade.
 
-Thankfully, cybersecurity litigation remains relatively rare, despite the increases in attacks. If company boards wish to mitigate their risk of being victimized twice (by hackers and by lawyers), then they need to learn from their successful peers an make wise and strategic decisions.
+Thankfully, cybersecurity litigation remains relatively rare, despite the increases in attacks. If company boards wish to mitigate their risk of being victimized twice (by hackers and by lawyers), then they need to learn from their successful peers and make wise and strategic decisions.
 
-If you want to learn more about our research or the report this blog is derived from, then please contact [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).  The underlying report is currently available for $499. You can pair this report with a snapshot of the Cybersecurity Incident data ($1500)  for $1749.  
+If you want to learn more about our research or the report this blog is derived from, then please contact [jcheffers@watchdogresearch.com](mailto:jcheffers@watchdogresearch.com).  The underlying report is currently available for $499. You can pair this report with a snapshot of the Cybersecurity Incident data ($1500)  for $1749.
