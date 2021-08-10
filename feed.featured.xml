@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 05 Aug 2021 12:42:00 -0400</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 09:17:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>Cyber Incidents Continue to Rise</title><author>John Cheffers</author>
+            
+            <category>Cybersecurity</category>
+            
+
+            <description>&lt;p&gt;&lt;strong&gt;Cybersecurity Incident and Litigation Review 2021&lt;/strong&gt;&lt;/p&gt;
+</description>
+            <pubDate>2021-08-10T09:17:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/cyber-incidents-continue-to-rise/</link><enclosure url="https://blog.watchdogresearch.com/uploads/CyberImage_2-1f3c38.png" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/cyber-incidents-continue-to-rise/</guid>
+        </item>
         
         <item>
             <title>Concern is Warranted:
@@ -56,18 +68,6 @@ Warrants as Liabilities vs. Equities</title><author>Elise Rose PhD</author>
 </description>
             <pubDate>2021-07-14T09:27:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/slouching-in-spac-land-poor-returns/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Burning%20Money.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/slouching-in-spac-land-poor-returns/</guid>
-        </item>
-        
-        <item>
-            <title>Matchmaker, Matchmaker--Sponsor Advantage</title><author>Elise Rose PhD</author>
-            
-            <category>SPACs</category>
-            
-
-            <description>&lt;p&gt;&lt;em&gt;The structure of SPACs leads to an inherent advantage for sponsors.&lt;/em&gt;&lt;/p&gt;
-</description>
-            <pubDate>2021-07-07T15:38:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/matchmaker-matchmaker-sponsor-advantage/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Couple.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/matchmaker-matchmaker-sponsor-advantage/</guid>
         </item>
         
 

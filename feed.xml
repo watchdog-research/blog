@@ -1,4 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://blog.watchdogresearch.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.watchdogresearch.com/" rel="alternate" type="text/html" /><updated>2021-08-09T12:42:59-04:00</updated><id>https://blog.watchdogresearch.com/feed.xml</id><title type="html">Watchdog Transparency Blog</title><subtitle>Watchdog Transparency is a publication based on reports created by Watchdog Research, Inc.</subtitle><entry><title type="html">Concern is Warranted: Warrants as Liabilities vs. Equities</title><link href="https://blog.watchdogresearch.com/posts/concern-is-warranted-warrants-as-liabilities-vs-equities/" rel="alternate" type="text/html" title="Concern is Warranted: Warrants as Liabilities vs. Equities" /><published>2021-08-05T12:42:00-04:00</published><updated>2021-08-05T12:42:00-04:00</updated><id>https://blog.watchdogresearch.com/posts/concern-is-warranted-warrants-as-liabilities-vs-equities</id><content type="html" xml:base="https://blog.watchdogresearch.com/posts/concern-is-warranted-warrants-as-liabilities-vs-equities/">&lt;p&gt;&lt;em&gt;The SEC issued accounting guidelines that pumped the breaks on the white-hot SPAC market and caused many SPACs restate their financials.&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://blog.watchdogresearch.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.watchdogresearch.com/" rel="alternate" type="text/html" /><updated>2021-08-10T09:33:36-04:00</updated><id>https://blog.watchdogresearch.com/feed.xml</id><title type="html">Watchdog Transparency Blog</title><subtitle>Watchdog Transparency is a publication based on reports created by Watchdog Research, Inc.</subtitle><entry><title type="html">Cyber Incidents Continue to Rise</title><link href="https://blog.watchdogresearch.com/posts/cyber-incidents-continue-to-rise/" rel="alternate" type="text/html" title="Cyber Incidents Continue to Rise" /><published>2021-08-10T09:17:00-04:00</published><updated>2021-08-10T09:17:00-04:00</updated><id>https://blog.watchdogresearch.com/posts/cyber-incidents-continue-to-rise</id><content type="html" xml:base="https://blog.watchdogresearch.com/posts/cyber-incidents-continue-to-rise/">&lt;p&gt;&lt;strong&gt;Cybersecurity Incident and Litigation Review 2021&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Cybersecurity has gone from a niche concern to a hot topic in the D&amp;amp;O insurance world. A cybersecurity breach can be extremely disruptive to any business, but (adding injury to injury) these breaches can also be the source of damaging class action litigation.&lt;/p&gt;
+
+&lt;p&gt;At Watchdog Research we analyze information disclosed by public companies, including information on cybersecurity incidents, Securities Class Action lawsuits, and disclosure controls.&lt;/p&gt;
+
+&lt;p&gt;The research presented here relates to Nasdaq and NYSE listed public companies and is derived from our report “&lt;em&gt;Cybersecurity Incidents and Litigation: 2021&lt;/em&gt;,” by Joseph Burke, PhD, Joseph Yarborough, PhD, and John Cheffers and primarily based on data from Audit Analytics.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Overview&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We began by looking at incidents that occurred at companies listed on the NYSE and Nasdaq over the past ten years, and the growth rate of cybersecurity incidents is alarming:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/CyberImage_1.png&quot; alt=&quot;CyberImage_1.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Despite concerns that cybersecurity incidents would increase during the pandemic as businesses moved more of their operations online, total reported cybersecurity incidents fell during 2020. However, through July 2021, there have already been 106 reported cybersecurity incidents, putting 2021 on pace for a record breaking year.&lt;/p&gt;
+
+&lt;p&gt;If you segregate the companies by size, you can see that risk is most concentrated for large companies. Large companies, those with a market capitalization of $10 billion or more, are the population most at risk for a cyberattack.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/CyberImage_2.png&quot; alt=&quot;CyberImage_2.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another interesting development this year is that Ransomware attacks and Unauthorized Access attacks have become much more common in the last few years.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/CyberImage_3.png&quot; alt=&quot;CyberImage_3.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Cybersecurity Securities Class Actions&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A cyberbreach at a company creates all sorts of problems, including litigation. Even though the number of cyber security incidents have increased dramatically, the number of cyber-related lawsuits has not followed suit. As we can see here, the probability that a public company is named as a defendant in a cybersecurity related suit has remained very low.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/CyberImage_4.png&quot; alt=&quot;CyberImage_4.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our review of these cases indicates that it is often difficult for the plaintiffs in these cases to allege specific damages based on a mere breach of information.&lt;/p&gt;
+
+&lt;p&gt;Additionally, the fact that a company suffered a cybersecurity breach, even a serious one, will not necessarily prove that the company failed to take reasonable cybersecurity measures (see the dismissal of the suit against &lt;a href=&quot;https://www.dandodiary.com/2021/06/articles/securities-litigation/marriott-data-breach-related-securities-and-derivative-suits-both-dismissed/&quot;&gt;Marriott&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Disclosure Controls Concerning IT Issues&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Under Section 302 of the Sarbanes Oxley Act of 2002 (SOX), public companies must assess and report on their disclosure controls on their quarterly and annual reports. As part of their SOX 302 assessments, companies have increasingly included discussions of information technology (IT) and cybersecurity issues.&lt;/p&gt;
+
+&lt;h2&gt;&lt;img src=&quot;/uploads/CyberImage_5.png&quot; alt=&quot;CyberImage_5.png&quot; /&gt;&lt;/h2&gt;
+
+&lt;p&gt;According to Audit Analytics, which gathers and categorizes this information, an IT issue is defined as:&lt;/p&gt;
+
+&lt;p&gt;[D]eficient program controls, software programs/implementation, segregation of duties associated with personnel having access to computer accounting or financial reporting records and related problems with oversight/access to electronic data/programs&lt;/p&gt;
+
+&lt;p&gt;A disclosure control relating to IT can also be an early warning signal for cybersecurity issues. For example, PayPal has only issued one disclosure control in the last five years, and it was on October 24, 2017 and related to IT issues. On December, 1st, 2017, PayPal &lt;a href=&quot;https://www.foxbusiness.com/markets/paypal-says-personal-data-may-be-compromised-for-1-6-million-tio-users&quot;&gt;revealed&lt;/a&gt; that it had suffered a major cybersecurity breach related to their acquisition of TIO. This led to a securities class action suit that was eventually dismissed.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Conclusion&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The chance of being involved in a cybersecurity securities class action lawsuit is still relatively low, but it is increasing rapidly. Additionally, the risk profile is far higher for large companies, which are more likely to be a victim of a cybersecurity incident.&lt;/p&gt;
+
+&lt;p&gt;Companies are also apparently increasing their scrutiny of their own systems, as the number of companies that have identified IT issues in their disclosure controls has increased significantly over the last decade.&lt;/p&gt;
+
+&lt;p&gt;Thankfully, cybersecurity litigation remains relatively rare, despite the increases in attacks. If company boards wish to mitigate their risk of being victimized twice (by hackers and by lawyers), then they need to learn from their successful peers and make wise and strategic decisions.&lt;/p&gt;
+
+&lt;p&gt;If you want to learn more about our research or the report this blog is derived from, then please contact &lt;a href=&quot;mailto:jcheffers@watchdogresearch.com&quot;&gt;jcheffers@watchdogresearch.com&lt;/a&gt;.  The underlying report is currently available for $499. You can pair this report with a snapshot of the Cybersecurity Incident data ($1500)  for $1749.&lt;/p&gt;</content><author><name>john_cheffers</name></author><category term="Cybersecurity" /><category term="featured" /><category term="Cybersecurity" /><category term="Securites Litigation" /><category term="Disclosure Controls" /><summary type="html">Cybersecurity Incident and Litigation Review 2021</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.watchdogresearch.com/uploads/CyberImage_2-1f3c38.png" /><media:content medium="image" url="https://blog.watchdogresearch.com/uploads/CyberImage_2-1f3c38.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Concern is Warranted: Warrants as Liabilities vs. Equities</title><link href="https://blog.watchdogresearch.com/posts/concern-is-warranted-warrants-as-liabilities-vs-equities/" rel="alternate" type="text/html" title="Concern is Warranted: Warrants as Liabilities vs. Equities" /><published>2021-08-05T12:42:00-04:00</published><updated>2021-08-05T12:42:00-04:00</updated><id>https://blog.watchdogresearch.com/posts/concern-is-warranted-warrants-as-liabilities-vs-equities</id><content type="html" xml:base="https://blog.watchdogresearch.com/posts/concern-is-warranted-warrants-as-liabilities-vs-equities/">&lt;p&gt;&lt;em&gt;The SEC issued accounting guidelines that pumped the breaks on the white-hot SPAC market and caused many SPACs restate their financials.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;A SPAC, also known as blank-check company, is a stock created by sponsors that raises money in an initial public offering with no underlying business. Investors entrust their money to one of these sponsors, instead of to an operating company.&lt;/p&gt;
 
@@ -342,42 +396,4 @@
 
 &lt;p&gt;Every Watchdog Report provides a year-to-year and peer-to-peer comparison for audit fees, non audit fees, and many other potential risk factors. These reports are available for over 4,500 publicly traded companies. If you want one of our team members to give you a tour, email &lt;a href=&quot;mailto:jcheffers@watchdogresearch.com&quot;&gt;jcheffers@watchdogresearch.com&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;A company spokesperson for TCF Financial said that they would get back to us concerning further comments regarding an earlier version of this piece. We will append any comments they make to this article.&lt;/em&gt;&lt;/p&gt;</content><author><name>john_cheffers</name></author><category term="Red Flags" /><category term="featured" /><category term="Audit Fees" /><summary type="html">Audit fees are usually “sticky,” so you should notice when they jump.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.watchdogresearch.com/uploads/goo.jpg" /><media:content medium="image" url="https://blog.watchdogresearch.com/uploads/goo.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Do Not Ignore Spikes in Non-Audit Fees</title><link href="https://blog.watchdogresearch.com/posts/do-not-ignore-spikes-in-non-audit-fees/" rel="alternate" type="text/html" title="Do Not Ignore Spikes in Non-Audit Fees" /><published>2021-05-12T14:41:00-04:00</published><updated>2021-05-12T14:41:00-04:00</updated><id>https://blog.watchdogresearch.com/posts/do-not-ignore-spikes-in-non-audit-fees</id><content type="html" xml:base="https://blog.watchdogresearch.com/posts/do-not-ignore-spikes-in-non-audit-fees/">&lt;p&gt;&lt;em&gt;A dramatic increase in non-audit fees means something is happening, and you should know what it is.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Every publicly traded company must disclose how much money they pay their independent auditor, and thanks to Sarbanes Oxley, they must disclose how much money was for audit services (audit fees) and how much was for services unrelated to the audit (non-audit fees).&lt;/p&gt;
-
-&lt;p&gt;Independent audit firms have expertise in a wide range of services, so it is not unusual for a company to hire their auditor for services unrelated to their audit. In fact, despite the independence concern it can create, our research shows that companies with higher non-audit fees are &lt;a href=&quot;https://blog.watchdogresearch.com/posts/auditors-can-help-prevent-costly-litigation/&quot;&gt;less likely&lt;/a&gt; to be subject to securities class action litigation.&lt;/p&gt;
-
-&lt;p&gt;However, a spike in non-audit fees can be a cause for concern. A dramatic increase in non-audit fees does not necessarily indicate a negative event, but it does indicate that something &lt;em&gt;new&lt;/em&gt; is occurring and that it requires the expertise of an accounting firm.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Spikes in Non-Audit Fees Can Foreshadow Negative Events&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In 2019 Under Armour reported a dramatic spike in non-audit fees. In November 2019, the Wall Street Journal broke a story that Under Armour was subject to an SEC investigation concerning their accounting practices.&lt;/p&gt;
-
-&lt;p&gt;It is likely that Under Armour’s increase in non-audit fees were related to navigating the investigation and remediating the problems that led to the SEC investigation. The SEC &lt;a href=&quot;https://www.sec.gov/news/press-release/2021-78&quot;&gt;settled&lt;/a&gt; the case for $9 million less than two weeks ago.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Spikes in Non-Audit Fees Can Merely Accompany Complicated Financial Transactions&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;A spike in non-audit fees signals a new event, but not necessarily one that is negative. For example, in 2016 Hilton Hotels paid non-audit fees of over $13 million, a &lt;strong&gt;181%&lt;/strong&gt; increase over the prior year. This increase was primarily due the complicated tax implications for Hilton’s &lt;a href=&quot;https://www.washingtonpost.com/business/hilton-completes-split-into-three-independent-companies/2017/01/06/04414772-d287-11e6-a783-cd3fa950f2fd_story.html&quot;&gt;spinoff&lt;/a&gt; into three distinct entities.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The Example of Motorola&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Motorola is a casualty of the iPhone. From dominance to relative obscurity, the company has all but faded from memory (although it remains a relatively large company with $33 billion in market capitalization).&lt;/p&gt;
-
-&lt;p&gt;In 2020 Motorola had the largest percentage increase in non-audit fees of any company over the last five years, rising &lt;strong&gt;2,200%&lt;/strong&gt; from $100,000 to $2.3 million.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/Motorola%20non-audit%20fees.png&quot; alt=&quot;Motorola non-audit fees.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This increase was probably due in part to Motorola’s auditor change, from KPMG (which had served as their auditor for over 50 years) to PricewaterhouseCoopers. It is also interesting that Motorola’s CFO departed in June, 2020, for &lt;a href=&quot;https://www.sec.gov/ix?doc=/Archives/edgar/data/68505/000119312520184064/d939178d8k.htm&quot;&gt;personal reasons&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We are &lt;em&gt;not claiming&lt;/em&gt; that Motorola has done something wrong. But unexplained change carries risk, and our job at Watchdog is to help investment and insurance professionals spot risks.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;We contacted Motorola for comment and they simply replied that non-audit fees for 2021 were disclosed on page 76 of their &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/68505/000119312521103275/d25774ddef14a.htm&quot;&gt;annual report&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The disclosure of audit and non-audit fees gives some limited insight into a company. If the fees are changing, it must be because something at the company is changing. Although oftentimes the explanation is readily available to investors, sometimes it isn’t.&lt;/p&gt;
-
-&lt;p&gt;Here it is important to know what you do not know. For D&amp;amp;O insurance professionals, it is important to spot these potential risks and get explanations from the company when underwriting a policy or renewing a contract.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Our Watchdog Reports help insurance and investment professionals spot risk, and they are available for over 4,500 public companies. Email jcheffers@watchdogresearch.com to find out if our reports can help you.&lt;/em&gt;&lt;/p&gt;</content><author><name>john_cheffers</name></author><category term="Non-Audit Fees" /><category term="featured" /><category term="Non-Audit Fees" /><category term="Red Flags" /><summary type="html">A dramatic increase in non-audit fees means something is happening, and you should know what it is.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.watchdogresearch.com/uploads/Motorola%20non-audit%20fees.png" /><media:content medium="image" url="https://blog.watchdogresearch.com/uploads/Motorola%20non-audit%20fees.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;&lt;em&gt;A company spokesperson for TCF Financial said that they would get back to us concerning further comments regarding an earlier version of this piece. We will append any comments they make to this article.&lt;/em&gt;&lt;/p&gt;</content><author><name>john_cheffers</name></author><category term="Red Flags" /><category term="featured" /><category term="Audit Fees" /><summary type="html">Audit fees are usually “sticky,” so you should notice when they jump.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.watchdogresearch.com/uploads/goo.jpg" /><media:content medium="image" url="https://blog.watchdogresearch.com/uploads/goo.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
