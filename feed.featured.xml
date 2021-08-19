@@ -5,9 +5,21 @@
         <description>Most recent 5 articles categorized as 'Featured'</description>
         <link>https://blog.watchdogresearch.com</link>
         <atom:link href="https://blog.watchdogresearch.com/feed.featured.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 10 Aug 2021 09:17:00 -0400</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 14:38:00 -0400</lastBuildDate>
 
 
+        
+        <item>
+            <title>Restating the (Financial) Facts: A Review of the Academic Literature on Restatements</title><author>Elise Rose PhD</author>
+            
+            <category>Restatements</category>
+            
+
+            <description>&lt;p&gt;&lt;em&gt;Restatements have become less common, but other methods of correcting prior periods have increased.&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>2021-08-19T14:38:00-04:00</pubDate>
+            <link>https://blog.watchdogresearch.com/posts/restating-the-financial-facts-a-review-of-the-academic-literature-on-restatements/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Error-8586d1.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/restating-the-financial-facts-a-review-of-the-academic-literature-on-restatements/</guid>
+        </item>
         
         <item>
             <title>Cyber Incidents Continue to Rise</title><author>John Cheffers</author>
@@ -56,18 +68,6 @@ Warrants as Liabilities vs. Equities</title><author>Elise Rose PhD</author>
 </description>
             <pubDate>2021-07-27T08:43:00-04:00</pubDate>
             <link>https://blog.watchdogresearch.com/posts/unsafe-to-mislead/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Courtroom.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/unsafe-to-mislead/</guid>
-        </item>
-        
-        <item>
-            <title>Slouching in SPAC-land: Poor Returns</title><author>Elise Rose PhD</author>
-            
-            <category>SPACs</category>
-            
-
-            <description>&lt;p&gt;The investment returns for most SPACs are not as good as those for traditional IPOs.&lt;/p&gt;
-</description>
-            <pubDate>2021-07-14T09:27:00-04:00</pubDate>
-            <link>https://blog.watchdogresearch.com/posts/slouching-in-spac-land-poor-returns/</link><enclosure url="https://blog.watchdogresearch.com/uploads/Burning%20Money.jpg" length="100000" type="image/jpeg"/><guid isPermaLink="true">https://blog.watchdogresearch.com/posts/slouching-in-spac-land-poor-returns/</guid>
         </item>
         
 
