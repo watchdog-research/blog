@@ -1,6 +1,7 @@
 ---
 title: September Gray Swan Portfolio
 date: 2021-09-07 09:36:00 -04:00
+published: false
 categories:
 - Gray Swan Portfolio
 - featured
