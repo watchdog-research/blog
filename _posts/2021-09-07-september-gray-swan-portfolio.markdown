@@ -1,6 +1,14 @@
 ---
 title: September Gray Swan Portfolio
 date: 2021-09-07 09:36:00 -04:00
+categories:
+- Gray Swan Portfolio
+- featured
+tags:
+- Gray Swan Event Factor
+- Gray Swan Portfolio
+author: john_cheffers
+image: "/uploads/Gray%20Swan-99a816.jpg"
 ---
 
 At Watchdog Research we evaluate a company’s past to get an idea of its future. As part of our research, we assign every company a Gray Swan Event Factor. We have developed a statistical model that looks at the size, industry, and historical flags for each company to evaluate the probability that a company will suffer a Gray Swan Event, and the likely impact of such an event on its stock price. These calculations are rolled into our Gray Swan Event Factor.
