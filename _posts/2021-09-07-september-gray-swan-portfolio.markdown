@@ -72,3 +72,7 @@ We are highlighting BNTX this month to make a few points about our statistical r
 Additionally, our statistical analysis looks at the past performance of similar companies to estimate what will happen to a particular company in the future. However, past performance is not necessarily indicative of future performance, especially in individual cases.
 
 Finally, despite enormous gains from BNTX and the relative success of firms in the pharmaceutical industry, the Gray Swan Portfolio has underperformed the S&P 500 up to this point. This indicates that accounting, legal, and governance issues captured by our Gray Swan Event Factor are not properly accounted for by the market.
+
+**Contact Us**
+
+If you would like to learn more about our research, you can start a conversation by reaching out to us at jcheffers@watchdogresearch.com.
